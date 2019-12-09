@@ -15,7 +15,11 @@ The README.md files can have simple breakdowns of modified DCs for various tasks
 ## How does this even work?
 
 [What is Github?](https://youtu.be/U1C0F-Au9h4)
-On GitHub, you can share text files (usually code) and collaborate with others. The nice thing is that README.md files display as you're browsing the folders of a GitHub Project using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).<br> 
+On GitHub, you can share text files (usually code) and collaborate with others. The nice thing is that README.md files display as you're browsing the folders of a GitHub Project using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
+<br/>
+### Making Changes
+
+This tutorial should be applicable to any of the AP repositories out there.<br/>
 There's an in browser editor that makes it easy to change the files you see and submit a request to chave them permanently changed.
 Just click into the file you want to change and select the edit button in the top right.
 ![editor icon on GitHub](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/ClickEditOnReadmePage.png)
