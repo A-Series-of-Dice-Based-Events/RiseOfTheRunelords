@@ -2,14 +2,25 @@
 
 **THIS WAS CREATED FOR THE PLAYTEST VERSION OF SECOND EDITION AND MIGHT NOT BE EXACT. NOTABLY THE XP BONUSES ARE OFF.**
 
-Festival Games: 30xp for a failure, 60xp for success, 100xp for Critical success.
+## Festival Games: 
 
-Initial Assault: 3 x Goblin Warrior {pg.74), 90xp
-Goblin Pyros: 2 x Goblin Warrior, 1 x Goblin Pyro,	1 x Goblin Warchanter, 120xp, 3x Minor Elixir of Life.
+30xp for a failure, 60xp for success, 100xp for Critical success.
 
-Die Dog Die: 1x Goblin Commando, 1x Goblin Dog,  2x Goblin Warrior, 120xp, Horsechopper, 2x Minor Elixir of Life.
+## Initial Assault: 
 
-The Desecrated Vault: 2x Skeletal Guard {pg. 106), 60xp, Dull Grey ioun Stone, Potency Crystal
+3 x [Goblin Warrior](http://2e.aonprd.com/Monsters.aspx?ID=232)
+
+## Goblin Pyros: 
+
+2 x [Goblin Warrior](http://2e.aonprd.com/Monsters.aspx?ID=232), 1 x [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234),	1 x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235), 120xp, 3x [Minor Elixir of Life](http://2e.aonprd.com/Equipment.aspx?ID=91)
+
+## Die Dog Die: 
+
+1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233), 1x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236),  2x [Goblin Warrior](http://2e.aonprd.com/Monsters.aspx?ID=232), 120xp, [Horsechopper](http://2e.aonprd.com/Weapons.aspx?ID=53), [Minor Elixir of Life](http://2e.aonprd.com/Equipment.aspx?ID=91)
+
+## The Desecrated Vault: 
+
+2x [Skeletal Guard](http://2e.aonprd.com/Monsters.aspx?ID=372), [Dull Grey ioun Stone](http://2e.aonprd.com/Equipment.aspx?ID=407), [Potency Crystal](http://2e.aonprd.com/Equipment.aspx?ID=231)
 
 The Shopkeepers Daughter: Vin Vinder {orc brute stats, pg. 93 playtestiary) unarmed +5, dmg 1d4+2, Conditional XP: 30xp for beating him, 60xp for intimidate or deception, 90xp for Diplomacy without hurting his daughters feelings.
 
