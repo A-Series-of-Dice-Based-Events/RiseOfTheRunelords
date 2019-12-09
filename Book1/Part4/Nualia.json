@@ -1,0 +1,280 @@
+{
+  "id": "_6lopurnn4rc",
+  "name": "Nualia",
+  "traits": "",
+  "level": 5,
+  "specials": [
+    {
+      "id": "_1qp87kzcjxf",
+      "name": "Channel Smite",
+      "traits": "Negative",
+      "range": "",
+      "actions": "two",
+      "type": "offense",
+      "description": "Expend a harm spell. You siphon the destructive energies of negative energy through a melee attack and into your foe. Make a melee Strike and add the spell’s damage to the Strike’s damage. This is negative damage. The spell is expended with no effect if your Strike fails or hits a creature that isn’t damaged by that energy type (such as if you hit a non-undead creature with a heal spell)."
+    },
+    {
+      "id": "_1fr7rya4kqh",
+      "name": "Harming Hands",
+      "traits": "",
+      "range": "",
+      "actions": "none",
+      "type": "offense",
+      "description": "When casting <i>harm</i>, roll d10's instead of d8's."
+    },
+    {
+      "id": "_1q3e8mrf0f1",
+      "name": "Assurance: Intimidation",
+      "traits": "",
+      "range": "",
+      "actions": "none",
+      "type": "general",
+      "description": ""
+    }
+  ],
+  "alignment": "ce",
+  "size": "medium",
+  "type": "humanoid",
+  "adjust": 0,
+  "description": "<b>Tactics:</b> Nualia expends her <i>Harm</i> spells in descending order to <b>Channel Smite</b> with a Two Handed attack on anyone showing religious preference other than Lamashtu or the strongest looking character. She attacks with sword (one handed) and claw if  all of her <i>Harm</i> spells are gone. \n\n<b>Morale:</b> If her health drops below 40, she uses <i>Vampiric Touch</i> and then <i>Heal</i> on herself. I reduced to 20 hp or lower, she cast <i>Sanctuary</i>, <i>Darkness</i>, and <i>Fear</i> in an attempt to escape.\n\n<b>Description: </b>With the exception of her demonic hand and her scarred belly, the rest of her body is incongruously beautiful. Yet in her madness, Nualia has come to view her silver hair, violet eyes, and shapely figure as a curse, a scar visited upon her by her angelic heritage. She wear the mark of her devotion to Lamashtu proudly, keeping her midriff bare to expose the ugly scars and wounds across her belly.",
+  "items": "+1 Breastplate, +1 Bastard sword, Longbow, Sihedron medallion, gold holy symbol (100sp), 1pp, 20gp",
+  "spellattack": {
+    "value": "11",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "21",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "AAsimar Cleric of lamashtu",
+  "speed": "30",
+  "imgurl": "",
+  "spelltype": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Vampiric Touch, Harm (Heightened 3rd)",
+    " Heal (Heightened 2nd), Darkness, Harm (Heightened 2nd)",
+    "Sanctuary, Harm, Fear",
+    "Chill Touch, Stabilize, Guidance, Know Direction, Shield"
+  ],
+  "constant": "",
+  "strength": {
+    "value": "3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "dexterity": {
+    "value": "2",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": "3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intelligence": {
+    "value": "0",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "wisdom": {
+    "value": "4",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": "1",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "perception": {
+    "value": " 13",
+    "benchmark": "moderate",
+    "note": "+2 Initiative; darkvision"
+  },
+  "acrobatics": {
+    "value": "2",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "athletics": {
+    "value": "10",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "crafting": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "deception": {
+    "value": "8",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "8",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": "12",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "11",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "survival": {
+    "value": "11",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": "23",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "hp": {
+    "value": "75",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "fortitude": {
+    "value": "12",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "reflex": {
+    "value": "9",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "will": {
+    "value": "13",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "resistance": {
+    "value": "5 cold, 5 acid, 5 electricity",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "5 good",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": " ",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "strikes": [
+    {
+      "id": "_35h5ivyix38",
+      "name": "Sword",
+      "traits": "two hands d12",
+      "attack": "+11",
+      "damage": "1d8+3(S)",
+      "type": "Melee"
+    },
+    {
+      "id": "_1yizlfage1a",
+      "name": "demonic Claw",
+      "traits": "agile, finesse",
+      "attack": "+11",
+      "damage": "1d8+3+1d6 evil",
+      "type": "Melee"
+    },
+    {
+      "id": "_285hta9saod",
+      "name": "Bow",
+      "traits": "deadly d10, volley 30",
+      "attack": "+9",
+      "damage": "1d8",
+      "type": "Ranged"
+    }
+  ],
+  "hints": [
+    "perception",
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma",
+    "ac",
+    "fortitude",
+    "reflex",
+    "will",
+    "hp"
+  ]
+}
