@@ -11,6 +11,7 @@ Lv1	  | 175gp    | **2nd:** 2 **1st:** 2 | **2nd:** 2 **1st:** 3            | 40
 Lv2   | 300gp    | **3rd:** 2 **2nd:** 2 | **3rd:** 2 **2nd:** 2 **1st:** 2	| 70gp  | End of 3
 Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2	| 120gp | 4
 Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4
+
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
 ## Part 1:
