@@ -1,0 +1,9 @@
+{
+    "id": "1cygeuu4530",
+    "name": "Stalker's mask",
+    "type": "item",
+    "level": "6+",
+    "traits": "uncommon, illusion, Invested, Magical, evil",
+    "actions": "",
+    "body": "Usage warn mask; Bulk L\n-\nThis mask is crafted from preserved sections harvested from several different human faces, draped one over another almost like scales and leaving the eyes and mouth exposed, the overall effect is similar to that of a scaled skull. When worn, the mask desaturates the wearer’s color, making him appear insubstantial and shadowy and granting a +1 item bonus on Stealth checks. \n-\nCovet Form (AA) (Envision); Frequency once per day; Effect you can use the mask to cast a 3rd level illusory disguise to take the form of a creature within 60 feet of you of the same basic size and shape. For the duration of the spell, you gain a +1 status bonus on attack rolls against the creature whose form you covet and may make a demoralize check against the creature once as a free action. This demoralize check has the (visual) trait and doesn't require a shared language."
+}
