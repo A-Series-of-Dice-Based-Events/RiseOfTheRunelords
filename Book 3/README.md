@@ -1,6 +1,7 @@
 # Hook Mountain Massacre level 7-10
 
-- Lvl 7: should be close to 8th level at start of the book 
+### Level guide:
+- Lvl 7: Party should be close to 8th level at start of the book 
 - Lvl 8: After first encounter with the Grauls
 - Lvl 9: Midway through Fort Rannick
 - Lvl 10: Near end of Skull's Crossing
@@ -13,9 +14,28 @@ Lv9   | 5,700gp  | **10th:** 2 **9th:** 2  | **10th:** 2 **9th:** 2 **8th:** 2	|
 Lv10  | 8,000gp  | **11th:** 2 **10th:** 2 | **11th:** 2 **10th:** 2 **9th:** 2 | 2,000gp | 3
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
+### Index and status
+  - Part 1: In The Hook's Shadow - draft
+  - Part 2: Retaking Rannick - draft
+  - Part 3: Down Comes the Rain - TODO
+  - Part 4: The Haunted Heart - TODO
+  - Part 5: Harrowing the Hook - TODO
+
+### General TO DO
+  - Complete Hazards - e.g. DC of sickening smell
+  - Complete treasure allocation
+
+### General Notes and Advice
+
+Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate to suit the capabilities of your party. If they are finding it hard going then liberally apply weak templates. If they are breezing through then liberally apply elite templates. 
+
+Where creatures dont exist in the bestiary then close fit adaptations have been used. Traps have been similarly replaced with near fit Hazards.
+
 ## Part 1: In The Hook's Shadow
 
-Placeholder for general notes
+-For ogrekin, custom creatures have been created, based on ogre templates.
+
+-For Traps near fit Hazards have been used.
 
 ### The Strange Firepelt
  - **Creatures:** 
@@ -44,7 +64,7 @@ Placeholder for general notes
   
 ### A4. Kitchen
   - **Hazards:**
-    - [Sickening Smell]
+    - [Sickening Smell] 
     
 ### A5. Playpen
   - **Creatures:** 
