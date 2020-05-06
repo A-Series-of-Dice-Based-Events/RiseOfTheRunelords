@@ -31,26 +31,16 @@ Placeholder for general notes
   
 ### A1. Farmhouse Porch
   - **Hazards:**
-    - [Door Spike] as per Floor Saw but only affects one creature
-    - 2x[Floor Saw]
-Hazard 7, Mechanical Trap, Complexity Simple, Stealth DC 27 (trained)
-
-Description Two saw blades, each hidden in a 15-foot-long floor groove, are both connected to a trip wire.
-Disable Thievery DC 27 (trained) to disable each blade
-AC 25, Fort +16, Ref +12
-Hardness 14, HP 56 (BT 28); Immunities critical hits, object immunities, precision damage
-
-Floor saw (attack); Trigger The trip wire is pulled or severed. Effect Both blades swing up, each one attacking all creatures above the floor grooves.
-Melee saw blade +22 (deadly 2d8), Damage 4d8+6 slashing; no multiple attack penalty
-Reset The trap resets after 10 minutes.
+    - [Door Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
+    - 2x[Floor Saw/Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
 
 ### A2. Family Room
   - **Hazards:**
-    - [Pit Trap]
+    - [Pit Trap](https://2e.aonprd.com/Hazards.aspx?ID=1). Anyone falling in sets off the inbuilt [Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
 
 ### A3. Dining Room
   - **Hazards:**
-    - 3x[Scythe Trap]
+    - 3x[Coiled rope Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
   
 ### A4. Kitchen
   - **Hazards:**
@@ -67,12 +57,12 @@ Reset The trap resets after 10 minutes.
 ### A8. Mammy's Room
   - **Creatures:** 
     - [Mammy Graul](https://monster.pf2.tools/v/t18cq9jp)
-    - [Benk, Hadge, and Kunkel / Ogrekin Zombies] (https://2e.aonprd.com/Monsters.aspx?ID=423)
+    - [Benk, Hadge, and Kunkel / Ogrekin Zombies](https://2e.aonprd.com/Monsters.aspx?ID=423)
   - **Loot:** See Mammy Graul
 
 ### A9. Bedroom
   - **Hazards:**
-    - [Hand Chopper]
+    - [Hand Chopper / Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone hit by the blade also has to save vs [Spider Venom](https://2e.aonprd.com/Equipment.aspx?ID=118)
 
 ### A10. Attic
   - **Loot:** TBD
@@ -99,9 +89,9 @@ Reset The trap resets after 10 minutes.
 ### A17. Biggin
   - **Creatures:** 
     - [Ogre Spider / Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
-    - [Jakardros Savark] see separate PDF for details of this Black Arrows NPC
-    - [Vale Temross] see separate PDF for details of this Black Arrows NPC
-    - [Kaven Windstrike] see separate PDF for details of this Black Arrows NPC
+    - [Jakardros Savark] see separate PDF for details of this Black Arrow NPC
+    - [Vale Temross] see separate PDF for details of this Black Arrow NPC
+    - [Kaven Windstrike] see separate PDF for details of this Black Arrow NPC
 
 ## Part 2: Retaking Rannick
 
