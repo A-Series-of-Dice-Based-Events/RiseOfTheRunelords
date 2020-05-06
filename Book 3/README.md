@@ -32,7 +32,7 @@ Placeholder for general notes
 ### A1. Farmhouse Porch
   - **Hazards:**
     - [Door Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
-    - 2x[Floor Saw/Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
+    - 2x [Floor Saw/Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
 
 ### A2. Family Room
   - **Hazards:**
@@ -40,7 +40,7 @@ Placeholder for general notes
 
 ### A3. Dining Room
   - **Hazards:**
-    - 3x[Coiled rope Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
+    - 3x [Coiled rope Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
   
 ### A4. Kitchen
   - **Hazards:**
@@ -62,7 +62,7 @@ Placeholder for general notes
 
 ### A9. Bedroom
   - **Hazards:**
-    - [Hand Chopper / Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone hit by the blade also has to save vs [Spider Venom](https://2e.aonprd.com/Equipment.aspx?ID=118)
+    - [Hand Chopper / Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Spider Venom](https://2e.aonprd.com/Equipment.aspx?ID=118)
 
 ### A10. Attic
   - **Loot:** TBD
