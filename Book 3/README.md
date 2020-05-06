@@ -195,17 +195,21 @@ Note these are mostly trivial and low threat individual encounters, but there is
   - **Creatures:**
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
-### B29. Chapel (low threat)
+### B29. Chapel (low to Severe combined threat)
   - **Creatures:**
     - Jaagrath Kreeg [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-
-### B30. Commanders Quarters (moderate threat)
+  - **Encounter Notes:**
+    - B29 and B30 are highly likely to run together and become a severe threat.
+    
+### B30. Commanders Quarters (moderate to Severe combined threat)
   - **Creatures:**
     - Harlock "Hookwaw" Kreeg [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     - Dorella Kreeg - Ogre Sorceress
 For physical and combat stats use an [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
 For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.aspx?ID=306)
-
+  - **Encounter Notes:**
+    - B29 and B30 are highly likely to run together and become a severe threat.
+    
 ### B31. Tribunal (trivial threat)
   - **Creatures:**
     - 2x [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
