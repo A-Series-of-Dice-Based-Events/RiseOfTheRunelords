@@ -33,14 +33,14 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 
 ## Part 1: In The Hook's Shadow
 
--For ogrekin, custom creatures have been created, based on ogre templates.
+For ogrekin, custom creatures have been created, based on ogre templates.
 
--For Traps near fit Hazards have been used.
+For Traps near fit Hazards have been used.
 
 ### The Strange Firepelt
  - **Creatures:** 
-    - [Kibb / Cat Animal Companion]
-    - 5x [Graul Hounds / Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
+    - [Kibb - Cat Animal Companion]
+    - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - [Rukus Graul](https://monster.pf2.tools/v/mox9QoHm)
  - **Loot:** +1 striking spear, favorite blanket (ratty, fleainfested, and decorated with several Black Arrows insignias)
 
@@ -52,7 +52,7 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 ### A1. Farmhouse Porch
   - **Hazards:**
     - [Door Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
-    - 2x [Floor Saw/Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
+    - 2x [Floor Saw - Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
 
 ### A2. Family Room
   - **Hazards:**
@@ -68,7 +68,7 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
     
 ### A5. Playpen
   - **Creatures:** 
-    - [Lucky and Maulgro Graul / Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
+    - [Lucky and Maulgro Graul - Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
   - **Loot:** None
 
 ### A6. Rukus's Room
@@ -77,12 +77,12 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 ### A8. Mammy's Room
   - **Creatures:** 
     - [Mammy Graul](https://monster.pf2.tools/v/t18cq9jp)
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Benk, Hadge, and Kunkel - Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
+    - Benk, Hadge, and Kunkel [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
   - **Loot:** See Mammy Graul
 
 ### A9. Bedroom
   - **Hazards:**
-    - [Hand Chopper / Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Spider Venom](https://2e.aonprd.com/Equipment.aspx?ID=118)
+    - [Hand Chopper - Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Spider Venom](https://2e.aonprd.com/Equipment.aspx?ID=118)
 
 ### A10. Attic
   - **Loot:** TBD
@@ -90,14 +90,14 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 ### A12. Hucker's Lair
   - **Creatures:** 
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
   - **Loot:** TBD
 
 ### A14. Tendriculous Lair
   - **Creatures:** 
-    - [Muck Graul / Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
-    - Awakened tree seems specifically designed for this purpose (it even matches the Fay color text)
+    - [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+    - Note: Awakened tree seems specifically designed for this purpose (it even matches the Fay color text)
   - **Loot:** TBD
 
 ### A15. The Graul Fortune
@@ -105,12 +105,12 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 
 ### A16. Kennel
   - **Creatures:** 
-    - [Hograth, Jeppo, and Sugar Graul / Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
+    - [Hograth, Jeppo, and Sugar Graul - Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
   - **Loot:** TBD
 
 ### A17. Biggin
   - **Creatures:** 
-    - [Ogre Spider / Huge sized Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
+    - [Ogre Spider - Huge sized Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
   - **Captive Black Arrows:**
     - [Jakardros Savark](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Jakardros.pdf)
     - [Vale Temross](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/ValeTemros.pdf) 
@@ -118,7 +118,7 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 
 ## Part 2: Retaking Rannick
 
-Creatures taken from existing bestiary entries. Sometimes using similar types of creatures where bestiary entries dont exist.  
+Creatures are taken from existing bestiary entries. Sometimes using similar types of creatures where bestiary entries dont exist.  
 
 Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as required for your party. 
 
@@ -129,7 +129,7 @@ Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.c
 ### B4. Old Guard Post
   - **Creatures:** 
     - [Karly-Lop Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
-    - 2x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 2x [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B6. Cookhouse
   - **Creatures:** 
@@ -146,11 +146,11 @@ Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.c
 
 ### B12. Barracks
   - **Creatures:** 
-    - 12x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 12x [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B13. Secret Armory
   - **Creatures:** 
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B14. Ravine
   - **Hazards:**
@@ -178,14 +178,14 @@ Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.c
 
 ### B29. Chapel
   - **Creatures:**
-    - Jaagrath Kreeg [Elite or double Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Jaagrath Kreeg [Elite or double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
 
 ### B30. Commanders Quarters
   - **Creatures:**
     - [Harlock "Hookwaw" Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     - Dorella Kreeg - Ogre Sorceress
-For physical and combat stats use a [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-For spells and spell DCs only, use a [Dark Naga]https://2e.aonprd.com/Monsters.aspx?ID=306
+For physical and combat stats use a [Weak]: (http://2e.aonprd.com/Rules.aspx?ID=791) [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.aspx?ID=306)
 
 ### B31. Tribunal
   - **Creatures:**
@@ -197,7 +197,7 @@ For spells and spell DCs only, use a [Dark Naga]https://2e.aonprd.com/Monsters.a
 
 ### B37. Lizard Warrens
   - **Creatures:** 
-    - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 
 ## Part 3: Down Comes the Rain
