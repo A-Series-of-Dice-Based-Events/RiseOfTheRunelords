@@ -15,29 +15,35 @@ Lv10  | 8,000gp  | **11th:** 2 **10th:** 2 | **11th:** 2 **10th:** 2 **9th:** 2 
 
 ## Part 1: In The Hook's Shadow
 
-As the players run through Part1, allow an NPC to come to their aid with healing if any of the PCs get too beat up. Part1 shouldn't be brutal but rather fun and exciting. Feel free to withold the NPC if the players are more experienced. Most creatures I've added the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template too, to help make this not so dire. -Mirko
+Placeholder for general notes
 
 ### The Strange Firepelt
  - **Creatures:** 
     - [Kibb / Cat Animal Companion]
-    - 5x [Graul Hounds / Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
+    - 5x [Graul Hounds (Riding Dogs)](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - [Rukus Graul](https://monster.pf2.tools/v/mox9QoHm)
-    
- - **Loot:** +1 spear, belt of giant strength +2, favorite blanket (ratty, fleainfested, and decorated with several Black Arrows insignias)
-
-
+ - **Loot:** +1 striking spear, favorite blanket (ratty, fleainfested, and decorated with several Black Arrows insignias)
 
 ### The Graul Farm
   - **Creatures:** 
     - [Crowfood Graul](https://monster.pf2.tools/v/rT8ZT98R)
-  - **Loot:** potions of cure serious wounds (2); Other Gear: leather armor, +1 ogre hook, amulet of natural armor +1, ring
-of protection +1, tattered rags and tunic
+  - **Loot:** +1 striking ogre hook
   
 ### A1. Farmhouse Porch
   - **Hazards:**
-    - [Door Spike]
-    - [Floor Saw]
-        
+    - [Door Spike] as per Floor Saw but only affects one creature
+    - 2x[Floor Saw]
+Hazard 7, Mechanical Trap, Complexity Simple, Stealth DC 27 (trained)
+
+Description Two saw blades, each hidden in a 15-foot-long floor groove, are both connected to a trip wire.
+Disable Thievery DC 27 (trained) to disable each blade
+AC 25, Fort +16, Ref +12
+Hardness 14, HP 56 (BT 28); Immunities critical hits, object immunities, precision damage
+
+Floor saw (attack); Trigger The trip wire is pulled or severed. Effect Both blades swing up, each one attacking all creatures above the floor grooves.
+Melee saw blade +22 (deadly 2d8), Damage 4d8+6 slashing; no multiple attack penalty
+Reset The trap resets after 10 minutes.
+
 ### A2. Family Room
   - **Hazards:**
     - [Pit Trap]
@@ -54,6 +60,38 @@ of protection +1, tattered rags and tunic
   - **Creatures:** 
     - [Lucky and Maulgro Graul / Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
   - **Loot:** None
-  
-  
-## Part 2: 
+
+### A6. Rukus's Room
+  - **Loot:** TBD
+
+### A8. Mammy's Room
+  - **Creatures:** 
+    - [Mammy Graul](https://monster.pf2.tools/v/t18cq9jp)
+    - [Benk, Hadge, and Kunkel / Ogrekin Zombies] (https://2e.aonprd.com/Monsters.aspx?ID=423)
+  - **Loot:** See Mammy Graul
+
+### A9. Bedroom
+  - **Hazards:**
+    - [Hand Chopper]
+
+### A10. Attic
+  - **Loot:** TBD
+
+### A12. Hucker's Lair
+  - **Creatures:** 
+    - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
+    - [Chuckles and Drooler / Donkey Rats] 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) use medium Dire Wolf (https://2e.aonprd.com/Monsters.aspx?ID=416)
+  - **Loot:** TBD
+
+## Part 2: Retaking Rannick
+
+
+## Part 3: Down Comes the Rain
+
+
+## Part 4: The Haunted Heart
+
+
+## Part 5: Harrowing the Hook
+
+
