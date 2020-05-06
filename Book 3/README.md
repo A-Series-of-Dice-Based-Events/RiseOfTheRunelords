@@ -77,7 +77,7 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 ### A8. Mammy's Room
   - **Creatures:** 
     - [Mammy Graul](https://monster.pf2.tools/v/t18cq9jp)
-    - [Benk, Hadge, and Kunkel / Ogrekin Zombies](https://2e.aonprd.com/Monsters.aspx?ID=423)
+    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Benk, Hadge, and Kunkel - Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
   - **Loot:** See Mammy Graul
 
 ### A9. Bedroom
@@ -90,7 +90,7 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 ### A12. Hucker's Lair
   - **Creatures:** 
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
-    - 2x (http://2e.aonprd.com/Rules.aspx?ID=791) medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
   - **Loot:** TBD
 
@@ -137,7 +137,7 @@ Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.c
 
 ### B7. Drainage Ditch
   - **Hazards:**
-    - [Diseased entryway - Filth Fever as if bitten by a Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
+    - [Using diseased entryway - save vs Filth Fever as if bitten by a Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
 
 ### B8. South Gate
   - **Creatures:** 
@@ -174,7 +174,7 @@ Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.c
     
 ### B24. Barracks
   - **Creatures:**
-    - 4x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 4x [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B29. Chapel
   - **Creatures:**
@@ -189,7 +189,7 @@ For spells and spell DCs only, use a [Dark Naga]https://2e.aonprd.com/Monsters.a
 
 ### B31. Tribunal
   - **Creatures:**
-    - 2x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 2x [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B36. Lucrecia's Retreat
   - **Creatures:**
@@ -197,7 +197,7 @@ For spells and spell DCs only, use a [Dark Naga]https://2e.aonprd.com/Monsters.a
 
 ### B37. Lizard Warrens
   - **Creatures:** 
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 
 ## Part 3: Down Comes the Rain
