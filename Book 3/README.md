@@ -70,7 +70,7 @@ Placeholder for general notes
 ### A12. Hucker's Lair
   - **Creatures:** 
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) medium Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - 2x (http://2e.aonprd.com/Rules.aspx?ID=791) medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
   - **Loot:** TBD
 
 ### A14. Tendriculous Lair
@@ -88,12 +88,42 @@ Placeholder for general notes
 
 ### A17. Biggin
   - **Creatures:** 
-    - [Ogre Spider / Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
+    - [Ogre Spider / Huge sized Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
     - [Jakardros Savark] see separate PDF for details of this Black Arrow NPC
     - [Vale Temross] see separate PDF for details of this Black Arrow NPC
     - [Kaven Windstrike] see separate PDF for details of this Black Arrow NPC
 
 ## Part 2: Retaking Rannick
+
+### B2. East Gate
+  - **Creatures:** 
+    - [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
+### B4. Old Guard Post
+  - **Creatures:** 
+    - [Karly-Lop Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - 2x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
+### B6. Cookhouse
+  - **Creatures:** 
+    - [Jolly Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+
+### B7. Drainage Ditch
+  - **Hazards:**
+    - [Diseased entryway - Filth Fever as if bitten by a Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
+
+### B8. South Gate
+  - **Creatures:** 
+    - [Minktuck Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - 3x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
+### B12. Barracks
+  - **Creatures:** 
+    - 12x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
+
+
+
 
 
 ## Part 3: Down Comes the Rain
