@@ -150,7 +150,7 @@ Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.c
 
 ### B13. Secret Armory
   - **Creatures:** 
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317) (obviously read swim speed as land speed)
 
 ### B14. Ravine
   - **Hazards:**
