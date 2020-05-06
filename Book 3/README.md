@@ -95,6 +95,8 @@ Placeholder for general notes
 
 ## Part 2: Retaking Rannick
 
+Creatures taken from existing bestiary entries. Sometimes using similar types of creatures where bestiary entries dont exist.  
+
 ### B2. East Gate
   - **Creatures:** 
     - [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
@@ -130,8 +132,48 @@ Placeholder for general notes
     - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
     
 ### B15 Crypt
-
+  - **Creatures:**
+    - [Lorgus Fenker - Greater Shadow](https://2e.aonprd.com/Monsters.aspx?ID=363)
+    
 ### B18. Workroom
+  - **Creatures:**
+    - [Gragavan Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)    
+
+### B19. Armory
+  - **Creatures:** 
+    - 2x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    
+### B23. Library
+  - **Creatures:**
+    - [Silas Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    
+### B24. Barracks
+  - **Creatures:**
+    - 4x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
+### B29. Chapel
+  - **Creatures:**
+    - Jaagrath Kreeg [Elite or double Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+
+### B30. Commanders Quarters
+  - **Creatures:**
+    - [Harlock "Hookwaw" Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - Dorella Kreeg - Ogre Sorceress
+For physical and combat stats use a [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+For spells and spell DCs only, use a [Dark Naga]https://2e.aonprd.com/Monsters.aspx?ID=306
+
+### B31. Tribunal
+  - **Creatures:**
+    - 2x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
+### B36. Lucrecia's Retreat
+  - **Creatures:**
+    - [Lucrecia Lamia Matriach](https://2e.aonprd.com/Monsters.aspx?ID=278)
+
+### B37. Lizard Warrens
+  - **Creatures:** 
+    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
+
 
 ## Part 3: Down Comes the Rain
 
