@@ -20,7 +20,7 @@ Placeholder for general notes
 ### The Strange Firepelt
  - **Creatures:** 
     - [Kibb / Cat Animal Companion]
-    - 5x [Graul Hounds (Riding Dogs)](http://2e.aonprd.com/Monsters.aspx?ID=125)
+    - 5x [Graul Hounds / Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - [Rukus Graul](https://monster.pf2.tools/v/mox9QoHm)
  - **Loot:** +1 striking spear, favorite blanket (ratty, fleainfested, and decorated with several Black Arrows insignias)
 
@@ -82,6 +82,23 @@ Reset The trap resets after 10 minutes.
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
     - [Chuckles and Drooler / Donkey Rats] 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) use medium Dire Wolf (https://2e.aonprd.com/Monsters.aspx?ID=416)
   - **Loot:** TBD
+
+### A14. Tendriculous Lair
+  - **Creatures:** 
+    - [Muck Graul / Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+  - **Loot:** TBD
+
+### A15. The Graul Fortune
+  - **Loot:** TBD
+
+### A16. Kennel
+  - **Creatures:** 
+    - [Hograth, Jeppo, and Sugar Graul / Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
+  - **Loot:** TBD
+
+### A17. Biggin
+  - **Creatures:** 
+    - [Ogre Spider / Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
 
 ## Part 2: Retaking Rannick
 
