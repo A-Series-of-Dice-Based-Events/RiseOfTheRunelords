@@ -36,13 +36,13 @@ If they are breezing through then liberally apply elite templates.
 
 Where creatures dont exist in the bestiary then close fit adaptations have been used. Traps have been similarly replaced with near fit Hazards.
 
-All threat ratings assume party level 7.
-
 ## Part 1: In The Hook's Shadow
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
 For Traps near fit Hazards have been used.
+
+All threat ratings in part 1 assume party level 7.
 
 ### The Strange Firepelt (moderate threat)
  - **Creatures:** 
@@ -137,7 +137,7 @@ Creatures are taken from existing bestiary entries. Sometimes using similar type
 
 Bestiary Ogres seem a close fit to requirements. Though many need the [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) template adding to be relevant.
 
-All threat ratings assume party level 8.
+All threat ratings in part 2 assume party level 8.
 
 Note these are mostly trivial and low threat individual encounters, but there is a high likelihood of two or more combining in this setting. Be wary of increasing their level.
 
@@ -150,7 +150,7 @@ Note these are mostly trivial and low threat individual encounters, but there is
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Karly-Lop Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
-### B6. Cookhouse
+### B6. Cookhouse (trivial threat)
   - **Creatures:** 
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Jolly Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
 
@@ -187,7 +187,7 @@ Note these are mostly trivial and low threat individual encounters, but there is
   - **Creatures:** 
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
     
-### B23. Library (low threat)
+### B23. Library (trivial threat)
   - **Creatures:**
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Silas Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     
