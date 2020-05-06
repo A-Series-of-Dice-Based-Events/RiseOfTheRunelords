@@ -1,5 +1,16 @@
-# Hook Mountain Massacre level 7-10
+# Hook Mountain Massacre : level 7-10
 
+### Index and status
+  - Part 1: In The Hook's Shadow - draft
+  - Part 2: Retaking Rannick - draft
+  - Part 3: Down Comes the Rain - TODO
+  - Part 4: The Haunted Heart - TODO
+  - Part 5: Harrowing the Hook - TODO
+
+### General TO DO
+  - DCs of events - e.g. DC of sickening smell
+  - Treasure allocation - replace old treasure with new guidelines
+  
 ### Level guide:
 - Lvl 7: Party should be close to 8th level at start of the book 
 - Lvl 8: After first encounter with the Grauls
@@ -13,17 +24,6 @@ Lv8   | 4,000gp  | **9th:** 2 **8th:** 2   | **9th:** 2 **8th:** 2 **7th:** 2	  
 Lv9   | 5,700gp  | **10th:** 2 **9th:** 2  | **10th:** 2 **9th:** 2 **8th:** 2	| 1,400gp | 2
 Lv10  | 8,000gp  | **11th:** 2 **10th:** 2 | **11th:** 2 **10th:** 2 **9th:** 2 | 2,000gp | 3
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
-
-### Index and status
-  - Part 1: In The Hook's Shadow - draft
-  - Part 2: Retaking Rannick - draft
-  - Part 3: Down Comes the Rain - TODO
-  - Part 4: The Haunted Heart - TODO
-  - Part 5: Harrowing the Hook - TODO
-
-### General TO DO
-  - Complete Hazards - e.g. DC of sickening smell
-  - Complete treasure allocation
 
 ### General Notes and Advice
 
@@ -91,11 +91,13 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
   - **Creatures:** 
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
     - 2x (http://2e.aonprd.com/Rules.aspx?ID=791) medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
   - **Loot:** TBD
 
 ### A14. Tendriculous Lair
   - **Creatures:** 
     - [Muck Graul / Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+    - Awakened tree seems specifically designed for this purpose (it even matches the Fay color text)
   - **Loot:** TBD
 
 ### A15. The Graul Fortune
@@ -109,13 +111,16 @@ Where creatures dont exist in the bestiary then close fit adaptations have been 
 ### A17. Biggin
   - **Creatures:** 
     - [Ogre Spider / Huge sized Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
-    - [Jakardros Savark] see separate PDF for details of this Black Arrow NPC
-    - [Vale Temross] see separate PDF for details of this Black Arrow NPC
-    - [Kaven Windstrike] see separate PDF for details of this Black Arrow NPC
+  - **Captive Black Arrows:**
+    - [Jakardros Savark](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Jakardros.pdf)
+    - [Vale Temross](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/ValeTemros.pdf) 
+    - [Kaven Windstrike](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/KavenWindstrike.pdf)
 
 ## Part 2: Retaking Rannick
 
 Creatures taken from existing bestiary entries. Sometimes using similar types of creatures where bestiary entries dont exist.  
+
+Bestiary Ogres seem a close fit to requirements. Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as required for your party. 
 
 ### B2. East Gate
   - **Creatures:** 
@@ -123,12 +128,12 @@ Creatures taken from existing bestiary entries. Sometimes using similar types of
 
 ### B4. Old Guard Post
   - **Creatures:** 
-    - [Karly-Lop Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - [Karly-Lop Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     - 2x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B6. Cookhouse
   - **Creatures:** 
-    - [Jolly Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - [Jolly Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
 
 ### B7. Drainage Ditch
   - **Hazards:**
@@ -136,7 +141,7 @@ Creatures taken from existing bestiary entries. Sometimes using similar types of
 
 ### B8. South Gate
   - **Creatures:** 
-    - [Minktuck Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - [Minktuck Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     - 3x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
 ### B12. Barracks
@@ -157,7 +162,7 @@ Creatures taken from existing bestiary entries. Sometimes using similar types of
     
 ### B18. Workroom
   - **Creatures:**
-    - [Gragavan Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)    
+    - [Gragavan Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)    
 
 ### B19. Armory
   - **Creatures:** 
@@ -165,7 +170,7 @@ Creatures taken from existing bestiary entries. Sometimes using similar types of
     
 ### B23. Library
   - **Creatures:**
-    - [Silas Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - [Silas Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     
 ### B24. Barracks
   - **Creatures:**
@@ -177,7 +182,7 @@ Creatures taken from existing bestiary entries. Sometimes using similar types of
 
 ### B30. Commanders Quarters
   - **Creatures:**
-    - [Harlock "Hookwaw" Kreeg / Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
+    - [Harlock "Hookwaw" Kreeg - Ogre Glutton](https://2e.aonprd.com/Monsters.aspx?ID=318)
     - Dorella Kreeg - Ogre Sorceress
 For physical and combat stats use a [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
 For spells and spell DCs only, use a [Dark Naga]https://2e.aonprd.com/Monsters.aspx?ID=306
