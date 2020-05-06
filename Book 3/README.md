@@ -19,14 +19,41 @@ As the players run through Part1, allow an NPC to come to their aid with healing
 
 ### The Strange Firepelt
  - **Creatures:** 
-    - [Kibb]
-    - 5x [Graul Hounds](http://2e.aonprd.com/Monsters.aspx?ID=125)
+    - [Kibb / Cat Animal Companion]
+    - 5x [Graul Hounds / Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - [Rukus Graul](https://monster.pf2.tools/v/mox9QoHm)
+    
  - **Loot:** +1 spear, belt of giant strength +2, favorite blanket (ratty, fleainfested, and decorated with several Black Arrows insignias)
 
-## Part 2:
 
-### Desecrated Vault
+
+### The Graul Farm
   - **Creatures:** 
-    - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372)
-  - **Loot:** none
+    - [Crowfood Graul](https://monster.pf2.tools/v/rT8ZT98R)
+  - **Loot:** potions of cure serious wounds (2); Other Gear: leather armor, +1 ogre hook, amulet of natural armor +1, ring
+of protection +1, tattered rags and tunic
+  
+### A1. Farmhouse Porch
+  - **Hazards:**
+    - [Door Spike]
+    - [Floor Saw]
+        
+### A2. Family Room
+  - **Hazards:**
+    - [Pit Trap]
+
+### A3. Dining Room
+  - **Hazards:**
+    - 3x[Scythe Trap]
+  
+### A4. Kitchen
+  - **Hazards:**
+    - [Sickening Smell]
+    
+### A5. Playpen
+  - **Creatures:** 
+    - [Lucky and Maulgro Graul / Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
+  - **Loot:** None
+  
+  
+## Part 2: 
