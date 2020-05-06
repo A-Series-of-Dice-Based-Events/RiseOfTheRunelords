@@ -80,7 +80,7 @@ Reset The trap resets after 10 minutes.
 ### A12. Hucker's Lair
   - **Creatures:** 
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
-    - [Chuckles and Drooler / Donkey Rats] 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) use medium Dire Wolf (https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) medium Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
   - **Loot:** TBD
 
 ### A14. Tendriculous Lair
@@ -99,6 +99,9 @@ Reset The trap resets after 10 minutes.
 ### A17. Biggin
   - **Creatures:** 
     - [Ogre Spider / Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
+    - [Jakardros Savark] see separate PDF for details of this Black Arrows NPC
+    - [Vale Temross] see separate PDF for details of this Black Arrows NPC
+    - [Kaven Windstrike] see separate PDF for details of this Black Arrows NPC
 
 ## Part 2: Retaking Rannick
 
