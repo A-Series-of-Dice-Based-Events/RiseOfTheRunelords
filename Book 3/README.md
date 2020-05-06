@@ -121,10 +121,17 @@ Placeholder for general notes
   - **Creatures:** 
     - 12x [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
+### B13. Secret Armory
+  - **Creatures:** 
+    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
+### B14. Ravine
+  - **Hazards:**
+    - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
+    
+### B15 Crypt
 
-
-
+### B18. Workroom
 
 ## Part 3: Down Comes the Rain
 
