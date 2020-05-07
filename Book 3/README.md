@@ -7,7 +7,7 @@
 ### Index and status
   - Part 1: In The Hook's Shadow - MVP draft - creatures and hazards only
   - Part 2: Retaking Rannick - MVP draft - creatures and hazards only
-  - Part 3: Down Comes the Rain - TODO
+  - Part 3: Down Comes the Rain - MVP draft - creatures only
   - Part 4: The Haunted Heart - TODO
   - Part 5: Harrowing the Hook - TODO
 
@@ -235,17 +235,38 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
   - **Creatures:** 
     - 1x [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
-    - This encounter is only a heroic scene setting distraction and should not deplete any resources. 
+    - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying double weak, or even replacing with some other low level emergency where the PCs can shine.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
     - [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Kraken](https://2e.aonprd.com/Monsters.aspx?ID=382)
     - Please someone build a Black Magga as using a Kraken is nowhere near the experience wanted
-
+  - **Encounter Notes:**    
+    - Note that the large level disparity is even more severe in PF2 than in PF1, and crits from Black Magga may be one hit kills. Need to find a way using status conditions and other standard mechanisms to make this temporarily survivable.
+    
 ### C4. Gorger and Chaw’s Lair (trivial+ threat, terrain makes it more challenging)
   - **Creatures:**
     - [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
+  - **Loot:** TBD
 
+C6. Ogre Demolition Crew (trivial threat with severe terrain)
+  - **Creatures:**
+    - 1x [Malugus Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - 4x [Exhausted Ogres](https://2e.aonprd.com/Monsters.aspx?ID=317)
+  - **Encounter Notes:**
+    - The terrain makes this trivial threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
+
+C7. Battlefield (moderate threat)
+  - **Creatures:**
+    - 4x [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
+
+C13. Observation Deck (moderate threat)
+  - **Creatures:**
+    - [Grazuul - Troll King](https://2e.aonprd.com/Monsters.aspx?ID=396)
+
+C15. Floodgate Controls (low to moderate threat)
+  - **Creatures:**
+    - [Skull Ripper](https://monster.pf2.tools/v/0o68SORR)
 
 ## Part 4: The Haunted Heart
 
