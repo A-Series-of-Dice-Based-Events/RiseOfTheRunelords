@@ -129,9 +129,9 @@ All threat ratings in part 1 assume party level 7. Encounter notes include scali
   - **Creatures:** 
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider - Huge sized Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
   - **Captive Black Arrows:**
-    - [Jakardros Savark](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Jakardros.pdf)
-    - [Vale Temross](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/ValeTemros.pdf) 
-    - [Kaven Windstrike](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/KavenWindstrike.pdf)
+    - [Jakardros Savark](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/Jakardros.pdf)
+    - [Vale Temross](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ValeTemros.pdf) 
+    - [Kaven Windstrike](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/KavenWindstrike.pdf)
 
 ## Part 2: Retaking Rannick
 
@@ -230,6 +230,21 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
     - Applying the double elite template to a level 1 creature likely makes it closer to level 4 than level 3. This could make the encounter severe.
 
 ## Part 3: Down Comes the Rain
+
+### Saving the Schoolchildren (trivial threat)
+  - **Creatures:** 
+    - 1x [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
+  - **Encounter Notes:**    
+    - This encounter is only a heroic scene setting distraction and should not deplete any resources. 
+
+### Black Magga Rises (beyond extreme temporary threat)
+  - **Creatures:**
+    - [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Kraken](https://2e.aonprd.com/Monsters.aspx?ID=382)
+    - Please someone build a Black Magga as using a Kraken is nowhere near the experience wanted
+
+### C4. Gorger and Chaw’s Lair (trivial+ threat, terrain makes it more challenging)
+  - **Creatures:**
+    - [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
 
 
 ## Part 4: The Haunted Heart
