@@ -7,57 +7,84 @@
 
 Level | Total gp | Permanent Items       | Consumables                      | Cash  | Part
 ------|----------|-----------------------|----------------------------------|-------|-----
-Lv1	  | 175gp    | **2nd:** 2 **1st:** 2 | **2nd:** 2 **1st:** 3            | 40gp  | 1 2
-Lv2   | 300gp    | **3rd:** 2 **2nd:** 2 | **3rd:** 2 **2nd:** 2 **1st:** 2	| 70gp  | End of 3
-Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2	| 120gp | 4
+Lv1   | 175gp    | **2nd:** 2 **1st:** 2 | **2nd:** 2 **1st:** 3            | 40gp  | 1 2
+Lv2   | 300gp    | **3rd:** 2 **2nd:** 2 | **3rd:** 2 **2nd:** 2 **1st:** 2 | 70gp  | End of 3
+Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2 | 120gp | 4
 Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-## Part 1:
+## Part 1: Festival and Fire
+
+Encounters assume party level 1.
 
 As the players run through Part1, allow an NPC to come to their aid with healing if any of the PCs get too beat up. Part1 shouldn't be brutal but rather fun and exciting. Feel free to withold the NPC if the players are more experienced. Most creatures I've added the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) tempalte too to help make this not so dire. -Mirko
 
-### Initial Assault
+### Initial Assault (60xp, low threat)
  - **Creatures:** 
     - 3x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
  - **Loot:** none
 
-### Golbin Pyros
+### Goblin Pyros (80xp, moderate threat)
   - **Creatures:** 
     - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
     - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
   - **Loot:** none
 
-### Die Dog Die!
+### Die Dog Die! (160xp, severe threat)
  - **Creatures:** 
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
-    - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
+    - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
     - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
  - **Loot:** none
 
-## Part 2:
+## Part 2: Local Heroes
 
-### Desecrated Vault
+### Desecrated Vault (40xp, trivial threat)
   - **Creatures:** 
-    - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372)
+    - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
   - **Loot:** none
 
-The Shopkeepers Daughter: Vin Vinder {orc brute stats, pg. 93 playtestiary) unarmed +5, dmg 1d4+2, Conditional XP: 30xp for beating him, 60xp for intimidate or deception, 90xp for Diplomacy without hurting his daughters feelings.
+### The Shopkeepers Daughter (RP encounter, no real threat)
+  - **Creatures:** 
+    - [Vin Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), fist +7: dmg 1d4+3, nonlethal 
+  - **XP:** - 30xp for beating him, 60xp for intimidate or deception, 90xp for Diplomacy without hurting his daughters feelings.
 
-The Boar Hunt: 1x Boar {pg. 34), 60xp, Composite Longbow, 20gp
+### The Boar Hunt (60xp, low threat)
+  - **Creatures:**
+    - 1x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52), 60xp, 
+  - **Loot:**
+    - Composite Longbow, 20gp
 
-Trouble at the Rusty Dragon: Conditional XP, 40xp for getting rid of Lonjiku, 80xp for doing so Peacefully.
+### Trouble at the Rusty Dragon (RP encounter, no real threat)
+  - Conditional XP, 40xp for getting rid of Lonjiku, 80xp for doing so Peacefully.
 
-Monster in the closet: 1x Elite Goblin Commando, 60xp for defeating, Bloodseeker Beak.
+### Monster in the closet (60xp, low threat)
+  - **Creatures:**
+    - 1x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+  - **Loot:**
+    - Bloodseeker Beak (Consumable L4). [[seems too powerful]]
 
-Investigating the glassworks; conditional xp: 40xp for breaking the door, 80xp for unlocking.
+## Part 3: Glass and Wrath
 
-Against the goblins part 1: 8x Weak Goblin Warrior {-2 to every check for the goblins, -2 to AC and Saves}, 160xp – 20xp per goblin that fled, 2 x Lesser Healing Potions, Oil of Potency, Everburning Torch in room,
+Encounters assume party level 1
 
-Against the Goblins Part 2: Any goblins that fled part 1 join Tsuto, Tsuto Kaijutsu, 120xp + 20xp per goblin who joined.
- 
- 
- 
+### Investigating the glassworks
+  - conditional xp: 40xp for breaking the door, 80xp for unlocking.
+
+### Against the goblins part 1 (severe threat, though goblin tactics and terrain reduce this)
+  - **Creatures:**
+    - 8x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) {-2 to every check for the goblins, -2 to AC and Saves}, 160xp – 20xp per goblin that fled
+  - **Loot:**
+    - 2 x Lesser Healing Potions (C3), Oil of Potency, Everburning Torch in room,
+
+### Against the Goblins Part 2 (severe threat)
+  - **Creatures:**
+    - Tsuto Kaijutsu 
+    - Any goblins that fled part 1 join Tsuto
+  - **XP:** 
+    - 120xp + 20xp per goblin who joined.
+    - Interrogating Tsuto: Conditional XP, 50xp for DC 14, 75xp for DC 17, 100xp for DC 20. Result of roll indicates how much info he spills, up to GM.
+    - Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. She also gives them a +1 L or M Armor Potency rune.
 
 Tsuto Kaijitsu {Half-Elf; Monk/Rogue} Creature 4
 CE, Medium. Laborer;
@@ -73,29 +100,40 @@ Surprise Attack: First Round of Combat anyone who hasn’t acted is flat-footed 
 Sneak Attacker: 1d4 Sneak attack damage against flatfooted creatures.
 Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}
 Items: Expert Handwraps of Mighty Fists, Cheetah Elixir, Potion of Invisibility, Oil of Potency, 20gp
+
  
- 
- Interrogating Tsuto: Conditional XP, 50xp for DC 14, 75xp for DC 17, 100xp for DC 20. Result of roll indicates how much info he spills, up to GM.
+## Part 3B. CATACOMBS OF WRATH
 
-Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. She also gives them a +1 L or M Armor Potency rune.
- 
-CATACOMBS OF WRATH
+Encounters assume party level 2
 
-B1. Guard Cave; Sinspawn, 40xp, Sleep Arrow x4 - deep  blue with plush fletching pg560, Jade Cat - thumb sized feline pendant pg568
+### B1. Guard Cave
+  - **Creatures:**
+    - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371), 40xp
+  - **Loot:**
+    - Sleep Arrow x4 - deep blue with plush fletching pg560
+    - Jade Cat - thumb sized feline pendant pg568
 
-B3. Ranseur - a long trident wifh a central prong that's longer than the other two
+### B3. Welcoming Chamber
+  - **Loot:**
+    - Ancient Ranseur (a long trident wifh a central prong that's longer than the other two) worth 20gp
 
-B4. Vargouille; 40xp,
+### B4. Washing Pool
+  - **Creatures:** - Vargouille; 40xp,
+  - TODO build Vargouille 
 
-B6. Sinspawn x 2, 80xp
+### B6. Ancient Prison
+  - **Creatures:**
+    - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371), 80xp
 
-B8. Scroll of Flaming Sphere pg338, Seek DC of 19
+### B8. Ancient Study
+  - **Loot:**
+    - Scroll of Flaming Sphere pg338, Seek DC of 19
 
-B9. Goblin Fighter 3 (Koruvus), 11x Zombie, 80xp
- 
-B11. Scroll of Burning Hands pg322, Wand of Shocking Grasp {1st} This small grey box looks designed to be held and has two metal prongs at one end  occasionally a jolt of electricity dances from one prong to the next. pg597/369, 2x Elixir of Stone Fist pg550,
-
-B13. Erylium {Elite Quasit}, Sinspawn, 120xp + 100xp for deactivating the runewell. Invisibility Potion pg563, Dark Vision Elixir Lesser 10min pg547, +1 L or M Armor Potency Rune pg581
+### B9. Prisoner Pits
+  - **Creatures:**
+    - [Koruvus] TODO
+    - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
+  - 80xp
 
 Koruvus (Abomination Goblin Fighter 3)
 CE, Goblin, Small. Malformed Limb (Can use an additional action but only for Combat Grab)
@@ -111,26 +149,53 @@ Dogslicer: +7 (1d6+4)
 Feats: Toughness{General}, Fleet{Skill}. Combat Grab{Class}, Improved Combat Grab{Class}, Weapon Familiarity(Goblin){Ancestry}
 Items: Longsword, Dogslicer, +1 Scale Mail,
  
+### B11. Meditation Chamber
+  - **Loot:**
+    - Scroll of Burning Hands pg322
+    - Wand of Shocking Grasp {1st}
 
+  - What is this?: (This small grey box looks designed to be held and has two metal prongs at one end occasionally a jolt of electricity dances from one prong to the next. pg597/369, 2x Elixir of Stone Fist pg550,)
 
+### B12. Shrine to Lamashtu
+  - **Loot:**
+    - TODO: replace Waters of Lamashtu
 
-Thistletop
- 
-C4. Refugees Nest: 10x Weak Goblin Warriors, 200xp
+### B13. Cathedral of Wrath
+  - **Creatures:**
+    - Erylium {Elite Quasit}, Sinspawn, 
+    - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
+120xp + 100xp for deactivating the runewell.
+  - **Loot:**
+    - Invisibility Potion pg563
+    - Dark Vision Elixir Lesser 10min pg547
+    - +1 L or M Armor Potency Rune pg581
 
-C5. Kennel: 4x Goblin Dog, 120xp, this encounter can be bypassed. If successfully bypassed with stealth award the same xp.
+## Part 4. Thistletop
 
-C6/7. Tangletooth {Use cat Stats from CRB pg. 215} and Gogmurt {Goblin Druid/Rogue 5}, 120xp. Gogmurt stats below.
+Encounters assume party level 3
 
-C9. Rigged Bridge, DC 15 Perception, if 3 or more medium creatures cross it collapses into the sea. 100xp for disarming or crossing safely.
- 
+### C4. Refugees Nest
+  - **Creatures:**
+    - 10x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+  - 200xp
 
+### C5. Kennel
+  - **Creatures:**
+    - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
+  - 120xp, this encounter can be bypassed. If successfully bypassed with stealth award the same xp.
 
+### C6/7. Tangletooth's Den and Gogmurt's Lair
+  - **Creatures:**
+    - Tangletooth {Use cat Stats from CRB pg. 215}
+    - Gogmurt {Goblin Druid/Rogue 5 - see below}
+  - 120xp.
 
+### C9. Rope Bridge
+  - DC 15 Perception, if 3 or more medium creatures cross it collapses into the sea. 
+  - 100xp for disarming or crossing safely.
 
+### Gogmurt and Tangletooth
 
- 
-Gogmurt and Tangletooth
 Gogmurt {Goblin, Druid Archetype Rogue}
 Perception: +9; Languages: Common, Goblin
 Skills: +5; Athletics: +5, Crafting: +5, Nature: +10, Survival: +9, Thievery: +9
@@ -147,7 +212,6 @@ Cantrips: Produce Flame{2A}, Tanglefoot{2A}, Guidance{2A}, Know Direction{2A};
 Feats: Burn it{Ancestry}, Flame Heart{Ancestry}, Savage Slice{Druid}, Rogue Dedication{Druid}, Forager{Skill}, Natural Medicine{General}
 Items: Expert Hide, Lesser Healing Potion, Holly Bush Feather Token pg571
 
- 
 Tangletooth {Cat Animal Companion, Small}
 Perception: +7; Senses: Scent
 Skills: Stealth: +7
@@ -158,34 +222,43 @@ Claw{Agile}: +3 {1d4+2 S}
 Special: Deal 1d6 additional damage against a flatfooted foe
 Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, Gogmurts strikes make the target flatfooted until the end of his next turn.
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
+### C10. Thistletop
+  - **Creatures:**
+    - 4x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 4x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+  - 100xp
 
+### C13. Pickle Thieves
+  - **Creatures:**
+    - 2x Goblin Commandos, 40xp
 
+### C14. Barracks
+  - **Creatures:**
+    - 6x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+  - 90xp
 
+### C15. Eastern Guard Tower
+  - **Creatures:**
+    - 2x Goblin Commandos
+  - 40xp
 
-C10. 4x Weak Goblins, 4x Weak Goblin Dogs, 100xp
+### C16. Exercise Yard
+  - **Creatures:**
+    - 4x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+  - 80xp
 
-C13. 2x Goblin Commandos, 40xp
+### C18. Caged Horse
+  - **Creatures:**
+    - Shadowmist the horse can be calmed with Calm Emotions or a DC 16 Handle Animal. If calmed award 50xp, if they return the horse to original owner additional 50xp
 
-C14. 6x Goblin Warriors, 90xp
-
-C15. 2x Goblin Commandos, 40xp
-
-C16. 4x Goblin Dogs, 80xp
-
-C18. Shadowmist the horse can be calmed with Calm Emotions or a DC 16 Handle Animal. If calmed award 50xp, if they return the horse to original owner additional 50xp
-
-C19. Chief Ripnugget{Fighter 5}, 3x Goblin Commando, 1x Goblin Warchanter, 1x Goblin Dog{Mount}, 180xp
- 
+### C19. Throne Room
+  - **Creatures:**
+    - Chief Ripnugget{Fighter 5}
+    - Stickfoot
+    - 3x Goblin Commando
+    - 1x Goblin Warchanter
+  - 180xp
  
 Chief Ripnugget {Small, Goblin Fighter 5}
 Perception: +6; Darkvision, Languages: Common, Goblin
@@ -203,25 +276,41 @@ Quick Reversal{A}: Make a Strike against a foe who is flanking you, if you miss,
 Feats: Rough Rider{Ancestry}, Ride{Bonus}, Razor Teeth{Ancestry5th }, Quick Repair{Background}, Power Attack{Fighter}, Dueling Parry{Fighter}, Quick Reversal{Fighter}
 Items: +1 Shortsword, Breastplate,
 
+### C23. Chieftan's Room
+  - **Loot:**
+    - DC 16 Seek to find Iron Key to chest in C24.
+    - DC ?? to find Silver Holy symbol of Lamashtu, ??sp
 
-C23. DC 16 Seek to find Iron Key to chest in C24.
+### C24. Treasury
+  - **Hazard:**    
+    - [Rusty Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6) with only a single blade. If it hits target must save vs [Tetanus](https://2e.aonprd.com/Diseases.aspx?ID=3)  
+  - **Loot:**
+    - Assorted coinage to the value of 50gp
+    - Gold Holy Symbol of Sarenrae worth 10gp
+    - Jade Necklace worth 5gp
+    - Blue Silk Gown worth 15gp.
+    - Infiltrator’s Elixir pg548
+    - Lesser Healing Potion
 
-C24. Trapped Chest
-Stealth DC 21,
-Disable: Expert Crafting DC 15 or Trained Thievery DC 17
-Attack: +12, Damage: 1d12+4
-50gp, Gold Holy Symbol of Sarenrae worth 10gp, Jade Necklace worth 5gp, Blue Silk Gown worth 15gp. Infiltrator’s Elixir pg548, Lesser Healing Potion
+### C27. Bunyip Lair (40xp, trivial threat)
+  - **Creatures:**
+    - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
+  - **Loot:**
+    - TBD
 
-D2. Bruthazmus{Bugbear fighter}, 4x Goblin Warrior, 100xp
+## Thistletop Dungeon: Level 1
 
-D4b. Orik Vancaskerkin{Human Fighter 4}, When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave. 60xp
+### D2. Chieftan's Harem
+  - **Creatures:**
+    - [Bruthazmus](https://2e.aonprd.com/Monsters.aspx?ID=59)
+    - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+  - 100xp
 
-D7. 2x Chokers, 60xp
-
-D12. Hell Hounds, 80xp
-
-D15. Lyrie Ankeja{Human Wizard 4}, 60xp
-
+### D4b. Orik's Chambers (60xp, low threat)
+  - **Creatures:**
+    - Orik Vancaskerkin{Human Fighter 4}, 
+  - **Tactics:**
+    - When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave.
 
 Orik Vancaskerkin {Medium, Human Fighter 4}
 Perception: +6; Languages: Common, Goblinoid
@@ -236,13 +325,20 @@ Aggressive Shield{FA}: Trigger: You use a Shield Block Reaction With a Heavy Shi
 Quick Reversal{A}: if you are flanked, make a Strike against one of the Flanking Creatures, if it misses make another Strike against the other Flanking creature with the same attack and same multiple attack penalty
 Feats: Furious Focus{Fighter}, Aggressive Shield{Fighter}, Quick Reversal{Fighter}, Unconventional Weaponry [Elven Curve Blade] {Ancestry}, Quick Repair{Background},
 Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Lesser Healing Potion, 2x Spellstrike Ammunition, 10gp
- 
 
+### D7. Tentamort Hunting Grounds
+  - **Creatures:**
+    - 1x [Tentamort] TODO
+  - 60xp
 
+### D12. Chapel to Lamashtu (80xp, moderate threat)
+  - **Creatures:**
+    - 2x [Hell Hounds](https://2e.aonprd.com/Monsters.aspx?ID=259)
 
+### D15. Research Room (60xp, low threat)
+  - **Creatures:**
+    - [Lyrie Akenja] {Human Wizard 4}
 
-
- 
 Lyrie Ankeja{Medium Human Illusion Wizard 4}
 Perception: +6; Languages: Common, Abyssal, Resonance Points: 5
 Skills: +4; Arcana: +9,
@@ -260,11 +356,9 @@ Widen Spell{FA}: When you cast a spell with a Burst, Cone, or line and it does n
 Feats: Adapted Spell{Ancestry}, Assurance Arcana{Background}, Widen Spell{Wizard}, Empowering Focus{Wizard}
 Items: Lesser Mentalist’s Staff, Infiltrator’s Elixir, 1x Lesser Healing Potion. 10gp
 
+## Thistletop Dungeon: Level 2
 
-
-
-
-E3. Trapped Hall Level 4,
+### E3. Trapped Hall Level 4,
 Stealth DC 23,
 Disable: Expert Crafting DC 17 or Trained Thievery DC 19
 Reflex DC 17
@@ -273,16 +367,11 @@ Critical Success: Same as Success but Creature also takes a free Step Action in 
 Failure: 2d8+6 Damage
 Critical Failure: 4d8+12 Damage
 
-E4. Observation Deck, Nualia{Human Cleric Fighter Dedication 6}, Hell Hound, 160xp.
- 
- E6. Crypt: Weak Shadow x3, 90xp, E7. Collapsed Treasury: Minor Water Elemental, 30xp. 1000sp, 40gp, Mistform Elixir, +1 L or Medium Armor Rune
-
-E9. Wand of 2nd level spell, Lesser Elixir of Life, Disrupting Rune, +1 Weapon Potency Rune, +1 Heavy Armor Rune
-
-E10. Malfeshnekors Lair. Malfeshnekor {Greater Barghest}, 120xp,
-
-
-Returning to town, and explaining that the threat from Thistletop is stopped. 600xp, 3x Moderate Healing Potions, 20gp.
+### E4. Observation Deck
+  - **Creatures:**
+    - [Nualia] 
+    - [Hell Hound](https://2e.aonprd.com/Monsters.aspx?ID=259)
+  - 160xp.
 
 Nualia{Medium Human Cleric Fighter Dedication 6}
 Perception: +10; Languages: Common, Abyssal, Resonance: 9
@@ -302,3 +391,36 @@ Cantrips:
 3rd:
 Feats: Natural Ambition{Ancestry}, General Training{Ancestry}, Armor Proficiency{General}, Expanded Domain{Cleric 1st}, Fighter Dedication{Cleric 2nd}, Channel Smite{Cleric 4th}, Opportunist{Cleric 6th}, Student of the Canon{Background}, Fleet{General},
 Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1, 2x Lesser Elixir of Life, 40gp
+ 
+### E6. Crypt (120xp, severe threat)
+  - **Creatures:**
+    - 3x Weak [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
+  -90xp
+
+### E7. Collapsed Treasury
+  - **Creatures:**
+    - [Minor Water Elemental]? [Hermit Crab]?
+  - 30xp
+  - **Loot:**
+    - Coins: 1400sp
+    - Mistform Elixir
+    - +1 L or Medium Armor Rune
+
+### E9. Transmutation Room
+  - **Loot:**
+    - Wand of 2nd level spell
+    - Lesser Elixir of Life
+    - Disrupting Rune
+    - +1 Weapon Potency Rune
+    - +1 Heavy Armor Rune
+
+### E10. Malfeshnekors Prison (160xp, extreme threat)
+  - **Creatures:**
+    - [Malfeshnekor - Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
+  - 120xp
+
+### Returning to town (600xp, RP encounter)
+  - **XP:** explaining that the threat from Thistletop is stopped. 600xp, 
+  - **Loot:**
+    - 3x Moderate Healing Potions (3x C6) [[ seems too powerful ]]
+    - 20gp.
