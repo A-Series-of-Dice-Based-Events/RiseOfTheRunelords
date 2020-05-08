@@ -239,12 +239,13 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
-    - [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Kraken](https://2e.aonprd.com/Monsters.aspx?ID=382)
-    - Please someone build a Black Magga as using a Kraken is nowhere near the experience wanted
+    - [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Black Magga](https://monster.pf2.tools/v/6PxpTpPm)
   - **Encounter Notes:**    
-    - Note that the large level disparity is even more severe in PF2 than in PF1, and crits from Black Magga may be one hit kills. Need to find a way using status conditions and other standard mechanisms to make this temporarily survivable.
-    
-### C4. Gorger and Chaw’s Lair (trivial+ threat, terrain makes it more challenging)
+    - As she has only just awoken from several hundred years sleep Black Magga is not yet at the height of her powers. Apply the double weak template.
+    - Black Magga is having her worse day in millenia. She has just been rudely woken up from several hundred years sleep, by ogres banging on the dam, and which if left unchecked could destroy her home. While attempting to sort that out part of the dam collapsed under her and she fell over 200 feet to the valley below taking serious damage. Now she has spotted a church to a forbidden deity. This is the perfect outlet for her annoyance.
+    - Tactics: Black Magga focusses on destroying the church and ignores anyone and anything else unless they attack or block her. If anyone stands up to her and lives through an attack, or she takes 10 or more points of damage from any source, or suffers a negative spell effect, this is enough to snap her out of her anger, and she retreats to the depths of Claybottom Lake to plan and recharge her powers.
+
+### C4. Gorger and Chaw’s Lair (trivial threat, terrain makes it more challenging)
   - **Creatures:**
     - [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** TBD
@@ -266,7 +267,7 @@ C13. Observation Deck (moderate threat)
 
 C15. Floodgate Controls (low to moderate threat)
   - **Creatures:**
-    - [Skull Ripper](https://monster.pf2.tools/v/0o68SORR)
+    - [Skull Ripper](https://monster.pf2.tools/v/8VV0VY6R)
 
 ## Part 4: The Haunted Heart
 
