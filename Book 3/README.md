@@ -251,22 +251,22 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
     - [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** TBD
 
-C6. Ogre Demolition Crew (trivial threat with severe terrain)
+### C6. Ogre Demolition Crew (trivial threat with severe terrain)
   - **Creatures:**
     - 1x [Malugus Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
     - 4x [Exhausted Ogres](https://2e.aonprd.com/Monsters.aspx?ID=317)
   - **Encounter Notes:**
     - The terrain makes this trivial threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
-C7. Battlefield (moderate threat)
+### C7. Battlefield (moderate threat)
   - **Creatures:**
     - 4x [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
 
-C13. Observation Deck (moderate threat)
+### C13. Observation Deck (moderate threat)
   - **Creatures:**
     - [Grazuul - Troll King](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-C15. Floodgate Controls (low to moderate threat)
+### C15. Floodgate Controls (low to moderate threat)
   - **Creatures:**
     - [Skull Ripper](https://monster.pf2.tools/v/8VV0VY6R)
 
