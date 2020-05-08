@@ -241,9 +241,10 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
   - **Creatures:**
     - [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Black Magga](https://monster.pf2.tools/v/6PxpTpPm)
   - **Encounter Notes:**    
-    - As she has only just awoken from several hundred years sleep Black Magga is not yet at the height of her powers. Apply the double weak template.
-    - Black Magga is having her worse day in millenia. She has just been rudely woken up from several hundred years sleep, by ogres banging on the dam, and which if left unchecked could destroy her home. While attempting to sort that out part of the dam collapsed under her and she fell over 200 feet to the valley below taking serious damage. Now she has spotted a church to a forbidden deity. This is the perfect outlet for her annoyance.
-    - Tactics: Black Magga focusses on destroying the church and ignores anyone and anything else unless they attack or block her. If anyone stands up to her and lives through an attack, or she takes 10 or more points of damage from any source, or suffers a negative spell effect, this is enough to snap her out of her anger, and she retreats to the depths of Claybottom Lake to plan and recharge her powers.
+    - As she has only just awoken from several hundred years hibernation Black Magga is not yet at the height of her powers. Apply the weak or double weak template to keep her effective level within 5 of the party.
+    - Black Magga is having her worse day in millenia. She has just been rudely woken up from several hundred years hibernation, by ogres banging on the dam, and which if left unchecked could destroy her home. While attempting to sort that out part of the dam collapsed under her and she fell over 200 feet to the valley below taking serious damage. Now she has spotted a church to an opposed deity. This is the perfect outlet for her annoyance.
+    - Tactics: Black Magga focusses on destroying the church and ignores anyone and anything else unless they attack or block her. If anyone stands up to her and lives through a round of attacks, or she takes 10 or more points of damage from any source, or she suffers a negative status effect, this is enough to snap her out of her anger, and she retreats to the depths of Claybottom Lake to plan her revenge and recharge.
+     - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
 
 ### C4. Gorger and Chaw’s Lair (trivial threat, terrain makes it more challenging)
   - **Creatures:**
