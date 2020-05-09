@@ -153,7 +153,7 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 
 ### B8. Ancient Study
   - **Loot:**
-    - Scroll of Flaming Sphere pg338, Seek DC of 19
+    - Scroll of Flaming Sphere (C3), Perception DC 19
 
 ### B9. Prisoner Pits (80xp, )
   - **Creatures:**
@@ -353,12 +353,13 @@ Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Le
 
 ### D7. Tentamort Hunting Grounds
   - **Creatures:**
-    - 1x [Tentamort] TODO
+    - 1x [Tentamort] use a medium Otyugh as template: swap Jaws and Disease for Sting and Poison; remove Stench
   - 60xp
 
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
   - **Creatures:**
-    - 2x [Hell Hounds](https://2e.aonprd.com/Monsters.aspx?ID=259)
+    - 2x [Hell Hounds](https://2e.aonprd.com/Monsters.aspx?ID=259) 
+    - Note Yeth Hounds are in upcoming Bestiary 2
 
 ### D15. Research Room (60xp, low threat)
   - **Creatures:**
@@ -420,14 +421,13 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
 ### E6. Crypt (120xp, severe threat)
   - **Creatures:**
     - 3x Weak [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
-  -90xp
 
 ### E7. Collapsed Treasury
   - **Creatures:**
-    - [Minor Water Elemental]? [Hermit Crab]?
+    - [Awaiting Giant Crab in Bestiary 2]
   - 30xp
   - **Loot:**
-    - Coins: 1400sp
+    - 1400sp
     - Mistform Elixir
     - +1 L or Medium Armor Rune
 
