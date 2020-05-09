@@ -1,11 +1,16 @@
-# Burnt Offerings lv1-4
+# Burnt Offerings lv1-4 - conversion guide for Pathfinder 2
+
+  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure.
+  - The storyline, color text, maps and images requires the original scenario.
+
+## Party Level and Target Allocation of Treasure
 
 - Lvl 1: up to the Catacombs of Wrath 
 - Lvl 2: start Catacombs of Wrath (Pt3.5)
 - Lvl 3: start Thistletop (Part 4)
 - Lvl 4: conclusion of Thistletop (Part 4)
 
-Level | Total gp | Permanent Items       | Consumables                      | Cash  | Part
+Level | Total gp | Permanent Items (P)   | Consumables (C)                  | Cash  | Part
 ------|----------|-----------------------|----------------------------------|-------|-----
 Lv1   | 175gp    | **2nd:** 2 **1st:** 2 | **2nd:** 2 **1st:** 3            | 40gp  | 1 2
 Lv2   | 300gp    | **3rd:** 2 **2nd:** 2 | **3rd:** 2 **2nd:** 2 **1st:** 2 | 70gp  | End of 3
@@ -13,29 +18,52 @@ Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2 | 12
 Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-## Part 1: Festival and Fire
+## NPC Roster (key stats only)
+  - [Sherriff Belor Hemlock] Fighter 4, Longsword, Composite Longbow, Chain Shirt 
+  - 12x [Town Guard] Fighter 1
+  - 50x [Militia] 
+  - [Father Abstalar Zantus - cleric of Desna] Cleric 4
+  - 4x [Cathedral Acolytes] Cleric 1
+  - [Ameiko Kaijutsu noble and tavern owner] Bard 4
+  - [Ilsoari Gandethus - Headmaster] Wizard 4
+  - [Daviren Hosk - stable owner] Ranger 4
+  - [Shelelu Andosana - Elven Ranger] Ranger 6
+  - [Brodert Quink - Sage] Understands Thassilonian and many other languages; Specialist knowledge ancient Thassilon
+  - [Aldern Foxglove - Noble] Rogue 3
 
-Encounters assume party level 1.
+## Part 1: Festival and Fire (Party Level 1)
 
-As the players run through Part1, allow an NPC to come to their aid with healing if any of the PCs get too beat up. Part1 shouldn't be brutal but rather fun and exciting. Feel free to withold the NPC if the players are more experienced. Most creatures I've added the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) tempalte too to help make this not so dire. -Mirko
+  - Part 1 shouldn't be brutal but rather fun and exciting. 
+  - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
+  - Apply the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template to creatures in later encounters if you need to reduce the difficulty for inexperienced or unlucky players.
+  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner . Or just an arrow or crossbow bolt fired from a window or doorway by local militia.
 
 ### Initial Assault (60xp, low threat)
  - **Creatures:** 
-    - 3x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
+    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
  - **Loot:** none
 
 ### Goblin Pyros (80xp, moderate threat)
   - **Creatures:** 
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
-    - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
-  - **Loot:** none
+    - [Weak - decrease hp by 10, decrease attack, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
+    - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
+   - **Loot:**
+    - Minor Healing Potion (C1)
+    - Shortbow and 20 arrows (P1)
+    - 10sp
 
-### Die Dog Die! (160xp, severe threat)
- - **Creatures:** 
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
-    - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+### Die Dog Die! (120xp, severe threat)
+  - **Creatures:** 
     - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
- - **Loot:** none
+    - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+  - **Loot:**
+    - Minor Healing Potion (C1)
+    - Shortbow and 20 arrows (P1)
+    - 10sp
+
+### Aftermath
+  - **Loot:**
+    - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth 35sp each = 140sp)
 
 ## Part 2: Local Heroes
 
@@ -51,40 +79,39 @@ As the players run through Part1, allow an NPC to come to their aid with healing
 
 ### The Boar Hunt (60xp, low threat)
   - **Creatures:**
-    - 1x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52), 60xp, 
+    - 1x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52)
   - **Loot:**
-    - Composite Longbow, 20gp
+    - 200sp reward
 
 ### Trouble at the Rusty Dragon (RP encounter, no real threat)
   - Conditional XP, 40xp for getting rid of Lonjiku, 80xp for doing so Peacefully.
 
 ### Monster in the closet (60xp, low threat)
   - **Creatures:**
-    - 1x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
-  - **Loot:**
-    - Bloodseeker Beak (Consumable L4). [[seems too powerful]]
+    - 1x [Elite - increase hp by 10, increase to hit, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=790): [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) Has only an improvised dagger.
+  - **Loot:** None
 
-## Part 3: Glass and Wrath
-
-Encounters assume party level 1
+## Part 3A: Glassworks (Party Level 1)
 
 ### Investigating the glassworks
   - conditional xp: 40xp for breaking the door, 80xp for unlocking.
 
-### Against the goblins part 1 (severe threat, though goblin tactics and terrain reduce this)
+### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain reduce this)
   - **Creatures:**
-    - 8x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) {-2 to every check for the goblins, -2 to AC and Saves}, 160xp – 20xp per goblin that fled
-  - **Loot:**
-    - 2 x Lesser Healing Potions (C3), Oil of Potency, Everburning Torch in room,
+    - 8x [Weak - decrease hp by 10, decrease attack, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+  - **Loot:** None
 
-### Against the Goblins Part 2 (severe threat)
+### Against the Goblins Part 2 (120xp or more, severe to extreme threat)
   - **Creatures:**
     - Tsuto Kaijutsu 
     - Any goblins that fled part 1 join Tsuto
   - **XP:** 
-    - 120xp + 20xp per goblin who joined.
+    - 120xp + 15xp per goblin who joined.
     - Interrogating Tsuto: Conditional XP, 50xp for DC 14, 75xp for DC 17, 100xp for DC 20. Result of roll indicates how much info he spills, up to GM.
-    - Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. She also gives them a +1 L or M Armor Potency rune.
+    - Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. 
+  - **Loot:**
+    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each)
+    - Ameiko also rewards the PCs with +1 Weapon Potency rune (P2).
 
 Tsuto Kaijitsu {Half-Elf; Monk/Rogue} Creature 4
 CE, Medium. Laborer;
@@ -99,27 +126,24 @@ FoB: +8/+8 {1d6/1d6} if both hit same target combine damage vs. resistance
 Surprise Attack: First Round of Combat anyone who hasn’t acted is flat-footed to Tsuto.
 Sneak Attacker: 1d4 Sneak attack damage against flatfooted creatures.
 Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}
-Items: Expert Handwraps of Mighty Fists, Cheetah Elixir, Potion of Invisibility, Oil of Potency, 20gp
-
+Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potency (C2), 200sp
  
-## Part 3B. CATACOMBS OF WRATH
+## Part 3B. Catacombs of Wrath (Party level 2)
 
-Encounters assume party level 2
-
-### B1. Guard Cave
+### B1. Guard Cave (40xp, trivial threat)
   - **Creatures:**
-    - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371), 40xp
+    - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
   - **Loot:**
-    - Sleep Arrow x4 - deep blue with plush fletching pg560
-    - Jade Cat - thumb sized feline pendant pg568
+    - 4x [Sleep Arrow - deep blue with plush fletching](http://2e.aonprd.com/Equipment.aspx?ID=166) (4xC3)
+    - [Jade Cat](http://2e.aonprd.com/Equipment.aspx?ID=223) - thumb sized feline pendant (C2)
 
 ### B3. Welcoming Chamber
   - **Loot:**
-    - Ancient Ranseur (a long trident wifh a central prong that's longer than the other two) worth 20gp
+    - Ancient Ornamental Ranseur (a long trident wifh a central prong that's longer than the other two) worth 200sp
 
 ### B4. Washing Pool
   - **Creatures:** - Vargouille; 40xp,
-  - TODO build Vargouille 
+  - TODO build Vargouille
 
 ### B6. Ancient Prison
   - **Creatures:**
@@ -129,11 +153,12 @@ Encounters assume party level 2
   - **Loot:**
     - Scroll of Flaming Sphere pg338, Seek DC of 19
 
-### B9. Prisoner Pits
+### B9. Prisoner Pits (80xp, )
   - **Creatures:**
     - [Koruvus] TODO
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
-  - 80xp
+  - **Loot:**
+    - +1 weapon potency rune (P2)
 
 Koruvus (Abomination Goblin Fighter 3)
 CE, Goblin, Small. Malformed Limb (Can use an additional action but only for Combat Grab)
@@ -160,19 +185,17 @@ Items: Longsword, Dogslicer, +1 Scale Mail,
   - **Loot:**
     - TODO: replace Waters of Lamashtu
 
-### B13. Cathedral of Wrath
+### B13. Cathedral of Wrath (120xp+, severe threat)
   - **Creatures:**
-    - Erylium {Elite Quasit}, Sinspawn, 
+    - Erylium {Elite Quasit} see playtest bestiary
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
-120xp + 100xp for deactivating the runewell.
+  - 120xp + 100xp for deactivating the runewell.
   - **Loot:**
-    - Invisibility Potion pg563
+    - Invisibility Potion (C4)
     - Dark Vision Elixir Lesser 10min pg547
-    - +1 L or M Armor Potency Rune pg581
+    - +1 weapon potency rune (P2)
 
-## Part 4. Thistletop
-
-Encounters assume party level 3
+## Part 4. Thistletop (party level 3)
 
 ### C4. Refugees Nest
   - **Creatures:**
