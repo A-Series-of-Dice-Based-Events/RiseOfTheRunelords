@@ -18,7 +18,9 @@ Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2 | 12
 Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-## NPC Roster (key stats only)
+  - Note that the majority of the items are on key enemy NPCs.
+
+## Friendly NPC Roster (key stats only)
   - [Sherriff Belor Hemlock] Fighter 4, Longsword, Composite Longbow, Chain Shirt 
   - 12x [Town Guard] Fighter 1
   - 50x [Militia] 
@@ -36,7 +38,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
   - Apply the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template to creatures in later encounters if you need to reduce the difficulty for inexperienced or unlucky players.
-  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner . Or just an arrow or crossbow bolt fired from a window or doorway by local militia.
+  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk. For example an arrow or crossbow bolt fired from a window or doorway by local militia.
 
 ### Initial Assault (60xp, low threat)
  - **Creatures:** 
