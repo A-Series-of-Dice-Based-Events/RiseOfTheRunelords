@@ -17,7 +17,7 @@
 ### General TO DO
   - DCs of non hazards - e.g. sickening smell
   - Treasure allocation - replace old treasure with new guidelines
-  
+
 ## Party Level and Target Allocation of Treasure
 
 - Lvl 7: Party should be close to 8th level at start of the book 
@@ -105,7 +105,7 @@ Encounter notes include scaling for level 8 parties.
 ### A12. Hucker's Lair (moderate threat)
   - **Creatures:** 
     - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
   - **Encounter Notes:**
     - Party level 7: Hucker is a moderate challenge by himself. The Donkey Rats should be a level 2 distraction as above with the weak template.
@@ -114,7 +114,7 @@ Encounter notes include scaling for level 8 parties.
 
 ### A14. Tendriculous Lair (trivial to severe combined threat)
   - **Creatures:** 
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+    - [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
     - Party level 8: Apply the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
@@ -131,7 +131,7 @@ Encounter notes include scaling for level 8 parties.
 
 ### A17. Biggin (low threat)
   - **Creatures:** 
-    - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider - Huge sized Giant Tarantula](http://2e.aonprd.com/Rules.aspx?ID=387)
+    - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider - Giant Tarantula](https://2e.aonprd.com/Monsters.aspx?ID=387)
   - **Captive Black Arrows:**
     - [Jakardros Savark](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/Jakardros.pdf)
     - [Vale Temross](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ValeTemros.pdf) 
@@ -167,7 +167,7 @@ Note these are mostly trivial and low threat individual encounters, but there is
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Minktuck Kreeg - Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
     - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
-### B12. Barracks (modereate to severe threat)
+### B12. Barracks (moderate to severe threat)
   - **Creatures:** 
     - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
@@ -201,7 +201,7 @@ Note these are mostly trivial and low threat individual encounters, but there is
 
 ### B29. Chapel (low to Severe combined threat)
   - **Creatures:**
-    - Jaagrath Kreeg [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Jaagrath Kreeg [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe threat.
     
@@ -218,9 +218,9 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
   - **Creatures:**
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
 
-### B36. Lucrecia's Retreat (low to moderate threat)
+### B36. Lucrecia's Retreat (moderate threat)
   - **Creatures:**
-    - [Lucrecia Lamia Matriarch](https://2e.aonprd.com/Monsters.aspx?ID=278)
+    - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](https://2e.aonprd.com/Monsters.aspx?ID=278)
   - **Encounter Notes:**
     - note the threat level rises due to unexpected assistance...
 
@@ -234,13 +234,13 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
 
 ### Saving the Schoolchildren (trivial threat)
   - **Creatures:** 
-    - 1x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
+    - 1x [Weak : -20HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
     - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying double weak, or even replacing with some other low level emergency where the PCs can shine.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
-    - [Double Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Black Magga](https://monster.pf2.tools/v/6PxpTpPm)
+    - [Double Weak : -40HP, -4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): [Black Magga](https://monster.pf2.tools/v/6PxpTpPm)
   - **Encounter Notes:**    
     - As she has only just awoken from several hundred years hibernation Black Magga is not yet at the height of her powers. Apply the weak or double weak template to keep her effective level within 5 of the party.
     - Black Magga is having her worse day in millenia. She has just been rudely woken up from several hundred years hibernation, by ogres banging on the dam, and which if left unchecked could destroy her home. While attempting to sort that out part of the dam collapsed under her and she fell over 200 feet to the valley below taking serious damage. Now she has spotted a church to an opposed deity. This is the perfect outlet for her annoyance.
