@@ -148,7 +148,7 @@ Note these are mostly trivial and low threat individual encounters, but there is
 To make ogres XP relevant to both level 8 and level 9 parties the following replacement standard ogres are used in PF2
 
 PF1 Monster  | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (party level 8/9)
--------------|------------------|----------------|---------------------------------
+-------------|------------------|----------------|-----------|----------------------
 Ogre         | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | Double [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)   | 5 | 15/10
 Ogre Fighter | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
 
