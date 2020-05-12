@@ -18,7 +18,7 @@
   - DCs of non hazards - e.g. sickening smell
   - Treasure allocation - replace old treasure with new guidelines
 
-## Party Level and Target Allocation of Treasure
+### Party Level and Target Allocation of Treasure
 
 - Lvl 7: Party should be close to 8th level at start of the book 
 - Lvl 8: After first encounter with the Grauls
@@ -139,41 +139,51 @@ Encounter notes include scaling for level 8 parties.
 
 ## Part 2: Retaking Rannick (Party Level 8-9)
 
-Creatures are taken from existing bestiary entries. Sometimes using similar types of creatures where bestiary entries don't exist.  
+Creatures are taken from existing bestiary entries and adjusted using weak and elite templates where practical. Sometimes using similar types of creatures where bestiary entries don't exist.  
 
-Bestiary Ogres seem a close fit to requirements. Though many need the [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) template adding to fit PF2 encounter profiles. This also reflects the better gear and training they have under their new leader.
+Note these are mostly trivial and low threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
-Note these are mostly trivial and low threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then do not apply the elite template. To up the challenge level you just need to make it more likely encounters will combine.
+### Standard Ogre conversions:
 
-### B2. East Gate (trivial threat)
+To make ogres XP relevant to both level 8 and level 9 parties the following replacement standard ogres are used in PF2
+
+PF1 Monster  | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (party level 8/9)
+-------------|------------------|----------------|---------------------------------
+Ogre         | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | Double [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)   | 5 | 15/10
+Ogre Fighter | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
+
+The unique ogres are covered below.
+
+### B2. East Gate (XP 15/10, trivial threat)
   - **Creatures:** 
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - Ogre Warrior
 
-### B4. Old Guard Post (trivial to low threat)
+### B4. Old Guard Post (XP 70/50, low threat)
   - **Creatures:** 
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Karly-Lop Kreeg - Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - Ogre Boss
+    - 2x Ogre Warriors
 
-### B6. Cookhouse (trivial threat)
+### B6. Cookhouse (XP 40/30, trivial threat)
   - **Creatures:** 
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Jolly Kreeg - Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Ogre Boss
 
 ### B7. Drainage Ditch
   - **Hazards:**
-    - [Using diseased entryway - save vs Filth Fever as if bitten by a Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
+    - Using diseased entryway - save vs Filth Fever as if bitten by a [Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
 
-### B8. South Gate (trivial to low threat)
+### B8. South Gate (XP 55/40, low/trivial threat)
   - **Creatures:** 
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Minktuck Kreeg - Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-    - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - Ogre Boss
+    - Ogre Warrior
 
-### B12. Barracks (moderate to severe threat)
+### B12. Barracks (XP 180/120 extreme/severe threat)
   - **Creatures:** 
-    - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 12x Sleeping Ogre Warriors
 
 ### B13. Secret Armory (trivial threat)
   - **Creatures:** 
     - 2x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=174) (obviously read swim speed as land speed)
+    - Note: Shocker Lizard is in Bestiary 2, released at end of May 2020
 
 ### B14. Ravine (trivial threat)
   - **Hazards:**
@@ -182,53 +192,55 @@ Note these are mostly trivial and low threat individual encounters, but there is
 ### B15 Crypt (trivial threat)
   - **Creatures:**
     - Lorgus Fenker [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wraith](https://2e.aonprd.com/Monsters.aspx?ID=417)
+    - alternatively use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
     
-### B18. Workroom (trivial threat)
+### B18. Workroom (XP 40/30, trivial threat)
   - **Creatures:**
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Gragavan Kreeg - Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)    
+    - Ogre Boss 
 
-### B19. Armory (trivial threat)
+### B19. Armory (XP 30/20, trivial threat)
   - **Creatures:** 
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 2x Ogre Warrior
     
-### B23. Library (trivial threat)
+### B23. Library (XP 40/30, trivial threat)
   - **Creatures:**
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Silas Kreeg - Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Ogre Boss
     
-### B24. Barracks (trivial threat)
+### B24. Barracks (XP 60/40, low/trivial threat)
   - **Creatures:**
-    - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 4x Ogre Warriors
 
-### B29. Chapel (low to Severe combined threat)
+### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
     - Jaagrath Kreeg [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
   - **Encounter Notes:**
-    - B29 and B30 are likely to run together and become a severe threat.
+    - B29 and B30 are likely to run together and become a severe to extreme threat.
     
-### B30. Commanders Quarters (moderate to Severe combined threat)
+### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
-    - Harlock "Hookmaw" Kreeg [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Ogre Boss
     - Dorella Kreeg - Ogre Sorceress
 For physical and combat stats use an [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
 For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.aspx?ID=306)
   - **Encounter Notes:**
-    - B29 and B30 are likely to run together and become a severe threat.
+    - B29 and B30 are likely to run together and become a severe to extreme threat.
 
-### B31. Tribunal (trivial threat)
+### B31. Tribunal (XP 30/20, trivial threat)
   - **Creatures:**
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 2x Ogre Warriors
 
-### B36. Lucrecia's Retreat (moderate threat)
+### B36. Lucrecia's Retreat (XP 80/60, moderate/low threat)
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](https://2e.aonprd.com/Monsters.aspx?ID=278)
   - **Encounter Notes:**
-    - note the threat level rises due to unexpected assistance...
+    - note the threat level may rise due to unexpected assistance...
 
-### B37. Lizard Warrens (moderate to severe threat)
+### B37. Lizard Warrens (XP 120/-, severe/- threat)
   - **Creatures:** 
     - 12x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=174)
   - **Encounter Notes:**
-    - Applying the double elite template to a level 1 creature likely makes it closer to level 4 than level 3. This could make the encounter severe.
+    - Applying the double elite template to a level 1 creature likely makes it closer to level 4 than level 3. This could make the encounter severe for a level 8 party.
+
 
 ## Part 3: Down Comes the Rain (Party Level 9)
 
@@ -249,7 +261,7 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
 
 ### C4. Gorger and Chaw’s Lair (trivial threat, terrain makes it more challenging)
   - **Creatures:**
-    - [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
+    - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** TBD
 
 ### C6. Ogre Demolition Crew (trivial threat with severe terrain)
