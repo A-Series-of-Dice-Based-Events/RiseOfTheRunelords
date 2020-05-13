@@ -213,7 +213,7 @@ The unique ogres are covered below.
 ### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
     - Jaagrath Kreeg:
-    ![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg-1589395574.png)
+![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg-1589395574.png)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
     
@@ -221,7 +221,7 @@ The unique ogres are covered below.
   - **Creatures:**
     - Ogre Boss
     - Dorella Kreeg:
-    ![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg-1589397536)
+![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg-1589397536.png)
 
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
@@ -254,7 +254,7 @@ The unique ogres are covered below.
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
     - Black Magga:
-    ![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga-1589019390)
+![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga-1589019390.png)
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
 
@@ -281,7 +281,7 @@ The unique ogres are covered below.
 ### C15. Floodgate Controls (low to moderate threat)
   - **Creatures:**
     - Skull Ripper:
-    ![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper-1589018367)
+![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper-1589018367.png)
 
 ## Part 4: The Haunted Heart (Party Level 9/10)
 
