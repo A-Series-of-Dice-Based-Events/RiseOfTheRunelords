@@ -53,7 +53,10 @@ Encounter notes include scaling for level 8 parties.
  - **Creatures:** 
     - [Kibb - Firepelt Cougar Animal Companion]
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
-    - [Rukus Graul](https://monster.pf2.tools/v/mox9QoHm)
+    - Rukus Graul:
+
+![Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul_8-1589405951.png)
+
  - **Loot:** +1 striking spear, favorite blanket (ratty, flea infested, and decorated with several Black Arrows insignias)
 
 ### The Graul Farm (moderate threat)
@@ -80,7 +83,10 @@ Encounter notes include scaling for level 8 parties.
     
 ### A5. Playpen (low threat)
   - **Creatures:** 
-    - [Lucky and Maulgro Graul - Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
+    - Lucky and Maulgro Graul - Ogrekin Fighters:
+
+![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter_6-1589406106.png)
+
   - **Loot:** None
 
 ### A6. Rukus's Room
@@ -126,7 +132,10 @@ Encounter notes include scaling for level 8 parties.
 
 ### A16. Kennel (moderate threat)
   - **Creatures:** 
-    - [Hograth, Jeppo, and Sugar Graul - Ogrekin Fighters](https://monster.pf2.tools/v/cV7bSOhl)
+    - Hograth, Jeppo, and Sugar Graul - Ogrekin Fighters:
+
+![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter_6-1589406106.png)
+
   - **Loot:** TBD
 
 ### A17. Biggin (low threat)
@@ -147,10 +156,10 @@ Note these are mostly trivial and low threat individual encounters, but there is
 
 To make ogres XP relevant to both level 8 and level 9 parties the following replacement standard ogres are used in PF2
 
-PF1 Monster  | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (party level 8/9)
--------------|------------------|----------------|-----------|----------------------
-Ogre         | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | Double [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)   | 5 | 15/10
-Ogre Fighter | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
+PF1 Monster  | PF1 CR | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (party level 8/9)
+-------------|--------|------------------|----------------|-----------|----------------------
+Ogre         | 3      | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | Double [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)   | 5 | 15/10
+Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
 
 The unique ogres are covered below.
 
@@ -238,11 +247,12 @@ The unique ogres are covered below.
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
 
-### B37. Lizard Warrens (XP 120/-, severe/- threat)
+### B37. Lizard Warrens (XP 120/-, moderate/- threat)
   - **Creatures:** 
     - 12x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=174)
+    - Note: Shocker Lizard is in Bestiary 2, released at end of May 2020
   - **Encounter Notes:**
-    - Applying the double elite template to a level 1 creature likely makes it closer to level 4 than level 3. This could make the encounter severe for a level 8 party.
+    - Applying the double elite template to a level 1 creature likely makes it closer to level 4 than level 3. This could make the encounter moderate to severe for a level 8 party.
 
 
 ## Part 3: Down Comes the Rain (Party Level 9)
