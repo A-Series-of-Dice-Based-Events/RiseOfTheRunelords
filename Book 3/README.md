@@ -212,7 +212,8 @@ The unique ogres are covered below.
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
-    - Jaagrath Kreeg [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Option 1: Jaagrath Kreeg [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - Option 2: [Jaagrath Kreeg](https://monster.pf2.tools/v/6Jh2vJbd)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
     
