@@ -212,17 +212,17 @@ The unique ogres are covered below.
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
-    - Option 1: Jaagrath Kreeg [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-    - Option 2: [Jaagrath Kreeg](https://monster.pf2.tools/v/6Jh2vJbd)
+    - Jaagrath Kreeg:
+    ![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg-1589395574.png)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
     
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
     - Ogre Boss
-    - Dorella Kreeg - Ogre Sorceress
-For physical and combat stats use an [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.aspx?ID=306)
+    - Dorella Kreeg:
+    ![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg-1589397536)
+
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
@@ -253,11 +253,9 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
-    - [Double Weak : -40HP, -4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): [Black Magga](https://monster.pf2.tools/v/6PxpTpPm)
+    - Black Magga:
+    ![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga-1589019390)
   - **Encounter Notes:**    
-    - As she has only just awoken from several hundred years hibernation Black Magga is not yet at the height of her powers. Apply the weak or double weak template to keep her effective level within 5 of the party.
-    - Black Magga is having her worse day in millenia. She has just been rudely woken up from several hundred years hibernation, by ogres banging on the dam, and which if left unchecked could destroy her home. While attempting to sort that out part of the dam collapsed under her and she fell over 200 feet to the valley below taking serious damage. Now she has spotted a church to an opposed deity. This is the perfect outlet for her annoyance.
-    - Tactics: Black Magga focusses on destroying the church and ignores anyone and anything else unless they attack or block her. If anyone stands up to her and lives through a round of attacks, or she takes 10 or more points of damage from any source, or she suffers a negative status effect, this is enough to snap her out of her anger, and she retreats to the depths of Claybottom Lake to plan her revenge and recharge.
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
 
 ### C4. Gorger and Chaw’s Lair (trivial threat, terrain makes it more challenging)
@@ -267,8 +265,8 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
 
 ### C6. Ogre Demolition Crew (trivial threat with severe terrain)
   - **Creatures:**
-    - 1x [Malugus Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
-    - 4x [Exhausted Ogres](https://2e.aonprd.com/Monsters.aspx?ID=317)
+    - 1x Ogre Boss
+    - 4x Ogres
   - **Encounter Notes:**
     - The terrain makes this trivial threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
@@ -282,13 +280,14 @@ For spells and spell DCs only, use a [Dark Naga](https://2e.aonprd.com/Monsters.
 
 ### C15. Floodgate Controls (low to moderate threat)
   - **Creatures:**
-    - [Skull Ripper](https://monster.pf2.tools/v/8VV0VY6R)
+    - Skull Ripper:
+    ![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper-1589018367)
 
-## Part 4: The Haunted Heart (Party Level 10)
+## Part 4: The Haunted Heart (Party Level 9/10)
 
 ### A Desperate Plea
   - **Creatures:**
-    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
+	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 
 ### Heart of Sadness
   - **Creatures:**
