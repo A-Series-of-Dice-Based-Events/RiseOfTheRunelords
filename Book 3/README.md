@@ -300,7 +300,8 @@ The unique ogres are covered individually below.
     - [Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.pdf)
 
 ![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.png)
-
+    - [Giant Scorpion Venom](https://2e.aonprd.com/Equipment.aspx?ID=114)
+    
 ## Part 4: The Haunted Heart (Party Level 9/10)
 
 ### A Desperate Plea
