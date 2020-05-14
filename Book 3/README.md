@@ -1,11 +1,13 @@
 # Hook Mountain Massacre : level 7-10 - conversion guide for Pathfinder 2
 
-  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure.
+  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure.
   - The storyline, color text, maps and images requires the original scenario.
 
-- Development follows an agile approach with the "Minimal Viable Product" created first - just enough to be usable. 
-- This then hopefully makes it easy for others to incrementally improve individual encounters.
-- And boy does it need improving...
+  - Development follows an agile approach with the "Minimal Viable Product" created first - just enough to be usable. 
+  - This then hopefully makes it easy for others to incrementally improve individual encounters.
+  
+  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in the same directory as this file so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - The associated PDF and PNG files are also in this directory and referenced by this document (their unique numerical suffixes are removed to save updating this document every time the creature is tweaked)
 
 ### Index and status
   - Part 1: In The Hook's Shadow - MVP draft - creatures and hazards only
@@ -15,8 +17,8 @@
   - Part 5: Harrowing the Hook - TODO
 
 ### General TO DO
-  - DCs of non hazards - e.g. sickening smell
-  - Treasure allocation - replace old treasure with new guidelines
+  - DCs of non trap hazards - e.g. sickening smell
+  - Treasure allocation - replace old treasure with new level guidelines
 
 ### Party Level and Target Allocation of Treasure
 
@@ -53,11 +55,11 @@ Encounter notes include scaling for level 8 parties.
  - **Creatures:** 
     - [Kibb - Firepelt Cougar Animal Companion]
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
-    - Rukus Graul:
+    - [Rukus Graul]((https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.pdf):
 
-![Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul_8-1589405951.png)
+![Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.png)
 
- - **Loot:** +1 striking spear, favorite blanket (ratty, flea infested, and decorated with several Black Arrows insignias)
+ - **Loot:** +1 striking spear
 
 ### The Graul Farm (moderate threat)
   - **Creatures:** 
@@ -83,9 +85,9 @@ Encounter notes include scaling for level 8 parties.
     
 ### A5. Playpen (low threat)
   - **Creatures:** 
-    - Lucky and Maulgro Graul - Ogrekin Fighters:
+    - Lucky and Maulgro Graul - [Ogrekin Fighters](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
 
-![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter_6-1589406106.png)
+![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.png)
 
   - **Loot:** None
 
@@ -132,9 +134,9 @@ Encounter notes include scaling for level 8 parties.
 
 ### A16. Kennel (moderate threat)
   - **Creatures:** 
-    - Hograth, Jeppo, and Sugar Graul - Ogrekin Fighters:
+    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
 
-![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter_6-1589406106.png)
+![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.png)
 
   - **Loot:** TBD
 
@@ -152,7 +154,7 @@ Creatures are taken from existing bestiary entries and adjusted using weak and e
 
 Note these are mostly trivial and low threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
-### Standard Ogre conversions:
+### Standard Ogre conversions (throughout rest of book 3):
 
 To make ogres XP relevant to both level 8 and level 9 parties the following replacement standard ogres are used in PF2
 
@@ -161,20 +163,22 @@ PF1 Monster  | PF1 CR | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (part
 Ogre         | 3      | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | Double [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)   | 5 | 15/10
 Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
 
-The unique ogres are covered below.
+These adjusted creatures are simply referred to as Ogre Warrior* and Ogre Boss* throughout the rest of this book.
+
+The unique ogres are covered individually below.
 
 ### B2. East Gate (XP 15/10, trivial threat)
   - **Creatures:** 
-    - Ogre Warrior
+    - Ogre Warrior*
 
 ### B4. Old Guard Post (XP 70/50, low threat)
   - **Creatures:** 
-    - Ogre Boss
-    - 2x Ogre Warriors
+    - Ogre Boss*
+    - 2x Ogre Warriors*
 
 ### B6. Cookhouse (XP 40/30, trivial threat)
   - **Creatures:** 
-    - Ogre Boss
+    - Ogre Boss*
 
 ### B7. Drainage Ditch
   - **Hazards:**
@@ -182,12 +186,12 @@ The unique ogres are covered below.
 
 ### B8. South Gate (XP 55/40, low/trivial threat)
   - **Creatures:** 
-    - Ogre Boss
-    - Ogre Warrior
+    - Ogre Boss*
+    - Ogre Warrior*
 
 ### B12. Barracks (XP 180/120 extreme/severe threat)
   - **Creatures:** 
-    - 12x Sleeping Ogre Warriors
+    - 12x Sleeping Ogre Warriors*
 
 ### B13. Secret Armory (trivial threat)
   - **Creatures:** 
@@ -205,41 +209,41 @@ The unique ogres are covered below.
     
 ### B18. Workroom (XP 40/30, trivial threat)
   - **Creatures:**
-    - Ogre Boss 
+    - Ogre Boss*
 
 ### B19. Armory (XP 30/20, trivial threat)
   - **Creatures:** 
-    - 2x Ogre Warrior
+    - 2x Ogre Warrior*
     
 ### B23. Library (XP 40/30, trivial threat)
   - **Creatures:**
-    - Ogre Boss
+    - Ogre Boss*
     
 ### B24. Barracks (XP 60/40, low/trivial threat)
   - **Creatures:**
-    - 4x Ogre Warriors
+    - 4x Ogre Warriors*
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
-    - Jaagrath Kreeg:
+    - [Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg.pdf)
 
-![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg-1589395574.png)
+![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg.png)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
     
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
-    - Ogre Boss
-    - Dorella Kreeg:
+    - Ogre Boss*
+    - [Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.pdf):
 
-![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg-1589397536.png)
+![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.png)
 
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
 ### B31. Tribunal (XP 30/20, trivial threat)
   - **Creatures:**
-    - 2x Ogre Warriors
+    - 2x Ogre Warriors*
 
 ### B36. Lucrecia's Retreat (XP 80/60, moderate/low threat)
   - **Creatures:**
@@ -251,9 +255,6 @@ The unique ogres are covered below.
   - **Creatures:** 
     - 12x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=174)
     - Note: Shocker Lizard is in Bestiary 2, released at end of May 2020
-  - **Encounter Notes:**
-    - Applying the double elite template to a level 1 creature likely makes it closer to level 4 than level 3. This could make the encounter moderate to severe for a level 8 party.
-
 
 ## Part 3: Down Comes the Rain (Party Level 9)
 
@@ -265,9 +266,10 @@ The unique ogres are covered below.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
-    - Black Magga:
+    - [Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.pdf):
 
-![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga-1589399563.png)
+![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.png)
+
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
 
@@ -278,8 +280,8 @@ The unique ogres are covered below.
 
 ### C6. Ogre Demolition Crew (trivial threat with severe terrain)
   - **Creatures:**
-    - 1x Ogre Boss
-    - 4x Ogres
+    - 1x Ogre Boss*
+    - 4x Ogre Warriors*
   - **Encounter Notes:**
     - The terrain makes this trivial threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
@@ -293,9 +295,9 @@ The unique ogres are covered below.
 
 ### C15. Floodgate Controls (low to moderate threat)
   - **Creatures:**
-    - Skull Ripper:
+    - [Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.pdf)
 
-![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper-1589018367.png)
+![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.png)
 
 ## Part 4: The Haunted Heart (Party Level 9/10)
 
@@ -311,10 +313,10 @@ The unique ogres are covered below.
 
 ### D1 Entrance
   - **Creatures:**
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - 2x Ogre Boss*
     
 ### D5 Chokepoint
   - **Creatures:**
-    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)
+    - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
 
