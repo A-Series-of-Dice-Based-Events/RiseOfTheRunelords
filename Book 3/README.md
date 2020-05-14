@@ -1,4 +1,6 @@
-# Hook Mountain Massacre : level 7-10 - conversion guide for Pathfinder 2
+# Hook Mountain Massacre : level 7-10
+
+## Conversion guide for Pathfinder 2
 
   - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure.
   - The storyline, color text, maps and images requires the original scenario.
@@ -148,7 +150,7 @@ Encounter notes include scaling for level 8 parties.
     - [Vale Temross](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ValeTemros.pdf) 
     - [Kaven Windstrike](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/KavenWindstrike.pdf)
 
-## Part 2: Retaking Rannick (Party Level 8-9)
+## Part 2: Retaking Rannick (600+xp, Party Level 8-9)
 
 Creatures are taken from existing bestiary entries and adjusted using weak and elite templates where practical. Sometimes using similar types of creatures where bestiary entries don't exist.  
 
@@ -309,14 +311,36 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - Myrianna TODO
     
-## Part 5: Harrowing the Hook (Party Level 10)
+## Part 5: Harrowing the Hook (250+xp, Party Level 10)
 
-### D1 Entrance
+  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is over 250 which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+
+### D1 Entrance (40xp, trivial threat)
   - **Creatures:**
     - 2x Ogre Boss*
     
-### D5 Chokepoint
+### D2 Bones of the Behenoth
+  - Recall Knowledge - Dragon (Arcana): DC 40 to identify the bones
+
+### D5 Chokepoint (60xp, low threat)
   - **Creatures:**
     - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
 
+### D6 The Clanhold (20+xp, trivial threat)
+  - **Creatures:**
+    - Ogre Boss*
+    - 10x Ogre Warriors*
+
+### D7 Circle of the Sisters (30xp, trivial threat)
+  - **Creatures:**
+    - 3x [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
+
+### D8 Abandoned Shrine (40xp, trivial threat)
+  - **Creatures:**
+    - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
+
+### D9 As the Dread Kings of Old (80xp, moderate threat)
+  - **Creatures:**
+    - Barl Breakbones TODO
+    - [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
