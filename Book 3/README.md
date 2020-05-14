@@ -15,8 +15,8 @@
   - Part 1: In The Hook's Shadow - MVP draft - creatures and hazards only
   - Part 2: Retaking Rannick - MVP draft - creatures and hazards only
   - Part 3: Down Comes the Rain - MVP draft - creatures only
-  - Part 4: The Haunted Heart - TODO
-  - Part 5: Harrowing the Hook - TODO
+  - Part 4: The Haunted Heart - TODO (Myriana to do)
+  - Part 5: Harrowing the Hook - MVP draft - creatures only (except Barl)
 
 ### General TO DO
   - DCs of non trap hazards - e.g. sickening smell
