@@ -15,7 +15,7 @@
   - Part 1: In The Hook's Shadow - MVP draft - creatures and hazards only
   - Part 2: Retaking Rannick - MVP draft - creatures and hazards only
   - Part 3: Down Comes the Rain - MVP draft - creatures only
-  - Part 4: The Haunted Heart - TODO (Myriana to do)
+  - Part 4: The Haunted Heart - MVP draft - creatures only
   - Part 5: Harrowing the Hook - MVP draft - creatures only (except Barl)
 
 ### General TO DO
@@ -310,8 +310,14 @@ The unique ogres are covered individually below.
 
 ### Heart of Sadness
   - **Creatures:**
-    - Myrianna TODO
-    
+    - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
+    - Recall Knowledge - Spirit (Occultism) or Undead (Religion): DC 27 to identify the Ghostly nature of her
+
+    [Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/myriana.pdf)
+
+![Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/myriana.png)
+
+
 ## Part 5: Harrowing the Hook (250+xp, Party Level 10)
 
   - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is over 250 which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
