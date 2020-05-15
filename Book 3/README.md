@@ -57,7 +57,7 @@ Encounter notes include scaling for level 8 parties.
  - **Creatures:** 
     - [Kibb - Firepelt Cougar Animal Companion]
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
-    - [Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.pdf):
+    - [Rukus Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.pdf):
 
 ![Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.png)
 
@@ -87,7 +87,7 @@ Encounter notes include scaling for level 8 parties.
     
 ### A5. Playpen (low threat)
   - **Creatures:** 
-    - Lucky and Maulgro Graul - [Ogrekin Fighters](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
+    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
 
 ![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.png)
 
@@ -136,7 +136,7 @@ Encounter notes include scaling for level 8 parties.
 
 ### A16. Kennel (moderate threat)
   - **Creatures:** 
-    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
+    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
 
 ![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.png)
 
@@ -227,7 +227,7 @@ The unique ogres are covered individually below.
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
-    - [Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg.pdf)
+    - [Jaagrath Kreeg PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg.pdf)
 
 ![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/jaagrath_kreeg.png)
   - **Encounter Notes:**
@@ -236,7 +236,7 @@ The unique ogres are covered individually below.
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
     - Ogre Boss*
-    - [Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.pdf):
+    - [Dorella Kreeg PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.pdf):
 
 ![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.png)
 
@@ -268,7 +268,7 @@ The unique ogres are covered individually below.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
-    - [Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.pdf):
+    - [Black Magga PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.pdf):
 
 ![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.png)
 
@@ -297,7 +297,7 @@ The unique ogres are covered individually below.
 
 ### C15. Floodgate Controls (low to moderate threat)
   - **Creatures:**
-    - [Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.pdf)
+    - [Skull Ripper PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.pdf)
 
 ![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/skull_ripper.png)
     - [Giant Scorpion Venom](https://2e.aonprd.com/Equipment.aspx?ID=114)
@@ -313,7 +313,7 @@ The unique ogres are covered individually below.
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
     - Recall Knowledge - Spirit (Occultism) or Undead (Religion): DC 27 to identify the Ghostly nature of her
 
-    [Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/myriana.pdf)
+    [Myriana PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/myriana.pdf)
 
 ![Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/myriana.png)
 
