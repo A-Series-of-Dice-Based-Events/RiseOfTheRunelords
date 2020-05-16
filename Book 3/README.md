@@ -354,6 +354,5 @@ The unique ogres are covered individually below.
 
     - [Barl Breakbones PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.pdf)
 
-![Barl Breakbones](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.pdf)
-ana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.png)
+![Barl Breakbones](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.png)
 
