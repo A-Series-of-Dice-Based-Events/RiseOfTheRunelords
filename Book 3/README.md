@@ -322,6 +322,11 @@ The unique ogres are covered individually below.
 
   - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is over 250 which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
+### Valley of Broken Trees (40xp, trivial threat)
+  - **Creatures:**
+  - [Razmus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/razmus.pdf)
+![razmus](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/razmus.png)
+
 ### D1 Entrance (40xp, trivial threat)
   - **Creatures:**
     - 2x Ogre Boss*
