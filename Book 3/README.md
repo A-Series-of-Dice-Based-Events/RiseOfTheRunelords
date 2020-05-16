@@ -12,11 +12,11 @@
   - The associated PDF and PNG files are also in this directory and referenced by this document (their unique numerical suffixes are removed to save updating this document every time the creature is tweaked)
 
 ### Index and status
-  - Part 1: In The Hook's Shadow - MVP draft - creatures and hazards only
-  - Part 2: Retaking Rannick - MVP draft - creatures and hazards only
-  - Part 3: Down Comes the Rain - MVP draft - creatures only
-  - Part 4: The Haunted Heart - MVP draft - creatures only
-  - Part 5: Harrowing the Hook - MVP draft - creatures only (except Barl)
+  - Part 1: In The Hook's Shadow - creatures and hazards done
+  - Part 2: Retaking Rannick - creatures and hazards done
+  - Part 3: Down Comes the Rain - creatures done
+  - Part 4: The Haunted Heart - creatures done
+  - Part 5: Harrowing the Hook - creatures done 
 
 ### General TO DO
   - DCs of non trap hazards - e.g. sickening smell
@@ -57,7 +57,7 @@ Encounter notes include scaling for level 8 parties.
  - **Creatures:** 
     - [Kibb - Firepelt Cougar Animal Companion]
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
-    - [Rukus Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.pdf):
+    - [Rukus Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.pdf)
 
 ![Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/rukus_graul.png)
 
@@ -87,7 +87,7 @@ Encounter notes include scaling for level 8 parties.
     
 ### A5. Playpen (low threat)
   - **Creatures:** 
-    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
+    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf)
 
 ![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.png)
 
@@ -136,7 +136,7 @@ Encounter notes include scaling for level 8 parties.
 
 ### A16. Kennel (moderate threat)
   - **Creatures:** 
-    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf):
+    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.pdf)
 
 ![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/ogrekin_fighter.png)
 
@@ -236,7 +236,7 @@ The unique ogres are covered individually below.
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
     - Ogre Boss*
-    - [Dorella Kreeg PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.pdf):
+    - [Dorella Kreeg PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.pdf)
 
 ![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/dorella_kreeg.png)
 
@@ -268,7 +268,7 @@ The unique ogres are covered individually below.
 
 ### Black Magga Rises (beyond extreme temporary threat)
   - **Creatures:**
-    - [Black Magga PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.pdf):
+    - [Black Magga PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.pdf)
 
 ![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.png)
 
@@ -345,9 +345,15 @@ The unique ogres are covered individually below.
 
 ### D8 Abandoned Shrine (40xp, trivial threat)
   - **Creatures:**
+    - Either use the standard Grave Knight which is closer to the PF1 Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
 ### D9 As the Dread Kings of Old (80xp, moderate threat)
   - **Creatures:**
-    - Barl Breakbones TODO
     - [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+
+    - [Barl Breakbones PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.pdf)
+
+![Barl Breakbones](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.pdf)
+ana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/barl_breakbones.png)
+
