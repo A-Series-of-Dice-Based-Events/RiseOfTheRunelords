@@ -100,7 +100,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain reduce this)
   - **Creatures:**
-    - 8x [Weak - decrease hp by 10, decrease attack, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 8x [Weak - decrease attack, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
 ### Against the Goblins Part 2 (120xp or more, severe to extreme threat)
