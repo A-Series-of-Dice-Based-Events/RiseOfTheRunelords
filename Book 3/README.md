@@ -320,7 +320,7 @@ The unique ogres are covered individually below.
 
 ## Part 5: Harrowing the Hook (250+xp, Party Level 10)
 
-  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is over 250 which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is around 300 - which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
   - **Creatures:**
@@ -344,9 +344,11 @@ The unique ogres are covered individually below.
     - Ogre Boss*
     - 10x Ogre Warriors*
 
-### D7 Circle of the Sisters (30xp, trivial threat)
+### D7 Circle of the Sisters (60xp, low threat)
   - **Creatures:**
-    - 3x [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
+    - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
+  - **Encounter Notes:**  
+    - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
 
 ### D8 Abandoned Shrine (40xp, trivial threat)
   - **Creatures:**
