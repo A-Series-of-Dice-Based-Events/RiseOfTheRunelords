@@ -101,11 +101,10 @@ Encounter notes include scaling for level 8 parties.
 
 ### A8. Mammy's Room (severe threat)
   - **Creatures:** 
+    - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/MammyGraul.pdf)
 
 ![Mammy Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/MammyGraul.png)
-
-    - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
   - **Encounter Notes:**   
     - Consider applying the weak template if this encounter will be too strong for your PCs
     - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
@@ -121,12 +120,11 @@ Encounter notes include scaling for level 8 parties.
 
 ### A12. Hucker's Lair (moderate threat)
   - **Creatures:** 
+    - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
     - [Hucker Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/HuckerGraul.pdf)
 
 ![Hucker Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/HuckerGraul.png)
-
-    - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
-    - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
   - **Encounter Notes:**
     - Party level 7: Hucker is a moderate challenge by himself. The Donkey Rats should be a level 2 distraction as above with the weak template.
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
