@@ -59,13 +59,16 @@ Encounter notes include scaling for level 8 parties.
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - [Rukus Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/rukus_graul.pdf)
 
-![Rukus Graul](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/rukus_graul.png)
+![Rukus Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/rukus_graul.png)
 
  - **Loot:** +1 striking spear
 
 ### The Graul Farm (moderate threat)
   - **Creatures:** 
-    - [Crowfood Graul](https://monster.pf2.tools/v/rT8ZT98R)
+    - [Crowfood Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/CrowfoodGraul.pdf)
+
+![Crowfood Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/CrowfoodGraul.png)
+
   - **Loot:** +1 striking ogre hook
   
 ### A1. Farmhouse Porch (low threat)
@@ -89,7 +92,7 @@ Encounter notes include scaling for level 8 parties.
   - **Creatures:** 
     - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
 
-![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.png)
+![Ogrekin Fighter PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
   - **Loot:** None
 
@@ -98,9 +101,13 @@ Encounter notes include scaling for level 8 parties.
 
 ### A8. Mammy's Room (severe threat)
   - **Creatures:** 
-    - [Mammy Graul](https://monster.pf2.tools/v/t18cq9jp)
+    - [Mammy Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/mammygraul.pdf)
+
+![Mammy Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/mammygraul.png)
+
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
   - **Encounter Notes:**   
+    - Consider applying the weak template if this encounter will be too strong for your PCs
     - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
   - **Loot:** See Mammy Graul
@@ -114,7 +121,10 @@ Encounter notes include scaling for level 8 parties.
 
 ### A12. Hucker's Lair (moderate threat)
   - **Creatures:** 
-    - [Hucker Graul](https://monster.pf2.tools/v/b2MCfOFQ)
+    - [Hucker Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/HuckerGraul.pdf)
+
+![Hucker Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/HuckerGraul.png)
+
     - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
   - **Encounter Notes:**
