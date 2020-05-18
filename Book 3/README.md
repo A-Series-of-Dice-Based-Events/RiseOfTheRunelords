@@ -101,9 +101,9 @@ Encounter notes include scaling for level 8 parties.
 
 ### A8. Mammy's Room (severe threat)
   - **Creatures:** 
-    - [Mammy Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/mammygraul.pdf)
+    - [Mammy Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/MammyGraul.pdf)
 
-![Mammy Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/mammygraul.png)
+![Mammy Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/MammyGraul.png)
 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
   - **Encounter Notes:**   
