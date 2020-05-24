@@ -5,7 +5,7 @@
   - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
   - The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
   - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
-  - The associated PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monsnter builder are removed to save updating this document every time the creature is tweaked)
+  - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
 
 ### Index and status
   - Part 1: In The Hook's Shadow - creatures and hazards done
