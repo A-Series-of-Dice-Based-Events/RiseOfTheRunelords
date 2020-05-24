@@ -47,8 +47,8 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Goblin Pyros (80xp, moderate threat)
   - **Creatures:** 
-    - [Weak - decrease hp by 10, decrease attack, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
-    - [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
+    - [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
+    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
    - **Loot:**
     - Minor Healing Potion (C1)
     - Shortbow and 20 arrows (P1)
@@ -58,6 +58,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - **Creatures:** 
     - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    - 2x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:**
     - Minor Healing Potion (C1)
     - Shortbow and 20 arrows (P1)
@@ -100,7 +101,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain reduce this)
   - **Creatures:**
-    - 8x [Weak - decrease attack, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
 ### Against the Goblins Part 2 (120xp or more, severe to extreme threat)
@@ -158,13 +159,14 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 ### B9. Prisoner Pits (80xp, )
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
-    - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Koruvus.pdf)
-
-![Koruvus PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Koruvus.png)
+    - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.pdf)
+![Koruvus PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.pdf)
 
   - **Loot:**
     - +1 weapon potency rune (P2)
     - low grade silver dagger (P2)
+
+
  
 ### B11. Meditation Chamber
   - **Loot:**
@@ -184,17 +186,18 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
   - 120xp + 100xp for deactivating the runewell.
   - **Loot:**
     - Invisibility Potion (C4)
-    - Dark Vision Elixir Lesser 10min pg547
+    - Dark Vision Elixir Lesser 10min (C2)
     - +1 weapon potency rune (P2)
+    - returning rune (P3)
+    - low grade cold iron dagger
 
 ## Part 4. Thistletop (party level 3)
 
-### C4. Refugees Nest
+### C4. Refugees Nest (80xp, moderate threat)
   - **Creatures:**
-    - 10x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-  - 200xp
+    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
-### C5. Kennel
+### C5. Kennel (80xp, moderate threat)
   - **Creatures:**
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
   - 120xp, this encounter can be bypassed. If successfully bypassed with stealth award the same xp.
