@@ -2,14 +2,10 @@
 
 ## Conversion guide for Pathfinder 2
 
-  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure.
-  - The storyline, color text, maps and images requires the original scenario.
-
-  - Development follows an agile approach with the "Minimal Viable Product" created first - just enough to be usable. 
-  - This then hopefully makes it easy for others to incrementally improve individual encounters.
-  
-  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in the same directory as this file so that you can use or update them for your own campaign as required. In some instances there are several variants available.
-  - The associated PDF and PNG files are also in this directory and referenced by this document (their unique numerical suffixes are removed to save updating this document every time the creature is tweaked)
+  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
+  - The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
+  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
 
 ### Index and status
   - Part 1: In The Hook's Shadow - creatures and hazards done
@@ -325,9 +321,9 @@ The unique ogres are covered individually below.
 ![Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/myriana.png)
 
 
-## Part 5: Harrowing the Hook (250+xp, Party Level 10)
+## Part 5: Harrowing the Hook (350+xp, Party Level 10)
 
-  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is around 300 - which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP in the clan hold is around 300 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
   - **Creatures:**
