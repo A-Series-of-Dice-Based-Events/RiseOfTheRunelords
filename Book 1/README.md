@@ -165,13 +165,11 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
   - **Loot:**
     - +1 weapon potency rune (P2)
     - low grade silver dagger (P2)
-
-
  
 ### B11. Meditation Chamber
   - **Loot:**
-    - Scroll of Burning Hands pg322
-    - Wand of Shocking Grasp {1st}
+    - Scroll of Burning Hands pg322 (C1)
+    - Wand of Shocking Grasp {1st} (P3)
 
   - What is this?: (This small grey box looks designed to be held and has two metal prongs at one end occasionally a jolt of electricity dances from one prong to the next. pg597/369, 2x Elixir of Stone Fist pg550,)
 
