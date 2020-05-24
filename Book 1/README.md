@@ -160,7 +160,7 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 ### B4. Washing Pool (60xp, low threat)
   - **Creatures:**
   - TODO build Vargouille
-  - Alternatively replace with [animated statue of Lamashtu])https://2e.aonprd.com/Monsters.aspx?ID=20)
+  - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20)
 
 ### B6. Ancient Prison (80xp, moderate threat)
   - **Creatures:**
@@ -173,8 +173,8 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 ### B9. Prisoner Pits (80xp, mdoerate threat)
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
-    - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.pdf)
-![Koruvus PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.png)
+    - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Koruvus.pdf)
+![Koruvus PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Koruvus.png)
 
   - **Loot:**
     - +1 weapon potency rune (P2)
