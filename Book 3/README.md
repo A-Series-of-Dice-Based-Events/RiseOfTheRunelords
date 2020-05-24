@@ -321,9 +321,9 @@ The unique ogres are covered individually below.
 ![Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/myriana.png)
 
 
-## Part 5: Harrowing the Hook (250+xp, Party Level 10)
+## Part 5: Harrowing the Hook (350+xp, Party Level 10)
 
-  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP here is around 300 - which is a beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP in the clan hold is around 300 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
   - **Creatures:**
