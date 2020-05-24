@@ -1,7 +1,7 @@
 # Burnt Offerings lv1-4 - conversion guide for Pathfinder 2
 
-  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure.
-  - The storyline, color text, maps and images requires the original scenario.
+  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they dont convert well from PF1.
+  - The plot, storyline, color text, floor plans, maps, images and most tactics requires the original scenario.
 
 ## Party Level and Target Allocation of Treasure
 
@@ -20,13 +20,26 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
   - Note that the majority of the items are on key enemy NPCs.
 
+### Index and status
+  - Part 1: Festival and Fire - creatures and XP done
+  - Part 2: Local Heroes - creatures done
+  - Part 3A: Glassworks - creatures done
+  - Part 3B: Catacombs - most creatures done
+  - Part 4A: Thistletop exterior - most creatures done 
+  - Part 4B: Thistletop level 1 - most creatures done 
+  - Part 4C: Thistletop level 2 - most creatures done 
+
+### General TO DO
+  - Hazards
+  - Treasure allocation - replace old treasure with new level guidelines
+
 ## Friendly NPC Roster (key stats only)
   - [Sherriff Belor Hemlock] Fighter 4, Longsword, Composite Longbow, Chain Shirt 
   - 12x [Town Guard] Fighter 1
-  - 50x [Militia] 
+  - 50x [Militia] Trained to fight from cover where practical
   - [Father Abstalar Zantus - cleric of Desna] Cleric 4
   - 4x [Cathedral Acolytes] Cleric 1
-  - [Ameiko Kaijutsu noble and tavern owner] Bard 4
+  - [Ameiko Kaijutsu - noble and tavern owner] Bard 4
   - [Ilsoari Gandethus - Headmaster] Wizard 4
   - [Daviren Hosk - stable owner] Ranger 4
   - [Shelelu Andosana - Elven Ranger] Ranger 6
@@ -68,7 +81,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - **Loot:**
     - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth 35sp each = 140sp)
 
-## Part 2: Local Heroes
+## Part 2: Local Heroes (Party level 1)
 
 ### Desecrated Vault (40xp, trivial threat)
   - **Creatures:** 
@@ -89,9 +102,9 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 ### Trouble at the Rusty Dragon (RP encounter, no real threat)
   - Conditional XP, 40xp for getting rid of Lonjiku, 80xp for doing so Peacefully.
 
-### Monster in the closet (60xp, low threat)
+### Monster in the closet (40xp, trivial threat)
   - **Creatures:**
-    - 1x [Elite - increase hp by 10, increase to hit, damage and saves by 2](http://2e.aonprd.com/Rules.aspx?ID=790): [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) Has only an improvised dagger.
+    - 1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) has only an improvised dagger.
   - **Loot:** None
 
 ## Part 3A: Glassworks (Party Level 1)
@@ -99,17 +112,17 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 ### Investigating the glassworks
   - conditional xp: 40xp for breaking the door, 80xp for unlocking.
 
-### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain reduce this)
+### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain may reduce this)
   - **Creatures:**
     - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
-### Against the Goblins Part 2 (120xp or more, severe to extreme threat)
+### Against the Goblins Part 2 (120+xp, severe+ threat)
   - **Creatures:**
     - Tsuto Kaijutsu 
     - Any goblins that fled part 1 join Tsuto
   - **XP:** 
-    - 120xp + 15xp per goblin who joined.
+    - 120xp + 20xp per goblin who joined.
     - Interrogating Tsuto: Conditional XP, 50xp for DC 14, 75xp for DC 17, 100xp for DC 20. Result of roll indicates how much info he spills, up to GM.
     - Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. 
   - **Loot:**
@@ -144,19 +157,20 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
   - **Loot:**
     - Ancient Ornamental Ranseur (a long trident wifh a central prong that's longer than the other two) worth 200sp
 
-### B4. Washing Pool
-  - **Creatures:** - Vargouille; 40xp,
-  - TODO build Vargouille
-
-### B6. Ancient Prison
+### B4. Washing Pool (60xp, low threat)
   - **Creatures:**
-    - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371), 80xp
+  - TODO build Vargouille
+  - Alternatively replace with [animated statue of Lamashtu])https://2e.aonprd.com/Monsters.aspx?ID=20)
+
+### B6. Ancient Prison (80xp, moderate threat)
+  - **Creatures:**
+    - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
 
 ### B8. Ancient Study
   - **Loot:**
     - Scroll of Flaming Sphere (C3), Perception DC 19
 
-### B9. Prisoner Pits (80xp, )
+### B9. Prisoner Pits (80xp, mdoerate threat)
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
     - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.pdf)
@@ -168,10 +182,9 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
  
 ### B11. Meditation Chamber
   - **Loot:**
-    - Scroll of Burning Hands pg322 (C1)
+    - Scroll of Burning Hands (C1)
     - Wand of Shocking Grasp {1st} (P3)
-
-  - What is this?: (This small grey box looks designed to be held and has two metal prongs at one end occasionally a jolt of electricity dances from one prong to the next. pg597/369, 2x Elixir of Stone Fist pg550,)
+    - 2x Elixir of Stone Fist (C4)
 
 ### B12. Shrine to Lamashtu
   - **Loot:**
@@ -200,15 +213,10 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
   - 120xp, this encounter can be bypassed. If successfully bypassed with stealth award the same xp.
 
-### C6/7. Tangletooth's Den and Gogmurt's Lair
+### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, severe threat)
   - **Creatures:**
     - Tangletooth {Use cat Stats from CRB pg. 215}
     - Gogmurt {Goblin Druid/Rogue 5 - see below}
-  - 120xp.
-
-### C9. Rope Bridge
-  - DC 15 Perception, if 3 or more medium creatures cross it collapses into the sea. 
-  - 100xp for disarming or crossing safely.
 
 ### Gogmurt and Tangletooth
 
@@ -238,35 +246,36 @@ Claw{Agile}: +3 {1d4+2 S}
 Special: Deal 1d6 additional damage against a flatfooted foe
 Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, Gogmurts strikes make the target flatfooted until the end of his next turn.
  
+### C9. Rope Bridge
+  - DC 15 Perception, if 3 or more medium creatures cross it collapses into the sea. 
+  - 100xp for disarming or crossing safely.
 
-### C10. Thistletop
+### C10. Thistletop (120xp, severe threat)
   - **Creatures:**
-    - 4x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-    - 4x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
   - 100xp
 
-### C13. Pickle Thieves
-  - **Creatures:**
-    - 2x Goblin Commandos, 40xp
-
-### C14. Barracks
-  - **Creatures:**
-    - 6x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-  - 90xp
-
-### C15. Eastern Guard Tower
+### C13. Pickle Thieves (40xp, trivial threat)
   - **Creatures:**
     - 2x Goblin Commandos
-  - 40xp
 
-### C16. Exercise Yard
+### C14. Barracks (60xp, low threat)
   - **Creatures:**
-    - 4x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791): [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-  - 80xp
+    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+
+### C15. Eastern Guard Tower (40xp, trivial threat)
+  - **Creatures:**
+    - 2x Goblin Commandos
+
+### C16. Exercise Yard (80xp)
+  - **Creatures:**
+    - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
 
 ### C18. Caged Horse
   - **Creatures:**
-    - Shadowmist the horse can be calmed with Calm Emotions or a DC 16 Handle Animal. If calmed award 50xp, if they return the horse to original owner additional 50xp
+    - Shadowmist the war horse can be calmed with the Command Animal action (untrained Nature check) vs the Horses will DC of 16.  
+    - If calmed award 50xp, if they return the horse to original owner additional 50xp
 
 ### C19. Throne Room
   - **Creatures:**
@@ -411,7 +420,7 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
  
 ### E6. Crypt (120xp, severe threat)
   - **Creatures:**
-    - 3x Weak [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
+    - 2x [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
 
 ### E7. Collapsed Treasury
   - **Creatures:**
@@ -433,7 +442,6 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
 ### E10. Malfeshnekors Prison (160xp, extreme threat)
   - **Creatures:**
     - [Malfeshnekor - Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
-  - 120xp
 
 ### Returning to town (600xp, RP encounter)
   - **XP:** explaining that the threat from Thistletop is stopped. 600xp, 
