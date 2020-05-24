@@ -157,24 +157,15 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 
 ### B9. Prisoner Pits (80xp, )
   - **Creatures:**
-    - [Koruvus] TODO
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
+    - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.pdf)
+![Koruvus PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/koruvus.pdf)
+
   - **Loot:**
     - +1 weapon potency rune (P2)
+    - low grade silver dagger (P2)
 
-Koruvus (Abomination Goblin Fighter 3)
-CE, Goblin, Small. Malformed Limb (Can use an additional action but only for Combat Grab)
-Perception: +3, Darkvision; Languages: Goblin    
-Skills: +2; Athletics: +9, Acrobatics: +5, Crafting: +3
-Str: +4, Dex: +1 , Con: +2 , Int: 0 , Wis: -1, Cha: +1 ,
-AC: 20, Fort: +6, Ref: +5, Will: +2,
-HP: 56, Speed: 25
-Longsword: +8 (1d8+4)
-Dogslicer: +7 (1d6+4)
-(A): Combat Grab: Make a strike, target is flatfooted and grappled and must attempt Break Grapple to escape. It is still flatfooted until it moves out of reach.
-(RA): Attack of Opportunity
-Feats: Toughness{General}, Fleet{Skill}. Combat Grab{Class}, Improved Combat Grab{Class}, Weapon Familiarity(Goblin){Ancestry}
-Items: Longsword, Dogslicer, +1 Scale Mail,
+
  
 ### B11. Meditation Chamber
   - **Loot:**
