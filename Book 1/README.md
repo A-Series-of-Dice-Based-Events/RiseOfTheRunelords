@@ -17,9 +17,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-  - Note that the majority of the items are on key enemy NPCs.
-
-### Index and status
+## Section status and rewards
 
 Part | Title             | Status                |  XP/total | Items | Cash
 -----|-------------------|-----------------------|-----------|-------|-----
@@ -32,21 +30,23 @@ Part | Title             | Status                |  XP/total | Items | Cash
 4C   | Thistletop level 2 | most creatures done  | | |
 
 ### General TO DO
+  - DCs
   - Hazards
-  - Treasure allocation - replace old treasure with new level guidelines
+  - PF2 Treasure by level allocation - replace old treasure with new level guidelines
 
 ## Friendly NPC Roster (key stats only)
 
-  - [Sherriff Belor Hemlock](http://www.pf2.easytool.es/tree/index.php?id=5710&name=watch%20officer) using the watch officer from the GMG
-  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) using the guard from the GMG 
+  - [Sherriff Belor Hemlock](http://www.pf2.easytool.es/tree/index.php?id=5710&name=watch%20officer) using the Watch Officer from the GMG
+  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) using the Guard from the GMG 
   - [Father Abstalar Zantus - cleric of Desna] Cleric 4
-  - 4x [Cathedral Acolytes] Cleric 1
+  - 4x [Cathedral Acolytes](http://www.pf2.easytool.es/tree/index.php?id=5658&name=acolyte) using the Acolyte from the GMG
   - [Ameiko Kaijutsu - tavern owner] Bard 4
   - [Ilsoari Gandethus - Headmaster] Wizard 4
   - [Daviren Hosk - stable owner] Ranger 4
-  - [Shelelu Andosana - Elven Ranger] Ranger 6
-  - [Brodert Quink - Sage] Understands Thassilonian and many other languages; Specialist knowledge ancient Thassilon
-  - [Aldern Foxglove - Noble] Rogue 3
+  - [Shelelu Andosana - Elven Ranger] Ranger 5
+  - [Brodert Quink - Sage] Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
+  - [Aldern Foxglove - Noble](http://www.pf2.easytool.es/tree/index.php?id=5645&name=noble) using the noble from the GMG
+  - [townsfolk](http://www.pf2.easytool.es/tree/index.php?id=5663&name=commoner) using the commoner or other appropriate low level NPC from the GMG
 
 ## Part 1: Festival and Fire (320xp, Party Level 1)
 
@@ -57,7 +57,7 @@ Part | Title             | Status                |  XP/total | Items | Cash
 
 ### Goblin notes
 
-  - During the festival raid none of the goblins have shortbows, though they may throw whatever is at hand as a ranged attack. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. meat, fruit, vegetables, bread, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, chickens, butterflies, other tiny animals, babies...
+  - During the festival raid none of the goblins have shortbows, though they are likely to throw whatever is at hand as a ranged attack. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. meat, fruit, vegetables, bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -106,9 +106,9 @@ Part | Title             | Status                |  XP/total | Items | Cash
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
 
-### Trouble at the Rusty Dragon (20-40xp, RP encounter)
+### Trouble at the Rusty Dragon (30-40xp, RP encounter)
 
-  - Conditional XP, 20xp for getting rid of Lonjiku, 40xp for doing so Peacefully.
+  - Conditional XP, 30xp for helping getting rid of Lonjiku, 40xp for doing so peacefully.
 
 ### Monster in the closet (40xp, trivial threat)
 
@@ -153,11 +153,7 @@ Sneak Attacker: 1d4 Sneak attack damage against flatfooted creatures.
 Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}  
 
 Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potency (C2), 200sp
-
-### Interrogating Tsuto (0/60xp, RP encounter)
-
-  - 60xp for getting Tsuto to talk
-    
+   
 ### Rescuing Ameiko (60xp, RP encounter)
 
   - 60xp for rescuing her.
@@ -165,7 +161,11 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
   - **Loot:**
     - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town)
 
-## Part 3B. Catacombs of Wrath (Party level 2)
+### Interrogating Tsuto (0/60xp, RP encounter)
+
+  - 60xp for getting Tsuto to talk## Part 3B.
+  
+## Catacombs of Wrath (Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
 
@@ -196,7 +196,7 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
   - **Loot:**
     - Scroll of Flaming Sphere (C3), Perception DC 19
 
-### B9. Prisoner Pits (80xp, mdoerate threat)
+### B9. Prisoner Pits (80xp, moderate threat)
 
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
@@ -232,12 +232,12 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
     - returning rune (P3)
     - low grade cold iron dagger
 
-## Part 4. Thistletop (party level 3)
+## Part 4. Thistletop exterior and buildings (party level 3)
 
-### C4. Refugees Nest (80xp, moderate threat)
+### C4. Refugees Nest (100xp, moderate threat)
 
   - **Creatures:**
-    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 10x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
 ### C5. Kennel (80xp, moderate threat)
 
@@ -366,7 +366,7 @@ Items: +1 Shortsword, Breastplate,
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
   - **Loot:** None
 
-## Thistletop Dungeon: Level 1
+## Thistletop Dungeon Level 1 (Party level 3)
 
 ### D2. Chieftan's Harem
 
@@ -430,7 +430,7 @@ Widen Spell{FA}: When you cast a spell with a Burst, Cone, or line and it does n
 Feats: Adapted Spell{Ancestry}, Assurance Arcana{Background}, Widen Spell{Wizard}, Empowering Focus{Wizard}
 Items: Lesser Mentalist’s Staff, Infiltrator’s Elixir, 1x Lesser Healing Potion. 10gp
 
-## Thistletop Dungeon: Level 2
+## Thistletop Dungeon Level 2 (Party level 3/4)
 
 ### E3. Trapped Hall Level 4
 
@@ -497,9 +497,9 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
   - **Creatures:**
     - [Malfeshnekor - Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
 
-### Returning to town (600xp, RP encounter)
+### Returning to town (120xp, RP encounter)
 
-  - **XP:** explaining that the threat from Thistletop is stopped. 600xp, 
+  - **XP:** explaining that the threat from Thistletop is stopped. 120xp, 
   - **Loot:**
-    - 3x Moderate Healing Potions (3x C6) [[ seems too powerful ]]
+    - TBD
     - 20gp.
