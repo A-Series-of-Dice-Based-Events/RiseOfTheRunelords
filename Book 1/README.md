@@ -21,11 +21,11 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Index and status
 
-Part | Title             | Status                |  XP  | Items | Cash
------|-------------------|-----------------------|------|-------|-----
-1    | Festival and Fire | creatures and XP done | 360  |       | 140sp
-2    | Local Heroes      | creatures and XP done | 240  |       | 100sp
-3A   | Glassworks        | creatures and XP done | 300  |       | 
+Part | Title             | Status                |  XP/total | Items | Cash
+-----|-------------------|-----------------------|-----------|-------|-----
+1    | Festival and Fire | creatures and XP done | 360 / 360  |       | 140sp
+2    | Local Heroes      | creatures and XP done | 240 / 600 |       | 100sp
+3A   | Glassworks        | creatures and XP done | 480 / 1080 |       | 
 3B   | Catacombs         | most creatures done   |      |       |
 4A   | Thistletop exterior | most creatures done | | |
 4B   | Thistletop level 1 | most creatures done  | | |
@@ -37,11 +37,11 @@ Part | Title             | Status                |  XP  | Items | Cash
 
 ## Friendly NPC Roster (key stats only)
 
-  - [Sherriff Belor Hemlock] Fighter 4, Longsword, Composite Longbow, Chain Shirt
-  - 12x [Town Guard] Fighter 1
+  - [Sherriff Belor Hemlock](http://www.pf2.easytool.es/tree/index.php?id=5710&name=watch%20officer) using the watch officer from the GMG
+  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) using the guard from the GMG 
   - [Father Abstalar Zantus - cleric of Desna] Cleric 4
   - 4x [Cathedral Acolytes] Cleric 1
-  - [Ameiko Kaijutsu - noble and tavern owner] Bard 4
+  - [Ameiko Kaijutsu - tavern owner] Bard 4
   - [Ilsoari Gandethus - Headmaster] Wizard 4
   - [Daviren Hosk - stable owner] Ranger 4
   - [Shelelu Andosana - Elven Ranger] Ranger 6
@@ -93,11 +93,11 @@ Part | Title             | Status                |  XP  | Items | Cash
     - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
   - **Loot:** none
 
-### The Shopkeepers Daughter (60xp, RP encounter)
+### The Shopkeepers Daughter (40-80xp, RP encounter)
 
   - **Creatures:** 
     - [Vin Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), fist +7: dmg 1d4+3, nonlethal 
-  - **XP:** - 30xp for beating him, 60xp for intimidate or deception, 90xp for Diplomacy without hurting his daughters feelings.
+  - **XP:** - 40xp for beating him, 60xp for intimidate or deception, 80xp for Diplomacy without hurting his daughters feelings.
 
 ### The Boar Hunt (60xp, low threat)
 
@@ -106,9 +106,9 @@ Part | Title             | Status                |  XP  | Items | Cash
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
 
-### Trouble at the Rusty Dragon (40xp, RP encounter)
+### Trouble at the Rusty Dragon (20-40xp, RP encounter)
 
-  - Conditional XP, 40xp for getting rid of Lonjiku, 60xp for doing so Peacefully.
+  - Conditional XP, 20xp for getting rid of Lonjiku, 40xp for doing so Peacefully.
 
 ### Monster in the closet (40xp, trivial threat)
 
@@ -116,11 +116,13 @@ Part | Title             | Status                |  XP  | Items | Cash
     - 1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) has only an improvised dagger.
   - **Loot:** None
 
-## Part 3A: Glassworks (340xp, Party Level 1)
+## Part 3A: Glassworks (480xp, Party Level 1)
 
-### Investigating the glassworks
+### The Missing Bartender / Investigating the glassworks (20-60xp, RP encounter) 
 
-  - conditional xp: 40xp for breaking the door, 80xp for unlocking.
+  - 20xp for following up on the missing bartender and investigating the glassworks
+  - 20xp for entering without breaking the door down
+  - 20xp for dispersing onlookers
 
 ### Against the goblins part 1 (180xp, extreme threat, though goblin tactics and terrain reduce this)
 
@@ -135,11 +137,6 @@ Part | Title             | Status                |  XP  | Items | Cash
     - Any goblins that fled part 1 join Tsuto
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
-    - Interrogating Tsuto: Conditional XP, 50xp for DC 14, 75xp for DC 17, 100xp for DC 20. Result of roll indicates how much info he spills, up to GM.
-    - Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. 
-  - **Loot:**
-    - For rescuing Ameiko she rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town)
-    - If Tsuto got away then Ameiko also rewards the PCs with a weapon bearing a +1 Potency rune (P2).
 
 Tsuto Kaijitsu {Half-Elf; Monk/Rogue} Creature 4
 CE, Medium. Laborer;
@@ -156,7 +153,18 @@ Sneak Attacker: 1d4 Sneak attack damage against flatfooted creatures.
 Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}  
 
 Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potency (C2), 200sp
- 
+
+### Interrogating Tsuto (0/60xp, RP encounter)
+
+  - 60xp for getting Tsuto to talk
+    
+### Rescuing Ameiko (60xp, RP encounter)
+
+  - 60xp for rescuing her.
+  - Ameiko is unconscious and will wake at GM discretion or with any healing
+  - **Loot:**
+    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town)
+
 ## Part 3B. Catacombs of Wrath (Party level 2)
 
 ### B1. Guard Cave (40xp, trivial threat)
