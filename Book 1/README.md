@@ -1,10 +1,8 @@
 # Burnt Offerings lv1-4 - conversion guide for Pathfinder 2
-
   - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they dont convert well from PF1.
-  - The plot, storyline, color text, floor plans, maps, images and most tactics requires the original scenario.
+  - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
 
 ## Party Level and Target Allocation of Treasure
-
 - Lvl 1: up to the Catacombs of Wrath 
 - Lvl 2: start Catacombs of Wrath (Pt3.5)
 - Lvl 3: start Thistletop (Part 4)
@@ -34,9 +32,8 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - Treasure allocation - replace old treasure with new level guidelines
 
 ## Friendly NPC Roster (key stats only)
-  - [Sherriff Belor Hemlock] Fighter 4, Longsword, Composite Longbow, Chain Shirt 
+  - [Sherriff Belor Hemlock] Fighter 4, Longsword, Composite Longbow, Chain Shirt
   - 12x [Town Guard] Fighter 1
-  - 50x [Militia] Trained to fight from cover where practical
   - [Father Abstalar Zantus - cleric of Desna] Cleric 4
   - 4x [Cathedral Acolytes] Cleric 1
   - [Ameiko Kaijutsu - noble and tavern owner] Bard 4
@@ -55,27 +52,21 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Initial Assault (60xp, low threat)
  - **Creatures:** 
-    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
  - **Loot:** none
 
 ### Goblin Pyros (80xp, moderate threat)
   - **Creatures:** 
-    - [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
-    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
-   - **Loot:**
-    - Minor Healing Potion (C1)
-    - Shortbow and 20 arrows (P1)
-    - 10sp
+    - [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no ranged weaon)
+    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)  (no ranged weaon)
+   - **Loot:** none
 
 ### Die Dog Die! (120xp, severe threat)
   - **Creatures:** 
-    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) (no ranged weapon)
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-    - 2x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-  - **Loot:**
-    - Minor Healing Potion (C1)
-    - Shortbow and 20 arrows (P1)
-    - 10sp
+    - 2x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
+  - **Loot:** none
 
 ### Aftermath
   - **Loot:**
@@ -97,7 +88,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - **Creatures:**
     - 1x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52)
   - **Loot:**
-    - 200sp reward
+    - 100sp reward from Aldern for rescuing him in the raid regardless of accompanying him on the boar hunt
 
 ### Trouble at the Rusty Dragon (RP encounter, no real threat)
   - Conditional XP, 40xp for getting rid of Lonjiku, 80xp for doing so Peacefully.
@@ -114,7 +105,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain may reduce this)
   - **Creatures:**
-    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no ranged weapons)
   - **Loot:** None
 
 ### Against the Goblins Part 2 (120+xp, severe+ threat)
@@ -126,8 +117,8 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
     - Interrogating Tsuto: Conditional XP, 50xp for DC 14, 75xp for DC 17, 100xp for DC 20. Result of roll indicates how much info he spills, up to GM.
     - Rescuing Ameiko: 40xp for rescuing her. 60xp for healing her to full. 
   - **Loot:**
-    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each)
-    - Ameiko also rewards the PCs with +1 Weapon Potency rune (P2).
+    - For rescuing Ameiko she rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town)
+    - If Tsuto got away then Ameiko also rewards the PCs with +1 Weapon Potency rune (P2).
 
 Tsuto Kaijitsu {Half-Elf; Monk/Rogue} Creature 4
 CE, Medium. Laborer;
@@ -141,7 +132,8 @@ FoB: +8/+8 {1d6/1d6} if both hit same target combine damage vs. resistance
 {FA} Ki Strike; spend 1 spell pool point, Verbal Casting, add +1 to attack to triggering strike.
 Surprise Attack: First Round of Combat anyone who hasn’t acted is flat-footed to Tsuto.
 Sneak Attacker: 1d4 Sneak attack damage against flatfooted creatures.
-Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}
+Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}  
+
 Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potency (C2), 200sp
  
 ## Part 3B. Catacombs of Wrath (Party level 2)
@@ -155,7 +147,7 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 
 ### B3. Welcoming Chamber
   - **Loot:**
-    - Ancient Ornamental Ranseur (a long trident wifh a central prong that's longer than the other two) worth 200sp
+    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) worth 200sp
 
 ### B4. Washing Pool (60xp, low threat)
   - **Creatures:**
@@ -429,7 +421,7 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
   - **Loot:**
     - 1400sp
     - Mistform Elixir
-    - +1 L or Medium Armor Rune
+    - +1 Armor Rune
 
 ### E9. Transmutation Room
   - **Loot:**
