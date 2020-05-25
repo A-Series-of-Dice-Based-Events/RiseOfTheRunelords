@@ -13,19 +13,23 @@ Level | Total gp | Permanent Items (P)   | Consumables (C)                  | Ca
 Lv1   | 175gp    | **2nd:** 2 **1st:** 2 | **2nd:** 2 **1st:** 3            | 40gp  | 1 2
 Lv2   | 300gp    | **3rd:** 2 **2nd:** 2 | **3rd:** 2 **2nd:** 2 **1st:** 2 | 70gp  | End of 3
 Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2 | 120gp | 4
-Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4
+Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4  
+
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
   - Note that the majority of the items are on key enemy NPCs.
 
 ### Index and status
-  - Part 1: Festival and Fire - creatures and XP done
-  - Part 2: Local Heroes - creatures done
-  - Part 3A: Glassworks - creatures done
-  - Part 3B: Catacombs - most creatures done
-  - Part 4A: Thistletop exterior - most creatures done 
-  - Part 4B: Thistletop level 1 - most creatures done 
-  - Part 4C: Thistletop level 2 - most creatures done 
+
+Part | Title             | Status                |  XP  | Items | Cash
+-----|-------------------|-----------------------|------|-------|-----
+1    | Festival and Fire | creatures and XP done | 360  |       | 140sp
+2    | Local Heroes      | creatures and XP done | 240  |       | 100sp
+3A   | Glassworks        | creatures and XP done | 300  |       | 
+3B   | Catacombs         | most creatures done   |      |       |
+4A   | Thistletop exterior | most creatures done | | |
+4B   | Thistletop level 1 | most creatures done  | | |
+4C   | Thistletop level 2 | most creatures done  | | |
 
 ### General TO DO
   - Hazards
@@ -53,7 +57,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Goblin notes
 
-  - During the festival raid none of the goblins have shortbows, though they may throw whatever is at hand. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. fruit, bread, cutlery, cooking utensils, pans, children's toys, wood catvings, souvenirs, chickens, butterfiles, other tiny animals, babies...
+  - During the festival raid none of the goblins have shortbows, though they may throw whatever is at hand as a ranged attack. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. meat, fruit, vegetables, bread, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, chickens, butterflies, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -66,7 +70,8 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - **Creatures:** 
     - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no shortbow)
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)  (no shortbow)
-
+ - **Loot:** none
+ 
 ### Die Dog Die! (140xp, severe threat)
 
   - **Creatures:** 
