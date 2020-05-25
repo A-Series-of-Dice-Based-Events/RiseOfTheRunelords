@@ -44,7 +44,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - [Brodert Quink - Sage] Understands Thassilonian and many other languages; Specialist knowledge ancient Thassilon
   - [Aldern Foxglove - Noble] Rogue 3
 
-## Part 1: Festival and Fire (Party Level 1)
+## Part 1: Festival and Fire (320xp, Party Level 1)
 
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
@@ -53,7 +53,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Goblin notes
 
-  - During the festival raid none of the goblins have shortbows, though they may throw whatever is at hand. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. fruit, bread, cutlery, cooking utensils, pans, children's toys, chickens, butterfiles, other tiny animals, babies...
+  - During the festival raid none of the goblins have shortbows, though they may throw whatever is at hand. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. fruit, bread, cutlery, cooking utensils, pans, children's toys, wood catvings, souvenirs, chickens, butterfiles, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -61,18 +61,18 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
  - **Loot:** none
 
-### Goblin Pyros (80xp, moderate threat)
+### Goblin Pyros (120xp, severe threat)
 
   - **Creatures:** 
-    - [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no shortbow)
+    - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no shortbow)
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)  (no shortbow)
 
-### Die Dog Die! (120xp, severe threat)
+### Die Dog Die! (140xp, severe threat)
 
   - **Creatures:** 
     - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) (no shortbow)
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-    - 2x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
+    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
   - **Loot:** none
 
 ### Aftermath
@@ -80,7 +80,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - **Loot:**
     - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth 35sp each = 140sp)
 
-## Part 2: Local Heroes (Party level 1)
+## Part 2: Local Heroes (240xp, Party level 1)
 
 ### Desecrated Vault (40xp, trivial threat)
 
@@ -88,7 +88,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
     - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
   - **Loot:** none
 
-### The Shopkeepers Daughter (RP encounter, no real threat)
+### The Shopkeepers Daughter (60xp, RP encounter)
 
   - **Creatures:** 
     - [Vin Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), fist +7: dmg 1d4+3, nonlethal 
@@ -101,9 +101,9 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
 
-### Trouble at the Rusty Dragon (RP encounter, no real threat)
+### Trouble at the Rusty Dragon (40xp, RP encounter)
 
-  - Conditional XP, 40xp for getting rid of Lonjiku, 80xp for doing so Peacefully.
+  - Conditional XP, 40xp for getting rid of Lonjiku, 60xp for doing so Peacefully.
 
 ### Monster in the closet (40xp, trivial threat)
 
@@ -111,19 +111,19 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
     - 1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) has only an improvised dagger.
   - **Loot:** None
 
-## Part 3A: Glassworks (Party Level 1)
+## Part 3A: Glassworks (340xp, Party Level 1)
 
 ### Investigating the glassworks
 
   - conditional xp: 40xp for breaking the door, 80xp for unlocking.
 
-### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain may reduce this)
+### Against the goblins part 1 (180xp, extreme threat, though goblin tactics and terrain reduce this)
 
   - **Creatures:**
-    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no shortbow)
+    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no shortbow)
   - **Loot:** None
 
-### Against the Goblins Part 2 (120+xp, severe+ threat)
+### Against the Goblins Part 2 (120xp, severe threat)
 
   - **Creatures:**
     - Tsuto Kaijutsu 
