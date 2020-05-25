@@ -53,27 +53,26 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ### Goblin notes
 
-  - During the festival raid none of the goblins have ranged weapons. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. fruit, bread, cutlery, cooking utensils, pans, children's toys, chickens, butterfiles, other tiny animals, babies...
+  - During the festival raid none of the goblins have shortbows, though they may throw whatever is at hand. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. fruit, bread, cutlery, cooking utensils, pans, children's toys, chickens, butterfiles, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
  - **Creatures:** 
-    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
+    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
  - **Loot:** none
 
 ### Goblin Pyros (80xp, moderate threat)
 
   - **Creatures:** 
-    - [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no ranged weaon)
-    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)  (no ranged weaon)
-   - **Loot:** none
+    - [Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no shortbow)
+    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)  (no shortbow)
 
 ### Die Dog Die! (120xp, severe threat)
 
   - **Creatures:** 
-    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) (no ranged weapon)
+    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) (no shortbow)
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-    - 2x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no ranged weapons)
+    - 2x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
   - **Loot:** none
 
 ### Aftermath
@@ -121,7 +120,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 ### Against the goblins part 1 (120xp, severe threat, though goblin tactics and terrain may reduce this)
 
   - **Creatures:**
-    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no ranged weapons)
+    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no shortbow)
   - **Loot:** None
 
 ### Against the Goblins Part 2 (120+xp, severe+ threat)
