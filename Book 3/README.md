@@ -171,6 +171,9 @@ Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319) 
 
 These adjusted creatures are simply referred to as Ogre Warrior* and Ogre Boss* throughout the rest of this book.
 
+![Ogre Warrior](./NPC-Monsters-Statblocks/OgreWarriorDoubleElite.pdf)
+![Ogre Boss](./NPC-Monsters-Statblocks/OgreBossElite.pdf)
+
 The unique ogres are covered individually below.
 
 ### B2. East Gate (XP 15/10, trivial threat)
