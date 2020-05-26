@@ -15,7 +15,8 @@
   - Part 5: Harrowing the Hook - creatures done 
 
 ### General TO DO
-  - DCs of non trap hazards - e.g. sickening smell
+  - XP totals and balancing for levelling
+  - DCs
   - Treasure allocation - replace old treasure with new level guidelines
 
 ### Party Level and Target Allocation of Treasure
@@ -27,10 +28,11 @@
 
 Level | Total gp | Permanent Items         | Consumables                        | Cash    | Part
 ------|----------|-------------------------|------------------------------------|---------|-----
-Lv7   | 2,900gp  | **8th:** 2 **7th:** 2   | **8th:** 2 **7th:** 2 **6th:** 2   |   720gp | At start
-Lv8   | 4,000gp  | **9th:** 2 **8th:** 2   | **9th:** 2 **8th:** 2 **7th:** 2   | 1,000gp | 1
-Lv9   | 5,700gp  | **10th:** 2 **9th:** 2  | **10th:** 2 **9th:** 2 **8th:** 2	| 1,400gp | 2
-Lv10  | 8,000gp  | **11th:** 2 **10th:** 2 | **11th:** 2 **10th:** 2 **9th:** 2 | 2,000gp | 3
+  7   | 2,900gp  | **8th:** 2 **7th:** 2   | **8th:** 2 **7th:** 2 **6th:** 2   |   720gp | At start
+  8   | 4,000gp  | **9th:** 2 **8th:** 2   | **9th:** 2 **8th:** 2 **7th:** 2   | 1,000gp | 1
+  9   | 5,700gp  | **10th:** 2 **9th:** 2  | **10th:** 2 **9th:** 2 **8th:** 2	| 1,400gp | 2
+  10  | 8,000gp  | **11th:** 2 **10th:** 2 | **11th:** 2 **10th:** 2 **9th:** 2 | 2,000gp | 3  
+
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
 ### General Notes and Advice
@@ -274,6 +276,7 @@ The unique ogres are covered individually below.
     - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying double weak, or even replacing with some other low level emergency where the PCs can shine.
 
 ### Black Magga Rises (beyond extreme temporary threat)
+
   - **Creatures:**
     - [Black Magga PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/black_magga.pdf)
 
@@ -283,11 +286,13 @@ The unique ogres are covered individually below.
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
 
 ### C4. Gorger and Chaw’s Lair (trivial threat, terrain makes it more challenging)
+
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** TBD
 
 ### C6. Ogre Demolition Crew (trivial threat with severe terrain)
+
   - **Creatures:**
     - 1x Ogre Boss*
     - 4x Ogre Warriors*
@@ -295,14 +300,19 @@ The unique ogres are covered individually below.
     - The terrain makes this trivial threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
 ### C7. Battlefield (moderate threat)
+
   - **Creatures:**
     - 4x [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
 
 ### C13. Observation Deck (moderate threat)
+
   - **Creatures:**
-    - [Grazuul - Troll King](https://2e.aonprd.com/Monsters.aspx?ID=396)
+    - [Grazuul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/Grazuul.pdf)
+
+![Grazuul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/Grazuul.png)
 
 ### C15. Floodgate Controls (low to moderate threat)
+
   - **Creatures:**
     - [Skull Ripper PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/skull_ripper.pdf)
 
@@ -311,10 +321,12 @@ The unique ogres are covered individually below.
 ## Part 4: The Haunted Heart (Party Level 9/10)
 
 ### A Desperate Plea
+
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 
 ### Heart of Sadness
+
   - **Creatures:**
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
     - Recall Knowledge - Spirit (Occultism) or Undead (Religion): DC 27 to identify the Ghostly nature of her
@@ -329,11 +341,13 @@ The unique ogres are covered individually below.
   - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP in the clan hold is around 300 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
+
   - **Creatures:**
   - [Razmus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/razmus.pdf)
 ![razmus](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/razmus.png)
 
 ### D1 Entrance (40xp, trivial threat)
+
   - **Creatures:**
     - 2x Ogre Boss*
     
@@ -341,16 +355,19 @@ The unique ogres are covered individually below.
   - Recall Knowledge - Dragon (Arcana): DC 40 to identify the bones
 
 ### D5 Chokepoint (60xp, low threat)
+
   - **Creatures:**
     - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
 
 ### D6 The Clanhold (20+xp, trivial threat)
+
   - **Creatures:**
     - Ogre Boss*
     - 10x Ogre Warriors*
 
 ### D7 Circle of the Sisters (60xp, low threat)
+
   - **Creatures:**
     - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
   - **Encounter Notes:**  
@@ -362,6 +379,7 @@ The unique ogres are covered individually below.
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
 ### D9 As the Dread Kings of Old (80xp, moderate threat)
+
   - **Creatures:**
     - [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
 
