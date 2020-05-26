@@ -30,6 +30,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 4C   | Thistletop level 2      | most creatures done   | | |
 
 ### General TO DO
+
   - DCs
   - Hazards
   - PF2 Treasure by level allocation - replace old treasure with new level guidelines
@@ -174,7 +175,7 @@ C1   |                         |
 C2   |                         |
 C2   |                         |
 
-## Part 3B. Catacombs of Wrath (Party Level 2) 
+## Part 3B. Catacombs of Wrath (nowhere near enough XP, Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
 
@@ -192,8 +193,8 @@ C2   |                         |
 ### B4. Washing Pool (60xp, low threat)
 
   - **Creatures:**
-  - TODO build Vargouille
-  - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20)
+    - TODO build Vargouille
+    - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20)
 
 ### B6. Ancient Prison (80xp, moderate threat)
 
@@ -231,15 +232,30 @@ C2   |                         |
 ### B13. Cathedral of Wrath (120xp+, severe threat)
 
   - **Creatures:**
-    - Erylium {Elite Quasit} see playtest bestiary
+    - Erylium {Double Elite Quasit} see playtest bestiary
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
   - 120xp + 100xp for deactivating the runewell.
   - **Loot:**
-    - Invisibility Potion (C4)
-    - Dark Vision Elixir Lesser 10min (C2)
     - +1 weapon potency rune (P2)
     - returning rune (P3)
     - low grade cold iron dagger
+
+### End of Level 2 (XP, cash and items cross check)
+
+  - at this point the party should have:
+    - enough XP to level up
+    - cash: 70gp 
+    - items: 2xP2, 2xP3, 2xC2, 2xC3
+
+Item | Item Title                | Who/Where obtained
+-----|---------------------------|-------------------
+P2   |                           |
+P2+3 | +1 Returning dagger       | Erylium
+P3   | |
+C2   |                         |
+C2   |                         |
+C3   |                         |
+C3   |                         |
 
 ## Part 4. Thistletop exterior and buildings (party level 3)
 
