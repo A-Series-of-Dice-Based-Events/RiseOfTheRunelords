@@ -175,7 +175,7 @@ C1   |                         |
 C2   |                         |
 C2   |                         |
 
-## Part 3B. Catacombs of Wrath (nowhere near enough XP, Party Level 2) 
+## Part 3B. Catacombs of Wrath (Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
 
@@ -240,24 +240,7 @@ C2   |                         |
     - returning rune (P3)
     - low grade cold iron dagger
 
-### End of Level 2 (XP, cash and items cross check)
-
-  - at this point the party should have:
-    - enough XP to level up
-    - cash: 70gp 
-    - items: 2xP2, 2xP3, 2xC2, 2xC3
-
-Item | Item Title                | Who/Where obtained
------|---------------------------|-------------------
-P2   |                           |
-P2+3 | +1 Returning dagger       | Erylium
-P3   | |
-C2   |                         |
-C2   |                         |
-C3   |                         |
-C3   |                         |
-
-## Part 4. Thistletop exterior and buildings (party level 3)
+## Part 4. Thistletop exterior and buildings (party level 2/3)
 
 ### C4. Refugees Nest (100xp, moderate threat)
 
