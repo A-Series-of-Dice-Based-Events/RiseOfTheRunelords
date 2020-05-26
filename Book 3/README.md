@@ -257,9 +257,13 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - 2x Ogre Warriors*
 
-### B36. Lucrecia's Retreat (XP 80/60, moderate/low threat)
+### B36. Lucrecia's Retreat (XP 120/80, severe/moderate threat)
+
   - **Creatures:**
-    - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](https://2e.aonprd.com/Monsters.aspx?ID=278)
+    - [Lucrecia PDF](./NPC-Monsters-Statblocks/Lucrecia.pdf)
+
+![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
+
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
 
