@@ -19,15 +19,15 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ## Section status and rewards
 
-Part | Title             | Status                |  XP/total | Items | Cash
------|-------------------|-----------------------|-----------|-------|-----
-1    | Festival and Fire | creatures and XP done | 360 / 360  |       | 140sp
-2    | Local Heroes      | creatures and XP done | 240 / 600 |       | 100sp
-3A   | Glassworks        | creatures and XP done | 480 / 1080 |       | 
-3B   | Catacombs         | most creatures done   |      |       |
-4A   | Thistletop exterior | most creatures done | | |
-4B   | Thistletop level 1 | most creatures done  | | |
-4C   | Thistletop level 2 | most creatures done  | | |
+Part | Title                   | Status                |  XP/total  | Items | Cash
+-----|-------------------------|-----------------------|------------|-------|-----
+1    | Festival and Fire       | creatures and XP done | 360 / 360  | P- C- | 140sp
+2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
+3A   | Glassworks              | creatures and XP done | 480 / 1080 |       | 
+3B   | Catacombs               | most creatures done   | | |
+4A   | Thistletop above ground | most creatures done   | | |
+4B   | Thistletop level 1      | most creatures done   | | |
+4C   | Thistletop level 2      | most creatures done   | | |
 
 ### General TO DO
   - DCs
@@ -124,7 +124,7 @@ Part | Title             | Status                |  XP/total | Items | Cash
   - 20xp for entering without breaking the door down
   - 20xp for dispersing onlookers
 
-### Against the goblins part 1 (180xp, extreme threat, though goblin tactics and terrain reduce this)
+### Against the goblins part 1 (180xp, extreme threat - though goblin tactics and terrain reduce this)
 
   - **Creatures:**
     - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no shortbow)
@@ -133,10 +133,15 @@ Part | Title             | Status                |  XP/total | Items | Cash
 ### Against the Goblins Part 2 (120xp, severe threat)
 
   - **Creatures:**
-    - Tsuto Kaijutsu 
-    - Any goblins that fled part 1 join Tsuto
+    - Any goblins that fled part 1 join Tsuto here
+    - [Tsuto PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Tsuto.pdf)
+![Tsuto PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Tsuto.png)
+
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
+  - **Loot:**
+    - [Handwraps of might blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
+    - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P1)
 
 Tsuto Kaijitsu {Half-Elf; Monk/Rogue} Creature 4
 CE, Medium. Laborer;
@@ -163,22 +168,41 @@ Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potenc
 
 ### Interrogating Tsuto (0/60xp, RP encounter)
 
-  - 60xp for getting Tsuto to talk## Part 3B.
-  
-## Catacombs of Wrath (Party Level 2) 
+  - 60xp for finding a way of getting Tsuto to talk (if still alive)
+
+### End of Level 1 (XP, cash and items cross check)
+
+  - at this point the party should have:
+    - enough XP to level up
+    - cash: 40gp 
+    - items: 2xP1, 2xP2, 2xC2, 3xC1
+
+Item | Item Title                | Who/Where obtained
+-----|---------------------------|-------------------
+P1   |                           |
+P1   | Composite Shortbow        | Tsuto
+P2   | Handwraps of mighty Blows | Tsuto
+P2   |                         |
+C1   |                         |
+C1   |                         |
+C1   |                         |
+C2   |                         |
+C2   |                         |
+
+## Part 3B. Catacombs of Wrath (Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
 
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
   - **Loot:**
-    - 4x [Sleep Arrow - deep blue with plush fletching](http://2e.aonprd.com/Equipment.aspx?ID=166) (4xC3)
+    - [Sleep Arrow - deep blue with plush fletching](http://2e.aonprd.com/Equipment.aspx?ID=166) (C3)
     - [Jade Cat](http://2e.aonprd.com/Equipment.aspx?ID=223) - thumb sized feline pendant (C2)
 
 ### B3. Welcoming Chamber
 
   - **Loot:**
-    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) worth 200sp
+    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 250sp
 
 ### B4. Washing Pool (60xp, low threat)
 
