@@ -55,17 +55,17 @@ Encounter notes include scaling for level 8 parties.
  - **Creatures:** 
     - [Kibb - Firepelt Cougar Animal Companion]
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
-    - [Rukus Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/rukus_graul.pdf)
+    - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)
 
-![Rukus Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/rukus_graul.png)
+![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
 
  - **Loot:** +1 striking spear
 
 ### The Graul Farm (moderate threat)
   - **Creatures:** 
-    - [Crowfood Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/CrowfoodGraul.pdf)
+    - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)
 
-![Crowfood Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/CrowfoodGraul.png)
+![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
 
   - **Loot:** +1 striking ogre hook
   
@@ -88,9 +88,9 @@ Encounter notes include scaling for level 8 parties.
     
 ### A5. Playpen (low threat)
   - **Creatures:** 
-    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
+    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
 
-![Ogrekin Fighter PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.png)
+![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
   - **Loot:** None
 
@@ -100,9 +100,9 @@ Encounter notes include scaling for level 8 parties.
 ### A8. Mammy's Room (severe threat)
   - **Creatures:** 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
-    - [Mammy Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/MammyGraul.pdf)
+    - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
 
-![Mammy Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/MammyGraul.png)
+![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
   - **Encounter Notes:**   
     - Consider applying the weak template if this encounter will be too strong for your PCs
     - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
@@ -120,9 +120,9 @@ Encounter notes include scaling for level 8 parties.
   - **Creatures:** 
     - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
-    - [Hucker Graul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/HuckerGraul.pdf)
+    - [Hucker Graul PDF](./NPC-Monsters-Statblocks/HuckerGraul.pdf)
 
-![Hucker Graul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/HuckerGraul.png)
+![Hucker Graul PNG](./NPC-Monsters-Statblocks/HuckerGraul.png)
   - **Encounter Notes:**
     - Party level 7: Hucker is a moderate challenge by himself. The Donkey Rats should be a level 2 distraction as above with the weak template.
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
@@ -142,9 +142,9 @@ Encounter notes include scaling for level 8 parties.
 
 ### A16. Kennel (moderate threat)
   - **Creatures:** 
-    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
+    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
 
-![Ogrekin Fighter](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ogrekin_fighter.png)
+![Ogrekin Fighter](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
   - **Loot:** TBD
 
@@ -152,9 +152,9 @@ Encounter notes include scaling for level 8 parties.
   - **Creatures:** 
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider - Giant Tarantula](https://2e.aonprd.com/Monsters.aspx?ID=387)
   - **Captive Black Arrows:**
-    - [Jakardros Savark PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/Jakardros.pdf)
-    - [Vale Temross PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/ValeTemros.pdf) 
-    - [Kaven Windstrike PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/KavenWindstrike.pdf)
+    - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
+    - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
+    - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
 
 ## Part 2: Retaking Rannick (600+xp, Party Level 8-9)
 
@@ -173,7 +173,8 @@ Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319) 
 
 These adjusted creatures are simply referred to as Ogre Warrior* and Ogre Boss* throughout the rest of this book.
 
-![Ogre Warrior](./NPC-Monsters-Statblocks/OgreWarriorDoubleElite.png)
+![Ogre Warrior](./NPC-Monsters-Statblocks/OgreWarriorDoubleElite.png)  
+
 ![Ogre Boss](./NPC-Monsters-Statblocks/OgreBossElite.png)
 
 The unique ogres are covered individually below.
@@ -236,18 +237,18 @@ The unique ogres are covered individually below.
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   - **Creatures:**
-    - [Jaagrath Kreeg PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/jaagrath_kreeg.pdf)
+    - [Jaagrath Kreeg PDF](./NPC-Monsters-Statblocks/jaagrath_kreeg.pdf)
 
-![Jaagrath Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/jaagrath_kreeg.png)
+![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
     
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
     - Ogre Boss*
-    - [Dorella Kreeg PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/dorella_kreeg.pdf)
+    - [Dorella Kreeg PDF](./NPC-Monsters-Statblocks/dorella_kreeg.pdf)
 
-![Dorella Kreeg](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/dorella_kreeg.png)
+![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
 
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
@@ -278,9 +279,9 @@ The unique ogres are covered individually below.
 ### Black Magga Rises (beyond extreme temporary threat)
 
   - **Creatures:**
-    - [Black Magga PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/black_magga.pdf)
+    - [Black Magga PDF](./NPC-Monsters-Statblocks/black_magga.pdf)
 
-![Black Magga](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/black_magga.png)
+![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
 
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
@@ -307,16 +308,16 @@ The unique ogres are covered individually below.
 ### C13. Observation Deck (moderate threat)
 
   - **Creatures:**
-    - [Grazuul PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/Grazuul.pdf)
+    - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
 
-![Grazuul PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/Grazuul.png)
+![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
 
 ### C15. Floodgate Controls (low to moderate threat)
 
   - **Creatures:**
-    - [Skull Ripper PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/skull_ripper.pdf)
+    - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
 
-![Skull Ripper](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/skull_ripper.png)
+![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
     
 ## Part 4: The Haunted Heart (Party Level 9/10)
 
@@ -331,9 +332,9 @@ The unique ogres are covered individually below.
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
     - Recall Knowledge - Spirit (Occultism) or Undead (Religion): DC 27 to identify the Ghostly nature of her
 
-    [Myriana PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/myriana.pdf)
+    [Myriana PDF](./NPC-Monsters-Statblocks/myriana.pdf)
 
-![Myriana](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/myriana.png)
+![Myriana](./NPC-Monsters-Statblocks/myriana.png)
 
 
 ## Part 5: Harrowing the Hook (350+xp, Party Level 10)
@@ -343,8 +344,9 @@ The unique ogres are covered individually below.
 ### Valley of Broken Trees (40xp, trivial threat)
 
   - **Creatures:**
-  - [Razmus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/razmus.pdf)
-![razmus](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/razmus.png)
+  - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
+  
+![razmus](./NPC-Monsters-Statblocks/razmus.png)
 
 ### D1 Entrance (40xp, trivial threat)
 
@@ -383,7 +385,7 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
 
-    - [Barl Breakbones PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/barl_breakbones.pdf)
+    - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
 
-![Barl Breakbones](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/NPC-Monsters-Statblocks/barl_breakbones.png)
+![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
 
