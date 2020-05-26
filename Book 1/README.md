@@ -142,23 +142,8 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - **Loot:**
     - [Handwraps of might blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
     - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P1)
+    - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58)
 
-Tsuto Kaijitsu {Half-Elf; Monk/Rogue} Creature 4
-CE, Medium. Laborer;
-Perception: +6; Low Light Vision, Languages: Common, Elven
-Skills: +3; Acrobatics: +10, Athletics: +6, Religion: +8
-Str: 0, Dex: +3, Con: +2, Int: 0, Wis: +2, Cha: 0,
-AC: 17, TAC: 17; Fort: +8, Ref: +9, Will: +8,
-HP: 60, Speed: 45, Spell Points: 
-Unarmed Strike: +8 {1d6 B};
-FoB: +8/+8 {1d6/1d6} if both hit same target combine damage vs. resistance
-{FA} Ki Strike; spend 1 spell pool point, Verbal Casting, add +1 to attack to triggering strike.
-Surprise Attack: First Round of Combat anyone who hasn’t acted is flat-footed to Tsuto.
-Sneak Attacker: 1d4 Sneak attack damage against flatfooted creatures.
-Feats: Robust Recovery{Background}, Ki Strike{Class}, Rogue Dedication{Class}, Sneak Attacker{Rogue Multiclass}, Fleet{Skill}, Feather Step{Skill}, Toughness{General}, Diehard{Skill}  
-
-Items: Expert Handwraps of Mighty Blows (P2), Cheetah Elixir (C1), Oil of Potency (C2), 200sp
-   
 ### Rescuing Ameiko (60xp, RP encounter)
 
   - 60xp for rescuing her.
