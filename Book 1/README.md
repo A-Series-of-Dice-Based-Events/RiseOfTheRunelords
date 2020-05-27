@@ -413,8 +413,7 @@ Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Le
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
   - **Creatures:**
-    - 2x [Hell Hounds](https://2e.aonprd.com/Monsters.aspx?ID=259) 
-    - Note Yeth Hounds are in upcoming Bestiary 2
+    - 2x [Yeth Hounds] Bestiary 2
 
 ### D15. Research Room (60xp, low threat)
 
@@ -454,7 +453,7 @@ Critical Failure: 4d8+12 Damage
 
   - **Creatures:**
     - [Nualia] 
-    - [Hell Hound](https://2e.aonprd.com/Monsters.aspx?ID=259)
+    - [Yeth Hound] bestiary 2
   - 160xp.
 
 Nualia{Medium Human Cleric Fighter Dedication 6}
