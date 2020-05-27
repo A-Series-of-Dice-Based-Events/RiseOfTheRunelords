@@ -485,6 +485,7 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
 
   - **Creatures:**
     - [Giant Hermit Crab PDF](./NPC-Monsters-Statblocks/GiantHermitCrab.pdf)
+    
 ![Giant Hermit Crab PNG](./NPC-Monsters-Statblocks/GiantHermitCrab.png)
   - 30xp
   - **Loot:**
