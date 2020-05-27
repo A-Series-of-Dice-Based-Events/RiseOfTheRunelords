@@ -193,7 +193,7 @@ C2   |                         |
 ### B4. Washing Pool (60xp, low threat)
 
   - **Creatures:**
-    - TODO build Vargouille
+    - Vargouille - see playtest bestiary
     - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20)
 
 ### B6. Ancient Prison (80xp, moderate threat)
