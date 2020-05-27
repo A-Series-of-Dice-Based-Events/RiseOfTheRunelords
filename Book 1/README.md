@@ -232,8 +232,11 @@ C2   |                         |
 ### B13. Cathedral of Wrath (120xp+, severe threat)
 
   - **Creatures:**
-    - Erylium [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Quasit](https://2e.aonprd.com/Monsters.aspx?ID=97)
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
+    - [Erylium PDF](./NPC-Monsters-Statblocks/Erylium.pdf)
+    
+![Erylium PNG](./NPC-Monsters-Statblocks/Erylium.png)
+
   - 120xp + 100xp for deactivating the runewell.
   - **Loot:**
     - +1 weapon potency rune (P2)
