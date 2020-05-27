@@ -135,8 +135,8 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
-    - [Tsuto PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Tsuto.pdf)
-![Tsuto PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Tsuto.png)
+    - [Tsuto PDF](./NPC-Monsters-Statblocks/Tsuto.pdf)
+![Tsuto PNG](./NPC-Monsters-Statblocks/Tsuto.png)
 
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
@@ -210,8 +210,8 @@ C2   |                         |
 
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
-    - [Koruvus PDF](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Koruvus.pdf)
-![Koruvus PNG](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%201/NPC-Monsters-Statblocks/Koruvus.png)
+    - [Koruvus PDF](./NPC-Monsters-Statblocks/Koruvus.pdf)
+![Koruvus PNG](./NPC-Monsters-Statblocks/Koruvus.png)
 
   - **Loot:**
     - +1 weapon potency rune (P2)
@@ -484,7 +484,8 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
 ### E7. Collapsed Treasury
 
   - **Creatures:**
-    - [Awaiting Giant Crab in Bestiary 2]
+    - [Giant Hermit Crab PDF](./NPC-Monsters-Statblocks/GiantHermitCrab.pdf)
+![Giant Hermit Crab PNG](./NPC-Monsters-Statblocks/GiantHermitCrab.png)
   - 30xp
   - **Loot:**
     - 1400sp
