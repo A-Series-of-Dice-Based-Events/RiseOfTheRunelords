@@ -58,27 +58,27 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ### Goblin notes
 
-  - During the festival raid none of the goblins have shortbows, though they are likely to throw whatever is at hand as a ranged attack. Instead they have loot bags which they fill with whatever they can lay their hands on: e.g. meat, fruit, vegetables, bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
+  - During the festival raid the goblins have loot bags which they fill with whatever they can lay their hands on: e.g. meat, fruit, vegetables, bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
  - **Creatures:** 
-    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
+    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
  - **Loot:** none
 
 ### Goblin Pyros (120xp, severe threat)
 
   - **Creatures:** 
-    - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) (no shortbow)
-    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)  (no shortbow)
+    - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
+    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
  - **Loot:** none
  
 ### Die Dog Die! (140xp, severe threat)
 
   - **Creatures:** 
-    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) (no shortbow)
+    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232) (no shortbow)
+    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** none
 
 ### Aftermath
@@ -128,7 +128,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 ### Against the goblins part 1 (180xp, extreme threat - though goblin tactics and terrain reduce this)
 
   - **Creatures:**
-    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)  (no shortbow)
+    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
 ### Against the Goblins Part 2 (120xp, severe threat)
