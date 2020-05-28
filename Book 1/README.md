@@ -54,7 +54,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
   - Apply the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template to creatures in later encounters if you need to reduce the difficulty for inexperienced or unlucky players.
-  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk. For example an arrow or crossbow bolt fired from a window or doorway by local militia.
+  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia.
 
 ### Goblin notes
 
@@ -305,7 +305,7 @@ Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, 
 ### C13. Pickle Thieves (40xp, trivial threat)
 
   - **Creatures:**
-    - 2x Goblin Commandos
+    - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
 
 ### C14. Barracks (60xp, low threat)
 
@@ -315,7 +315,7 @@ Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, 
 ### C15. Eastern Guard Tower (40xp, trivial threat)
 
   - **Creatures:**
-    - 2x Goblin Commandos
+    - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
 
 ### C16. Exercise Yard (80xp)
 
@@ -325,6 +325,7 @@ Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, 
 ### C18. Caged Horse
 
   - **Creatures:**
+    - [War Horse](https://2e.aonprd.com/Monsters.aspx?ID=268)
     - Shadowmist the war horse can be calmed with the Command Animal action (untrained Nature check) vs the Horses will DC of 16.  
     - If calmed award 50xp, if they return the horse to original owner additional 50xp
 
@@ -332,9 +333,9 @@ Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, 
 
   - **Creatures:**
     - Chief Ripnugget{Fighter 5}
-    - Stickfoot
-    - 3x Goblin Commando
-    - 1x Goblin Warchanter
+    - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
+    - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+    - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
   - 180xp
  
 Chief Ripnugget {Small, Goblin Fighter 5}
@@ -382,9 +383,9 @@ Items: +1 Shortsword, Breastplate,
 ### D2. Chieftan's Harem
 
   - **Creatures:**
-    - [Bruthazmus](https://2e.aonprd.com/Monsters.aspx?ID=59)
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-  - 100xp
+    - [Bruthazmus PDF](./NPC-Monsters-Statblocks/Bruthazmus.pdf)  
+![Bruthazmus PNG](./NPC-Monsters-Statblocks/Bruthazmus.png)
 
 ### D4b. Orik's Chambers (60xp, low threat)
 
