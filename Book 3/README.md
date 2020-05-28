@@ -111,7 +111,7 @@ Encounter notes include scaling for level 8 parties.
 
 ### A9. Bedroom (low threat)
   - **Hazards:**
-    - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Spider Venom](https://2e.aonprd.com/Equipment.aspx?ID=118)
+    - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Ogre Spider Venom](https://2e.aonprd.com/Monsters.aspx?ID=814)
 
 ### A10. Attic
   - **Loot:** TBD
@@ -150,7 +150,7 @@ Encounter notes include scaling for level 8 parties.
 
 ### A17. Biggin (low threat)
   - **Creatures:** 
-    - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider - Giant Tarantula](https://2e.aonprd.com/Monsters.aspx?ID=387)
+    - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
   - **Captive Black Arrows:**
     - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
@@ -207,8 +207,7 @@ The unique ogres are covered individually below.
 
 ### B13. Secret Armory (trivial threat)
   - **Creatures:** 
-    - 2x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=174) (obviously read swim speed as land speed)
-    - Note: Shocker Lizard is in Bestiary 2, released at end of May 2020
+    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
 ### B14. Ravine (trivial threat)
   - **Hazards:**
@@ -269,8 +268,7 @@ The unique ogres are covered individually below.
 
 ### B37. Lizard Warrens (XP 120/-, moderate/- threat)
   - **Creatures:** 
-    - 12x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizards - using Electric Eels as template](https://2e.aonprd.com/Monsters.aspx?ID=174)
-    - Note: Shocker Lizard is in Bestiary 2, released at end of May 2020
+    - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
 ## Part 3: Down Comes the Rain (Party Level 9)
 
