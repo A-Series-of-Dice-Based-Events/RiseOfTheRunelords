@@ -37,18 +37,21 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ## Friendly NPC Roster (key stats only)
 
-  - [Sherriff Belor Hemlock](http://www.pf2.easytool.es/tree/index.php?id=5710&name=watch%20officer) using the Watch Officer from the GMG
-  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) using the Guard from the GMG 
-  - [Father Abstalar Zantus - cleric of Desna] Cleric 4
+  - Sherriff Belor Hemlock - If required use the Watch Officer from the GMG
+  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG.
+  - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG. 
+  - [Father Abstalar Zantus - cleric of Desna] - Cleric 4 
   - 4x [Cathedral Acolytes](http://www.pf2.easytool.es/tree/index.php?id=5658&name=acolyte) using the Acolyte from the GMG
   - [Ameiko Kaijutsu - tavern owner] Bard 4
   - [Ilsoari Gandethus - Headmaster] Wizard 4
   - [Daviren Hosk - stable owner] Ranger 4
   - [Shelelu Andosana - Elven Ranger] Ranger 5
-  - [Brodert Quink - Sage] Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
+  - [Brodert Quink - Sage] - Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
   - [Aldern Foxglove - Noble](http://www.pf2.easytool.es/tree/index.php?id=5645&name=noble) using the noble from the GMG
   - [townsfolk](http://www.pf2.easytool.es/tree/index.php?id=5663&name=commoner) using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level NPCs from the GMG
 
+  - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with PF1 stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
+  
 ## Part 1: Festival and Fire (320xp, Party Level 1)
 
   - Part 1 shouldn't be brutal but rather fun and exciting. 
@@ -58,7 +61,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ### Goblin notes
 
-  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
+  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -256,7 +259,7 @@ C2   |                         |
 
   - **Creatures:**
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
-  - 120xp, this encounter can be bypassed. If successfully bypassed with stealth award the same xp.
+  - this encounter can be bypassed. If successfully bypassed award the same xp.
 
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, severe threat)
 
