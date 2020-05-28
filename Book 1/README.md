@@ -47,7 +47,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - [Shelelu Andosana - Elven Ranger] Ranger 5
   - [Brodert Quink - Sage] Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
   - [Aldern Foxglove - Noble](http://www.pf2.easytool.es/tree/index.php?id=5645&name=noble) using the noble from the GMG
-  - [townsfolk](http://www.pf2.easytool.es/tree/index.php?id=5663&name=commoner) using the commoner or other appropriate low level NPC from the GMG
+  - [townsfolk](http://www.pf2.easytool.es/tree/index.php?id=5663&name=commoner) using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level NPCs from the GMG
 
 ## Part 1: Festival and Fire (320xp, Party Level 1)
 
@@ -58,7 +58,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ### Goblin notes
 
-  - During the festival raid the goblins have loot bags which they fill with whatever they can lay their hands on: e.g. meat, fruit, vegetables, bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
+  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -71,13 +71,15 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - **Creatures:** 
     - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
- - **Loot:** none
+    - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
+    - **Loot:** none
  
 ### Die Dog Die! (140xp, severe threat)
 
   - **Creatures:** 
-    - [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    - [Mounted Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+    - During Combat The goblin commando uses the superior mobilty of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** none
 
@@ -97,7 +99,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 ### The Shopkeepers Daughter (40-80xp, RP encounter)
 
   - **Creatures:** 
-    - [Vin Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), fist +7: dmg 1d4+3, nonlethal 
+    - [Vin Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), AC15, HP15; (>>)Power Attack fist +7: dmg 2d4+3, nonlethal 
   - **XP:** - 40xp for beating him, 60xp for intimidate or deception, 80xp for Diplomacy without hurting his daughters feelings.
 
 ### The Boar Hunt (60xp, low threat)
@@ -275,7 +277,7 @@ Actions: Savage Slice: Must have made an attack with the previous action; Make a
 Spell Roll: +9, DC: 19; Spell Points: 4
 Cantrips: Produce Flame{2A}, Tanglefoot{2A}, Guidance{2A}, Know Direction{2A};
  {1st} Burning Hands{2A}, Goblin Pox{2A}, Magic Fang{2A},
-{2nd}Barkskin{2A}, Entagle{2A}, Burning Hands{2A},
+{2nd}Barkskin{2A}, Entangle{2A}, Burning Hands{2A},
 {3rd} Produce Flame, Wall of Thorns{3A}
 Feats: Burn it{Ancestry}, Flame Heart{Ancestry}, Savage Slice{Druid}, Rogue Dedication{Druid}, Forager{Skill}, Natural Medicine{General}
 Items: Expert Hide, Lesser Healing Potion, Holly Bush Feather Token pg571
@@ -288,7 +290,7 @@ Str: +2, Dex: +2, Con: 0, Int: -4, Wis: +2, Cha: -1
 Jaws{Finesse}: +7 {1d6+2 P}
 Claw{Agile}: +3 {1d4+2 S}
 Special: Deal 1d6 additional damage against a flatfooted foe
-Work Together {Action}: If Tanglefoot threatens the target of Gogmurts Strikes, Gogmurts strikes make the target flatfooted until the end of his next turn.
+Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes, Gogmurts strikes make the target flatfooted until the end of his next turn.
  
 ### C9. Rope Bridge
 
@@ -417,7 +419,7 @@ Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Le
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
   - **Creatures:**
-    - 2x [Yeth Hounds] Bestiary 2
+    - 2x [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
 
 ### D15. Research Room (60xp, low threat)
 
@@ -457,7 +459,7 @@ Critical Failure: 4d8+12 Damage
 
   - **Creatures:**
     - [Nualia] 
-    - [Yeth Hound] bestiary 2
+    - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
   - 160xp.
 
 Nualia{Medium Human Cleric Fighter Dedication 6}
@@ -508,7 +510,7 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
 ### E10. Malfeshnekors Prison (160xp, extreme threat)
 
   - **Creatures:**
-    - [Malfeshnekor - Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
+    - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
 
 ### Returning to town (120xp, RP encounter)
 
