@@ -215,7 +215,7 @@ The unique ogres are covered individually below.
     
 ### B15 Crypt (trivial threat)
   - **Creatures:**
-    - Lorgus Fenker [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wraith](https://2e.aonprd.com/Monsters.aspx?ID=417)
+    - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - alternatively use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
     
 ### B18. Workroom (XP 40/30, trivial threat)
