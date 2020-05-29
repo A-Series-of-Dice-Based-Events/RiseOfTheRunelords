@@ -37,17 +37,16 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ## Friendly NPC Roster (key stats only)
 
-  - Sherriff Belor Hemlock - If required use the Watch Officer from the GMG
-  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG.
-  - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG. 
+  - [Sherriff Belor Hemlock](http://www.pf2.easytool.es/tree/index.php?id=5710&name=watch%20officer) - If required use the Watch Officer from the GMG (Creatures N - NPC Officers - Watch Officer)
+  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG (Creatures N - NPC Officers - Guard).
+  - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG (Creatures N - NPC Officers - Guard). 
   - [Father Abstalar Zantus - cleric of Desna] - Cleric 4 
-  - 4x [Cathedral Acolytes](http://www.pf2.easytool.es/tree/index.php?id=5658&name=acolyte) using the Acolyte from the GMG
+  - 4x [Cathedral Acolytes](http://www.pf2.easytool.es/tree/index.php?id=5658&name=acolyte) using the Acolyte from the GMG (Creatures N - NPC Devotees - Acolyte)
   - [Ameiko Kaijutsu - tavern owner] Bard 4
   - [Ilsoari Gandethus - Headmaster] Wizard 4
   - [Daviren Hosk - stable owner] Ranger 4
   - [Shelelu Andosana - Elven Ranger] Ranger 5
   - [Brodert Quink - Sage] - Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
-  - [Aldern Foxglove - Noble](http://www.pf2.easytool.es/tree/index.php?id=5645&name=noble) using the noble from the GMG
   - [townsfolk](http://www.pf2.easytool.es/tree/index.php?id=5663&name=commoner) using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level NPCs from the GMG
 
   - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with PF1 stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
@@ -109,6 +108,8 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
   - **Creatures:**
     - 1x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52)
+    - [Aldern Foxglove - Noble](http://www.pf2.easytool.es/tree/index.php?id=5645&name=noble) use the noble from the GMG (Creatures N - NPC Courtiers - Noble)
+    - [Aldern's Servants](http://www.pf2.easytool.es/tree/index.php?id=5682&name=servant) use the servants from the GMG (Creatures N - NPC Laborers - Servant)
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
 
