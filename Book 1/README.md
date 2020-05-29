@@ -383,7 +383,7 @@ Items: +1 Shortsword, Breastplate,
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
   - **Loot:** None
 
-## Thistletop Dungeon Level 1 (Party level 3)
+## Thistletop Dungeon Level 1 (Assumed party level 3)
 
 ### D2. Chieftan's Harem
 
@@ -416,8 +416,8 @@ Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Le
 ### D7. Tentamort Hunting Grounds
 
   - **Creatures:**
-    - 1x [Tentamort] use a medium Otyugh as template: swap Jaws and Disease for Sting and Poison; remove Stench
-  - 60xp
+    - 1x [Tentamort PDF](./NPC-Monsters-Statblocks/Tentamort.pdf)  
+![Tentamort PNG](./NPC-Monsters-Statblocks/Tentamort.png)
 
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
@@ -446,7 +446,7 @@ Widen Spell{FA}: When you cast a spell with a Burst, Cone, or line and it does n
 Feats: Adapted Spell{Ancestry}, Assurance Arcana{Background}, Widen Spell{Wizard}, Empowering Focus{Wizard}
 Items: Lesser Mentalist’s Staff, Infiltrator’s Elixir, 1x Lesser Healing Potion. 10gp
 
-## Thistletop Dungeon Level 2 (Party level 3/4)
+## Thistletop Dungeon Level 2 (Assumed party level 3)
 
 ### E3. Trapped Hall Level 4
 
