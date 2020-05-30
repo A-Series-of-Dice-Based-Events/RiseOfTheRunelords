@@ -1,5 +1,5 @@
 # Burnt Offerings lv1-4 - conversion guide for Pathfinder 2
-  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they dont convert well from PF1.
+  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from PF1.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
 
 ## Party Level and Target Allocation of Treasure
@@ -24,10 +24,11 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 1    | Festival and Fire       | creatures and XP done | 360 / 360  | P- C- | 140sp
 2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
 3A   | Glassworks              | creatures and XP done | 480 / 1080 |       | 
-3B   | Catacombs               | most creatures done   | | |
-4A   | Thistletop above ground | most creatures done   | | |
-4B   | Thistletop level 1      | most creatures done   | | |
-4C   | Thistletop level 2      | most creatures done   | | |
+3B   | Catacombs               | most creatures done   | 500 / 500  | |
+4A   | Thistletop mainland     | most creatures done   | 560 / 1060 | |
+4B   | Thistletop island top   | most creatures done   | | |
+4C   | Thistletop level 1      | most creatures done   | | |
+4D   | Thistletop level 2      | most creatures done   | | |
 
 ### General TO DO
 
@@ -156,7 +157,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - 60xp for rescuing her.
   - Ameiko is unconscious and will wake at GM discretion or with any healing
   - **Loot:**
-    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town)
+    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town). This is not included in the level based cash total.
 
 ### Interrogating Tsuto (0/60xp, RP encounter)
 
@@ -181,22 +182,20 @@ C1   |                         |
 C2   |                         |
 C2   |                         |
 
-## Part 3B. Catacombs of Wrath (Party Level 2) 
+## Part 3B. Catacombs of Wrath (500xp, Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
 
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
-  - **Loot:**
-    - [Sleep Arrow - deep blue with plush fletching](http://2e.aonprd.com/Equipment.aspx?ID=166) (C3)
-    - [Jade Cat](http://2e.aonprd.com/Equipment.aspx?ID=223) - thumb sized feline pendant (C2)
+  - **Loot:** None
 
 ### B3. Welcoming Chamber
 
   - **Loot:**
     - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 250sp
 
-### B4. Washing Pool (60xp, low threat)
+### B4. Washing Pool (40xp, trivial threat)
 
   - **Creatures:**
     - [Vargouille PDF](./NPC-Monsters-Statblocks/Vargouille.pdf)  
@@ -213,9 +212,9 @@ C2   |                         |
 ### B8. Ancient Study
 
   - **Loot:**
-    - Scroll of Flaming Sphere (C3), Perception DC 19
+    - [Scroll of Flaming Sphere heightened to level 3](https://2e.aonprd.com/Spells.aspx?ID=121) (C4), Perception DC 19
 
-### B9. Prisoner Pits (80xp, moderate threat)
+### B9. Prisoner Pits (60xp, moderate threat, plus 20xp for dealing with the zombies)
 
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
@@ -229,16 +228,15 @@ C2   |                         |
 ### B11. Meditation Chamber
 
   - **Loot:**
-    - Scroll of Burning Hands (C1)
-    - Wand of Shocking Grasp {1st} (P3)
-    - 2x Elixir of Stone Fist (C4)
+    - [Scroll of Burning Hands heightened to level 2](https://2e.aonprd.com/Spells.aspx?ID=30) (C2)
+    - [Wand of Shocking Grasp](https://2e.aonprd.com/Spells.aspx?ID=283) (P3)
 
 ### B12. Shrine to Lamashtu
 
   - **Loot:**
     - TODO: replace Waters of Lamashtu
 
-### B13. Cathedral of Wrath (120xp+, severe threat)
+### B13. Cathedral of Wrath (120xp, severe threat, plus 120xp for deactivating the runewell)
 
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
@@ -246,26 +244,29 @@ C2   |                         |
     
 ![Erylium PNG](./NPC-Monsters-Statblocks/Erylium.png)
 
-  - 120xp + 100xp for deactivating the runewell.
   - **Loot:**
     - +1 weapon potency rune (P2)
     - returning rune (P3)
     - low grade cold iron dagger
 
-## Part 4. Thistletop exterior and buildings (party level 2/3)
+## Part 4A. Thistletop mainland (assumed party level 2)
 
-### C4. Refugees Nest (100xp, moderate threat)
+  - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing or neutralizing to avoid them running together.
+  - Shalelu should have forwarned them and, for inexperienced players, consider having her accompany them to provide ranged support.
+  - The terrain here also increases the threat level and bonus XP is awarded as if the creatures encountered were 1 level higher.
+
+### C4. Refugees Nest (150xp, extreme threat, plus 50xp for terrain)
 
   - **Creatures:**
     - 10x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
-### C5. Kennel (80xp, moderate threat)
+### C5. Kennel (120xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
   - this encounter can be bypassed. If successfully bypassed award the same xp.
 
-### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, severe threat)
+### C6/7. Tangletooth's Den and Gogmurt's Lair (80xp, moderate threat, plus 40xp for terrain)
 
   - **Creatures:**
     - Tangletooth {Use cat Stats from CRB pg. 215}
@@ -298,18 +299,27 @@ Jaws{Finesse}: +7 {1d6+2 P}
 Claw{Agile}: +3 {1d4+2 S}
 Special: Deal 1d6 additional damage against a flatfooted foe
 Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes, Gogmurts strikes make the target flatfooted until the end of his next turn.
- 
+
+### C27. Bunyip Lair (60xp, low threat, plus 20xp terrain)
+
+  - **Creatures:**
+    - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
+  - **Loot:** None
+
+## Part 4B. Thistletop island top (assumed party level 3)
+
+  - Note if the party is not level 3 by this point the encounters are probably too hard.
+
 ### C9. Rope Bridge
 
   - DC 15 Perception, if 3 or more medium creatures cross it collapses into the sea. 
-  - 100xp for disarming or crossing safely.
+  - 40xp for disarming or crossing safely.
 
 ### C10. Thistletop (120xp, severe threat)
 
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-  - 100xp
 
 ### C13. Pickle Thieves (40xp, trivial threat)
 
@@ -331,37 +341,20 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
   - **Creatures:**
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
 
-### C18. Caged Horse
+### C18. Caged Horse (30xp, trivial threat)
 
   - **Creatures:**
     - [War Horse](https://2e.aonprd.com/Monsters.aspx?ID=268)
-    - Shadowmist the war horse can be calmed with the Command Animal action (untrained Nature check) vs the Horses will DC of 16.  
-    - If calmed award 50xp, if they return the horse to original owner additional 50xp
+    - If made friendly then Shadowmist the war horse can be calmed with the Command Animal action (untrained Nature check) vs the Horses will DC of 16.
 
-### C19. Throne Room
+### C19. Throne Room (160xp, extreme threat)
 
   - **Creatures:**
-    - Chief Ripnugget{Fighter 5}
+    - [Chief Ripnugget PDF](./NPC-Monsters-Statblocks/ChiefRipnugget.pdf)  
+![Chief Ripnugget PNG](./NPC-Monsters-Statblocks/ChiefRipnugget.png)  
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
-  - 180xp
- 
-Chief Ripnugget {Small, Goblin Fighter 5}
-Perception: +6; Darkvision, Languages: Common, Goblin
-Skills: +5, Crafting: +5, Athletics: +7,
-Str: +4, Dex: +1, Con: +3, Int: -1, Wis: +1, Cha: +1,
-AC: 20, TAC: 18, Fort: +9, Ref: +7, Will: +6,
-HP: 71; Speed: 25
-+1 Shortsword: +11 {2d6+4}
-Special: Chief Ripnugget is mounted on the Goblin Dog and has the following action;
-Command Animal{A}: Goblin dog gets 2 actions.
-Attack of Opportunity{RA}
-Power Attack{2A}: Make a Melee Strike, if it hits add 1 weapon damage dice to the attack.
-Dueling Parry{A}: while wielding a single one-handed weapon, you gain a +2 Circumstance bonus to AC until the start of your next turn.
-Quick Reversal{A}: Make a Strike against a foe who is flanking you, if you miss, make another attack against the other flanking foe with the same weapon and attack penalty.
-Feats: Rough Rider{Ancestry}, Ride{Bonus}, Razor Teeth{Ancestry5th }, Quick Repair{Background}, Power Attack{Fighter}, Dueling Parry{Fighter}, Quick Reversal{Fighter}
-Items: +1 Shortsword, Breastplate,
 
 ### C23. Chieftan's Room
 
@@ -381,11 +374,6 @@ Items: +1 Shortsword, Breastplate,
     - Infiltrator’s Elixir pg548
     - Lesser Healing Potion
 
-### C27. Bunyip Lair (40xp, trivial threat)
-
-  - **Creatures:**
-    - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
-  - **Loot:** None
 
 ## Thistletop Dungeon Level 1 (Assumed party level 3)
 
@@ -417,7 +405,7 @@ Quick Reversal{A}: if you are flanked, make a Strike against one of the Flanking
 Feats: Furious Focus{Fighter}, Aggressive Shield{Fighter}, Quick Reversal{Fighter}, Unconventional Weaponry [Elven Curve Blade] {Ancestry}, Quick Repair{Background},
 Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Lesser Healing Potion, 2x Spellstrike Ammunition, 10gp
 
-### D7. Tentamort Hunting Grounds
+### D7. Tentamort Hunting Grounds (60xp, low threat)
 
   - **Creatures:**
     - 1x [Tentamort PDF](./NPC-Monsters-Statblocks/Tentamort.pdf)  
