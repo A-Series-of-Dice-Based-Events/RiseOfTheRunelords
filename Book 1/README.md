@@ -25,8 +25,8 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
 3A   | Glassworks              | creatures and XP done | 480 / 1080 |       | 
 3B   | Catacombs               | most creatures done   | 500 / 500  | |
-4A   | Thistletop mainland     | most creatures done   | 560 / 1060 | |
-4B   | Thistletop island top   | most creatures done   | | |
+4A   | Thistletop Approach     | most creatures done   | 560 / 1060 | |
+4B   | Thistletop island top   | most creatures done   | 535 / 535  | |
 4C   | Thistletop level 1      | most creatures done   | | |
 4D   | Thistletop level 2      | most creatures done   | | |
 
@@ -249,11 +249,11 @@ C2   |                         |
     - returning rune (P3)
     - low grade cold iron dagger
 
-## Part 4A. Thistletop mainland (assumed party level 2)
+## Part 4A. Thistletop Approach (565xp, assumed party level 2)
 
-  - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing or neutralizing to avoid them running together.
-  - Shalelu should have forwarned them and, for inexperienced players, consider having her accompany them to provide ranged support.
-  - The terrain here also increases the threat level and bonus XP is awarded as if the creatures encountered were 1 level higher.
+  - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
+  - Shalelu should have forwarned them and, for inexperienced players, consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
+  - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
 ### C4. Refugees Nest (150xp, extreme threat, plus 50xp for terrain)
 
@@ -306,14 +306,15 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
   - **Loot:** None
 
-## Part 4B. Thistletop island top (assumed party level 3)
+## Part 4B. Thistletop island top (545xp, assumed party level 3)
 
   - Note if the party is not level 3 by this point the encounters are probably too hard.
 
-### C9. Rope Bridge
+### C9. Rope Bridge (5xp Hazard)
 
-  - DC 15 Perception, if 3 or more medium creatures cross it collapses into the sea. 
-  - 40xp for disarming or crossing safely.
+  - Simple hazard, but potentially high damage and possibility of drowning.
+  - DC 18 Stealth to detect, save as per scenario
+  - 80 foot fall into water = 60ft fall damage = 30HP.
 
 ### C10. Thistletop (120xp, severe threat)
 
@@ -362,7 +363,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - DC 16 Seek to find Iron Key to chest in C24.
     - DC ?? to find Silver Holy symbol of Lamashtu, ??sp
 
-### C24. Treasury
+### C24. Treasury (10xp Hazard)
 
   - **Hazard:**    
     - [Rusty Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6) with only a single blade. If it hits target must save vs [Tetanus](https://2e.aonprd.com/Diseases.aspx?ID=3)  
