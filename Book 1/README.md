@@ -23,12 +23,14 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 -----|-------------------------|-----------------------|------------|-------|-----
 1    | Festival and Fire       | creatures and XP done | 360 / 360  | P- C- | 140sp
 2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
-3A   | Glassworks              | creatures and XP done | 480 / 1080 |       | 
-3B   | Catacombs               | most creatures done   | 500 / 500  | |
-4A   | Thistletop Approach     | most creatures done   | 560 / 1060 | |
-4B   | Thistletop island top   | most creatures done   | 535 / 535  | |
-4C   | Thistletop level 1      | most creatures done   | | |
-4D   | Thistletop level 2      | most creatures done   | | |
+3A   | Glassworks              | creatures and XP done | 460 / 1060 |       | 
+3B   | Catacombs               | creatures and XP done   500 / 500  | |
+4A   | Thistletop Approach     | most creatures/XP done | 560 / 1060 | |
+4B   | Thistletop island top   | most creatures/XP done | 535 / 535  | |
+4C   | Thistletop level 1      | most creatures/XP done | 340 / 875  | |
+4D   | Thistletop level 2      | most creatures/XP done | 330 / 1205 | |
+4E   | Malfeshnekor (optional) | done                  | 160 / 1365 | none | none
+
 
 ### General TO DO
 
@@ -97,6 +99,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
   - **Creatures:** 
     - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
+    - add 1 or 2 additional skeletons if you want to increase the impact of this standalone encounter. Add 20xp for each skeleton added.
   - **Loot:** none
 
 ### The Shopkeepers Daughter (40-80xp, RP encounter)
@@ -124,7 +127,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - 1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) has only an improvised dagger.
   - **Loot:** None
 
-## Part 3A: Glassworks (480xp, Party Level 1)
+## Part 3A: Glassworks (460xp, Party Level 1)
 
 ### The Missing Bartender / Investigating the glassworks (20-60xp, RP encounter) 
 
@@ -132,7 +135,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - 20xp for entering without breaking the door down
   - 20xp for dispersing onlookers
 
-### Against the goblins part 1 (180xp, extreme threat - though goblin tactics and terrain reduce this)
+### Against the goblins part 1 (160xp, extreme threat)
 
   - **Creatures:**
     - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
@@ -376,9 +379,9 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - Lesser Healing Potion
 
 
-## Thistletop Dungeon Level 1 (Assumed party level 3)
+## Thistletop Dungeon Level 1 (340xp, Assumed party level 3)
 
-### D2. Chieftan's Harem
+### D2. Chieftan's Harem (80xp, moderate threat)
 
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
@@ -439,9 +442,10 @@ Widen Spell{FA}: When you cast a spell with a Burst, Cone, or line and it does n
 Feats: Adapted Spell{Ancestry}, Assurance Arcana{Background}, Widen Spell{Wizard}, Empowering Focus{Wizard}
 Items: Lesser Mentalist’s Staff, Infiltrator’s Elixir, 1x Lesser Healing Potion. 10gp
 
-## Thistletop Dungeon Level 2 (Assumed party level 3)
 
-### E3. Trapped Hall Level 4
+## Thistletop Dungeon Level 2 (490xp, Assumed party level 3)
+
+### E3. Trapped Hall Level 4 (10xp)
 
 Stealth DC 23,
 Disable: Expert Crafting DC 17 or Trained Thievery DC 19
@@ -451,14 +455,13 @@ Critical Success: Same as Success but Creature also takes a free Step Action in 
 Failure: 2d8+6 Damage
 Critical Failure: 4d8+12 Damage
 
-### E4. Observation Deck
+### E4. Observation Deck (120xp, severe threat)
 
   - **Creatures:**
     - [Nualia] 
     - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
-  - 160xp.
 
-Nualia{Medium Human Cleric Fighter Dedication 6}
+Nualia{Medium Human Cleric Fighter Dedication 5}
 Perception: +10; Languages: Common, Abyssal, Resonance: 9
 Skills: ; Athletics: +9 {+11}, Lamashtu Lore: +11
 Str: +4, Dex: +1, Con: +2, Int: 0, Wis: +4, Cha: +3,
@@ -482,13 +485,12 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
   - **Creatures:**
     - 2x [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
 
-### E7. Collapsed Treasury
+### E7. Collapsed Treasury (80xp, moderate threat)
 
   - **Creatures:**
     - [Giant Hermit Crab PDF](./NPC-Monsters-Statblocks/GiantHermitCrab.pdf)
-    
 ![Giant Hermit Crab PNG](./NPC-Monsters-Statblocks/GiantHermitCrab.png)
-  - 30xp
+
   - **Loot:**
     - 1400sp
     - Mistform Elixir
@@ -508,9 +510,9 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
   - **Creatures:**
     - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
 
-### Returning to town (120xp, RP encounter)
+### Returning to town (RP encounter and local reward)
 
-  - **XP:** explaining that the threat from Thistletop is stopped. 120xp, 
+  - **XP:** explaining that the threat from Thistletop is stopped. 
   - **Loot:**
     - TBD
     - 20gp.
