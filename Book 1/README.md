@@ -135,13 +135,13 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - 20xp for entering without breaking the door down
   - 20xp for dispersing onlookers
 
-### Against the goblins part 1 (160xp, extreme threat)
+### Against the goblins part 1 (up to 160xp, extreme threat)
 
   - **Creatures:**
     - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
-### Against the Goblins Part 2 (120xp, severe threat)
+### Against the Goblins Part 2 (120xp+, severe threat)
 
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
@@ -236,8 +236,15 @@ C2   |                         |
 
 ### B12. Shrine to Lamashtu
 
+  - Waters of Lamashtu, Fortititude Save DC 22 
+    - Waters of Lamashtu twist your mind and body
+    - Critical Success: Sickened 1 
+    - Success: Sickened 3
+    - Failure: Clumsy 1 and Stupefied 1 for 1 minute
+    - Critical Failure: Clumsy 1 and Stupefied 1 for 1 day
+    - Any failure gives visions of your worst mental character flaw amplified and twisted to a horrific degree - and it feels like your body is being twisted into a dark mockery of your best physical features. 
   - **Loot:**
-    - TODO: replace Waters of Lamashtu
+    - 4 doses of unholy water 
 
 ### B13. Cathedral of Wrath (120xp, severe threat, plus 120xp for deactivating the runewell)
 
@@ -316,7 +323,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 ### C9. Rope Bridge (5xp Hazard)
 
   - Simple hazard, but potentially high damage and possibility of drowning.
-  - DC 18 Stealth to detect, save as per scenario
+  - DC 18 Stealth to detect, save as per scenario.
   - 80 foot fall into water = 60ft fall damage = 30HP.
 
 ### C10. Thistletop (120xp, severe threat)
@@ -377,7 +384,6 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - Blue Silk Gown worth 15gp.
     - Infiltrator’s Elixir pg548
     - Lesser Healing Potion
-
 
 ## Thistletop Dungeon Level 1 (340xp, Assumed party level 3)
 
