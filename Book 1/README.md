@@ -24,13 +24,12 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 1    | Festival and Fire       | creatures and XP done | 360 / 360  | P- C- | 140sp
 2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
 3A   | Glassworks              | creatures and XP done | 460 / 1060 |       | 
-3B   | Catacombs               | creatures and XP done   500 / 500  | |
+3B   | Catacombs               | creatures and XP done | 500 / 500  | |
 4A   | Thistletop Approach     | most creatures/XP done | 560 / 1060 | |
 4B   | Thistletop island top   | most creatures/XP done | 535 / 535  | |
 4C   | Thistletop level 1      | most creatures/XP done | 340 / 875  | |
 4D   | Thistletop level 2      | most creatures/XP done | 330 / 1205 | |
 4E   | Malfeshnekor (optional) | done                  | 160 / 1365 | none | none
-
 
 ### General TO DO
 
@@ -237,14 +236,14 @@ C2   |                         |
 ### B12. Shrine to Lamashtu
 
   - Waters of Lamashtu, Fortititude Save DC 22 
-    - Waters of Lamashtu twist your mind and body
-    - Critical Success: Sickened 1 
-    - Success: Sickened 3
+    - Drinking the Waters of Lamashtu temporarily twists your mind and body. Repeated doses over many weeks can cause permanent changes that are rarely beneficial.
+    - Critical Success: No effect
+    - Success: Sickened 1 as your body purges the waters from your system
     - Failure: Clumsy 1 and Stupefied 1 for 1 minute
     - Critical Failure: Clumsy 1 and Stupefied 1 for 1 day
-    - Any failure gives visions of your worst mental character flaw amplified and twisted to a horrific degree - and it feels like your body is being twisted into a dark mockery of your best physical features. 
+    - Any failure gives visions of your worst mental character flaw or personal failure amplified and twisted to a horrific degree - and it feels like your body is being twisted into a dark mockery of your best physical features.
   - **Loot:**
-    - 4 doses of unholy water 
+    - 4 doses of unholy water (not included in level based treasure as highly unlikely to have any utility, though may have some creative uses)
 
 ### B13. Cathedral of Wrath (120xp, severe threat, plus 120xp for deactivating the runewell)
 
