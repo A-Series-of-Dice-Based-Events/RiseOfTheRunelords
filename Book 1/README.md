@@ -433,6 +433,10 @@ Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Le
     - [Lyrie Akenja PDF](./NPC-Monsters-Statblocks/LyrieAkenja.pdf)  
 ![Lyrie Akenja PNG](./NPC-Monsters-Statblocks/LyrieAkenja.png)
 
+  - **Tactics**
+    - Replace the "During Combat" tactics with the following:
+      - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. As such, when she is forced into combat, she prefers her long range offensive abilities to stay beyond 50 foot range where practical, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. If she expects to be engaged in close range combat or to be targeted then she casts mirror image.
+
 ## Thistletop Dungeon Level 2 (490xp, Assumed party level 3)
 
 ### E3. Trapped Hall Level 4 (10xp)
