@@ -1,6 +1,8 @@
 # Burnt Offerings lv1-4 - conversion guide for Pathfinder 2
   - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from PF1.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
+  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
 
 ## Party Level and Target Allocation of Treasure
 - Lvl 1: up to the Catacombs of Wrath 
@@ -39,19 +41,19 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ## Friendly NPC Roster (key stats only)
 
-  - [Sherriff Belor Hemlock](http://www.pf2.easytool.es/tree/index.php?id=5710&name=watch%20officer) - If required use the Watch Officer from the GMG (Creatures N - NPC Officers - Watch Officer)
-  - 12x [Town Guard](http://www.pf2.easytool.es/tree/index.php?id=5707&name=guard) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG (Creatures N - NPC Officers - Guard).
-  - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG (Creatures N - NPC Officers - Guard). 
+  - [Sherriff Belor Hemlock](https://2e.aonprd.com/NPCs.aspx?ID=936) - If required use the Watch Officer from the GMG.
+  - 12x [Town Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG.
+  - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG. 
   - [Father Abstalar Zantus - cleric of Desna] - Cleric 4 
-  - 4x [Cathedral Acolytes](http://www.pf2.easytool.es/tree/index.php?id=5658&name=acolyte) using the Acolyte from the GMG (Creatures N - NPC Devotees - Acolyte)
+  - 4x [Cathedral Acolytes](https://2e.aonprd.com/NPCs.aspx?ID=893) using the Acolyte from the GMG.
   - [Ameiko Kaijutsu - tavern owner] Bard 4
   - [Ilsoari Gandethus - Headmaster] Wizard 4
   - [Daviren Hosk - stable owner] Ranger 4
   - [Shelelu Andosana - Elven Ranger] Ranger 5
   - [Brodert Quink - Sage] - Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
-  - [townsfolk](http://www.pf2.easytool.es/tree/index.php?id=5663&name=commoner) using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level NPCs from the GMG
+  - townsfolk using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level [NPCs](https://2e.aonprd.com/NPCs.aspx) from the GMG
 
-  - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with PF1 stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
+  - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with first edition stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
   
 ## Part 1: Festival and Fire (320xp, Party Level 1)
 
@@ -428,25 +430,8 @@ Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Le
 ### D15. Research Room (60xp, low threat)
 
   - **Creatures:**
-    - [Lyrie Akenja] {Human Wizard 4}
-
-Lyrie Ankeja{Medium Human Illusion Wizard 4}
-Perception: +6; Languages: Common, Abyssal, Resonance Points: 5
-Skills: +4; Arcana: +9,
-Str: 0, Dex: +2, Con: 0, Int: +4, Wis: +2, Cha: +1,
-AC: 16{18}, TAC: 16{18}, Fort: +4{+5}, Ref: +6{+7}, Will: +7{+8},
-HP: 32, Speed: 25
-Lesser Mentalist’s Staff: +4 {1d4)
-Spell Rolls: +8, Spell DC: 18; Spell Points: 4, Spell Power: Warped Terrain
-Cantrips {4}: Daze{Staff}, Ray of Frost{2nd}, Mage Hand{2nd}, Ghost Sound{2nd}, Shield{2nd}
-1st {4}: Mindlink{Staff}, Phantom Pain{Staff}, {Px2}Color Spray, Grim Tendrils, Mage Armor, {Px2}Ray of Enfeeblement,
-2nd {3}: {P}Grim Tendrils, {P}Mage Armor, {P}Mirror Image, Invisibility, {P}Illusory Creature
-Drain Arcane Focus{FA}: Once per Day, When your turn begins you may cast one spell you prepared and had previously cast without expending a spell slot.
-Empowering Focus: when you use Drain Focus you may add a +2 circumstance bonus to the Spell roll or Spell DC.
-Widen Spell{FA}: When you cast a spell with a Burst, Cone, or line and it does not have a duration, Add a Somatic Casting component, you add 5 feet to radius of a burst that is normally at least 10ft or you add 5ft to the cone or line with a maximum range of 15ft.
-Feats: Adapted Spell{Ancestry}, Assurance Arcana{Background}, Widen Spell{Wizard}, Empowering Focus{Wizard}
-Items: Lesser Mentalist’s Staff, Infiltrator’s Elixir, 1x Lesser Healing Potion. 10gp
-
+    - [Lyrie Akenja PDF](./NPC-Monsters-Statblocks/LyrieAkenja.pdf)  
+![Lyrie Akenja PNG](./NPC-Monsters-Statblocks/LyrieAkenja.png)
 
 ## Thistletop Dungeon Level 2 (490xp, Assumed party level 3)
 
@@ -489,6 +474,7 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
 
   - **Creatures:**
     - 2x [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
+    - Note that Shadows are a higher threat level than in PF1, so reduce the numbers to 2 or even 1. 
 
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
