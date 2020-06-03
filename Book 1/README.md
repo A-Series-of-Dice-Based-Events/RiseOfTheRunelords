@@ -255,6 +255,9 @@ C2   |                         |
     
 ![Erylium PNG](./NPC-Monsters-Statblocks/Erylium.png)
 
+    - Note that to stay flying Erylium must use at least one fly move action per turn. 
+    - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
+
   - **Loot:**
     - +1 weapon potency rune (P2)
     - returning rune (P3)
