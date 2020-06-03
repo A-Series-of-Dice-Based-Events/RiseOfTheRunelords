@@ -398,23 +398,10 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 ### D4b. Orik's Chambers (60xp, low threat)
 
   - **Creatures:**
-    - Orik Vancaskerkin{Human Fighter 4}, 
+    - [ Orik Vancaskerkin PDF](./NPC-Monsters-Statblocks/OrikVancaskerkin.pdf)  
+![ Orik Vancaskerkin PNG](./NPC-Monsters-Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
     - When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave.
-
-Orik Vancaskerkin {Medium, Human Fighter 4}
-Perception: +6; Languages: Common, Goblinoid
-Skills: +4; Athletics: +6, Acrobatics: +2
-Str: +4, Dex: +1, Con: +2, Int: -1, Wis: +1, Cha: -2,
-AC: 20{22}, TAC: 17{19}, Fort: +7, Ref: +6, Will: +5
-HP: 56; Speed: 15
-+1 Elven Curve Blade: +10 {2d8+4}
-Attack of Opportunity{RA}:
-Furious Focus{A}: Make a strike, if it misses it does not count towards the Multiple Attack penalty
-Aggressive Shield{FA}: Trigger: You use a Shield Block Reaction With a Heavy Shield and the opponent who triggered the attack is adjacent to you and your size or smaller. You push the triggering creature either Auto Shoving them 5ft or making them Flatfooted, the triggering creature chooses to either be moved or flatfooted, if it chooses to move you choose the direction.
-Quick Reversal{A}: if you are flanked, make a Strike against one of the Flanking Creatures, if it misses make another Strike against the other Flanking creature with the same attack and same multiple attack penalty
-Feats: Furious Focus{Fighter}, Aggressive Shield{Fighter}, Quick Reversal{Fighter}, Unconventional Weaponry [Elven Curve Blade] {Ancestry}, Quick Repair{Background},
-Items: +1 Elven Curve Blade, Expert Half-Plate, Expert Heavy Steel Shield, 1x Lesser Healing Potion, 2x Spellstrike Ammunition, 10gp
 
 ### D7. Tentamort Hunting Grounds (60xp, low threat)
 
