@@ -43,7 +43,7 @@ If they are breezing through then liberally apply elite templates.
 
 Where creatures don't exist in the bestiary then close fit adaptations have been used or [Monster Builder](http://monster.pf2.tools/) has been used based on similar creatures and the original PF1 NPC. Traps have been similarly replaced with near fit Hazards.
 
-## Part 1: In The Hook's Shadow (Party Level 7-8)
+## Part 1: In The Hook's Shadow (XP 570/490,Party Level 7-8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
@@ -51,17 +51,20 @@ For Traps near fit Hazards have been used. Note the traps are unlikely to be a s
 
 Encounter notes include scaling for level 8 parties.
 
-### The Strange Firepelt (moderate threat)
+XP is shown as "XP L7/L8"
+
+### The Strange Firepelt (XP 60/40, low/trivial threat)
  - **Creatures:** 
     - [Kibb - Firepelt Cougar Animal Companion]
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
+    - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless animals
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)
 
 ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
 
  - **Loot:** +1 striking spear
 
-### The Graul Farm (moderate threat)
+### The Graul Farm (XP 80/60, moderate/low threat)
   - **Creatures:** 
     - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)
 
@@ -69,24 +72,24 @@ Encounter notes include scaling for level 8 parties.
 
   - **Loot:** +1 striking ogre hook
   
-### A1. Farmhouse Porch (low threat)
+### A1. Farmhouse Porch (XP 10, trivial threat)
   - **Hazards:**
     - [Door Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
     - [Floor Saw - Scythe Blades](https://2e.aonprd.com/Hazards.aspx?ID=6)
 
-### A2. Family Room (low threat)
+### A2. Family Room (XP 10, rivial threat)
   - **Hazards:**
     - [Pit Trap](https://2e.aonprd.com/Hazards.aspx?ID=1). Anyone falling in sets off the inbuilt [Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
 
-### A3. Dining Room (low threat)
+### A3. Dining Room (XP 10, trivial threat)
   - **Hazards:**
     - 3x [Coiled rope single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
   
-### A4. Kitchen
+### A4. Kitchen (trivial threat)
   - **Hazards:**
     - [Sickening Smell] 
     
-### A5. Playpen (low threat)
+### A5. Playpen (XP 60/40, low/trivial threat)
   - **Creatures:** 
     - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
 
@@ -97,7 +100,7 @@ Encounter notes include scaling for level 8 parties.
 ### A6. Rukus's Room
   - **Loot:** TBD
 
-### A8. Mammy's Room (severe threat)
+### A8. Mammy's Room (XP 120/120, severe/severe threat)
   - **Creatures:** 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
@@ -109,14 +112,14 @@ Encounter notes include scaling for level 8 parties.
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
   - **Loot:** See Mammy Graul
 
-### A9. Bedroom (low threat)
+### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
     - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Ogre Spider Venom](https://2e.aonprd.com/Monsters.aspx?ID=814)
 
 ### A10. Attic
   - **Loot:** TBD
 
-### A12. Hucker's Lair (moderate threat)
+### A12. Hucker's Lair (XP 80/80, moderate threat)
   - **Creatures:** 
     - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
@@ -128,7 +131,7 @@ Encounter notes include scaling for level 8 parties.
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
   - **Loot:** TBD
 
-### A14. Tendriculous Lair (trivial to severe combined threat)
+### A14. Tendriculous Lair (XP 40/30, trivial threat)
   - **Creatures:** 
     - [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
   - **Encounter Notes:**
@@ -140,15 +143,16 @@ Encounter notes include scaling for level 8 parties.
 ### A15. The Graul Fortune
   - **Loot:** TBD
 
-### A16. Kennel (moderate threat)
+### A16. Kennel (XP 90/80, moderate threat)
   - **Creatures:** 
     - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
+    - Party level 8: add an additional ogrekin fighter
 
 ![Ogrekin Fighter](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
   - **Loot:** TBD
 
-### A17. Biggin (low threat)
+### A17. Biggin (XP 40/30, trivial threat)
   - **Creatures:** 
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
   - **Captive Black Arrows:**
@@ -156,7 +160,8 @@ Encounter notes include scaling for level 8 parties.
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
 
-## Part 2: Retaking Rannick (600+xp, Party Level 8-9)
+
+## Part 2: Retaking Rannick (XP 1070/760, Party Level 8-9)
 
 Creatures are taken from existing bestiary entries and adjusted using weak and elite templates where practical. Sometimes using similar types of creatures where bestiary entries don't exist.  
 
@@ -205,15 +210,15 @@ The unique ogres are covered individually below.
   - **Creatures:** 
     - 12x Sleeping Ogre Warriors*
 
-### B13. Secret Armory (trivial threat)
+### B13. Secret Armory (XP20, trivial threat)
   - **Creatures:** 
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
-### B14. Ravine (trivial threat)
+### B14. Ravine (XP 10, trivial threat)
   - **Hazards:**
     - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
     
-### B15 Crypt (trivial threat)
+### B15 Crypt (XP 40/30, trivial threat)
   - **Creatures:**
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - alternatively use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
@@ -266,19 +271,20 @@ The unique ogres are covered individually below.
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
 
-### B37. Lizard Warrens (XP 120/-, moderate/- threat)
+### B37. Lizard Warrens (XP 120/80, moderate/low threat)
   - **Creatures:** 
     - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
-## Part 3: Down Comes the Rain (Party Level 9)
 
-### Saving the Schoolchildren (trivial threat)
+## Part 3: Down Comes the Rain (XP470, Party Level 9)
+
+### Saving the Schoolchildren (XP 20, trivial threat)
   - **Creatures:** 
     - 1x [Weak : -20HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
     - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying double weak, or even replacing with some other low level emergency where the PCs can shine.
 
-### Black Magga Rises (beyond extreme temporary threat)
+### Black Magga Rises (XP 160, beyond extreme temporary threat)
 
   - **Creatures:**
     - [Black Magga PDF](./NPC-Monsters-Statblocks/black_magga.pdf)
@@ -286,49 +292,54 @@ The unique ogres are covered individually below.
 ![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
 
   - **Encounter Notes:**    
+     - XP is awarded for the bravery of enagaging with Black Magga and driving her off
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
 
-### C4. Gorger and Chaw’s Lair (trivial threat, terrain makes it more challenging)
+### C4. Gorger and Chaw’s Lair (XP 20, trivial threat, terrain makes it more challenging)
 
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** TBD
 
-### C6. Ogre Demolition Crew (trivial threat with severe terrain)
+### C6. Ogre Demolition Crew (XP 70, low threat with severe terrain)
 
   - **Creatures:**
     - 1x Ogre Boss*
     - 4x Ogre Warriors*
   - **Encounter Notes:**
-    - The terrain makes this trivial threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
+    - The terrain makes this low threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
-### C7. Battlefield (moderate threat)
+### C7. Battlefield (XP 60, low threat)
 
   - **Creatures:**
-    - 4x [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
+    - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
 
-### C13. Observation Deck (moderate threat)
+### C13. Observation Deck (XP 60, low threat)
 
   - **Creatures:**
     - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
 
 ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
+    - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
 
-### C15. Floodgate Controls (low to moderate threat)
+### C15. Floodgate Controls (XP 40, trivial threat)
 
   - **Creatures:**
     - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
 
 ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
-    
-## Part 4: The Haunted Heart (Party Level 9/10)
 
-### A Desperate Plea
+### C16. Infernal Engines (XP 40)
+  - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
+
+## Part 4: The Haunted Heart (XP 70, Party Level 9/10)
+
+### A Desperate Plea (XP 30 story reward for following)
 
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 
-### Heart of Sadness
+### Heart of Sadness (XP 40 for permanently laying her to rest)
 
   - **Creatures:**
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
@@ -339,7 +350,7 @@ The unique ogres are covered individually below.
 ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
 
 
-## Part 5: Harrowing the Hook (350+xp, Party Level 10)
+## Part 5: Harrowing the Hook (XP 400, Party Level 10)
 
   - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP in the clan hold is around 300 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
@@ -349,6 +360,7 @@ The unique ogres are covered individually below.
   - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
   
 ![razmus](./NPC-Monsters-Statblocks/razmus.png)
+  - The same XP is awarded for whatever way they deal with Razmus - whether he ends up as a temporary ally or they defeat him
 
 ### D1 Entrance (40xp, trivial threat)
 
@@ -364,7 +376,7 @@ The unique ogres are covered individually below.
     - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
 
-### D6 The Clanhold (20+xp, trivial threat)
+### D6 The Clanhold (70xp, low threat)
 
   - **Creatures:**
     - Ogre Boss*
