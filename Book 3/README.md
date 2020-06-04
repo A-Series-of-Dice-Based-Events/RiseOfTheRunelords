@@ -77,7 +77,7 @@ XP is shown as "XP L7/L8"
     - [Door Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
     - [Floor Saw - Scythe Blades](https://2e.aonprd.com/Hazards.aspx?ID=6)
 
-### A2. Family Room (XP 10, rivial threat)
+### A2. Family Room (XP 10, trivial threat)
   - **Hazards:**
     - [Pit Trap](https://2e.aonprd.com/Hazards.aspx?ID=1). Anyone falling in sets off the inbuilt [Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
 
@@ -331,6 +331,8 @@ The unique ogres are covered individually below.
 
 ### C16. Infernal Engines (XP 40)
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
+  - The infernal engines are powered by the life force of living creatures within both circles. When the water reaches flood level the circles activate, each creature is drained 1 as the activation energy is ripped from their body, and the floodgates open.
+  - Karzoug originally imprisoned the Pit Fiends here as a demonstration of both his power and cruelty. The circles prevent the fiends from using any of their abilities or recovering from the drain. Karzoug intended that the fiends would power the dam for over a thousand years; and he is likely surprised and impressed they lasted for ten times that amount. Though the reason for this is that the circles containment was not perfect and this allowed the pit fiends to recover incredibly slowly and prolong their suffering.
 
 ## Part 4: The Haunted Heart (XP 70, Party Level 9/10)
 
@@ -403,3 +405,4 @@ The unique ogres are covered individually below.
 
 ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
 
+# --- End of Hook Mountain Massacre ---
