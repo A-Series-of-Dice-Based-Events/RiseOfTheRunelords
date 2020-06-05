@@ -161,7 +161,7 @@ XP is shown as "XP L7/L8"
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
 
 
-## Part 2: Retaking Rannick (XP 1070/760, Party Level 8-9)
+## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
 
 Creatures are taken from existing bestiary entries and adjusted using weak and elite templates where practical. Sometimes using similar types of creatures where bestiary entries don't exist.  
 
@@ -218,10 +218,12 @@ The unique ogres are covered individually below.
   - **Hazards:**
     - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
     
-### B15 Crypt (XP 40/30, trivial threat)
+### B15 Crypt (XP 30/20, trivial threat)
   - **Creatures:**
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
-    - alternatively use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
+    - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
+
+    - an alternative encounter if preferred is to use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
     
 ### B18. Workroom (XP 40/30, trivial threat)
   - **Creatures:**
@@ -331,10 +333,10 @@ The unique ogres are covered individually below.
 
 ### C16. Infernal Engines (XP 40)
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
-  - The infernal engines are powered by the life force of living creatures within both circles. When the water reaches flood level the circles activate, each creature is drained 1 as the activation energy is ripped from their body, and the floodgates open.
-  - Karzoug originally imprisoned the Pit Fiends here as a demonstration of both his power and cruelty. The circles prevent the fiends from using any of their abilities or recovering from the drain. Karzoug intended that the fiends would power the dam for over a thousand years; and he is likely surprised and impressed they lasted for ten times that amount. Though the reason for this is that the circles containment was not perfect and this allowed the pit fiends to recover incredibly slowly and prolong their suffering.
+  - Infernal Engine: [Curse, Death]
+    - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored.
 
-## Part 4: The Haunted Heart (XP 70, Party Level 9/10)
+ ## Part 4: The Haunted Heart (XP 70, Party Level 9/10)
 
 ### A Desperate Plea (XP 30 story reward for following)
 
