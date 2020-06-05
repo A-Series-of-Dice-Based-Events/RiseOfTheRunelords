@@ -55,7 +55,9 @@ XP is shown as "XP L7/L8"
 
 ### The Strange Firepelt (XP 60/40, low/trivial threat)
  - **Creatures:** 
-    - [Kibb - Firepelt Cougar Animal Companion]
+    - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)
+    - ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
+    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless animals
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)
