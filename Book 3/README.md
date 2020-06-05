@@ -8,15 +8,13 @@
   - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
 
 ### Index and status
-  - Part 1: In The Hook's Shadow - creatures and hazards done
-  - Part 2: Retaking Rannick - creatures and hazards done
-  - Part 3: Down Comes the Rain - creatures done
-  - Part 4: The Haunted Heart - creatures done
-  - Part 5: Harrowing the Hook - creatures done 
+  - Part 1: In The Hook's Shadow - xp, creatures and hazards done
+  - Part 2: Retaking Rannick - xp, creatures and hazards done
+  - Part 3: Down Comes the Rain - xp, creatures done
+  - Part 4: The Haunted Heart - xp, creatures done
+  - Part 5: Harrowing the Hook - xp, creatures done 
 
 ### General TO DO
-  - XP totals and balancing for levelling
-  - DCs
   - Treasure allocation - replace old treasure with new level guidelines
 
 ### Party Level and Target Allocation of Treasure
@@ -49,7 +47,7 @@ For ogrekin, custom creatures have been created, based on ogre templates.
 
 For Traps near fit Hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters or you have reckless adventurers they are much more serious.
 
-Encounter notes include scaling for level 8 parties.
+Encounter notes sometimes includes suggested scaling for level 8 parties.
 
 XP is shown as "XP L7/L8"
 
@@ -89,7 +87,7 @@ XP is shown as "XP L7/L8"
   
 ### A4. Kitchen (trivial threat)
   - **Hazards:**
-    - [Sickening Smell] 
+    - Sickening Smell applies each round spent in the kitchen: DC 26 Fortitude save or become sickened 1 (sickened 2 on a crit fail). This condition cannot be cleared whilst in the kitchen. Unless a critical success is achieved this effect must be saved against each round. 
     
 ### A5. Playpen (XP 60/40, low/trivial threat)
   - **Creatures:** 
