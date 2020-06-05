@@ -501,3 +501,5 @@ Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1,
   - **Loot:**
     - TBD
     - 20gp.
+
+# --- End of Burnt Offerings ---
