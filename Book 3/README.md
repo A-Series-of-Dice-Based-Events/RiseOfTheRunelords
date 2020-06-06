@@ -4,9 +4,11 @@
 
   - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
   - The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
-  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
+  - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available.
   - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
-  - Target level based XP is 3000 per book plus a small contingency
+  - Target level based XP is 3000 per book plus a small contingency of up to 10%.
+  - The first edition CR rating is used as a starting point when converting creatures and hazards. Where the CR is more than 4 levels lower than the party then either the creature level is adjusted upward, often using the [Elite adjustment](http://2e.aonprd.com/Rules.aspx?ID=790), or it is noted in the scenario that they are merely distractions.
 
 ### Index and status
   - Part 1: In The Hook's Shadow - xp, creatures and hazards done
@@ -16,7 +18,9 @@
   - Part 5: Harrowing the Hook - xp, creatures done 
 
 ### General TO DO
-  - Treasure allocation - replace old treasure with new level guidelines
+  - Increase XP to 3000, plus 10% contingency.
+  - Treasure allocation - replace old treasure with new level guidelines.
+  - Review and feedback to the discord channel.
 
 ### Party Level and Target Allocation of Treasure
 
@@ -55,13 +59,13 @@ XP is shown as "XP L7/L8"
 ### The Strange Firepelt (XP 60/40, low/trivial threat)
  - **Creatures:** 
     - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)
-    - ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
-    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers
+  ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
+    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
-    - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless animals
+    - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)
 
-![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
+  ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
 
  - **Loot:** +1 striking spear
 
@@ -69,7 +73,7 @@ XP is shown as "XP L7/L8"
   - **Creatures:** 
     - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)
 
-![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
+  ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
 
   - **Loot:** +1 striking ogre hook
   
@@ -94,7 +98,7 @@ XP is shown as "XP L7/L8"
   - **Creatures:** 
     - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
 
-![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
+  ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
   - **Loot:** None
 
@@ -106,7 +110,7 @@ XP is shown as "XP L7/L8"
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
 
-![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
+  ![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
   - **Encounter Notes:**   
     - Consider applying the weak template if this encounter will be too strong for your PCs
     - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
@@ -120,7 +124,7 @@ XP is shown as "XP L7/L8"
 ### A10. Attic
   - **Loot:** TBD
 
-### A12. Hucker's Lair (XP 80/80, moderate threat)
+### A12. Hucker's Lair (XP 90/80, moderate threat)
   - **Creatures:** 
     - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
@@ -153,7 +157,7 @@ XP is shown as "XP L7/L8"
 
   - **Loot:** TBD
 
-### A17. Biggin (XP 40/30, trivial threat)
+### A17. Biggin (XP 60/40, trivial threat with terrain advantage)
   - **Creatures:** 
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
   - **Captive Black Arrows:**
@@ -179,11 +183,11 @@ Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319) 
 
 These adjusted creatures are simply referred to as Ogre Warrior* and Ogre Boss* throughout the rest of this book.
 
-![Ogre Warrior](./NPC-Monsters-Statblocks/OgreWarriorDoubleElite.png)  
+  ![Ogre Warrior](./NPC-Monsters-Statblocks/OgreWarriorDoubleElite.png)  
 
-![Ogre Boss](./NPC-Monsters-Statblocks/OgreBossElite.png)
+  ![Ogre Boss](./NPC-Monsters-Statblocks/OgreBossElite.png)  
 
-The unique ogres are covered individually below.
+The other unique ogres are covered individually below.
 
 ### B2. East Gate (XP 15/10, trivial threat)
   - **Creatures:** 
@@ -224,7 +228,7 @@ The unique ogres are covered individually below.
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
 
-    - an alternative encounter if preferred is to use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
+    - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
     
 ### B18. Workroom (XP 40/30, trivial threat)
   - **Creatures:**
@@ -246,7 +250,7 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - [Jaagrath Kreeg PDF](./NPC-Monsters-Statblocks/jaagrath_kreeg.pdf)
 
-![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
+  ![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
     
@@ -255,7 +259,7 @@ The unique ogres are covered individually below.
     - Ogre Boss*
     - [Dorella Kreeg PDF](./NPC-Monsters-Statblocks/dorella_kreeg.pdf)
 
-![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
+  ![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
 
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
@@ -269,7 +273,7 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - [Lucrecia PDF](./NPC-Monsters-Statblocks/Lucrecia.pdf)
 
-![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
+  ![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
@@ -292,7 +296,7 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - [Black Magga PDF](./NPC-Monsters-Statblocks/black_magga.pdf)
 
-![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
+  ![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
 
   - **Encounter Notes:**    
      - XP is awarded for the bravery of enagaging with Black Magga and driving her off
@@ -317,20 +321,22 @@ The unique ogres are covered individually below.
   - **Creatures:**
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
 
-### C13. Observation Deck (XP 60, low threat)
+### C13. Observation Deck (XP 80, moderate threat)
 
   - **Creatures:**
     - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
 
 ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
     - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
+    - He is likely to have partial cover for most of this encounter.
+    - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
 
 ### C15. Floodgate Controls (XP 40, trivial threat)
 
   - **Creatures:**
     - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
 
-![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
+  ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
 
 ### C16. Infernal Engines (XP 40)
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
@@ -352,7 +358,7 @@ The unique ogres are covered individually below.
 
     [Myriana PDF](./NPC-Monsters-Statblocks/myriana.pdf)
 
-![Myriana](./NPC-Monsters-Statblocks/myriana.png)
+  ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
 
 
 ## Part 5: Harrowing the Hook (XP 400, Party Level 10)
@@ -364,7 +370,7 @@ The unique ogres are covered individually below.
   - **Creatures:**
   - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
   
-![razmus](./NPC-Monsters-Statblocks/razmus.png)
+  ![razmus](./NPC-Monsters-Statblocks/razmus.png)
   - The same XP is awarded for whatever way they deal with Razmus - whether he ends up as a temporary ally or they defeat him
 
 ### D1 Entrance (40xp, trivial threat)
@@ -406,6 +412,6 @@ The unique ogres are covered individually below.
 
     - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
 
-![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
+  ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
 
 # --- End of Hook Mountain Massacre ---
