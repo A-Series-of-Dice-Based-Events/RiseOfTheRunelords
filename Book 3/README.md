@@ -44,7 +44,7 @@ Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite
 If they are finding it hard going then liberally apply weak templates. 
 If they are breezing through then liberally apply elite templates. 
 
-Where creatures don't exist in the bestiary then close fit adaptations have been used or [Monster Builder](http://monster.pf2.tools/) has been used based on similar creatures and the original PF1 NPC. Traps have been similarly replaced with near fit Hazards.
+If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## Part 1: In The Hook's Shadow (XP 570/490,Party Level 7-8)
 
@@ -58,12 +58,12 @@ XP is shown as "XP L7/L8"
 
 ### The Strange Firepelt (XP 60/40, low/trivial threat)
  - **Creatures:** 
-    - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)
+    - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)  
   ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
     - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
-    - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)
+    - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
 
   ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
 
@@ -71,7 +71,7 @@ XP is shown as "XP L7/L8"
 
 ### The Graul Farm (XP 80/60, moderate/low threat)
   - **Creatures:** 
-    - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)
+    - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)  
 
   ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
 
@@ -168,9 +168,7 @@ XP is shown as "XP L7/L8"
 
 ## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
 
-Creatures are taken from existing bestiary entries and adjusted using weak and elite templates where practical. Sometimes using similar types of creatures where bestiary entries don't exist.  
-
-Note these are mostly trivial and low threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
+Note these are mostly lower threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
 ### Standard Ogre conversions (throughout rest of book 3):
 
@@ -285,11 +283,11 @@ The other unique ogres are covered individually below.
 
 ## Part 3: Down Comes the Rain (XP470, Party Level 9)
 
-### Saving the Schoolchildren (XP 20, trivial threat)
+### Saving the Schoolchildren (XP 30, trivial threat)
   - **Creatures:** 
-    - 1x [Weak : -20HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
+    - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
-    - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying double weak, or even replacing with some other low level emergency where the PCs can shine.
+    - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying (double) weak, or replacing with some other low level emergency where the PCs can shine.
 
 ### Black Magga Rises (XP 160, beyond extreme temporary threat)
 
