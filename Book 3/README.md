@@ -47,13 +47,17 @@ If they are breezing through then liberally apply elite templates.
 If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 
-## Part 0: Turtleback ferry (Party Level 7)
+## Part 0: Turtleback ferry (XP 120, Party Level 7)
 
-### Wreck of the Paradise (XP 80, Moderate Threat)
+### Wreck of the Paradise (XP 80, Moderate Threat, +40xp story award)
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
-    - the paradise sank on the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller (unless made of giant turtle shell) or anyone entering the water will draw its hostile attention in a few minutes at most
-    - killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
+  - **Encounter Notes:**   
+    - The paradise sank on the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller (unless made of giant turtle shell) or anyone entering the water will draw its hostile attention in a few minutes at most
+    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
+    - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
+    - Turtle shell is a prized hull for local boats
+    - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
 
 ## Part 1: In The Hook's Shadow (XP 720/610,Party Level 7-8)
 
@@ -178,6 +182,11 @@ XP is shown as "XP L7/L8"
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
     - ** Loot:** Greater Coyote Cloak
 
+### Ending the ogrekin menace (XP 80)
+  - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, or over half the total ogrekin)
+
+### Exposing the traitor (XP 30)
+  - if the PCs expose the traitor in any part of this book then award 30xp
 
 ## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
 
@@ -244,7 +253,7 @@ The other unique ogres are covered individually below.
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
 
-    - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45)
+    - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
     
 ### B18. Workroom (XP 40/30, trivial threat)
   - **Creatures:**
@@ -294,7 +303,6 @@ The other unique ogres are covered individually below.
 ### B32. Map Room
 - **Loot:** Map of Riddleport (5 gp), Map of Viperwall (42 gp), Map of Lurkwood (74 gp) 
 
-
 ### B36. Lucrecia's Retreat (XP 120/80, severe/moderate threat)
 
   - **Creatures:**
@@ -307,19 +315,21 @@ The other unique ogres are covered individually below.
     
     - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), +1 Striking Dagger, Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
-
 ### B37. Lizard Warrens (XP 120/80, moderate/low threat)
   - **Creatures:** 
     - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
+### Liberating Fort Rannick (XP 120)
+  - for succesfully liberating Fort Rannick from ogre control award 120xp.
+
 
 ## Part 3: Down Comes the Rain (XP 500, Party Level 9)
 
-### Saving the Schoolchildren (XP 30, trivial threat)
+### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
   - **Creatures:** 
     - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
-    - This encounter is only a heroic scene setting distraction and should not deplete any resources. Consider applying (double) weak, or replacing with some other low level emergency where the PCs can shine.
+    - For saving the children award an additional 30xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
 
 ### Black Magga Rises (XP 160, beyond extreme temporary threat)
 
@@ -329,16 +339,17 @@ The other unique ogres are covered individually below.
   ![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
 
   - **Encounter Notes:**    
-     - XP is awarded for the bravery of enagaging with Black Magga and driving her off
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
+     - XP is awarded for the bravery of enagaging with Black Magga and defending the church / driving her off
+     - This improves the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
 
-### C4. Gorger and Chaw’s Lair (XP 20, trivial threat, terrain makes it more challenging)
+### C4. Gorger and Chaw’s Lair (XP 40, trivial threat, terrain makes it more challenging)
 
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** Hat of Disguise, Greater Hat of the Magi, Serum of Sex Shift, Jade Scroll Case (worth 32 gp) containing a Scroll of Shadow Walk and a Scroll of Illusory Scene, coins worth 85 gp, pearls worth 64 gp, 
 
-### C6. Ogre Demolition Crew (XP 70, low threat with severe terrain)
+### C6. Ogre Demolition Crew (XP 70, moderate threat with severe terrain)
 
   - **Creatures:**
     - 1x Ogre Boss*
@@ -346,13 +357,12 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - The terrain makes this low threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
-### C7. Battlefield (XP 60, low threat)
+### C7. Battlefield (XP 60, low to moderate threat)
 
   - **Creatures:**
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
     
 ### C9.
-
 - ** Loot:** Cracked Emerald worth 42 GP, Gold Comb worth 85 GP
 
 ### C13. Observation Deck (XP 80, moderate threat)
@@ -361,11 +371,12 @@ The other unique ogres are covered individually below.
     - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
 
 ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
+  - **Encounter Notes:**   
     - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
     - He is likely to have partial cover for most of this encounter.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
     
-    - **Loot:** +1 Returning Trident
+  - **Loot:** +1 Returning Trident
 
 
 ### C15. Floodgate Controls (XP 40, trivial threat)
@@ -380,17 +391,17 @@ The other unique ogres are covered individually below.
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored.
 
- ## Part 4: The Haunted Heart (XP 90, Party Level 9/10)
+
+## Part 4: The Haunted Heart (XP 90, Party Level 9/10)
 
 ### A Desperate Plea (XP 30 story reward for following Yap or following concerns over the commander)
 
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
-	    - **Loot:** Yap will provide two doses of Dust of Disappearance. 
-	    
-	    - **Loot:** Musical Score worth 321 GP
+	- **Loot:** Yap will provide two doses of Dust of Disappearance. 
 
-
+### Mysterious Derelict    
+	- **Loot:** Musical Score worth 321 GP
 
 ### Heart of Sadness (XP 60 for permanently laying her to rest)
 
@@ -405,7 +416,7 @@ The other unique ogres are covered individually below.
 
 ## Part 5: Harrowing the Hook (XP 470, Party Level 10)
 
-  - Note that many of the encounters are lower threat, but with a very alert guard, several encounters will run together. The total XP of encounters in the clan hold is around 350 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+  - Note that many of the encounters are lower threat, but with a very alert guard, several encounters will run together. The total XP of encounters in the clanhold is around 350 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
 
@@ -419,21 +430,21 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 2x Ogre Boss*
-    - **Loot:** 2x +1 Ogre Hook
+  - **Loot:** 2x +1 Ogre Hook
     
 ### D2 Bones of the Behenoth
   - Recall Knowledge - Dragon (Arcana): DC 40 to identify the bones
   
 ### D3 The Rune-Bound King
-- **Loot:** Giant Armor worth 317 GP
-
+  - **Loot:** Giant Armor worth 317 GP
 
 ### D5 Chokepoint (60xp, low threat)
 
   - **Creatures:**
     - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
-- **Loot:** 2x +1 Ogre Hook
+  - **Loot:** 2x +1 Ogre Hook
+
 ### D6 The Clanhold (70xp, low threat)
 
   - **Creatures:**
@@ -447,14 +458,14 @@ The other unique ogres are covered individually below.
     - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
   - **Encounter Notes:**  
     - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
-    - **Loot:** Explorer's Hut
+  - **Loot:** Explorer's Hut
 
 
 ### D8 Abandoned Shrine (40xp, trivial threat)
   - **Creatures:**
     - Either use the standard Grave Knight which is closer to the PF1 Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
-    - **Loot:** +2 Resilient Full Plate, Greater Clandestine Cloak
+  - **Loot:** +2 Resilient Full Plate, Greater Clandestine Cloak
 
 
 ### D9 As the Dread Kings of Old (80xp, moderate threat, +80xp story award)
@@ -467,8 +478,7 @@ The other unique ogres are covered individually below.
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
   - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer 
-  - **Loot:** (Bar) Sihedron Medalion, +2 Resilient Armor, Sepllbook, Black Onysx Gems, +1 Ogre HookSee also Barl's Statblock
-
+  - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Sepllbook, Black Onysx Gems, +1 Ogre HookSee also Barl's Statblock
 
   - **XP** Returning the black arrows equipment gains 80xp 
 
