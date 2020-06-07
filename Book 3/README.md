@@ -387,9 +387,11 @@ The other unique ogres are covered individually below.
   ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
 
 ### C16. Infernal Engines (XP 60)
+  - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
   - Infernal Engine: [Curse, Death]
-    - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored.
+    - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored. 
+    - Avaxial is currently drained 16 and sickened 16; and will say and do almost anything to end his suffering.
 
 
 ## Part 4: The Haunted Heart (XP 90, Party Level 9/10)
