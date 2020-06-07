@@ -115,7 +115,7 @@ XP is shown as "XP L7/L8"
     - Consider applying the weak template if this encounter will be too strong for your PCs
     - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
-  - **Loot:** See Mammy Graul
+  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, Spell Book worth 79 gp, Material Component Pouch worth 3 gp, Gold Holy Symbol of Lamashtu worth 79 gp
 
 ### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
@@ -136,7 +136,7 @@ XP is shown as "XP L7/L8"
   - **Encounter Notes:**
     - Party level 7: Hucker is a moderate challenge by himself. The Donkey Rats should be a level 2 distraction as above with the weak template.
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
-  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare
+  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
 
 ### A14. Tendriculous Lair (XP 40/30, trivial threat)
   - **Creatures:** 
@@ -166,6 +166,7 @@ XP is shown as "XP L7/L8"
     - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
+    - ** Loot:** Greater Coyote Cloak
 
 
 ## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
@@ -197,10 +198,12 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - Ogre Boss*
     - 2x Ogre Warriors*
+- **Loot:** +1 Ogre Hook
 
 ### B6. Cookhouse (XP 40/30, trivial threat)
   - **Creatures:** 
     - Ogre Boss*
+    - **Loot:** +1 Ogre Hook
 
 ### B7. Drainage Ditch
   - **Hazards:**
@@ -210,6 +213,7 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - Ogre Boss*
     - Ogre Warrior*
+    - **Loot:** +1 Ogre Hook
 
 ### B12. Barracks (XP 180/120 extreme/severe threat)
   - **Creatures:** 
@@ -235,6 +239,7 @@ The other unique ogres are covered individually below.
 ### B18. Workroom (XP 40/30, trivial threat)
   - **Creatures:**
     - Ogre Boss*
+    - **Loot:** +1 Ogre Hook
 
 ### B19. Armory (XP 30/20, trivial threat)
   - **Creatures:** 
@@ -243,6 +248,7 @@ The other unique ogres are covered individually below.
 ### B23. Library (XP 40/30, trivial threat)
   - **Creatures:**
     - Ogre Boss*
+    - **Loot:** +1 Ogre Hook
     
 ### B24. Barracks (XP 60/40, low/trivial threat)
   - **Creatures:**
@@ -255,7 +261,8 @@ The other unique ogres are covered individually below.
   ![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
-    
+- **Loot:** +2 Striking Ogre Hook, Rhino Hide Armor, Iron Medallion
+
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
   - **Creatures:**
     - Ogre Boss*
@@ -267,6 +274,8 @@ The other unique ogres are covered individually below.
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
 - **Loot:** Boots of Elvenkind, Love letters, nymph hair, silver locket in a jewelry box worth a total of 32 gp
+- **Loot:** (Dorella) Greater Mistform Elixer, 
+- **Loot:** (Ogre Boss) +1 Ogre Hook
 
 ### B31. Tribunal (XP 30/20, trivial threat)
   - **Creatures:**
@@ -286,7 +295,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
     
-    - **Loot:** See Lucrecia's stat block
+    - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), +1 Striking Dagger, Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
 
 ### B37. Lizard Warrens (XP 120/80, moderate/low threat)
@@ -330,7 +339,11 @@ The other unique ogres are covered individually below.
 ### C7. Battlefield (XP 60, low threat)
 
   - **Creatures:**
-    - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) 
+    - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
+    
+### C9.
+
+- ** Loot:** Cracked Emerald worth 42 GP, Gold Comb worth 85 GP
 
 ### C13. Observation Deck (XP 80, moderate threat)
 
@@ -342,7 +355,7 @@ The other unique ogres are covered individually below.
     - He is likely to have partial cover for most of this encounter.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
     
-    - **Loot:** See Grazuul Statblock
+    - **Loot:** +1 Returning Trident
 
 
 ### C15. Floodgate Controls (XP 40, trivial threat)
@@ -396,6 +409,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 2x Ogre Boss*
+    - **Loot:** 2x +1 Ogre Hook
     
 ### D2 Bones of the Behenoth
   - Recall Knowledge - Dragon (Arcana): DC 40 to identify the bones
@@ -409,12 +423,13 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
-
+- **Loot:** 2x +1 Ogre Hook
 ### D6 The Clanhold (70xp, low threat)
 
   - **Creatures:**
     - Ogre Boss*
     - 10x Ogre Warriors*
+- **Loot:** +1 Ogre Hook
 
 ### D7 Circle of the Sisters (60xp, low threat)
 
@@ -441,7 +456,8 @@ The other unique ogres are covered individually below.
 
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
-  - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer, See also Barl's Statblock
+  - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer 
+  - **Loot:** (Bar) Sihedron Medalion, +2 Resilient Armor, Sepllbook, Black Onysx Gems, +1 Ogre HookSee also Barl's Statblock
 
 
 # --- End of Hook Mountain Massacre ---
