@@ -46,13 +46,22 @@ If they are breezing through then liberally apply elite templates.
 
 If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
-## Part 1: In The Hook's Shadow (XP 570/490,Party Level 7-8)
+
+## Part 0: Turtleback ferry (Party Level 7)
+
+### Wreck of the Paradise (XP 80, Moderate Threat)
+  - **Creatures**
+    - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
+    - the paradise sank on the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller (unless made of giant turtle shell) or anyone entering the water will draw its hostile attention in a few minutes at most
+    - killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
+
+## Part 1: In The Hook's Shadow (XP 720/610,Party Level 7-8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
-For Traps near fit Hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters or you have reckless adventurers they are much more serious.
+For Traps near fit Hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters, or happen during an encounter they are more serious.
 
-Encounter notes sometimes includes suggested scaling for level 8 parties.
+Encounters sometimes includes suggested scaling for level 8 parties.
 
 XP is shown as "XP L7/L8"
 
@@ -60,7 +69,8 @@ XP is shown as "XP L7/L8"
  - **Creatures:** 
     - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)  
   ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
-    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses
+    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses. 
+    - If Shelalu is with the party she will recognise Kibb as an animal companion.
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
@@ -157,7 +167,7 @@ XP is shown as "XP L7/L8"
 
   - **Loot:** TBD
 
-### A17. Biggin (XP 60/40, trivial threat with terrain advantage)
+### A17. Biggin (XP 60/40, trivial threat with terrain advantage, +80xp for rescuing the black arrows)
   - **Creatures:** 
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
   - **Captive Black Arrows:**
@@ -281,7 +291,7 @@ The other unique ogres are covered individually below.
     - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
 
-## Part 3: Down Comes the Rain (XP470, Party Level 9)
+## Part 3: Down Comes the Rain (XP 500, Party Level 9)
 
 ### Saving the Schoolchildren (XP 30, trivial threat)
   - **Creatures:** 
@@ -336,19 +346,19 @@ The other unique ogres are covered individually below.
 
   ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
 
-### C16. Infernal Engines (XP 40)
+### C16. Infernal Engines (XP 60)
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored.
 
- ## Part 4: The Haunted Heart (XP 70, Party Level 9/10)
+ ## Part 4: The Haunted Heart (XP 90, Party Level 9/10)
 
-### A Desperate Plea (XP 30 story reward for following)
+### A Desperate Plea (XP 30 story reward for following Yap or following concerns over the commander)
 
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 
-### Heart of Sadness (XP 40 for permanently laying her to rest)
+### Heart of Sadness (XP 60 for permanently laying her to rest)
 
   - **Creatures:**
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
@@ -359,9 +369,9 @@ The other unique ogres are covered individually below.
   ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
 
 
-## Part 5: Harrowing the Hook (XP 400, Party Level 10)
+## Part 5: Harrowing the Hook (XP 470, Party Level 10)
 
-  - Note that many of the encounters are trivial threat, but with a very alert guard, several encounters will run together. The total XP in the clan hold is around 300 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+  - Note that many of the encounters are lower threat, but with a very alert guard, several encounters will run together. The total XP of encounters in the clan hold is around 350 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
 
@@ -403,7 +413,7 @@ The other unique ogres are covered individually below.
     - Either use the standard Grave Knight which is closer to the PF1 Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
-### D9 As the Dread Kings of Old (80xp, moderate threat)
+### D9 As the Dread Kings of Old (80xp, moderate threat, +80xp story award)
 
   - **Creatures:**
     - [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
@@ -411,5 +421,7 @@ The other unique ogres are covered individually below.
     - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
 
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
+
+  - **XP** Returning the black arrows equipment gains 80xp 
 
 # --- End of Hook Mountain Massacre ---
