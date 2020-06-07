@@ -67,7 +67,7 @@ XP is shown as "XP L7/L8"
 
   ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
 
- - **Loot:** +1 striking spear
+ - **Loot:** +1 striking corrosive spear, Dragon Breath Potion (young red)
 
 ### The Graul Farm (XP 80/60, moderate/low threat)
   - **Creatures:** 
@@ -75,7 +75,7 @@ XP is shown as "XP L7/L8"
 
   ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
 
-  - **Loot:** +1 striking ogre hook
+  - **Loot:** +1 striking ogre hook, +1 Resilient Armor, Greater Smokestick
   
 ### A1. Farmhouse Porch (XP 10, trivial threat)
   - **Hazards:**
@@ -100,10 +100,10 @@ XP is shown as "XP L7/L8"
 
   ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
-  - **Loot:** None
+  - **Loot:** Jade Ring worth 79 gp
 
 ### A6. Rukus's Room
-  - **Loot:** TBD
+  - **Loot:** none
 
 ### A8. Mammy's Room (XP 120/120, severe/severe threat)
   - **Creatures:** 
@@ -120,9 +120,11 @@ XP is shown as "XP L7/L8"
 ### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
     - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Ogre Spider Venom](https://2e.aonprd.com/Monsters.aspx?ID=814)
-
+    
+  - **Loot:** The Hand Chopper itself is worth 66 gp to a buyer interested in the macabre. There are various coins worth 16 gp in the Hand Chopper. 
+  
 ### A10. Attic
-  - **Loot:** TBD
+  - **Loot:** none
 
 ### A12. Hucker's Lair (XP 90/80, moderate threat)
   - **Creatures:** 
@@ -134,7 +136,7 @@ XP is shown as "XP L7/L8"
   - **Encounter Notes:**
     - Party level 7: Hucker is a moderate challenge by himself. The Donkey Rats should be a level 2 distraction as above with the weak template.
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
-  - **Loot:** TBD
+  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare
 
 ### A14. Tendriculous Lair (XP 40/30, trivial threat)
   - **Creatures:** 
@@ -143,10 +145,10 @@ XP is shown as "XP L7/L8"
     - Can become a severe threat if combined with Hucker and the Donkey Rats
     - Party level 8: Apply the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
     - Awakened tree seems specifically designed for this purpose (it even matches the Fey color text)
-  - **Loot:** TBD
+  - **Loot:** none
 
 ### A15. The Graul Fortune
-  - **Loot:** TBD
+  - **Loot:** Gold Ring worth 13 gp, Emerald Necklace worth 93 gp, Engraved Clasp worth 60 gp, various coins worth 68 gp, weapons and equipment belonging to the Black Arrows. 
 
 ### A16. Kennel (XP 90/80, moderate threat)
   - **Creatures:** 
@@ -155,7 +157,7 @@ XP is shown as "XP L7/L8"
 
 ![Ogrekin Fighter](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
-  - **Loot:** TBD
+  - **Loot:** Moonshine worth 3 gp to anyone who's into that kind of thing.
 
 ### A17. Biggin (XP 60/40, trivial threat with terrain advantage)
   - **Creatures:** 
@@ -216,6 +218,8 @@ The other unique ogres are covered individually below.
 ### B13. Secret Armory (XP20, trivial threat)
   - **Creatures:** 
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
+    
+    - **Loot:** 2 Storm Arrows, Various mundane weapons
 
 ### B14. Ravine (XP 10, trivial threat)
   - **Hazards:**
@@ -262,9 +266,15 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
+- **Loot:** Boots of Elvenkind, Love letters, nymph hair, silver locket in a jewelry box worth a total of 32 gp
+
 ### B31. Tribunal (XP 30/20, trivial threat)
   - **Creatures:**
     - 2x Ogre Warriors*
+
+### B32. Map Room
+- **Loot:** Map of Riddleport (5 gp), Map of Viperwall (42 gp), Map of Lurkwood (74 gp) 
+
 
 ### B36. Lucrecia's Retreat (XP 120/80, severe/moderate threat)
 
@@ -275,6 +285,9 @@ The other unique ogres are covered individually below.
 
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
+    
+    - **Loot:** See Lucrecia's stat block
+
 
 ### B37. Lizard Warrens (XP 120/80, moderate/low threat)
   - **Creatures:** 
@@ -304,7 +317,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
-  - **Loot:** TBD
+  - **Loot:** Hat of Disguise, Greater Hat of the Magi, Serum of Sex Shift, Jade Scroll Case (worth 32 gp) containing a Scroll of Shadow Walk and a Scroll of Illusory Scene, coins worth 85 gp, pearls worth 64 gp, 
 
 ### C6. Ogre Demolition Crew (XP 70, low threat with severe terrain)
 
@@ -328,6 +341,9 @@ The other unique ogres are covered individually below.
     - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
     - He is likely to have partial cover for most of this encounter.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
+    
+    - **Loot:** See Grazuul Statblock
+
 
 ### C15. Floodgate Controls (XP 40, trivial threat)
 
@@ -347,6 +363,11 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
+	    - **Loot:** Yap will provide two doses of Dust of Disappearance. 
+	    
+	    - **Loot:** Musical Score worth 321 GP
+
+
 
 ### Heart of Sadness (XP 40 for permanently laying her to rest)
 
@@ -378,6 +399,10 @@ The other unique ogres are covered individually below.
     
 ### D2 Bones of the Behenoth
   - Recall Knowledge - Dragon (Arcana): DC 40 to identify the bones
+  
+### D3 The Rune-Bound King
+- **Loot:** Giant Armor worth 317 GP
+
 
 ### D5 Chokepoint (60xp, low threat)
 
@@ -397,11 +422,15 @@ The other unique ogres are covered individually below.
     - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
   - **Encounter Notes:**  
     - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
+    - **Loot:** Explorer's Hut
+
 
 ### D8 Abandoned Shrine (40xp, trivial threat)
   - **Creatures:**
     - Either use the standard Grave Knight which is closer to the PF1 Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
+    - **Loot:** +2 Resilient Full Plate, Greater Clandestine Cloak
+
 
 ### D9 As the Dread Kings of Old (80xp, moderate threat)
 
@@ -411,5 +440,8 @@ The other unique ogres are covered individually below.
     - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
 
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
+  
+  - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer, See also Barl's Statblock
+
 
 # --- End of Hook Mountain Massacre ---
