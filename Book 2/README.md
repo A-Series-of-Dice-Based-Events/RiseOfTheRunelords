@@ -11,7 +11,7 @@
   - Part 2: The Thing in the Attic - to do
   - Part 3: Walking Scarecrows - to do
   - Part 4: Misgivings - to do
-  - Part 5: Chasing The Skinsaw - to do
+  - Part 5: Chasing The Skinsaw - DCs to do
   - Part 6: The Seven's Sawmill - to do
   - Part 7: Shadows of Time - to do
 
@@ -58,6 +58,9 @@ If they are breezing through then liberally apply elite templates.
 
 ## Part 3: Walking Scarecrows (XP ??, Party Level 5)
 
+  - **Creatures:**
+    - Ghoul Scarecrows - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
+
 ## Part 4: Misgivings (XP ??, Party Level 5/6)
 
 ## Part 5: Chasing The Skinsaw (XP ??, Party Level 6)
@@ -80,4 +83,4 @@ If they are breezing through then liberally apply elite templates.
   - **Hazards:**
     - [Falling Bell]
 
-# --- End of Hook Mountain Massacre 2E Conversion Guide---
+# --- End of The Skinsaw Murders 2E Conversion Guide---
