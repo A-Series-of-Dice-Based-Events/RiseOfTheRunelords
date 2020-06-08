@@ -3,10 +3,10 @@
 ## Conversion guide for Pathfinder second edition (2E) 
 
 - This is a conversion guide and as such only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
-  - The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
-  - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-  - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PNG and PDF files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available.
-  - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
+- The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
+- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
+- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PNG and PDF files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available.
+- If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## Index and status
   - Part 1: Murder Most Foul - DCs to do
