@@ -166,7 +166,7 @@ XP is shown as "XP L7/L8"
     - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
-    - ** Loot:** Greater Coyote Cloak
+    - ** Loot:** (Kaven) Greater Coyote Cloak, +1 Striking Rapier, +1 Dagger
 
 
 ## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
