@@ -19,7 +19,7 @@
 
 ### General TO DO
   - Increase XP to 3000, plus 10% contingency.
-  - Treasure allocation - replace old treasure with new level guidelines.
+  - Treasure allocation - review and confirm treasure, then final clean up.
   - Review and feedback to the discord channel.
 
 ### Party Level and Target Allocation of Treasure
@@ -180,7 +180,7 @@ XP is shown as "XP L7/L8"
     - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
-    - ** Loot:** Greater Coyote Cloak
+  - ** Loot:** (Kaven) Greater Coyote Cloak, +1 Striking Rapier, +1 Dagger
 
 ### Ending the ogrekin menace (XP 80)
   - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, or over half the total ogrekin)
@@ -312,8 +312,7 @@ The other unique ogres are covered individually below.
 
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
-    
-    - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), +1 Striking Dagger, Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
+  - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
 ### B37. Lizard Warrens (XP 120/80, moderate/low threat)
   - **Creatures:** 
@@ -363,7 +362,7 @@ The other unique ogres are covered individually below.
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
     
 ### C9.
-- ** Loot:** Cracked Emerald worth 42 GP, Gold Comb worth 85 GP
+  - ** Loot:** Cracked Emerald worth 42 GP, Gold Comb worth 85 GP
 
 ### C13. Observation Deck (XP 80, moderate threat)
 
@@ -375,9 +374,7 @@ The other unique ogres are covered individually below.
     - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
     - He is likely to have partial cover for most of this encounter.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
-    
   - **Loot:** +1 Returning Trident
-
 
 ### C15. Floodgate Controls (XP 40, trivial threat)
 
@@ -462,13 +459,11 @@ The other unique ogres are covered individually below.
     - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
   - **Loot:** Explorer's Hut
 
-
 ### D8 Abandoned Shrine (40xp, trivial threat)
   - **Creatures:**
     - Either use the standard Grave Knight which is closer to the PF1 Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
   - **Loot:** +2 Resilient Full Plate, Greater Clandestine Cloak
-
 
 ### D9 As the Dread Kings of Old (80xp, moderate threat, +80xp story award)
 
@@ -480,8 +475,7 @@ The other unique ogres are covered individually below.
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
   - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer 
-  - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Sepllbook, Black Onysx Gems, +1 Ogre HookSee also Barl's Statblock
-
+  - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Spellbook, Black Onyx Gems, +1 Ogre Hook
   - **XP** Returning the black arrows equipment gains 80xp 
 
 # --- End of Hook Mountain Massacre ---
