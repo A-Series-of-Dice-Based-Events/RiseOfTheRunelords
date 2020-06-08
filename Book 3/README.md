@@ -295,7 +295,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
     
-    - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), +1 Striking Dagger, Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
+    - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
 
 ### B37. Lizard Warrens (XP 120/80, moderate/low threat)
