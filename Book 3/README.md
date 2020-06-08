@@ -19,7 +19,7 @@
 
 ### General TO DO
   - Increase XP to 3000, plus 10% contingency.
-  - Treasure allocation - replace old treasure with new level guidelines.
+  - Treasure allocation - review and confirm treasure, then final clean up.
   - Review and feedback to the discord channel.
 
 ### Party Level and Target Allocation of Treasure
@@ -457,7 +457,7 @@ The other unique ogres are covered individually below.
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
   - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer 
-  - **Loot:** (Bar) Sihedron Medalion, +2 Resilient Armor, Sepllbook, Black Onysx Gems, +1 Ogre HookSee also Barl's Statblock
+  - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Spellbook, Black Onyx Gems, +1 Ogre Hook
 
 
 # --- End of Hook Mountain Massacre ---
