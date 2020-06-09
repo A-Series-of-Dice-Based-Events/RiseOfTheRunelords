@@ -105,7 +105,9 @@ Encounters include scaling for level 8 parties.
   
     - Level 8 adjustment: apply the Elite template to Rukus
 
- - **Loot:** +1 striking corrosive spear [P8], Dragon Breath Potion (young red) [C7]
+ - **Loot:**
+   - +1 striking [corrosive](https://2e.aonprd.com/Equipment.aspx?ID=292) spear [P8]
+   - [Dragon Breath Potion (young red)](https://2e.aonprd.com/Equipment.aspx?ID=185) [C7]
 
 ### The Graul Farm (XP 80, moderate threat)
   - **Creatures:** 
@@ -115,7 +117,10 @@ Encounters include scaling for level 8 parties.
   
     - Level 8 adjustment: apply the Elite template
 
-  - **Loot:** +1 striking ogre hook, +1 Resilient Armor [P8], Greater Smokestick [C7]
+  - **Loot:**
+    - +1 striking ogre hook [P4]
+    - +1 [Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) Armor [P8]
+    - [Greater Smokestick](https://2e.aonprd.com/Equipment.aspx?ID=135) [C7]
   
 ### A1. Farmhouse Porch (XP 10, trivial threat)
   - **Hazards:**
@@ -157,7 +162,12 @@ Encounters include scaling for level 8 parties.
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
-  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability [P9], gold holy symbol of Lamashtu, Spellbook worth 105 gp, Material Component Pouch worth 5 sp
+  - **Loot:**
+    - Lesser Healing Potion [C3]
+    - Wand of [Globe of Invulnerability](https://2e.aonprd.com/Spells.aspx?ID=137) [P9]
+    - gold holy symbol of Lamashtu
+    - Spellbook worth 105 gp
+    - Material Component Pouch worth 5 sp
 
 ### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
@@ -177,7 +187,14 @@ Encounters include scaling for level 8 parties.
 
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) to the Donkey Rats. 
 
-  - **Loot:** Grasping Snare [C8], Bomb Snare [C8], Biting Snare [C4], Tin of Noses, 35 gp, 40 sp, 60 cp, +1 Striking Ogre Hook, Caltrops
+  - **Loot:**
+    - [Grasping Snare](https://2e.aonprd.com/Equipment.aspx?ID=334) [C8]
+    - [Bomb Snare](https://2e.aonprd.com/Equipment.aspx?ID=331) [C8]
+    - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329) [C4]
+    - +1 Striking Ogre Hook
+    - Tin of Noses, Caltrops
+    - 35 gp, 40 sp, 60 cp
+
 
 ### A14. Tendriculous Lair (XP 60, low threat)
 
@@ -192,7 +209,10 @@ Encounters include scaling for level 8 parties.
 
 ### A15. The Graul Fortune
 
-  - **Loot:** Gold Ring worth 10 gp, Emerald Necklace worth 65 gp, Ruby In-laid Red Dragon Scale Clasp worth 110 gp, 41 gp, 53 sp, 130 cp, weapons and equipment belonging to the Black Arrows. 
+  - **Loot:**
+    - Gold Ring worth 10 gp, Emerald Necklace worth 65 gp, Ruby Inlaid Red Dragon Scale Clasp worth 110 gp
+    - 41 gp, 53 sp, 130 cp
+    - weapons and equipment belonging to the Black Arrows. 
 
 ### A16. Kennel (XP 90, moderate threat)
 
@@ -208,11 +228,16 @@ Encounters include scaling for level 8 parties.
 
   - **Creatures:** 
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
+
   - **Captive Black Arrows:**
     - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
-  - **Loot:** (Kaven) Greater Coyote Cloak [P9], +1 Striking Rapier, +1 Dagger
+
+  - **Loot:** (Kaven's gear from the haul in A15)
+    - [Greater Coyote Cloak](https://2e.aonprd.com/Equipment.aspx?ID=426) [P9]
+    - +1 Striking Rapier
+    - +1 Dagger
 
 ### Ending the ogrekin menace (XP 80)
 
@@ -288,7 +313,9 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     
-  - **Loot:** 2 Storm Arrows [C9], Various mundane weapons
+  - **Loot:** 
+    - 2 [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) [C9]
+    - Various mundane weapons
 
 ### B14. Ravine (XP 10, trivial threat)
   - **Hazards:**
@@ -340,7 +367,10 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
-  - **Loot:** +2 Striking Ogre Hook [P10], Rhino Hide Armor [P9], Iron Medallion [P10]
+  - **Loot:** 
+    - +2 Striking Ogre Hook [P10]
+    - [Rhino Hide Armor](https://2e.aonprd.com/Equipment.aspx?ID=158) [P9]
+    - [Iron Medallion](https://2e.aonprd.com/Equipment.aspx?ID=221) [C10]
 
 ### B30. Commanders Quarters (XP 80/90, moderate threat)
 
@@ -353,8 +383,8 @@ The other unique ogres are covered individually below.
     - adjustment for level 9 - add 1x Ogre Boss*
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
-- **Loot:** Boots of Elvenkind [P5], Love letters, nymph hair, silver locket in a jewelry box
-- **Loot:** (Dorella) Greater Mistform Elixir [C10] 
+- **Loot:** [Boots of Elvenkind](https://2e.aonprd.com/Equipment.aspx?ID=413) [P5], Love letters, nymph hair, silver locket in a jewelry box
+- **Loot:** (Dorella) [Greater Mistform Elixir](https://2e.aonprd.com/Equipment.aspx?ID=96) [C10] 
 - **Loot:** (Ogre Boss) +1 Ogre Hook
 
 ### B31. Tribunal (XP 30, trivial threat)
@@ -378,7 +408,13 @@ The other unique ogres are covered individually below.
     - adjustment for level 9 - add 2 [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
     - note the threat level may also rise slightly due to unexpected assistance...
 
-  - **Loot:** Candle of Truth [C8], Standard Potion of Flying [C8], Sihedron Medallion [P5], Taste of Paradise (+2 Striking Returning dagger) [P10], Gold and Pearl Ring (40 gp), Silver Necklace (25 gp), Scroll Sihedron Sacrifices 
+  - **Loot:**
+    - [Candle of Truth](https://2e.aonprd.com/Equipment.aspx?ID=240) [C8]
+    - [Standard Potion of Flying](https://2e.aonprd.com/Equipment.aspx?ID=189) [C8]
+    - Sihedron Medallion [P5]
+    - Taste of Paradise (+2 Striking Returning dagger) [P10]
+    - Gold and Pearl Ring (40 gp), Silver Necklace (25 gp) 
+    - Scroll listing Sihedron Sacrifices 
 
 ### B37. Lizard Warrens (XP 80, moderate threat)
 
@@ -416,7 +452,12 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
 
-  - **Loot:** Hat of Disguise [P2], Greater Hat of the Magi [P9], Serum of Sex Shift [C7], Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk [C9] and a Scroll of Illusory Scene [C9], 82 gp, 285 sp, 450 cp, pearls (80 gp) 
+  - **Loot:**
+    - [Hat of Disguise](https://2e.aonprd.com/Equipment.aspx?ID=442) [P2]
+    - [Greater Hat of the Magi](https://2e.aonprd.com/Equipment.aspx?ID=443) [P9]
+    - [Serum of Sex Shift](https://2e.aonprd.com/Equipment.aspx?ID=198) [C7]
+    - Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk [C9] and a Scroll of Illusory Scene [C9]
+    - 82 gp, 285 sp, 450 cp, pearls (80 gp) 
 
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
 
@@ -549,7 +590,9 @@ The other unique ogres are covered individually below.
     - Either use the standard Grave Knight which is closer to the 1E Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
-  - **Loot:** +2 Resilient Full Plate [P11], Greater Clandestine Cloak [P10]
+  - **Loot:**
+    - +2 [Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) Full Plate [P11]
+    - [Greater Clandestine Cloak](https://2e.aonprd.com/Equipment.aspx?ID=423) [P10]
 
 ### D9 As the Dread Kings of Old (120xp, severe threat, +80xp story award)
 
@@ -560,9 +603,18 @@ The other unique ogres are covered individually below.
 
     ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
-  - **Loot:** 29 pp, 222 gp, 483 sp, 1369 cp, Mummified Bat Talisman [C10], Greater Bestial Mutagen [C11], Greater Cognitive Mutagen [C11], Greater Antiplague Elixir [C10]
+  - **Loot:**
+    - 29 pp, 222 gp, 483 sp, 1369 cp
+    - [Mummified Bat Talisman](https://2e.aonprd.com/Equipment.aspx?ID=227) [C10]
+    - [Greater Bestial Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=82) [C11]
+    - [Greater Cognitive Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=87) [C11]
+    - [Greater Antiplague Elixir](https://2e.aonprd.com/Equipment.aspx?ID=81) [C10]
    
-  - **Loot:** (Barl) Sihedron Medallion [P5], +2 Resilient Armor [P11], Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp, Black Onyx Gems (60 gp), +1 Ogre Hook
+  - **Loot: (Barl)** 
+    - Sihedron Medallion [P5]
+    - +2 [Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) Armor [P11]
+    - Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp
+    - Black Onyx Gems (60 gp)
 
   - **XP** Returning the black arrows equipment gains an additional 80xp story award 
 
