@@ -89,7 +89,8 @@ Encounters include scaling for level 8 parties.
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
 
-  ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
+    ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
+  
     - Level 8 adjustment: apply the Elite template
 
  - **Loot:** +1 striking corrosive spear, Dragon Breath Potion (young red)
@@ -99,6 +100,7 @@ Encounters include scaling for level 8 parties.
     - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)  
 
   ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
+  
     - Level 8 adjustment: apply the Elite template
 
   - **Loot:** +1 striking ogre hook, +1 Resilient Armor, Greater Smokestick
@@ -125,7 +127,7 @@ Encounters include scaling for level 8 parties.
     - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
     - Level 8 adjustment: either apply the Elite template OR add a third ogrekin fighter
 
-  ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
+    ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
   - **Loot:** Jade Ring worth 79 gp
 
@@ -137,11 +139,11 @@ Encounters include scaling for level 8 parties.
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
 
-  ![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
+    ![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
 
   - **Encounter Notes:**   
     - Consider applying the weak template if this encounter will be too strong for your PCs
-    - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
+    - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
   - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, Spell Book worth 79 gp, Material Component Pouch worth 3 gp, Gold Holy Symbol of Lamashtu worth 79 gp
@@ -160,7 +162,7 @@ Encounters include scaling for level 8 parties.
     - 2x **medium** sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - [Hucker Graul PDF](./NPC-Monsters-Statblocks/HuckerGraul.pdf)
 
-![Hucker Graul PNG](./NPC-Monsters-Statblocks/HuckerGraul.png)
+    ![Hucker Graul PNG](./NPC-Monsters-Statblocks/HuckerGraul.png)
 
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) to the Donkey Rats. 
 
