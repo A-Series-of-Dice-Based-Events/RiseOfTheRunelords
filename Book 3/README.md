@@ -582,7 +582,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**  
     - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
 
-  - **Loot:** Explorer's Hut [P?]
+  - **Loot:** [Explorer's Yurt](https://2e.aonprd.com/Equipment.aspx?ID=365) [P10]
 
 ### D8 Abandoned Shrine (40xp, trivial threat)
 
