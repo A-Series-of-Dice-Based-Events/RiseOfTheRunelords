@@ -17,13 +17,14 @@ Part | Title | XP | Target XP
 2 | Retaking Rannick     | 1060/750 | 1100 and eliminate level differences
 3 | Down Comes the Rain  | 600      | 650
 4 | The Haunted Heart    | 90       | 150
-5 | Harrowing the Hook   | 470      | 500
+5 | Harrowing the Hook   | 510      | 500
 
 ### TO DO
   - Increase book XP to over 3000 and standardise.
     - Increase Rukus to Level 9
     - Increase Grazuul to level 11
     - Increase Skull Ripper to level 10
+    - add a Haunted Heart encounter
     - add adjustment to all fort rannick encounters for level 9 party to standardise XP
   - Treasure allocation - review and confirm treasure, then final clean up.
 
@@ -166,7 +167,7 @@ Encounters include scaling for level 8 parties.
 
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) to the Donkey Rats. 
 
-- **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
+  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
 
 ### A14. Tendriculous Lair (XP 60, low threat)
 
@@ -241,38 +242,44 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - Ogre Boss*
     - 2x Ogre Warriors*
-- **Loot:** +1 Ogre Hook
+
+  - **Loot:** +1 Ogre Hook
 
 ### B6. Cookhouse (XP 40/30, trivial threat)
-  - **Creatures:** 
-    - Ogre Boss*
-    - **Loot:** +1 Ogre Hook
+  
+  - **Creatures:** Ogre Boss*
+
+  - **Loot:** +1 Ogre Hook
 
 ### B7. Drainage Ditch
-  - **Hazards:**
-    - Using diseased entryway - save vs Filth Fever as if bitten by a [Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
+  
+  - **Hazards:** Using diseased entryway - save vs Filth Fever as if bitten by a [Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
 
 ### B8. South Gate (XP 55/40, low/trivial threat)
+
   - **Creatures:** 
     - Ogre Boss*
     - Ogre Warrior*
-    - **Loot:** +1 Ogre Hook
+
+  - **Loot:** +1 Ogre Hook
 
 ### B12. Barracks (XP 180/120 extreme/severe threat)
-  - **Creatures:** 
-    - 12x Sleeping Ogre Warriors*
+
+  - **Creatures:** 12x Sleeping Ogre Warriors*
 
 ### B13. Secret Armory (XP20, trivial threat)
+
   - **Creatures:** 
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     
-    - **Loot:** 2 Storm Arrows, Various mundane weapons
+  - **Loot:** 2 Storm Arrows, Various mundane weapons
 
 ### B14. Ravine (XP 10, trivial threat)
   - **Hazards:**
     - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
     
 ### B15 Crypt (XP 30/20, trivial threat)
+
   - **Creatures:**
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
@@ -280,38 +287,44 @@ The other unique ogres are covered individually below.
     - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
     
 ### B18. Workroom (XP 40/30, trivial threat)
-  - **Creatures:**
-    - Ogre Boss*
-    - **Loot:** +1 Ogre Hook
+
+  - **Creatures:** Ogre Boss*
+
+  - **Loot:** +1 Ogre Hook
 
 ### B19. Armory (XP 30/20, trivial threat)
-  - **Creatures:** 
-    - 2x Ogre Warrior*
+
+  - **Creatures:** 2x Ogre Warrior*
     
 ### B23. Library (XP 40/30, trivial threat)
-  - **Creatures:**
-    - Ogre Boss*
-    - **Loot:** +1 Ogre Hook
+
+  - **Creatures:** Ogre Boss*
+
+  - **Loot:** +1 Ogre Hook
     
 ### B24. Barracks (XP 60/40, low/trivial threat)
-  - **Creatures:**
-    - 4x Ogre Warriors*
+
+  - **Creatures:** 4x Ogre Warriors*
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
+  
   - **Creatures:**
     - [Jaagrath Kreeg PDF](./NPC-Monsters-Statblocks/jaagrath_kreeg.pdf)
 
-  ![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
+    ![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
+
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
-- **Loot:** +2 Striking Ogre Hook, Rhino Hide Armor, Iron Medallion
+
+  - **Loot:** +2 Striking Ogre Hook, Rhino Hide Armor, Iron Medallion
 
 ### B30. Commanders Quarters (120/90, severe/moderate threat)
+
   - **Creatures:**
     - Ogre Boss*
     - [Dorella Kreeg PDF](./NPC-Monsters-Statblocks/dorella_kreeg.pdf)
 
-  ![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
+    ![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
 
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat.
@@ -321,11 +334,13 @@ The other unique ogres are covered individually below.
 - **Loot:** (Ogre Boss) +1 Ogre Hook
 
 ### B31. Tribunal (XP 30/20, trivial threat)
+
   - **Creatures:**
     - 2x Ogre Warriors*
 
 ### B32. Map Room
-- **Loot:** Map of Riddleport (5 gp), Map of Viperwall (42 gp), Map of Lurkwood (74 gp) 
+
+  - **Loot:** Map of Riddleport (5 gp), Map of Viperwall (42 gp), Map of Lurkwood (74 gp) 
 
 ### B36. Lucrecia's Retreat (XP 120/80, severe/moderate threat)
 
@@ -336,13 +351,16 @@ The other unique ogres are covered individually below.
 
   - **Encounter Notes:**
     - note the threat level may rise due to unexpected assistance...
+
   - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
 ### B37. Lizard Warrens (XP 120/80, moderate/low threat)
+
   - **Creatures:** 
     - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
 ### Liberating Fort Rannick (XP 120)
+
   - for succesfully liberating Fort Rannick from ogre control award 120xp.
 
 
@@ -432,22 +450,23 @@ The other unique ogres are covered individually below.
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
     - Recall Knowledge - Spirit (Occultism) or Undead (Religion): DC 27 to identify the Ghostly nature of her
 
-    [Myriana PDF](./NPC-Monsters-Statblocks/myriana.pdf)
+    - [Myriana PDF](./NPC-Monsters-Statblocks/myriana.pdf)
 
-  ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
+    ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
 
 
-## Part 5: Harrowing the Hook (XP 470, Party Level 10)
+## Part 5: Harrowing the Hook (XP 510, Party Level 10)
 
-  - Note that many of the encounters are lower threat, but with a very alert guard, several encounters will run together. The total XP of encounters in the clanhold is around 350 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
+  - Note that many of the encounters are lower threat, but with a very alert guard, several encounters will run together. The total XP of encounters in the clanhold is over 400 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
 ### Valley of Broken Trees (40xp, trivial threat)
 
   - **Creatures:**
-  - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
+    - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
   
-  ![razmus](./NPC-Monsters-Statblocks/razmus.png)
-  - The same XP is awarded for whatever way they deal with Razmus - whether he ends up as a temporary ally or they defeat him
+    ![razmus](./NPC-Monsters-Statblocks/razmus.png)
+
+    - The same XP is awarded for whatever way they deal with Razmus - whether he ends up as a temporary ally or they defeat him
 
 ### D1 Entrance (40xp, trivial threat)
 
@@ -466,6 +485,7 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - 2x Ogre Boss*
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
+
   - **Loot:** 2x +1 Ogre Hook
 
 ### D6 The Clanhold (70xp, low threat)
@@ -473,7 +493,8 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - Ogre Boss*
     - 10x Ogre Warriors*
-- **Loot:** +1 Ogre Hook
+
+  - **Loot:** +1 Ogre Hook
 
 ### D7 Circle of the Sisters (60xp, low threat)
 
@@ -489,14 +510,14 @@ The other unique ogres are covered individually below.
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
   - **Loot:** +2 Resilient Full Plate, Greater Clandestine Cloak
 
-### D9 As the Dread Kings of Old (80xp, moderate threat, +80xp story award)
+### D9 As the Dread Kings of Old (120xp, severe threat, +80xp story award)
 
   - **Creatures:**
-    - [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    - 3x [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
 
     - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
 
-  ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
+    ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
   - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixir
   - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Spellbook, Black Onyx Gems, +1 Ogre Hook
