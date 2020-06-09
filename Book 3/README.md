@@ -13,17 +13,14 @@
 Part | Title | XP 
 -----|-------|----
 0 | Turtleback Ferry     | 150
-1 | In The Hook's Shadow | 870
-2 | Retaking Rannick     | 1040
-3 | Down Comes the Rain  | 600
+1 | In The Hook's Shadow | 900
+2 | Retaking Rannick     | 1050
+3 | Down Comes the Rain  | 640
 4 | The Haunted Heart    | 90
 5 | Harrowing the Hook   | 510
 
 ### TO DO
-  - Review book XP and standardise.
-    - Increase Rukus to Level 9
-    - Add a Haunted Heart encounter
-  - Treasure allocation - review and confirm treasure, then final clean up.
+  - Final review and clean up.
 
 ### Party Level and Target Allocation of Treasure
 
@@ -41,7 +38,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-Notes about treasure allocation. 
+Treasure allocation approach: 
 
 This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
 
@@ -96,16 +93,16 @@ For Traps near fit Hazards have been used. Note the traps are unlikely to be a s
 
 Encounters include scaling for level 8 parties.
 
-### The Strange Firepelt (XP 60, low threat)
+### The Strange Firepelt (XP 90, moderate threat)
  - **Creatures:** 
     - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)  
   ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
     - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses. 
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
-    - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
+    - [Rukus Graul PDF](./NPC-Monsters-Statblocks/RukusGraul.pdf)  
 
-      ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
+      ![Rukus Graul PNG](./NPC-Monsters-Statblocks/RukusGraul.png)
   
     - Level 8 adjustment: apply the Elite template to Rukus
 
@@ -148,7 +145,7 @@ Encounters include scaling for level 8 parties.
 ### A6. Rukus's Room
   - **Loot:** Jade Ring worth 60 gp
 
-### A8. Mammy's Room (XP 135, severe threat)
+### A8. Mammy's Room (XP 130, severe threat)
   - **Creatures:** 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
@@ -226,7 +223,7 @@ Encounters include scaling for level 8 parties.
   - if the PCs expose the traitor in any part of this book then award 30xp
 
 
-## Part 2: Retaking Rannick (XP 1000, Party Level 8-9) 
+## Part 2: Retaking Rannick (XP 1050, Party Level 8-9) 
 
 Note these are mostly lower threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
@@ -394,7 +391,7 @@ The other unique ogres are covered individually below.
   - for succesfully liberating Fort Rannick from ogre control award 120xp.
 
 
-## Part 3: Down Comes the Rain (XP 600, Party Level 9)
+## Part 3: Down Comes the Rain (XP 640, Party Level 9)
 
 ### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
   - **Creatures:** 
@@ -455,9 +452,9 @@ The other unique ogres are covered individually below.
 ### C15. Floodgate Controls (XP 60, low threat)
 
   - **Creatures:**
-    - [Skull Ripper PDF](./NPC-Monsters-Statblocks/SkullRipper.pdf)
+    - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
 
-    ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
+    ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
 
 ### C16. Infernal Engines (XP 60)
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
