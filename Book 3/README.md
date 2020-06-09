@@ -549,7 +549,7 @@ The other unique ogres are covered individually below.
     - Either use the standard Grave Knight which is closer to the 1E Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
-  - **Loot:** +2 Resilient Full Plate [P8], Greater Clandestine Cloak [P10]
+  - **Loot:** +2 Resilient Full Plate [P11], Greater Clandestine Cloak [P10]
 
 ### D9 As the Dread Kings of Old (120xp, severe threat, +80xp story award)
 
@@ -562,7 +562,7 @@ The other unique ogres are covered individually below.
   
   - **Loot:** 29 pp, 222 gp, 483 sp, 1369 cp, Mummified Bat Talisman [C10], Greater Bestial Mutagen [C11], Greater Cognitive Mutagen [C11], Greater Antiplague Elixir [C10]
    
-  - **Loot:** (Barl) Sihedron Medallion [P5], +2 Resilient Armor [P8], Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp, Black Onyx Gems (60 gp), +1 Ogre Hook
+  - **Loot:** (Barl) Sihedron Medallion [P5], +2 Resilient Armor [P11], Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp, Black Onyx Gems (60 gp), +1 Ogre Hook
 
   - **XP** Returning the black arrows equipment gains an additional 80xp story award 
 
