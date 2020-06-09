@@ -45,6 +45,16 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
+Notes about treasure allocation. 
+This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
+Wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 17,700 GP in value (4000 gp + 5700 gp + 8000 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2 9th level and 2 8th level for Level 8), and lower level items were included as well for flavor. 
+It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items). 
+Currency is lower than that the guidelines, due to the cost of the permanent and consumable items. 
+Spellbooks were valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC. 
+Sihedron Runes were valued at 500 gp (essentially equivelant to a 2nd level wand). 
+GP value of currency items was scaled down to take into account a) the treasure guidelines and the fact that gold in PF2E is higher than in PF1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was oringally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
+Treasure was provided for a party of 4. If you include additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
+
 ### General Notes and Advice
 
 Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate to suit the capabilities of your party. 
@@ -131,10 +141,8 @@ Encounters include scaling for level 8 parties.
 
     ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
-  - **Loot:** Jade Ring worth 79 gp
-
 ### A6. Rukus's Room
-  - **Loot:** none
+  - **Loot:** Jade Ring worth 60 gp
 
 ### A8. Mammy's Room (XP 135, severe threat)
   - **Creatures:** 
@@ -148,13 +156,13 @@ Encounters include scaling for level 8 parties.
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
-  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, Spell Book worth 79 gp, Material Component Pouch worth 3 gp, Gold Holy Symbol of Lamashtu worth 79 gp
+  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, Spell Book worth 105 gp, Material Component Pouch worth 5 sp
 
 ### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
     - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Ogre Spider Venom](https://2e.aonprd.com/Monsters.aspx?ID=814)
     
-  - **Loot:** The Hand Chopper itself is worth 66 gp to a buyer interested in the macabre. There are various coins worth 16 gp in the Hand Chopper. 
+  - **Loot:** There are 5 gold, 12 silver, and 30 copper coins in the in the Hand Chopper.
   
 ### A10. Attic
   - **Loot:** none
@@ -168,7 +176,7 @@ Encounters include scaling for level 8 parties.
 
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) to the Donkey Rats. 
 
-  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
+  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses, 35 gp, 40 sp, 60 cp, +1 Striking Ogre Hook, Caltrops
 
 ### A14. Tendriculous Lair (XP 60, low threat)
 
@@ -183,7 +191,7 @@ Encounters include scaling for level 8 parties.
 
 ### A15. The Graul Fortune
 
-  - **Loot:** Gold Ring worth 13 gp, Emerald Necklace worth 93 gp, Engraved Clasp worth 60 gp, various coins worth 68 gp, weapons and equipment belonging to the Black Arrows. 
+  - **Loot:** Gold Ring worth 10 gp, Emerald Necklace worth 65 gp, Ruby In-laid Red Dragon Scale Clasp worth 110 gp, 41 gp, 53 sp, 130 cp, weapons and equipment belonging to the Black Arrows. 
 
 ### A16. Kennel (XP 90, moderate threat)
 
@@ -343,7 +351,7 @@ The other unique ogres are covered individually below.
     - adjustment for level 9 - add 1x Ogre Boss*
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
-- **Loot:** Boots of Elvenkind, Love letters, nymph hair, silver locket in a jewelry box worth a total of 32 gp
+- **Loot:** Boots of Elvenkind, Love letters, nymph hair, silver locket in a jewelry box
 - **Loot:** (Dorella) Greater Mistform Elixir, 
 - **Loot:** (Ogre Boss) +1 Ogre Hook
 
@@ -355,7 +363,7 @@ The other unique ogres are covered individually below.
 
 ### B32. Map Room
 
-  - **Loot:** Map of Riddleport (5 gp), Map of Viperwall (42 gp), Map of Lurkwood (74 gp) 
+  - **Loot:** Map of Riddleport (10 gp), Map of Viperwall (50 gp), Map of Lurkwood (100 gp) 
 
 ### B36. Lucrecia's Retreat (XP 120, severe threat)
 
@@ -368,7 +376,7 @@ The other unique ogres are covered individually below.
     - adjustment for level 9 - apply the Elite template (or add minions)
     - note the threat level may rise due to unexpected assistance...
 
-  - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
+  - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Gold and Pearl Ring (40 gp), Silver Necklace (25 gp), Scroll Sihedron Sacrifices
 
 ### B37. Lizard Warrens (XP 80, moderate threat)
 
@@ -405,7 +413,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
-  - **Loot:** Hat of Disguise, Greater Hat of the Magi, Serum of Sex Shift, Jade Scroll Case (worth 32 gp) containing a Scroll of Shadow Walk and a Scroll of Illusory Scene, coins worth 85 gp, pearls worth 64 gp, 
+  - **Loot:** Hat of Disguise, Greater Hat of the Magi, Serum of Sex Shift, Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk and a Scroll of Illusory Scene, 82 gp, 285 sp, 450 cp, pearls (80 gp) 
 
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with severe terrain)
 
@@ -421,7 +429,7 @@ The other unique ogres are covered individually below.
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
     
 ### C9.
-  - ** Loot:** Cracked Emerald worth 42 GP, Gold Comb worth 85 GP
+  - ** Loot:** Cracked (50 gp), Gold Comb (115 gp)
 
 ### C13. Observation Deck (XP 80, moderate threat)
 
@@ -459,8 +467,8 @@ The other unique ogres are covered individually below.
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 	- **Loot:** Yap will provide two doses of Dust of Disappearance. 
 
-### Mysterious Derelict    
-	- **Loot:** Musical Score worth 321 GP
+### Mysterious Derelict
+	- **Loot:** Musical Score worth 300 GP
 
 ### Heart of Sadness (XP 60 for permanently laying her to rest)
 
@@ -496,7 +504,7 @@ The other unique ogres are covered individually below.
   - Recall Knowledge - Dragon (Arcana): DC 40 to identify the bones
   
 ### D3 The Rune-Bound King
-  - **Loot:** Giant Armor worth 317 GP
+  - **Loot:** Giant Armor worth 300 GP
 
 ### D5 Chokepoint (60xp, low threat)
 
@@ -537,8 +545,8 @@ The other unique ogres are covered individually below.
 
     ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
-  - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixir
-  - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Spellbook, Black Onyx Gems, +1 Ogre Hook
+  - **Loot:** 29 pp, 222 gp, 483 sp, 1369 cp, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixir
+  - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Spellbook, Black Onyx Gems (60 gp), +1 Ogre Hook
   - **XP** Returning the black arrows equipment gains 80xp 
 
 # --- End of Hook Mountain Massacre 2E Conversion Guide ---
