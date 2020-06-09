@@ -1,26 +1,25 @@
 # Hook Mountain Massacre : level 7-10
 
-## Conversion guide for Pathfinder 2
+## Conversion Guide for Pathfinder Second Edition (2E)
 
-  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
-  - The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
-  - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-  - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available.
-  - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
-  - Target level based XP is 3000 per book plus a small contingency of up to 10%.
-  - The first edition CR rating is used as a starting point when converting creatures and hazards. Where the CR is more than 4 levels lower than the party then either the creature level is adjusted upward, often using the [Elite adjustment](http://2e.aonprd.com/Rules.aspx?ID=790), or it is noted in the scenario that they are merely distractions.
+- This conversion guide only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
+- The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
+- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
+- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
-### Index and status
-  - Part 1: In The Hook's Shadow - xp, creatures and hazards done
-  - Part 2: Retaking Rannick - xp, creatures and hazards done
-  - Part 3: Down Comes the Rain - xp, creatures done
-  - Part 4: The Haunted Heart - xp, creatures done
-  - Part 5: Harrowing the Hook - xp, creatures done 
+### Index
+  
+  - Part 0: Turtleback Ferry
+  - Part 1: In The Hook's Shadow
+  - Part 2: Retaking Rannick
+  - Part 3: Down Comes the Rain
+  - Part 4: The Haunted Heart
+  - Part 5: Harrowing the Hook 
 
-### General TO DO
-  - Increase XP to 3000, plus 10% contingency.
+### TO DO
+  - Increase book XP to over 3000.
   - Treasure allocation - review and confirm treasure, then final clean up.
-  - Review and feedback to the discord channel.
 
 ### Party Level and Target Allocation of Treasure
 
@@ -44,8 +43,6 @@ Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite
 If they are finding it hard going then liberally apply weak templates. 
 If they are breezing through then liberally apply elite templates. 
 
-If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
-
 
 ## Part 0: Turtleback ferry (XP 120, Party Level 7)
 
@@ -59,7 +56,8 @@ If you find an issue, error or omission, have a suggestion for improvement, or a
     - Turtle shell is a prized hull for local boats
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
 
-## Part 1: In The Hook's Shadow (XP 720/610,Party Level 7-8)
+
+## Part 1: In The Hook's Shadow (XP 720/610,Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
@@ -74,7 +72,6 @@ XP is shown as "XP L7/L8"
     - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)  
   ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
     - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses. 
-    - If Shelalu is with the party she will recognise Kibb as an animal companion.
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
@@ -293,7 +290,7 @@ The other unique ogres are covered individually below.
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
 - **Loot:** Boots of Elvenkind, Love letters, nymph hair, silver locket in a jewelry box worth a total of 32 gp
-- **Loot:** (Dorella) Greater Mistform Elixer, 
+- **Loot:** (Dorella) Greater Mistform Elixir, 
 - **Loot:** (Ogre Boss) +1 Ogre Hook
 
 ### B31. Tribunal (XP 30/20, trivial threat)
@@ -474,8 +471,8 @@ The other unique ogres are covered individually below.
 
   ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
   
-  - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixer 
+  - **Loot:** Various Gems and Coins worth 590 GP, Mummified Bat Talisman, Greater Bestial Mutagen, Greater Cognitive Mutagen, Greater Antiplague Elixir
   - **Loot:** (Barl) Sihedron Medalion, +2 Resilient Armor, Spellbook, Black Onyx Gems, +1 Ogre Hook
   - **XP** Returning the black arrows equipment gains 80xp 
 
-# --- End of Hook Mountain Massacre ---
+# --- End of Hook Mountain Massacre 2E Conversion Guide ---
