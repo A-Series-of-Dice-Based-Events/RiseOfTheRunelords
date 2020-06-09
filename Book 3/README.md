@@ -10,15 +10,18 @@
 
 ### Index
   
-  - Part 0: Turtleback Ferry
-  - Part 1: In The Hook's Shadow
-  - Part 2: Retaking Rannick
-  - Part 3: Down Comes the Rain
-  - Part 4: The Haunted Heart
-  - Part 5: Harrowing the Hook 
+Part | Title | XP | Target XP
+-----|-------|----|----
+0 | Turtleback Ferry     | 150      | -
+1 | In The Hook's Shadow | 750      | 800
+2 | Retaking Rannick     | 1060/750 | 1200 and eliminate level differneces
+3 | Down Comes the Rain  | 590      | 600
+4 | The Haunted Heart    | 90       | 150
+5 | Harrowing the Hook   | 470      | 500
 
 ### TO DO
   - Increase book XP to over 3000.
+    - Increase Rukus to Level 9
   - Treasure allocation - review and confirm treasure, then final clean up.
 
 ### Party Level and Target Allocation of Treasure
@@ -44,30 +47,37 @@ If they are finding it hard going then liberally apply weak templates.
 If they are breezing through then liberally apply elite templates. 
 
 
-## Part 0: Turtleback ferry (XP 120, Party Level 7)
+## Part 0: Turtleback ferry (XP 150, Party Level 7)
+
+These investigations and encounters could happen at any point during the book.  
+
+### Paradise and Lucrecia (30xp story award)
+
+  - For following up on the story of the Paradise to get further information on Lucrecia and what the Paradise was doing, and for noticing the sihedron tattoos.
 
 ### Wreck of the Paradise (XP 80, Moderate Threat, +40xp story award)
+
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
+    - If the party are higher than level 7 when they investigate the paradise then apply the Elite or double Elite template accordingly
+
   - **Encounter Notes:**   
-    - The paradise sank on the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller (unless made of giant turtle shell) or anyone entering the water will draw its hostile attention in a few minutes at most
+    - The paradise sank near the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water will draw its hostile attention in a few minutes at most
     - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
     - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
     - Turtle shell is a prized hull for local boats
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
 
 
-## Part 1: In The Hook's Shadow (XP 720/610,Party Level 7/8)
+## Part 1: In The Hook's Shadow (XP 760, Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
 For Traps near fit Hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters, or happen during an encounter they are more serious.
 
-Encounters sometimes includes suggested scaling for level 8 parties.
+Encounters include scaling for level 8 parties.
 
-XP is shown as "XP L7/L8"
-
-### The Strange Firepelt (XP 60/40, low/trivial threat)
+### The Strange Firepelt (XP 60, low threat)
  - **Creatures:** 
     - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)  
   ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
@@ -77,14 +87,16 @@ XP is shown as "XP L7/L8"
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
 
   ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
+    - Level 8 adjustment: apply the Elite template
 
  - **Loot:** +1 striking corrosive spear, Dragon Breath Potion (young red)
 
-### The Graul Farm (XP 80/60, moderate/low threat)
+### The Graul Farm (XP 80, moderate threat)
   - **Creatures:** 
     - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)  
 
   ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
+    - Level 8 adjustment: apply the Elite template
 
   - **Loot:** +1 striking ogre hook, +1 Resilient Armor, Greater Smokestick
   
@@ -105,9 +117,10 @@ XP is shown as "XP L7/L8"
   - **Hazards:**
     - Sickening Smell applies each round spent in the kitchen: DC 26 Fortitude save or become sickened 1 (sickened 2 on a crit fail). This condition cannot be cleared whilst in the kitchen. Unless a critical success is achieved this effect must be saved against each round. 
     
-### A5. Playpen (XP 60/40, low/trivial threat)
+### A5. Playpen (XP 60, low threat)
   - **Creatures:** 
     - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
+    - Level 8 adjustment: apply the Elite template
 
   ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
@@ -116,16 +129,18 @@ XP is shown as "XP L7/L8"
 ### A6. Rukus's Room
   - **Loot:** none
 
-### A8. Mammy's Room (XP 120/120, severe/severe threat)
+### A8. Mammy's Room (XP 130, severe threat)
   - **Creatures:** 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
 
   ![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
+
   - **Encounter Notes:**   
     - Consider applying the weak template if this encounter will be too strong for your PCs
     - Party level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
+
   - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, Spell Book worth 79 gp, Material Component Pouch worth 3 gp, Gold Holy Symbol of Lamashtu worth 79 gp
 
 ### A9. Bedroom (XP 10, trivial threat)
@@ -137,7 +152,7 @@ XP is shown as "XP L7/L8"
 ### A10. Attic
   - **Loot:** none
 
-### A12. Hucker's Lair (XP 90/80, moderate threat)
+### A12. Hucker's Lair (XP 90, moderate threat)
   - **Creatures:** 
     - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
@@ -149,19 +164,23 @@ XP is shown as "XP L7/L8"
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
   - **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
 
-### A14. Tendriculous Lair (XP 40/30, trivial threat)
+### A14. Tendriculous Lair (XP 40, trivial threat)
+
   - **Creatures:** 
     - [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
     - Party level 8: Apply the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
-    - Awakened tree seems specifically designed for this purpose (it even matches the Fey color text)
+
   - **Loot:** none
 
 ### A15. The Graul Fortune
+
   - **Loot:** Gold Ring worth 13 gp, Emerald Necklace worth 93 gp, Engraved Clasp worth 60 gp, various coins worth 68 gp, weapons and equipment belonging to the Black Arrows. 
 
-### A16. Kennel (XP 90/80, moderate threat)
+### A16. Kennel (XP 90, moderate threat)
+
   - **Creatures:** 
     - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
     - Party level 8: add an additional ogrekin fighter
@@ -170,20 +189,24 @@ XP is shown as "XP L7/L8"
 
   - **Loot:** Moonshine worth 3 gp to anyone who's into that kind of thing.
 
-### A17. Biggin (XP 60/40, trivial threat with terrain advantage, +80xp for rescuing the black arrows)
+### A17. Biggin (XP 60, low threat with terrain advantage, +80xp for rescuing the black arrows)
+
   - **Creatures:** 
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
   - **Captive Black Arrows:**
     - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
     - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
     - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
-  - ** Loot:** (Kaven) Greater Coyote Cloak, +1 Striking Rapier, +1 Dagger
+  - **Loot:** (Kaven) Greater Coyote Cloak, +1 Striking Rapier, +1 Dagger
 
 ### Ending the ogrekin menace (XP 80)
+
   - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, or over half the total ogrekin)
 
 ### Exposing the traitor (XP 30)
+
   - if the PCs expose the traitor in any part of this book then award 30xp
+
 
 ## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
 
@@ -319,7 +342,7 @@ The other unique ogres are covered individually below.
   - for succesfully liberating Fort Rannick from ogre control award 120xp.
 
 
-## Part 3: Down Comes the Rain (XP 500, Party Level 9)
+## Part 3: Down Comes the Rain (XP 590, Party Level 9)
 
 ### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
   - **Creatures:** 
