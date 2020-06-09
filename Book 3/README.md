@@ -10,22 +10,23 @@
 
 ### Index
   
-Part | Title | XP | Target XP
------|-------|----|----
-0 | Turtleback Ferry     | 150      | 150
-1 | In The Hook's Shadow | 870      | 900
-2 | Retaking Rannick     | 1060/750 | 1100 and eliminate level differences
-3 | Down Comes the Rain  | 600      | 650
-4 | The Haunted Heart    | 90       | 150
-5 | Harrowing the Hook   | 510      | 500
+Part | Title | XP 
+-----|-------|----
+0 | Turtleback Ferry     | 150
+1 | In The Hook's Shadow | 870
+2 | Retaking Rannick     | 1040
+3 | Down Comes the Rain  | 600
+4 | The Haunted Heart    | 90
+5 | Harrowing the Hook   | 510
 
 ### TO DO
-  - Increase book XP to over 3000 and standardise.
+  - Review book XP and standardise.
     - Increase Rukus to Level 9
     - Increase Grazuul to level 11
     - Increase Skull Ripper to level 10
     - add a Haunted Heart encounter
-    - add adjustment to all fort rannick encounters for level 9 party to standardise XP
+    - review Lucrecia encounter for minions
+    - review Lorgus Fenker encounter for minions
   - Treasure allocation - review and confirm treasure, then final clean up.
 
 ### Party Level and Target Allocation of Treasure
@@ -90,9 +91,9 @@ Encounters include scaling for level 8 parties.
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
     - [Rukus Graul PDF](./NPC-Monsters-Statblocks/rukus_graul.pdf)  
 
-    ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
+      ![Rukus Graul PNG](./NPC-Monsters-Statblocks/rukus_graul.png)
   
-    - Level 8 adjustment: apply the Elite template
+    - Level 8 adjustment: apply the Elite template to Rukus
 
  - **Loot:** +1 striking corrosive spear, Dragon Breath Potion (young red)
 
@@ -100,7 +101,7 @@ Encounters include scaling for level 8 parties.
   - **Creatures:** 
     - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)  
 
-  ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
+    ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
   
     - Level 8 adjustment: apply the Elite template
 
@@ -135,7 +136,7 @@ Encounters include scaling for level 8 parties.
 ### A6. Rukus's Room
   - **Loot:** none
 
-### A8. Mammy's Room (XP 130, severe threat)
+### A8. Mammy's Room (XP 135, severe threat)
   - **Creatures:** 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
@@ -213,7 +214,7 @@ Encounters include scaling for level 8 parties.
   - if the PCs expose the traitor in any part of this book then award 30xp
 
 
-## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9) - XP to be standardised 
+## Part 2: Retaking Rannick (XP 1000, Party Level 8-9) 
 
 Note these are mostly lower threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
@@ -238,16 +239,19 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - Ogre Warrior*
 
-### B4. Old Guard Post (XP 70/50, low threat)
+### B4. Old Guard Post (XP 70, moderate threat)
   - **Creatures:** 
     - Ogre Boss*
     - 2x Ogre Warriors*
+    - adjustment for level 9 - add 2x Ogre Warriors*
 
   - **Loot:** +1 Ogre Hook
 
-### B6. Cookhouse (XP 40/30, trivial threat)
+### B6. Cookhouse (XP 40, trivial threat)
   
-  - **Creatures:** Ogre Boss*
+  - **Creatures:**
+    - Ogre Boss*
+    - adjustment for level 9 - add 1x Ogre Warrior*
 
   - **Loot:** +1 Ogre Hook
 
@@ -255,17 +259,20 @@ The other unique ogres are covered individually below.
   
   - **Hazards:** Using diseased entryway - save vs Filth Fever as if bitten by a [Giant Rat](https://2e.aonprd.com/Monsters.aspx?ID=346).  
 
-### B8. South Gate (XP 55/40, low/trivial threat)
+### B8. South Gate (XP 55/60, low threat)
 
   - **Creatures:** 
     - Ogre Boss*
     - Ogre Warrior*
+    - adjustment for level 9 - add 2x Ogre Warriors*
 
   - **Loot:** +1 Ogre Hook
 
-### B12. Barracks (XP 180/120 extreme/severe threat)
+### B12. Barracks (XP 120 severe threat)
 
-  - **Creatures:** 12x Sleeping Ogre Warriors*
+  - **Creatures:**
+    - 8x Sleeping Ogre Warriors*
+    - adjustment for level 9 - add 4x Ogre Warriors*
 
 ### B13. Secret Armory (XP20, trivial threat)
 
@@ -278,23 +285,28 @@ The other unique ogres are covered individually below.
   - **Hazards:**
     - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
     
-### B15 Crypt (XP 30/20, trivial threat)
+### B15 Crypt (XP 30, trivial threat)
 
   - **Creatures:**
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
+    - adjustment for level 9 - add the Elite adjustment
 
     - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
     
-### B18. Workroom (XP 40/30, trivial threat)
+### B18. Workroom (XP 40, trivial threat)
 
-  - **Creatures:** Ogre Boss*
+  - **Creatures:**
+    - Ogre Boss*
+    - adjustment for level 9 - add 1x Ogre Warrior*
 
   - **Loot:** +1 Ogre Hook
 
-### B19. Armory (XP 30/20, trivial threat)
+### B19. Armory (XP 30, trivial threat)
 
-  - **Creatures:** 2x Ogre Warrior*
+  - **Creatures:**
+    - 2x Ogre Warrior*
+    - adjustment for level 9 - add 1x Ogre Warrior*
     
 ### B23. Library (XP 40/30, trivial threat)
 
@@ -302,9 +314,11 @@ The other unique ogres are covered individually below.
 
   - **Loot:** +1 Ogre Hook
     
-### B24. Barracks (XP 60/40, low/trivial threat)
+### B24. Barracks (XP 60, low threat)
 
-  - **Creatures:** 4x Ogre Warriors*
+  - **Creatures:**
+    - 4x Ogre Warriors*
+    - adjustment for level 9 - add 2x Ogre Warriors*
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   
@@ -318,46 +332,49 @@ The other unique ogres are covered individually below.
 
   - **Loot:** +2 Striking Ogre Hook, Rhino Hide Armor, Iron Medallion
 
-### B30. Commanders Quarters (120/90, severe/moderate threat)
+### B30. Commanders Quarters (XP 80/90, moderate threat)
 
   - **Creatures:**
-    - Ogre Boss*
     - [Dorella Kreeg PDF](./NPC-Monsters-Statblocks/dorella_kreeg.pdf)
 
     ![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
 
   - **Encounter Notes:**
+    - adjustment for level 9 - add 1x Ogre Boss*
     - B29 and B30 are likely to run together and become a severe to extreme threat.
 
 - **Loot:** Boots of Elvenkind, Love letters, nymph hair, silver locket in a jewelry box worth a total of 32 gp
 - **Loot:** (Dorella) Greater Mistform Elixir, 
 - **Loot:** (Ogre Boss) +1 Ogre Hook
 
-### B31. Tribunal (XP 30/20, trivial threat)
+### B31. Tribunal (XP 30, trivial threat)
 
   - **Creatures:**
     - 2x Ogre Warriors*
+    - adjustment for level 9 - add 1x Ogre Warrior*
 
 ### B32. Map Room
 
   - **Loot:** Map of Riddleport (5 gp), Map of Viperwall (42 gp), Map of Lurkwood (74 gp) 
 
-### B36. Lucrecia's Retreat (XP 120/80, severe/moderate threat)
+### B36. Lucrecia's Retreat (XP 120, severe threat)
 
   - **Creatures:**
     - [Lucrecia PDF](./NPC-Monsters-Statblocks/Lucrecia.pdf)
 
-  ![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
+    ![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
+    - adjustment for level 9 - apply the Elite template (or add minions)
     - note the threat level may rise due to unexpected assistance...
 
   - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
-### B37. Lizard Warrens (XP 120/80, moderate/low threat)
+### B37. Lizard Warrens (XP 80, moderate threat)
 
   - **Creatures:** 
-    - 12x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
+    - 8x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
+    - adjustment for level 9 - add 4x Shocker Lizards
 
 ### Liberating Fort Rannick (XP 120)
 
@@ -377,7 +394,7 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Black Magga PDF](./NPC-Monsters-Statblocks/black_magga.pdf)
 
-  ![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
+    ![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
 
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
@@ -411,7 +428,8 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
 
-![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
+    ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
+
   - **Encounter Notes:**   
     - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
     - He is likely to have partial cover for most of this encounter.
@@ -423,7 +441,7 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
 
-  ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
+    ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
 
 ### C16. Infernal Engines (XP 60)
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
