@@ -164,7 +164,7 @@ Encounters include scaling for level 8 parties.
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
-  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, Spell Book worth 105 gp, Material Component Pouch worth 5 sp
+  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability, gold holy symbol of Lamashtu, Spell Book worth 105 gp, Material Component Pouch worth 5 sp
 
 ### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
