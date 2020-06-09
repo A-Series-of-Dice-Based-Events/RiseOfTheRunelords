@@ -24,9 +24,7 @@ Part | Title | XP
     - Increase Rukus to Level 9
     - Increase Grazuul to level 11
     - Increase Skull Ripper to level 10
-    - add a Haunted Heart encounter
-    - review Lucrecia encounter for minions
-    - review Lorgus Fenker encounter for minions
+    - Add a Haunted Heart encounter
   - Treasure allocation - review and confirm treasure, then final clean up.
 
 ### Party Level and Target Allocation of Treasure
@@ -285,12 +283,13 @@ The other unique ogres are covered individually below.
   - **Hazards:**
     - [Collapsing Bridge - treat as Treacherous Scree](https://2e.aonprd.com/Hazards.aspx?ID=36). 
     
-### B15 Crypt (XP 30, trivial threat)
+### B15 Crypt (XP 45, trivial threat)
 
   - **Creatures:**
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
+    - Ogre Warrior* Thrall
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
-    - adjustment for level 9 - add the Elite adjustment
+    - adjustment for level 9 - add a second Ogre Warrior* Thrall
 
     - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
     
@@ -365,8 +364,8 @@ The other unique ogres are covered individually below.
     ![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
-    - adjustment for level 9 - apply the Elite template (or add minions)
-    - note the threat level may rise due to unexpected assistance...
+    - adjustment for level 9 - add 2 [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
+    - note the threat level may also rise slightly due to unexpected assistance...
 
   - **Loot:** Candle of Truth, Standard Potion of Flying, Sihedron Medalion, Taste of Paradise (+2 Striking Returning dagger), Rings, Pearls, and other Jewelry worth 53 GP, Scroll Sihedron Sacrifices
 
