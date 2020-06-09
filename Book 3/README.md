@@ -22,8 +22,6 @@ Part | Title | XP
 ### TO DO
   - Review book XP and standardise.
     - Increase Rukus to Level 9
-    - Increase Grazuul to level 11
-    - Increase Skull Ripper to level 10
     - Add a Haunted Heart encounter
   - Treasure allocation - review and confirm treasure, then final clean up.
 
@@ -47,7 +45,7 @@ Notes about treasure allocation.
 
 This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
 
-Wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 17,700 GP in value (4000 gp + 5700 gp + 8000 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2 9th level and 2 8th level for Level 8), and lower level items were included as well for flavor. 
+The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 17,700 GP in value (4000 gp + 5700 gp + 8000 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 9th level and 2x 8th level for Level 8), and lower level items were included as well for flavor. 
 
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items). 
 
@@ -57,13 +55,13 @@ Spellbooks were valued at 50% of the cost of "learn a spell" for the highest lev
 
 Sihedron Runes were valued at 500 gp (essentially equivelant to a 2nd level wand). 
 
-GP value of currency items was scaled down to take into account a) the treasure guidelines and the fact that gold in PF2E is higher than in PF1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was oringally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
+GP value of currency items was scaled down to take into account a) the treasure guidelines and the fact that gold in PF2E is higher than in PF1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
 
 Treasure was provided for a party of 4. If you include additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
 
-### General Notes and Advice
+### General Encounter Advice
 
-Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate to suit the capabilities of your party. 
+Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. 
 If they are finding it hard going then liberally apply weak templates. 
 If they are breezing through then liberally apply elite templates. 
 
@@ -422,15 +420,16 @@ The other unique ogres are covered individually below.
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
   - **Loot:** Hat of Disguise, Greater Hat of the Magi, Serum of Sex Shift, Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk and a Scroll of Illusory Scene, 82 gp, 285 sp, 450 cp, pearls (80 gp) 
 
-### C6. Ogre Demolition Crew (XP 70, moderate threat with severe terrain)
+### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
 
   - **Creatures:**
     - 1x Ogre Boss*
     - 4x Ogre Warriors*
-  - **Encounter Notes:**
-    - The terrain makes this low threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
-### C7. Battlefield (XP 80, moderate threat)
+  - **Encounter Notes:**
+    - The terrain makes this moderate threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
+
+### C7. Battlefield (XP 60, moderate threat)
 
   - **Creatures:**
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
@@ -438,9 +437,11 @@ The other unique ogres are covered individually below.
 ### C9.
   - ** Loot:** Cracked (50 gp), Gold Comb (115 gp)
 
-### C13. Observation Deck (XP 80, moderate threat)
+### C13. Observation Deck (XP 120, severe threat including terrain advantage)
 
   - **Creatures:**
+    - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Skulltaker Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) are here paying tribute to Papi Grazuul, praying either side of the mound of skulls.
+
     - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
 
     ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
@@ -451,7 +452,7 @@ The other unique ogres are covered individually below.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
   - **Loot:** +1 Returning Trident
 
-### C15. Floodgate Controls (XP 40, trivial threat)
+### C15. Floodgate Controls (XP 60, low threat)
 
   - **Creatures:**
     - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
