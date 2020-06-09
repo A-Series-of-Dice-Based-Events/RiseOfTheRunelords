@@ -455,9 +455,9 @@ The other unique ogres are covered individually below.
 ### C15. Floodgate Controls (XP 60, low threat)
 
   - **Creatures:**
-    - [Skull Ripper PDF](./NPC-Monsters-Statblocks/skull_ripper.pdf)
+    - [Skull Ripper PDF](./NPC-Monsters-Statblocks/SkullRipper.pdf)
 
-    ![Skull Ripper](./NPC-Monsters-Statblocks/skull_ripper.png)
+    ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
 
 ### C16. Infernal Engines (XP 60)
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
