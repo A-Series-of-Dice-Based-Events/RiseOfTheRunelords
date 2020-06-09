@@ -12,16 +12,19 @@
   
 Part | Title | XP | Target XP
 -----|-------|----|----
-0 | Turtleback Ferry     | 150      | -
-1 | In The Hook's Shadow | 750      | 800
-2 | Retaking Rannick     | 1060/750 | 1200 and eliminate level differneces
-3 | Down Comes the Rain  | 590      | 600
+0 | Turtleback Ferry     | 150      | 150
+1 | In The Hook's Shadow | 870      | 900
+2 | Retaking Rannick     | 1060/750 | 1100 and eliminate level differences
+3 | Down Comes the Rain  | 600      | 650
 4 | The Haunted Heart    | 90       | 150
 5 | Harrowing the Hook   | 470      | 500
 
 ### TO DO
-  - Increase book XP to over 3000.
+  - Increase book XP to over 3000 and standardise.
     - Increase Rukus to Level 9
+    - Increase Grazuul to level 11
+    - Increase Skull Ripper to level 10
+    - add adjustment to all fort rannick encounters for level 9 party to standardise XP
   - Treasure allocation - review and confirm treasure, then final clean up.
 
 ### Party Level and Target Allocation of Treasure
@@ -69,7 +72,7 @@ These investigations and encounters could happen at any point during the book.
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
 
 
-## Part 1: In The Hook's Shadow (XP 760, Party Level 7/8)
+## Part 1: In The Hook's Shadow (XP 870, Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
@@ -120,7 +123,7 @@ Encounters include scaling for level 8 parties.
 ### A5. Playpen (XP 60, low threat)
   - **Creatures:** 
     - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
-    - Level 8 adjustment: apply the Elite template
+    - Level 8 adjustment: either apply the Elite template OR add a third ogrekin fighter
 
   ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
 
@@ -152,22 +155,21 @@ Encounters include scaling for level 8 parties.
 ### A10. Attic
   - **Loot:** none
 
-### A12. Hucker's Lair (XP 90, moderate threat)
+### A12. Hucker's Lair (XP 100, moderate threat)
   - **Creatures:** 
-    - 2x [Weak : -15HP, -2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=791): medium sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
-    - Note in PF1 these were scaled up Dire Rats. In PF2 they are scaled down Dire Wolves.
+    - 2x **medium** sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - [Hucker Graul PDF](./NPC-Monsters-Statblocks/HuckerGraul.pdf)
 
 ![Hucker Graul PNG](./NPC-Monsters-Statblocks/HuckerGraul.png)
-  - **Encounter Notes:**
-    - Party level 7: Hucker is a moderate challenge by himself. The Donkey Rats should be a level 2 distraction as above with the weak template.
-    - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
-  - **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
 
-### A14. Tendriculous Lair (XP 40, trivial threat)
+    - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) to the Donkey Rats. 
+
+- **Loot:** Grasping Snare, Bomb Snare, Biting Snare, Tin of Noses worth 3 gp, Various Coins worth 62 gp, +1 Striking Ogre Hook, Caltrops
+
+### A14. Tendriculous Lair (XP 60, low threat)
 
   - **Creatures:** 
-    - [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+    - Muck Graul [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Tendriculos](https://2e.aonprd.com/Monsters.aspx?ID=823)
 
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
@@ -208,7 +210,7 @@ Encounters include scaling for level 8 parties.
   - if the PCs expose the traitor in any part of this book then award 30xp
 
 
-## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9)
+## Part 2: Retaking Rannick (XP 1060/750, Party Level 8-9) - XP to be standardised 
 
 Note these are mostly lower threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
@@ -342,7 +344,7 @@ The other unique ogres are covered individually below.
   - for succesfully liberating Fort Rannick from ogre control award 120xp.
 
 
-## Part 3: Down Comes the Rain (XP 590, Party Level 9)
+## Part 3: Down Comes the Rain (XP 600, Party Level 9)
 
 ### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
   - **Creatures:** 
@@ -362,7 +364,7 @@ The other unique ogres are covered individually below.
      - XP is awarded for the bravery of enagaging with Black Magga and defending the church / driving her off
      - This improves the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
 
-### C4. Gorger and Chaw’s Lair (XP 40, trivial threat, terrain makes it more challenging)
+### C4. Gorger and Chaw’s Lair (XP 50, trivial threat, terrain makes it more challenging)
 
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
@@ -376,7 +378,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - The terrain makes this low threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
-### C7. Battlefield (XP 60, low to moderate threat)
+### C7. Battlefield (XP 80, moderate threat)
 
   - **Creatures:**
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
