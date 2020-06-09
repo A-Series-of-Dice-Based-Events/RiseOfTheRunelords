@@ -31,7 +31,6 @@ Part | Title | XP
 
 Level | Total gp | Permanent Items         | Consumables                        | Cash    | Part
 ------|----------|-------------------------|------------------------------------|---------|-----
-  7   | 2,900gp  | **8th:** 2 **7th:** 2   | **8th:** 2 **7th:** 2 **6th:** 2   |   720gp | At start
   8   | 4,000gp  | **9th:** 2 **8th:** 2   | **9th:** 2 **8th:** 2 **7th:** 2   | 1,000gp | 1
   9   | 5,700gp  | **10th:** 2 **9th:** 2  | **10th:** 2 **9th:** 2 **8th:** 2	| 1,400gp | 2
   10  | 8,000gp  | **11th:** 2 **10th:** 2 | **11th:** 2 **10th:** 2 **9th:** 2 | 2,000gp | 3  
@@ -158,7 +157,7 @@ Encounters include scaling for level 8 parties.
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
-  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability [P9], gold holy symbol of Lamashtu, Spell Book worth 105 gp, Material Component Pouch worth 5 sp
+  - **Loot:** Lesser Healing Potion, Wand of Globe of Invulnerability [P9], gold holy symbol of Lamashtu, Spellbook worth 105 gp, Material Component Pouch worth 5 sp
 
 ### A9. Bedroom (XP 10, trivial threat)
   - **Hazards:**
@@ -416,6 +415,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
+
   - **Loot:** Hat of Disguise [P2], Greater Hat of the Magi [P9], Serum of Sex Shift [C7], Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk [C9] and a Scroll of Illusory Scene [C9], 82 gp, 285 sp, 450 cp, pearls (80 gp) 
 
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
@@ -433,7 +433,8 @@ The other unique ogres are covered individually below.
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
     
 ### C9.
-  - ** Loot:** Cracked (50 gp), Gold Comb (115 gp)
+
+  - **Loot:** Cracked Emerald (50 gp), Gold Comb (115 gp)
 
 ### C13. Observation Deck (XP 120, severe threat including terrain advantage)
 
@@ -448,7 +449,8 @@ The other unique ogres are covered individually below.
     - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
     - He is likely to have partial cover for most of this encounter.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
-  - **Loot:** +1 Returning Trident
+
+  - **Loot:** +1 Returning Trident [P3]
 
 ### C15. Floodgate Controls (XP 60, low threat)
 
@@ -458,6 +460,7 @@ The other unique ogres are covered individually below.
     ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
 
 ### C16. Infernal Engines (XP 60)
+
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
   - Infernal Engine: [Curse, Death]
@@ -467,15 +470,16 @@ The other unique ogres are covered individually below.
 
 ## Part 4: The Haunted Heart (XP 90, Party Level 9/10)
 
-### A Desperate Plea (XP 30 story reward for following Yap or following concerns over the commander)
+### A Desperate Plea (XP 30 story reward for following Yap or following up concerns over the commander)
 
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
+
 	- **Loot:** Yap will provide two doses of Dust of Disappearance [C9]. 
 
 ### Mysterious Derelict
 
-	- **Loot:** Musical Score worth 300 GP
+  - **Loot:** Musical Score worth 300 GP
 
 ### Heart of Sadness (XP 60 for permanently laying her to rest)
 
@@ -537,7 +541,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**  
     - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
 
-  - **Loot:** Explorer's Hut
+  - **Loot:** Explorer's Hut [P?]
 
 ### D8 Abandoned Shrine (40xp, trivial threat)
 
@@ -545,7 +549,7 @@ The other unique ogres are covered individually below.
     - Either use the standard Grave Knight which is closer to the 1E Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
-  - **Loot:** +2 Resilient Full Plate [P8], Greater Clandestine Cloak
+  - **Loot:** +2 Resilient Full Plate [P8], Greater Clandestine Cloak [P10]
 
 ### D9 As the Dread Kings of Old (120xp, severe threat, +80xp story award)
 
@@ -558,7 +562,7 @@ The other unique ogres are covered individually below.
   
   - **Loot:** 29 pp, 222 gp, 483 sp, 1369 cp, Mummified Bat Talisman [C10], Greater Bestial Mutagen [C11], Greater Cognitive Mutagen [C11], Greater Antiplague Elixir [C10]
    
-  - **Loot:** (Barl) Sihedron Medallion [P5], +2 Resilient Armor [P8], Spellbook (all memorised spells and all ), Black Onyx Gems (60 gp), +1 Ogre Hook
+  - **Loot:** (Barl) Sihedron Medallion [P5], +2 Resilient Armor [P8], Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp, Black Onyx Gems (60 gp), +1 Ogre Hook
 
   - **XP** Returning the black arrows equipment gains an additional 80xp story award 
 
