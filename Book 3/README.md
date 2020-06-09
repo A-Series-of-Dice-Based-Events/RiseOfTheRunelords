@@ -46,13 +46,21 @@ Level | Total gp | Permanent Items         | Consumables                        
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
 Notes about treasure allocation. 
+
 This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
+
 Wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 17,700 GP in value (4000 gp + 5700 gp + 8000 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2 9th level and 2 8th level for Level 8), and lower level items were included as well for flavor. 
+
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items). 
+
 Currency is lower than that the guidelines, due to the cost of the permanent and consumable items. 
+
 Spellbooks were valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC. 
+
 Sihedron Runes were valued at 500 gp (essentially equivelant to a 2nd level wand). 
+
 GP value of currency items was scaled down to take into account a) the treasure guidelines and the fact that gold in PF2E is higher than in PF1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was oringally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
+
 Treasure was provided for a party of 4. If you include additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
 
 ### General Notes and Advice
