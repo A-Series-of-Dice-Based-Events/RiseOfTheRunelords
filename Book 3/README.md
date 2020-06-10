@@ -2,13 +2,13 @@
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
-- This conversion guide only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
-- The plot, back story, color text, maps, floor plans, images and tactics requires the original scenario.
-- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
+- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
+- The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
+- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
 - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
-### Index
+### Index and XP distribution
   
 Part | Title | XP 
 -----|-------|----
@@ -18,6 +18,8 @@ Part | Title | XP
 3 | Down Comes the Rain  | 640
 4 | The Haunted Heart    | 90
 5 | Harrowing the Hook   | 510
+
+- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ### TO DO
   - Final review and clean up.
@@ -47,26 +49,27 @@ It's assumed that even though NPCs may use consumable items in their possession,
 
 Currency is lower than that the guidelines, due to the cost of the permanent and consumable items. 
 
-Spellbooks were valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC. 
+Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC. 
 
 Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life). 
 
-GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is higher than in 1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
+GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth more than in 1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
 
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
 
 ### General Encounter Advice
 
 Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
-If they are finding it hard going then liberally apply weak templates.  
-If they are breezing through then liberally apply elite templates.  
+If they are finding it hard going then liberally apply weak templates or add minions.  
+If they are breezing through then liberally apply elite templates or remove minions. 
+Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 
 ## Part 0: Turtleback ferry (XP 150, Party Level 7)
 
 These investigations and encounters could happen at any point during the book.  
 
-### Paradise and Lucrecia (30xp story award)
+### Investigating The Paradise and Lucrecia (30xp story award)
 
   - Award 30 story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos.
 
@@ -77,8 +80,8 @@ These investigations and encounters could happen at any point during the book.
     - If the party are higher than level 7 when they investigate the paradise then apply the Elite or double Elite template accordingly
 
   - **Encounter Notes:**   
-    - The paradise sank near the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water will draw its hostile attention in a few minutes at most
-    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
+    - The paradise sank near the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
+    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interations
     - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
     - Turtle shell is a prized hull for local fishing boats
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
@@ -115,7 +118,7 @@ Encounters include scaling for level 8 parties.
 
     ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
   
-    - Level 8 adjustment: apply the Elite template
+    - Level 8 adjustment: apply the Elite template to Crowfood
 
   - **Loot:**
     - +1 striking ogre hook [P4]
@@ -127,11 +130,11 @@ Encounters include scaling for level 8 parties.
     - [Door Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
     - [Floor Saw - Scythe Blades](https://2e.aonprd.com/Hazards.aspx?ID=6)
 
-### A2. Family Room (XP 10, trivial threat)
+### A2. Family Room (XP 5, trivial threat)
   - **Hazards:**
     - [Pit Trap](https://2e.aonprd.com/Hazards.aspx?ID=1). Anyone falling in sets off the inbuilt [Spear Launcher](https://2e.aonprd.com/Hazards.aspx?ID=4)
 
-### A3. Dining Room (XP 10, trivial threat)
+### A3. Dining Room (XP 15, trivial threat)
   - **Hazards:**
     - 3x [Coiled rope single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6)
   
@@ -159,7 +162,7 @@ Encounters include scaling for level 8 parties.
 
   - **Encounter Notes:**   
     - Consider applying the weak template to Mammy if this encounter will be too strong for your PCs
-    - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
+    - Party Level 7: Mammy is a severe level threat by herself and the zombies should be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
   - **Loot:**
@@ -241,7 +244,7 @@ Encounters include scaling for level 8 parties.
 
 ### Ending the ogrekin menace (XP 80)
 
-  - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, or over half the total ogrekin)
+  - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, over half the total ogrekin, or similarly disrupting the threat)
 
 ### Exposing the traitor (XP 30)
 
