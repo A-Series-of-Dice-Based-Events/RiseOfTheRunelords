@@ -158,7 +158,7 @@ Encounters include scaling for level 8 parties.
     ![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
 
   - **Encounter Notes:**   
-    - Consider applying the weak template if this encounter will be too strong for your PCs
+    - Consider applying the weak template to Mammy if this encounter will be too strong for your PCs
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should just be level 2 distractions as above
     - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
@@ -325,7 +325,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
-    - Ogre Warrior* Thrall
+    - Ogre Warrior* Thrall under control of Lorgus
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
     - adjustment for level 9 - add a second Ogre Warrior* Thrall
 
@@ -579,7 +579,6 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Annis Hags](https://2e.aonprd.com/Monsters.aspx?ID=256)
 
-  - **Encounter Notes:**  
     - The [Coven](https://2e.aonprd.com/MonsterAbilities.aspx?ID=11) ability gives these 3 hags the Elite template and several other abilities that you need to be aware of.
 
   - **Loot:** [Explorer's Yurt](https://2e.aonprd.com/Equipment.aspx?ID=365) [P10]
@@ -596,9 +595,9 @@ The other unique ogres are covered individually below.
 
 ### D9 As the Dread Kings of Old (120xp, severe threat, +80xp story award)
 
-  - **Creatures:**
-    - 3x [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
-
+  - **Creatures:** 
+    - if Lucrecia has retreated here then just she and Barl are here together
+    - otherwise add up to 3x [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
 
     ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
