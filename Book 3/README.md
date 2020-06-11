@@ -13,12 +13,14 @@
 Part | Title | XP 
 -----|-------|----
 0 | Turtleback Ferry     | 150
-1 | In The Hook's Shadow | 900
+1 | In The Hook's Shadow | 850
 2 | Retaking Rannick     | 1050
-3 | Down Comes the Rain  | 640
+3 | Down Comes the Rain  | 610
 4 | The Haunted Heart    | 90
-5 | Harrowing the Hook   | 510
+5 | Harrowing the Hook   | 490
 
+- The encounters presented here assume medium advancement of 1000 XP per level, as that is the challenge level that the community contributions have been for.
+- However the original AP was designed for fast advancement. Therefore encounters are designed so that you can remove minions or apply weak templates to make them easier and follow fast advancement of 800 XP per level.
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ### TO DO
@@ -69,7 +71,7 @@ Usually it is more interesting to have several low to moderate threat creatures 
 
 These investigations and encounters could happen at any point during the book.  
 
-### Investigating The Paradise and Lucrecia (30xp story award)
+### Investigating the story of The Paradise and Lucrecia (30xp story award)
 
   - Award 30 story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos.
 
@@ -87,7 +89,7 @@ These investigations and encounters could happen at any point during the book.
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
 
 
-## Part 1: In The Hook's Shadow (XP 870, Party Level 7/8)
+## Part 1: In The Hook's Shadow (XP 850, Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
@@ -199,14 +201,14 @@ Encounters include scaling for level 8 parties.
     - 35 gp, 40 sp, 60 cp
 
 
-### A14. Tendriculous Lair (XP 60, low threat)
+### A14. Tendriculous Lair (XP 40, trivial threat)
 
   - **Creatures:** 
-    - Muck Graul [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Tendriculos](https://2e.aonprd.com/Monsters.aspx?ID=823)
+    - Muck Graul [Tendriculos](https://2e.aonprd.com/Monsters.aspx?ID=823)
 
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
-    - Party level 8: Apply the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
+    - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
 
   - **Loot:** none
 
@@ -403,13 +405,22 @@ The other unique ogres are covered individually below.
 ### B36. Lucrecia's Retreat (XP 120, severe threat)
 
   - **Creatures:**
+    - 2 [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
+      - adjustment for level 9 - add the Elite template to the Lamias
+      - if you want a less challenging encounter (in line with the 1E AP) then omit the Lamias
     - [Lucrecia PDF](./NPC-Monsters-Statblocks/Lucrecia.pdf)
 
     ![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
-    - adjustment for level 9 - add 2 [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
-    - note the threat level may also rise slightly due to unexpected assistance...
+    - be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower level PCs 
+    - the lamias will use deception and disguise as they see fit (and they have had lots of practice and enjoy doing it). Create or choose a deception that will resonate with your players or you feel you can roleplay well. Some examples:
+      - if Kaven is with the party they will weave him into the deception by using his name as they recognise him from The Paradise
+      - if they are aware of the parties approach the Lamias could be in human form posing as black arrows using the humanoid form and illusory disguise spells.
+        - They claim that any black arrows accompanying the party are either imposters or deserters (except Kaven) as best fits the circumstance.
+        - They say they are holed up in here as they were driven back by the ogres and they are grateful to be rescued. 
+      - They may all be playing a friendly gambling game and invite the PCs to join them. Lucrecia says she made a deal with the ogres that allows this secret black arrows gambling den to continue operating for a share of the profits.
+      - They could create a model of The Paradise barge using the illusory object spell and claim it is the real thing shrunk and threaten to smash it and kill the occupants.
 
   - **Loot:**
     - [Candle of Truth](https://2e.aonprd.com/Equipment.aspx?ID=240) [C8]
@@ -430,15 +441,15 @@ The other unique ogres are covered individually below.
   - for succesfully liberating Fort Rannick from ogre control award 120xp.
 
 
-## Part 3: Down Comes the Rain (XP 640, Party Level 9)
+## Part 3: Down Comes the Rain (XP 610, Party Level 9)
 
-### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
+### Saving the Schoolchildren (XP 30, trivial threat, +60xp story award)
   - **Creatures:** 
     - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
     - For saving the children award an additional 30xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
 
-### Black Magga Rises (XP 160, beyond extreme temporary threat)
+### Black Magga Rises (XP 80, beyond extreme temporary threat)
 
   - **Creatures:**
     - [Black Magga PDF](./NPC-Monsters-Statblocks/black_magga.pdf)
@@ -490,7 +501,7 @@ The other unique ogres are covered individually below.
     ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
 
   - **Encounter Notes:**   
-    - Grazuul is underwater when vistors arrive and he uses aquatic ambush to launch his attack
+    - Grazuul is underwater when visitors arrive and he uses aquatic ambush to launch his attack
     - He is likely to have partial cover for most of this encounter.
     - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
 
@@ -503,10 +514,11 @@ The other unique ogres are covered individually below.
 
     ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
 
-### C16. Infernal Engines (XP 60)
+### C16. Infernal Engines (XP 80/120)
 
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
   - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
+  - If they do so without killing a creature (other than Avaxial; and summons or evil creatures don't count) award an additonal 40XP
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored. 
     - Avaxial is currently drained 16 and sickened 16; and will say and do almost anything to end his suffering.
@@ -536,7 +548,7 @@ The other unique ogres are covered individually below.
     ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
 
 
-## Part 5: Harrowing the Hook (XP 510, Party Level 10)
+## Part 5: Harrowing the Hook (XP 490, Party Level 10)
 
   - Note that many of the encounters are lower threat, but with a very alert guard, several encounters will run together. The total XP of encounters in the clanhold is over 400 - which is a well beyond extreme encounter and a TPK - if the party dont find a way to break it into smaller chunks.
 
@@ -596,7 +608,7 @@ The other unique ogres are covered individually below.
     - +2 [Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) Full Plate [P11]
     - [Greater Clandestine Cloak](https://2e.aonprd.com/Equipment.aspx?ID=423) [P10]
 
-### D9 As the Dread Kings of Old (120xp, severe threat, +80xp story award)
+### D9 As the Dread Kings of Old (120xp, severe threat, +60xp story award)
 
   - **Creatures:** 
     - if Lucrecia has retreated here then just she and Barl are here together
@@ -618,6 +630,6 @@ The other unique ogres are covered individually below.
     - Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp
     - Black Onyx Gems (60 gp)
 
-  - **XP** Returning the black arrows equipment gains an additional 80xp story award 
+  - **XP** Returning the black arrows equipment gains an additional 60xp story award 
 
 # --- End of Hook Mountain Massacre 2E Conversion Guide ---
