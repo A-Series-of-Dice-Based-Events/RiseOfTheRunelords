@@ -10,21 +10,23 @@
 
 ### Index and XP distribution
   
-Part | Title | XP 
+Part | Title | Max XP 
 -----|-------|----
 0 | Turtleback Ferry     | 150
-1 | In The Hook's Shadow | 850
+1 | In The Hook's Shadow | 880
 2 | Retaking Rannick     | 1050
-3 | Down Comes the Rain  | 610
+3 | Down Comes the Rain  | 620
 4 | The Haunted Heart    | 90
 5 | Harrowing the Hook   | 490
 
-- The encounters presented here assume medium advancement of 1000 XP per level, as that is the challenge level that the community contributions have been for.
-- However the original AP was designed for fast advancement. Therefore encounters are designed so that you can remove minions or apply weak templates to make them easier and follow fast advancement of 800 XP per level.
+- The encounters presented here assume medium advancement of 1000 XP per level, as that is the challenge level that the community contributions have been for. 
+- XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at medium advancement. There is a small contingency added such that a few encounters can be missed and the levelling guidelines met. 
+- However the original AP was designed with a fast advancement assumption. Therefore the encounters herein are designed so that you can remove minions or apply weak templates to make them easier and follow fast advancement of 800 XP per level if preferred.
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ### TO DO
   - Final review and clean up.
+  - Match creature items and loot
 
 ### Party Level and Target Allocation of Treasure
 
@@ -49,15 +51,17 @@ The wealth to level chart was followed such that the treasure explicitly laid ou
 
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items). 
 
-Currency is lower than that the guidelines, due to the cost of the permanent and consumable items. 
+Currency is lower than the guidelines, due to the cost of the permanent and consumable items. 
 
-Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC. 
+Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC.
 
 Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life). 
 
-GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth more than in 1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
+GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth considerably more than in 1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
 
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
+
+Note there is no contingency in the treasure. If your players miss something early on in the adventure then add bonus items later on to balance it out.
 
 ### General Encounter Advice
 
@@ -73,7 +77,7 @@ These investigations and encounters could happen at any point during the book.
 
 ### Investigating the story of The Paradise and Lucrecia (30xp story award)
 
-  - Award 30 story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos.
+  - Award 30 story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos on the villagers.
 
 ### Wreck of the Paradise (XP 80, Moderate Threat, +40xp story award)
 
@@ -82,14 +86,14 @@ These investigations and encounters could happen at any point during the book.
     - If the party are higher than level 7 when they investigate the paradise then apply the Elite or double Elite template accordingly
 
   - **Encounter Notes:**   
-    - The paradise sank near the edge of the territory of a giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
+    - The paradise sank near the edge of the territory of a (locally infamous "old pinkeye") giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
     - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interations
     - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
     - Turtle shell is a prized hull for local fishing boats
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
 
 
-## Part 1: In The Hook's Shadow (XP 850, Party Level 7/8)
+## Part 1: In The Hook's Shadow (XP 880, Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
@@ -217,7 +221,7 @@ Encounters include scaling for level 8 parties.
   - **Loot:**
     - Gold Ring worth 10 gp, Emerald Necklace worth 65 gp, Ruby Inlaid Red Dragon Scale Clasp worth 110 gp
     - 41 gp, 53 sp, 130 cp
-    - weapons and equipment belonging to the Black Arrows. 
+    - weapons and equipment belonging to the Black Arrows (including Kaven's gear - see A17 below). 
 
 ### A16. Kennel (XP 90, moderate threat)
 
@@ -319,7 +323,7 @@ The other unique ogres are covered individually below.
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     
   - **Loot:** 
-    - 2 [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) [C9]
+    - 2 [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) [2x C9]
     - Various mundane weapons
 
 ### B14. Ravine (XP 10, trivial threat)
@@ -443,11 +447,11 @@ The other unique ogres are covered individually below.
 
 ## Part 3: Down Comes the Rain (XP 610, Party Level 9)
 
-### Saving the Schoolchildren (XP 30, trivial threat, +60xp story award)
+### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
   - **Creatures:** 
     - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
-    - For saving the children award an additional 30xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
+    - For saving the children award an additional 30xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for any social interation checks
 
 ### Black Magga Rises (XP 80, beyond extreme temporary threat)
 
@@ -459,7 +463,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
      - XP is awarded for the bravery of enagaging with Black Magga and defending the church / driving her off
-     - This improves the attitude of everyone in Turtleback Ferry towards them for the purposes of any social interation checks
+     - This improves the attitude of everyone in Turtleback Ferry towards them for any social interation checks
 
 ### C4. Gorger and Chaw’s Lair (XP 50, trivial threat, terrain makes it more challenging)
 
@@ -514,10 +518,10 @@ The other unique ogres are covered individually below.
 
     ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
 
-### C16. Infernal Engines (XP 80/120)
+### C16. Infernal Engines (XP 80-120)
 
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
-  - award XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
+  - award 80 XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
   - If they do so without killing a creature (other than Avaxial; and summons or evil creatures don't count) award an additonal 40XP
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored. 
@@ -531,7 +535,7 @@ The other unique ogres are covered individually below.
   - **Creatures:**
 	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 
-	- **Loot:** Yap will provide two doses of Dust of Disappearance [C9]. 
+	- **Loot:** Yap will provide two doses of Dust of Disappearance [2x C9]. 
 
 ### Mysterious Derelict
 
@@ -557,7 +561,7 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
   
-    ![razmus](./NPC-Monsters-Statblocks/razmus.png)
+    ![Razmus PNG](./NPC-Monsters-Statblocks/razmus.png)
 
     - The same XP is awarded for whatever way they deal with Razmus - whether he ends up as a temporary ally or they defeat him
 
