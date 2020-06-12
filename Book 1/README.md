@@ -423,9 +423,13 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - [Lyrie Akenja PDF](./NPC-Monsters-Statblocks/LyrieAkenja.pdf)  
 ![Lyrie Akenja PNG](./NPC-Monsters-Statblocks/LyrieAkenja.png)
 
-  - **Tactics**
-    - Replace the "During Combat" tactics with the following:
-      - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. As such, when she is forced into combat, she prefers her long range offensive abilities to stay beyond 50 foot range where practical, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. If she expects to be engaged in close range combat or to be targeted then she casts mirror image.
+  - **Tactics** - Replace the "During Combat" tactics with the following:
+    - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. As such, when she is forced into combat, she prefers her long range offensive abilities to stay beyond 50 foot range where practical, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. If she expects to be engaged in close range combat or to be targeted then she casts mirror image.
+
+  - **Loot:**
+    - Wand of Mage Armor (P3)
+    - Spellbook worth 18GP (6x second level spells)
+
 
 ## Thistletop Dungeon Level 2 (490xp, Assumed party level 3)
 
