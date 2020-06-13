@@ -446,27 +446,18 @@ Critical Failure: 4d8+12 Damage
 ### E4. Observation Deck (120xp, severe threat)
 
   - **Creatures:**
-    - [Nualia] 
     - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
+    - [Nualia PDF](./NPC-Monsters-Statblocks/Nualia.pdf) 
+    ![Nualia PNG](./NPC-Monsters-Statblocks/Nualia.png) 
 
-Nualia{Medium Human Cleric Fighter Dedication 5}
-Perception: +10; Languages: Common, Abyssal, Resonance: 9
-Skills: ; Athletics: +9 {+11}, Lamashtu Lore: +11
-Str: +4, Dex: +1, Con: +2, Int: 0, Wis: +4, Cha: +3,
-AC: 22, TAC: 19, Fort: +9, Ref: +7, Will: +11,
-HP: 84, Speed: 20{30}
-+1 Falchion: +10 {2d10+4} Forceful, Sweep
-Attack of Opportunity{RA}
-Channel Smite{2A}: By Expending 1 daily use of Channel Energy, make a Melee Strike, on a Success you add your channel energy dice for a Single Action Harm {3rd}
-Athletic Exploit{A, 1SP}: You do not suffer the check penalty or speed penalty from your armor until the start of your next turn.
-Sudden Shift{FA}: When a creature misses you with a melee strike, take a Step and must remain within reach.
-Spell Roll: +10, Spell DC: 20, Spell Points: 5, Domain Powers: Athletic Exploit, Sudden Shift
-Cantrips:
-1st:
-2nd:
-3rd:
-Feats: Natural Ambition{Ancestry}, General Training{Ancestry}, Armor Proficiency{General}, Expanded Domain{Cleric 1st}, Fighter Dedication{Cleric 2nd}, Channel Smite{Cleric 4th}, Opportunist{Cleric 6th}, Student of the Canon{Background}, Fleet{General},
-Items: +1 Falchion, Expert Splint Mail, Ghost Touch Rune, Bag of Holding Type 1, 2x Lesser Elixir of Life, 40gp
+  - **Tactics**
+    - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts See Invisibility, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
+    - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with either Channel Smite attacks or area Harm. She uses her Shield spell if she has an action free.
+    - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form as approprite to make good her escape.
+
+  - **Loot**
+    - Breastpalte, Composite Longbow
+    - Sihedron Medallion[P5], +1 Striking Falchion [P3], 
  
 ### E6. Crypt (120xp, severe threat)
 
