@@ -442,9 +442,9 @@ Critical Failure: 4d8+12 Damage
     ![Nualia PNG](./NPC-Monsters-Statblocks/Nualia.png) 
 
   - **Tactics**
-    - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts See Invisibility, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
-    - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with either Channel Smite attacks or area Harm. She uses her Shield spell if she has an action free.
-    - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form as approprite to make good her escape.
+    - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
+    - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with sweeping Falchion attacks and harm. She uses her Shield spell if she has an action free.
+    - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as approprite to make good her escape.
 
   - **Loot**
     - Breastplate, Composite Longbow
@@ -454,7 +454,7 @@ Critical Failure: 4d8+12 Damage
 
   - **Creatures:**
     - 2x weak [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
-    - Note that standard Shadows are a higher threat level than in 1E, so reduced numbers. 
+    - Note that standard Shadows are a much higher threat in 2E, so reduced numbers. 
 
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
