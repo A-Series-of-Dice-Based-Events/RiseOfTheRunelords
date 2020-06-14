@@ -1,5 +1,8 @@
-# Burnt Offerings lv1-4 - conversion guide for Pathfinder 2
-  - This is a conversion guide and as such only covers the items that have changed in PF2. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from PF1.
+# RotR Burnt Offerings lv1-4
+
+## Conversion Guide for Pathfinder second edition (2E)
+
+  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
   - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
   - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
@@ -60,7 +63,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
   - Apply the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template to creatures in later encounters if you need to reduce the difficulty for inexperienced or unlucky players.
-  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia.
+  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia. However, avoid taking agency away from the PCs.
 
 ### Goblin notes
 
@@ -174,18 +177,6 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - cash: 40gp 
     - items: 2xP1, 2xP2, 2xC2, 3xC1
 
-Item | Item Title                | Who/Where obtained
------|---------------------------|-------------------
-P1   |                           |
-P1   | Composite Shortbow        | Tsuto
-P2   | Handwraps of mighty Blows | Tsuto
-P2   |                         |
-C1   |                         |
-C1   |                         |
-C1   |                         |
-C2   |                         |
-C2   |                         |
-
 ## Part 3B. Catacombs of Wrath (500xp, Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
@@ -223,7 +214,7 @@ C2   |                         |
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
     - [Koruvus PDF](./NPC-Monsters-Statblocks/Koruvus.pdf)
-![Koruvus PNG](./NPC-Monsters-Statblocks/Koruvus.png)
+    ![Koruvus PNG](./NPC-Monsters-Statblocks/Koruvus.png)
 
   - **Loot:**
     - +1 weapon potency rune (P2)
@@ -253,7 +244,7 @@ C2   |                         |
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
     - [Erylium PDF](./NPC-Monsters-Statblocks/Erylium.pdf)
     
-![Erylium PNG](./NPC-Monsters-Statblocks/Erylium.png)
+    ![Erylium PNG](./NPC-Monsters-Statblocks/Erylium.png)
 
     - Note that to stay flying Erylium must use at least one fly move action per turn. 
     - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
@@ -269,10 +260,10 @@ C2   |                         |
   - Shalelu should have forwarned them and, for inexperienced players, consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
   - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
-### C4. Refugees Nest (150xp, extreme threat, plus 50xp for terrain)
+### C4. Refugees Nest (120xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - 10x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
 ### C5. Kennel (120xp, severe threat, plus 40xp for terrain)
 
@@ -456,14 +447,14 @@ Critical Failure: 4d8+12 Damage
     - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form as approprite to make good her escape.
 
   - **Loot**
-    - Breastpalte, Composite Longbow
+    - Breastplate, Composite Longbow
     - Sihedron Medallion[P5], +1 Striking Falchion [P3], 
  
-### E6. Crypt (120xp, severe threat)
+### E6. Crypt (80xp, moderate threat)
 
   - **Creatures:**
-    - 2x [Shadow](https://2e.aonprd.com/Monsters.aspx?ID=362)
-    - Note that Shadows are a higher threat level than in PF1, so reduce the numbers to 2 or even 1. 
+    - 2x weak [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
+    - Note that standard Shadows are a higher threat level than in 1E, so reduced numbers. 
 
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
@@ -497,4 +488,4 @@ Critical Failure: 4d8+12 Damage
     - TBD
     - 20gp.
 
-# --- End of Burnt Offerings ---
+# --- End of Burnt Offerings 2E conversion guide ---
