@@ -464,7 +464,7 @@ Critical Failure: 4d8+12 Damage
 
   - **Loot**
     - Breastplate, Composite Longbow
-    - Sihedron Medallion[P5], +1 Striking Falchion [P3], 
+    - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5], +1 Striking Falchion [P3], 
  
 ### E6. Crypt (80xp, moderate threat)
 
