@@ -1,4 +1,4 @@
-# Hook Mountain Massacre : level 7-10
+# RotR Hook Mountain Massacre : level 7-10
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
@@ -53,7 +53,7 @@ It's assumed that even though NPCs may use consumable items in their possession,
 
 Currency is lower than the guidelines, due to the cost of the permanent and consumable items. 
 
-Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells currently memorized by the NPC.
+Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells only, usually those currently memorized by the NPC.
 
 Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life). 
 
@@ -66,8 +66,8 @@ Note there is no contingency in the treasure. If your players miss something ear
 ### General Encounter Advice
 
 Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
-If they are finding it hard going then liberally apply weak templates or add minions.  
-If they are breezing through then liberally apply elite templates or remove minions. 
+If they are finding it hard going then liberally apply weak templates or remove minions.  
+If they are breezing through then liberally apply elite templates or add minions. 
 Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 
@@ -261,6 +261,8 @@ Encounters include scaling for level 8 parties.
 
 Note these are mostly lower threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
+If there are additional NPCs tagging along such as the rescued Black Arrows and/or Shelalu then you likely have more flexibility in managing threat levels, adding minions to balance and running low threat encounters together.
+
 ### Standard Ogre conversions (throughout rest of book 3):
 
 To make ogres XP relevant to both level 8 and level 9 parties the following replacement standard ogres are used in PF2
@@ -374,7 +376,7 @@ The other unique ogres are covered individually below.
     ![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
 
   - **Encounter Notes:**
-    - B29 and B30 are likely to run together and become a severe to extreme threat.
+    - B29 and B30 are likely to run together and become a severe to extreme threat. If they do then don't add any more reinforcements unless you are sure they can handle them. 
 
   - **Loot:** 
     - +2 Striking Ogre Hook [P10]
@@ -390,7 +392,7 @@ The other unique ogres are covered individually below.
 
   - **Encounter Notes:**
     - adjustment for level 9 - add 1x Ogre Boss*
-    - B29 and B30 are likely to run together and become a severe to extreme threat.
+    - B29 and B30 are likely to run together and become a severe to extreme threat. If they do then don't add any more reinforcements unless you are sure they can handle them.
 
 - **Loot:** [Boots of Elvenkind](https://2e.aonprd.com/Equipment.aspx?ID=413) [P5], Love letters, nymph hair, silver locket in a jewelry box
 - **Loot:** (Dorella) [Greater Mistform Elixir](https://2e.aonprd.com/Equipment.aspx?ID=96) [C10] 
@@ -440,7 +442,7 @@ The other unique ogres are covered individually below.
     - 8x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     - adjustment for level 9 - add 4x Shocker Lizards
 
-### Liberating Fort Rannick (XP 120)
+### Liberating Fort Rannick (XP 120 story award)
 
   - for succesfully liberating Fort Rannick from ogre control award 120xp.
 
@@ -505,9 +507,9 @@ The other unique ogres are covered individually below.
     ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
 
   - **Encounter Notes:**   
-    - Grazuul is underwater when visitors arrive and he uses aquatic ambush to launch his attack
+    - Grazuul is underwater when visitors arrive and he uses aquatic ambush to launch his attack and then makes a bestial roar that sounds a lot like "Grazuul"
     - He is likely to have partial cover for most of this encounter.
-    - Grazuul also has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
+    - Grazuul has terrain advantage which adds to the challenge level of this encounter (included in XP reward) 
 
   - **Loot:** +1 Returning Trident [P3]
 
@@ -525,7 +527,7 @@ The other unique ogres are covered individually below.
   - If they do so without killing a creature (other than Avaxial; and summons or evil creatures don't count) award an additonal 40XP
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored. 
-    - Avaxial is currently drained 16 and sickened 16; and will say and do almost anything to end his suffering.
+    - Avaxial is currently drained 16 and sickened 16, and has been for several decades, and will say and do almost anything to end his suffering.
 
 
 ## Part 4: The Haunted Heart (XP 90, Party Level 9/10)
