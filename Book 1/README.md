@@ -1,4 +1,4 @@
-# RotR Burnt Offerings lv1-4
+# RotR Burnt Offerings (Level 1-4)
 
 ## Conversion Guide for Pathfinder second edition (2E)
 
@@ -38,9 +38,12 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
 ### General TO DO
 
+  - Adjust XP upwards to 4000 XP as Book 2 requires party is almost at level 5
+  - Section completion story XP awards - may help above
   - DCs
   - Hazards
-  - PF2 Treasure by level allocation - replace old treasure with new level guidelines
+  - 2E Treasure by level allocation - replace old treasure with new level guidelines
+  - Create monster builder versions of Gogmurt and Animal companion
 
 ## Friendly NPC Roster (key stats only)
 
@@ -63,7 +66,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
   - Apply the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template to creatures in later encounters if you need to reduce the difficulty for inexperienced or unlucky players.
-  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia. However, avoid taking agency away from the PCs.
+  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia. However, avoid taking agency away from the PCs. An unexpected arrow that misses can be an effective distraction and show the chaos that is the goblin attack. 
 
 ### Goblin notes
 
