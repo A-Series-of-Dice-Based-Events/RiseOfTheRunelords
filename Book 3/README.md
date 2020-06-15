@@ -30,10 +30,13 @@ Part | Title | Max XP
 
 ### Party Level and Target Allocation of Treasure
 
-- Lvl 7: Party should be close to 8th level at start of the book 
-- Lvl 8: After first encounter with the Grauls
-- Lvl 9: Midway through Fort Rannick
-- Lvl 10: Near end of Skull's Crossing
+- Level 7: Party should be close to 8th level at start of the book 
+- Level 8: After first encounter with the Grauls
+- Level 9: Midway through Fort Rannick
+- Level 10: Near end of Skull's Crossing
+- Level 11: Party should be close to level 11 at the end of the book.
+
+Target for this book is therefore 3000 level adjusted XP
 
 Level | Total gp | Permanent Items         | Consumables                        | Cash    | Part
 ------|----------|-------------------------|------------------------------------|---------|-----
@@ -607,7 +610,10 @@ The other unique ogres are covered individually below.
 ### D8 Abandoned Shrine (40xp, trivial threat)
 
   - **Creatures:**
-    - Either use the standard Grave Knight which is closer to the 1E Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
+    - [Lamatar Bayden PDF](./NPC-Monsters-Statblocks/LamatarBayden.pdf)
+    ![Lamatar Bayden PNG](./NPC-Monsters-Statblocks/LamatarBayden.png)
+
+    - Alternatively use aa Grave Knight. The standard Grave Knight is closer to the 1E Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
     - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
   - **Loot:**

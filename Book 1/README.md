@@ -4,21 +4,25 @@
 
   - This conversion guide only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
-  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
-  - The associated monster builder PDF and PNG files are also in this sub directory and referenced by this document (their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked)
+  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## Party Level and Target Allocation of Treasure
-- Lvl 1: up to the Catacombs of Wrath 
-- Lvl 2: start Catacombs of Wrath (Pt3.5)
-- Lvl 3: start Thistletop (Part 4)
-- Lvl 4: conclusion of Thistletop (Part 4)
+
+- Level 1: up to the Catacombs of Wrath 
+- Level 2: start Catacombs of Wrath (Pt3.5)
+- Level 3: start Thistletop (Part 4)
+- Level 4: conclusion of Thistletop (Part 4)
+- Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). All level 4 treasure should be allocated in this book.
+
+Target for this book is therefore 4000 level adjusted XP. 
 
 Level | Total gp | Permanent Items (P)   | Consumables (C)                  | Cash  | Part
 ------|----------|-----------------------|----------------------------------|-------|-----
 Lv1   | 175gp    | **2nd:** 2 **1st:** 2 | **2nd:** 2 **1st:** 3            | 40gp  | 1 2
 Lv2   | 300gp    | **3rd:** 2 **2nd:** 2 | **3rd:** 2 **2nd:** 2 **1st:** 2 | 70gp  | End of 3
-Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2 | 120gp | 4
-Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | End of 4  
+Lv3   | 500gp    | **4th:** 2 **3rd:** 2 | **4th:** 2 **3rd:** 2 **2nd:** 2 | 120gp | During 4
+Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 200gp | During 4  
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
@@ -28,18 +32,18 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 -----|-------------------------|-----------------------|------------|-------|-----
 1    | Festival and Fire       | creatures and XP done | 360 / 360  | P- C- | 140sp
 2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
-3A   | Glassworks              | creatures and XP done | 460 / 1060 |       | 
-3B   | Catacombs               | creatures and XP done | 500 / 500  | |
-4A   | Thistletop Approach     | most creatures/XP done | 560 / 1060 | |
-4B   | Thistletop island top   | most creatures/XP done | 535 / 535  | |
-4C   | Thistletop level 1      | most creatures/XP done | 340 / 875  | |
-4D   | Thistletop level 2      | most creatures/XP done | 330 / 1205 | |
-4E   | Malfeshnekor (optional) | done                  | 160 / 1365 | none | none
+3A   | Glassworks              | creatures and XP done | 520 / 1120 |       | 
+3B   | Catacombs               | creatures and XP done | 560 / 1680  | |
+4A   | Thistletop Approach     | most creatures/XP done | 560 / 2240 | |
+4B   | Thistletop island top   | most creatures/XP done | 535 / 2775 | |
+4C   | Thistletop level 1      | most creatures/XP done | 340 / 3115 | |
+4D   | Thistletop level 2      | most creatures/XP done | 330 / 3445 | |
+4E   | Malfeshnekor (optional) | done                  | 160 / 3600 | none | none
 
 ### General TO DO
 
   - Adjust XP upwards to 4000 XP as Book 2 requires party is almost at level 5
-  - Section completion story XP awards - may help above
+  - Section completion story XP awards - will help above
   - DCs
   - Hazards
   - 2E Treasure by level allocation - replace old treasure with new level guidelines
@@ -106,7 +110,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
   - **Creatures:** 
     - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
-    - add 1 or 2 additional skeletons if you want to increase the impact of this standalone encounter. Add 20xp for each skeleton added.
+    - add additional skeletons if you want to increase the impact of this standalone encounter. Add 20xp for each skeleton added.
   - **Loot:** none
 
 ### The Shopkeepers Daughter (40-80xp, RP encounter)
@@ -172,6 +176,10 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 ### Interrogating Tsuto (0/60xp, RP encounter)
 
   - 60xp for finding a way of getting Tsuto to talk (if still alive)
+
+### Clearing the goblins from the Glassworks (60xp story award)
+
+  - for eliminating the goblin menace and discovering the secret tunnels, which can now be guarded, award 40xp. 
 
 ### End of Level 1 (XP, cash and items cross check)
 
@@ -256,6 +264,11 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - +1 weapon potency rune (P2)
     - returning rune (P3)
     - low grade cold iron dagger
+
+### Eliminating the Catacombs threat (60xp story award)
+
+  - for eliminitaing the threat the catacombs pose to Sandpoint, award 60xp
+
 
 ## Part 4A. Thistletop Approach (565xp, assumed party level 2)
 
