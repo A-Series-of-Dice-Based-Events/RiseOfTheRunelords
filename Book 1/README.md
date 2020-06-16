@@ -28,17 +28,17 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 ## Section status and rewards
 
-Part | Title                   | Status                |  XP/total  | Items | Cash
+Part | Title                   | Status                |  XP  | Items | Cash
 -----|-------------------------|-----------------------|------------|-------|-----
-1    | Festival and Fire       | creatures and XP done | 360 / 360  | P- C- | 140sp
-2    | Local Heroes            | creatures and XP done | 240 / 600  | P- C- | 100sp
-3A   | Glassworks              | creatures and XP done | 520 / 1120 |       | 
-3B   | Catacombs               | creatures and XP done | 560 / 1680  | |
-4A   | Thistletop Approach     | most creatures/XP done | 560 / 2240 | |
-4B   | Thistletop island top   | most creatures/XP done | 535 / 2775 | |
-4C   | Thistletop level 1      | most creatures/XP done | 340 / 3115 | |
-4D   | Thistletop level 2      | most creatures/XP done | 330 / 3445 | |
-4E   | Malfeshnekor (optional) | done                  | 160 / 3600 | none | none
+1    | Festival and Fire       | creatures and XP done | 350  | P- C- | 140sp
+2    | Local Heroes            | creatures and XP done | 250  | P- C- | 100sp
+3A   | Glassworks              | creatures and XP done | 400 / L2 |       | 
+3B   | Catacombs               | creatures and XP done | 500  | |
+4A   | Thistletop Approach     | most creatures/XP done | 520 / L3| |
+4B   | Thistletop island top   | creatures/XP done | 540  | |
+4C   | Thistletop level 1      | creatures/XP done | 340  | |
+4D   | Thistletop level 2      | creatures/XP done | 530  | |
+4E   | Malfeshnekor (optional) | done              | 160 / L4 | none | none
 
 ### General TO DO
 
@@ -65,7 +65,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
 
   - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with first edition stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
   
-## Part 1: Festival and Fire (320xp, Party Level 1)
+## Part 1: Festival and Fire (350xp, Party Level 1)
 
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
@@ -99,38 +99,40 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** none
 
-### Aftermath
+### Aftermath (30xp and hero point)
+  
+  - for helping drive off a goblin attack 30xp
 
   - **Loot:**
     - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth 35sp each = 140sp)
 
-## Part 2: Local Heroes (240xp, Party level 1)
+## Part 2: Local Heroes (260xp, Party level 1)
 
-### Desecrated Vault (40xp, trivial threat)
+### Desecrated Vault (80xp, moderate threat)
 
   - **Creatures:** 
-    - 2x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
-    - add additional skeletons if you want to increase the impact of this standalone encounter. Add 20xp for each skeleton added.
+    - 4x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
+    - should be one skeleton for each PC in the party.
   - **Loot:** none
 
-### The Shopkeepers Daughter (40-80xp, RP encounter)
+### The Shopkeepers Daughter (20-40xp, RP encounter)
 
   - **Creatures:** 
-    - [Vin Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), AC15, HP15; (>>)Power Attack fist +7: dmg 2d4+3, nonlethal 
-  - **XP:** - 40xp for beating him, 60xp for intimidate or deception, 80xp for Diplomacy without hurting his daughters feelings.
+    - [Ven Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), AC15, HP15; (>>)Power Attack fist +7: dmg 2d4+3, nonlethal 
+  - **XP:** - 20xp for beating him, 30xp for intimidate or deception, 40xp for Diplomacy without hurting his daughters feelings.
 
-### The Boar Hunt (60xp, low threat)
+### The Boar Hunt (80xp, moderate threat)
 
   - **Creatures:**
-    - 1x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52)
-    - [Aldern Foxglove - Noble](http://www.pf2.easytool.es/tree/index.php?id=5645&name=noble) use the noble from the GMG (Creatures N - NPC Courtiers - Noble)
-    - [Aldern's Servants](http://www.pf2.easytool.es/tree/index.php?id=5682&name=servant) use the servants from the GMG (Creatures N - NPC Laborers - Servant)
+    - 1x elite [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52). The boar is a particularly large example of the species.
+    - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG (Creatures N - NPC Courtiers - Noble)
+    - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG (Creatures N - NPC Laborers - Servant)
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
 
 ### Trouble at the Rusty Dragon (30-40xp, RP encounter)
 
-  - Conditional XP, 30xp for helping getting rid of Lonjiku, 40xp for doing so peacefully.
+  - 30xp for helping getting rid of Lonjiku, 40xp for doing so peacefully.
 
 ### Monster in the closet (40xp, trivial threat)
 
@@ -138,13 +140,14 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - 1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) has only an improvised dagger.
   - **Loot:** None
 
-## Part 3A: Glassworks (460xp, Party Level 1)
 
-### The Missing Bartender / Investigating the glassworks (20-60xp, RP encounter) 
+## Part 3A: Glassworks (410xp, Party Level 1)
+
+### The Missing Bartender / Investigating the glassworks (40xp, RP encounter) 
 
   - 20xp for following up on the missing bartender and investigating the glassworks
-  - 20xp for entering without breaking the door down
-  - 20xp for dispersing onlookers
+  - 10xp for entering without breaking the door down
+  - 10xp for dispersing onlookers
 
 ### Against the goblins part 1 (up to 160xp, extreme threat)
 
@@ -166,20 +169,21 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P1)
     - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58)
 
-### Rescuing Ameiko (60xp, RP encounter)
+### Rescuing Ameiko (30xp, RP encounter)
 
-  - 60xp for rescuing her.
+  - 30xp for rescuing her.
   - Ameiko is unconscious and will wake at GM discretion or with any healing
   - **Loot:**
     - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town). This is not included in the level based cash total.
 
-### Interrogating Tsuto (0/60xp, RP encounter)
+### Interrogating Tsuto (30xp, RP encounter)
 
-  - 60xp for finding a way of getting Tsuto to talk (if still alive)
+  - 30xp for recovering Tsuto's journal or finding a way of getting Tsuto to talk (if still alive)
 
-### Clearing the goblins from the Glassworks (60xp story award)
+### Clearing the goblins from the Glassworks (30xp story award and hero point)
 
-  - for eliminating the goblin menace and discovering the secret tunnels, which can now be guarded, award 40xp. 
+  - for eliminating the goblin menace and discovering the secret tunnels, which can now be guarded, award 30xp. 
+
 
 ### End of Level 1 (XP, cash and items cross check)
 
@@ -247,7 +251,7 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - Critical Failure: Clumsy 1 and Stupefied 1 for 1 day
     - Any failure gives visions of your worst mental character flaw or personal failure amplified and twisted to a horrific degree - and it feels like your body is being twisted into a dark mockery of your best physical features.
   - **Loot:**
-    - 4 doses of unholy water (not included in level based treasure as highly unlikely to have any utility, though may have some creative uses)
+    - 4 doses of unholy water (not included in level based treasure as unlikely to have any utility, though may have some creative uses)
 
 ### B13. Cathedral of Wrath (120xp, severe threat, plus 120xp for deactivating the runewell)
 
@@ -260,17 +264,19 @@ Part | Title                   | Status                |  XP/total  | Items | Ca
     - Note that to stay flying Erylium must use at least one fly move action per turn. 
     - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
 
+    - Runewell - while active this is an ongoing threat to Sandpoint
+
   - **Loot:**
     - +1 weapon potency rune (P2)
     - returning rune (P3)
     - low grade cold iron dagger
 
-### Eliminating the Catacombs threat (60xp story award)
+### Eliminating the Catacombs threat (30xp story award and hero point)
 
-  - for eliminitaing the threat the catacombs pose to Sandpoint, award 60xp
+  - for eliminating the threat the catacombs pose to Sandpoint, award 30xp
 
 
-## Part 4A. Thistletop Approach (565xp, assumed party level 2)
+## Part 4A. Thistletop Approach (520xp, assumed party level 2)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
   - Shalelu should have forwarned them and, for inexperienced players, consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
@@ -327,7 +333,8 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
   - **Loot:** None
 
-## Part 4B. Thistletop island top (545xp, assumed party level 3)
+
+## Part 4B. Thistletop island top (540xp, assumed party level 3)
 
   - Note if the party is not level 3 by this point the encounters are probably too hard.
 
@@ -384,7 +391,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - DC 16 Seek to find Iron Key to chest in C24.
     - DC ?? to find Silver Holy symbol of Lamashtu, ??sp
 
-### C24. Treasury (10xp Hazard)
+### C24. Treasury (5xp Hazard)
 
   - **Hazard:**    
     - [Rusty Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6) with only a single blade. If it hits target must save vs [Tetanus](https://2e.aonprd.com/Diseases.aspx?ID=3)  
@@ -438,7 +445,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
     - Spellbook worth 18GP (6x second level spells)
 
 
-## Thistletop Dungeon Level 2 (490xp, Assumed party level 3)
+## Thistletop Dungeon Level 2 (530xp, Assumed party level 3)
 
 ### E3. Trapped Hall Level 4 (10xp)
 
@@ -497,11 +504,8 @@ Critical Failure: 4d8+12 Damage
   - **Creatures:**
     - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
 
-### Returning to town (RP encounter and local reward)
+### Eliminating the Thistletop Menace (80xp major award and hero point)
 
-  - **XP:** explaining that the threat from Thistletop is stopped. 
-  - **Loot:**
-    - TBD
-    - 20gp.
+  - **XP:** A major story award for eliminating the menace posed by Thistletop. This is also a major RP opportunity. 
 
-# --- End of Burnt Offerings 2E conversion guide ---
+# --- End of RotR Burnt Offerings 2E conversion guide ---
