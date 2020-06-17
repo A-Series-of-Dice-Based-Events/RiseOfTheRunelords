@@ -4,10 +4,10 @@
 
   - This conversion guide only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
-  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
   - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
-## Party Level and Target Allocation of Treasure
+## Party Level 
 
 - Level 1: up to the Catacombs of Wrath 
 - Level 2: start Catacombs of Wrath (Pt3.5)
@@ -15,7 +15,22 @@
 - Level 4: conclusion of Thistletop (Part 4)
 - Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). All level 4 treasure should be allocated in this book.
 
-Target for this book is therefore 4000 level adjusted XP. 
+Using Fast Track Advancement, as per the original AP, the target for this book is therefore around 3,200 level adjusted XP. 
+
+## Section XP rewards
+
+Part | Title                   | Max XP 
+-----|-------------------------|-------
+1    | Festival and Fire       |  350  
+2    | Local Heroes            |  260 
+3A   | Glassworks              |  410  
+3B   | Catacombs               |  490 
+4A   | Thistletop Approach     |  500 
+4B   | Thistletop island top   |  540 
+4C   | Thistletop level 1      |  340 
+4D   | Thistletop level 2      |  530  
+
+## Target Allocation of Treasure
 
 Level | Total gp | Permanent Items (P)   | Consumables (C)                  | Cash  | Part
 ------|----------|-----------------------|----------------------------------|-------|-----
@@ -26,24 +41,9 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-## Section status and rewards
-
-Part | Title                   | Status                |  XP  | Items | Cash
------|-------------------------|-----------------------|------------|-------|-----
-1    | Festival and Fire       | creatures and XP done | 350  | P- C- | 140sp
-2    | Local Heroes            | creatures and XP done | 250  | P- C- | 100sp
-3A   | Glassworks              | creatures and XP done | 400 / L2 |       | 
-3B   | Catacombs               | creatures and XP done | 500  | |
-4A   | Thistletop Approach     | most creatures/XP done | 520 / L3| |
-4B   | Thistletop island top   | creatures/XP done | 540  | |
-4C   | Thistletop level 1      | creatures/XP done | 340  | |
-4D   | Thistletop level 2      | creatures/XP done | 530  | |
-4E   | Malfeshnekor (optional) | done              | 160 / L4 | none | none
+All level 1-4 items should be awarded in this book.
 
 ### General TO DO
-
-  - Adjust XP upwards to 4000 XP as Book 2 requires party is almost at level 5
-  - Section completion story XP awards - will help above
   - DCs
   - Hazards
   - 2E Treasure by level allocation - replace old treasure with new level guidelines
@@ -106,33 +106,34 @@ Part | Title                   | Status                |  XP  | Items | Cash
   - **Loot:**
     - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth 35sp each = 140sp)
 
+
 ## Part 2: Local Heroes (260xp, Party level 1)
 
 ### Desecrated Vault (80xp, moderate threat)
 
   - **Creatures:** 
     - 4x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
-    - should be one skeleton for each PC in the party.
+    - should be one skeleton for each PC in the investigating party.
   - **Loot:** none
 
 ### The Shopkeepers Daughter (20-40xp, RP encounter)
 
   - **Creatures:** 
     - [Ven Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), AC15, HP15; (>>)Power Attack fist +7: dmg 2d4+3, nonlethal 
-  - **XP:** - 20xp for beating him, 30xp for intimidate or deception, 40xp for Diplomacy without hurting his daughters feelings.
+  - **XP:** 20xp for beating him, 30xp for intimidate or deception, 40xp for Diplomacy without hurting his daughters feelings.
 
 ### The Boar Hunt (80xp, moderate threat)
 
   - **Creatures:**
     - 1x elite [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52). The boar is a particularly large example of the species.
-    - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG (Creatures N - NPC Courtiers - Noble)
-    - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG (Creatures N - NPC Laborers - Servant)
+    - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
+    - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
 
-### Trouble at the Rusty Dragon (30-40xp, RP encounter)
+### Trouble at the Rusty Dragon (10-20xp, RP encounter)
 
-  - 30xp for helping getting rid of Lonjiku, 40xp for doing so peacefully.
+  - 10xp for helping getting rid of Lonjiku, 20xp for doing so peacefully.
 
 ### Monster in the closet (40xp, trivial threat)
 
@@ -160,7 +161,7 @@ Part | Title                   | Status                |  XP  | Items | Cash
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
     - [Tsuto PDF](./NPC-Monsters-Statblocks/Tsuto.pdf)
-![Tsuto PNG](./NPC-Monsters-Statblocks/Tsuto.png)
+    ![Tsuto PNG](./NPC-Monsters-Statblocks/Tsuto.png)
 
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
@@ -192,7 +193,7 @@ Part | Title                   | Status                |  XP  | Items | Cash
     - cash: 40gp 
     - items: 2xP1, 2xP2, 2xC2, 3xC1
 
-## Part 3B. Catacombs of Wrath (500xp, Party Level 2) 
+## Part 3B. Catacombs of Wrath (490xp, Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
 
@@ -276,10 +277,10 @@ Part | Title                   | Status                |  XP  | Items | Cash
   - for eliminating the threat the catacombs pose to Sandpoint, award 30xp
 
 
-## Part 4A. Thistletop Approach (520xp, assumed party level 2)
+## Part 4A. Thistletop Approach (500xp, assumed party level 2)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
-  - Shalelu should have forwarned them and, for inexperienced players, consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
+  - Shalelu should have forwarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
   - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
 ### C4. Refugees Nest (120xp, severe threat, plus 40xp for terrain)
@@ -336,7 +337,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 
 ## Part 4B. Thistletop island top (540xp, assumed party level 3)
 
-  - Note if the party is not level 3 by this point the encounters are probably too hard.
+  - At some point during Thistletop the party will have enough XP to reach level 4. All the encounters assume the party is level 3. So if they do level up before completing Thistletop then consider adjusting the encounters by adding extra minions or using the elite template.
 
 ### C9. Rope Bridge (5xp Hazard)
 
@@ -380,7 +381,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 
   - **Creatures:**
     - [Chief Ripnugget PDF](./NPC-Monsters-Statblocks/ChiefRipnugget.pdf)  
-![Chief Ripnugget PNG](./NPC-Monsters-Statblocks/ChiefRipnugget.png)  
+    ![Chief Ripnugget PNG](./NPC-Monsters-Statblocks/ChiefRipnugget.png)  
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
@@ -410,13 +411,13 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Bruthazmus PDF](./NPC-Monsters-Statblocks/Bruthazmus.pdf)  
-![Bruthazmus PNG](./NPC-Monsters-Statblocks/Bruthazmus.png)
+    ![Bruthazmus PNG](./NPC-Monsters-Statblocks/Bruthazmus.png)
 
 ### D4b. Orik's Chambers (60xp, low threat)
 
   - **Creatures:**
     - [ Orik Vancaskerkin PDF](./NPC-Monsters-Statblocks/OrikVancaskerkin.pdf)  
-![ Orik Vancaskerkin PNG](./NPC-Monsters-Statblocks/OrikVancaskerkin.png)
+    ![ Orik Vancaskerkin PNG](./NPC-Monsters-Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
     - When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave.
 
@@ -424,7 +425,7 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 
   - **Creatures:**
     - 1x [Tentamort PDF](./NPC-Monsters-Statblocks/Tentamort.pdf)  
-![Tentamort PNG](./NPC-Monsters-Statblocks/Tentamort.png)
+    ![Tentamort PNG](./NPC-Monsters-Statblocks/Tentamort.png)
 
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
@@ -435,9 +436,9 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 
   - **Creatures:**
     - [Lyrie Akenja PDF](./NPC-Monsters-Statblocks/LyrieAkenja.pdf)  
-![Lyrie Akenja PNG](./NPC-Monsters-Statblocks/LyrieAkenja.png)
+    ![Lyrie Akenja PNG](./NPC-Monsters-Statblocks/LyrieAkenja.png)
 
-  - **Tactics** - Replace the "During Combat" tactics with the following:
+  - **Tactics** Replace the "During Combat" tactics with the following:
     - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
 
   - **Loot:**
@@ -483,7 +484,7 @@ Critical Failure: 4d8+12 Damage
 
   - **Creatures:**
     - [Giant Hermit Crab PDF](./NPC-Monsters-Statblocks/GiantHermitCrab.pdf)
-![Giant Hermit Crab PNG](./NPC-Monsters-Statblocks/GiantHermitCrab.png)
+    ![Giant Hermit Crab PNG](./NPC-Monsters-Statblocks/GiantHermitCrab.png)
 
   - **Loot:**
     - 1400sp
