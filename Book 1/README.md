@@ -15,7 +15,7 @@
 - Level 4: conclusion of Thistletop (Part 4)
 - Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). 
 
-Using Fast Track Advancement, as per the original AP, the target for this book is therefore around 3,200 level adjusted XP. 
+Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000+ level adjusted XP. There is around 10% more than this available in the book, to allow for optional encounters.
 
 ## Section XP rewards
 
