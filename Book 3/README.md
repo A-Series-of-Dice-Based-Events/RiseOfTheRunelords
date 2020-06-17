@@ -613,8 +613,8 @@ The other unique ogres are covered individually below.
     - [Lamatar Bayden PDF](./NPC-Monsters-Statblocks/LamatarBayden.pdf)
     ![Lamatar Bayden PNG](./NPC-Monsters-Statblocks/LamatarBayden.png)
 
-    - Alternatively use aa Grave Knight. The standard Grave Knight is closer to the 1E Lamatar or use the Betrayed Revivification Grave Knight which is closer to the backstory for Lamatar. 
-    - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
+    - Alternatively use a Grave Knight. The standard Grave Knight is closer to the 1E Lamatar and the Betrayed Revivification Grave Knight is closer to the backstory for Lamatar. 
+      - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
 
   - **Loot:**
     - +2 [Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) Full Plate [P11]
