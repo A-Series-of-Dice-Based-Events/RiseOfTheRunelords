@@ -13,7 +13,7 @@
 - Level 2: start Catacombs of Wrath (Pt3.5)
 - Level 3: start Thistletop (Part 4)
 - Level 4: conclusion of Thistletop (Part 4)
-- Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). All level 4 treasure should be allocated in this book.
+- Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). 
 
 Using Fast Track Advancement, as per the original AP, the target for this book is therefore around 3,200 level adjusted XP. 
 
@@ -41,7 +41,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-All level 1-4 items should be awarded in this book.
+All level 1-4 items and cash should be awarded in this book.
 
 ### General TO DO
   - DCs
@@ -453,8 +453,8 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 Stealth DC 23,
 Disable: Expert Crafting DC 17 or Trained Thievery DC 19
 Reflex DC 17
+Critical Success: No damage. Creature also takes a free Step Action in either direction and avoids being caught.
 Success: no Damage
-Critical Success: Same as Success but Creature also takes a free Step Action in either direction and avoids being caught.
 Failure: 2d8+6 Damage
 Critical Failure: 4d8+12 Damage
 
