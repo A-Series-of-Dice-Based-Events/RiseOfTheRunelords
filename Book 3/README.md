@@ -1,34 +1,23 @@
-# RotR Hook Mountain Massacre : level 7-10
+# RotR Hook Mountain Massacre (level 7-10)
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
-- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
+- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, XP, level based treasure, and occassionally tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- Unique creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
-### Index and XP distribution
-  
-Part | Title | Max XP 
------|-------|----
-0 | Turtleback Ferry     | 150
-1 | In The Hook's Shadow | 880
-2 | Retaking Rannick     | 1050
-3 | Down Comes the Rain  | 620
-4 | The Haunted Heart    | 90
-5 | Harrowing the Hook   | 490
-
-- The encounters presented here assume medium advancement of 1000 XP per level, as that is the challenge level that the community contributions have been for. 
-- XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at medium advancement. There is a small contingency added such that a few encounters can be missed and the levelling guidelines met. 
-- However the original AP was designed with a fast advancement assumption. Therefore the encounters herein are designed so that you can remove minions or apply weak templates to make them easier and follow fast advancement of 800 XP per level if preferred.
-- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
-
-### TO DO
+## TO DO
   - Final review and clean up.
   - Match creature items and loot
 
-### Party Level and Target Allocation of Treasure
+## General GM information
+
+  - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
+  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion. 
+
+## Party Levelling Milestones
 
 - Level 7: Party should be close to 8th level at start of the book 
 - Level 8: After first encounter with the Grauls
@@ -37,6 +26,23 @@ Part | Title | Max XP
 - Level 11: Party should be close to level 11 at the end of the book.
 
 Target for this book is therefore 3000 level adjusted XP
+
+## Section XP Rewards
+  
+Part | Title | Max XP 
+-----|-------|----
+0 | Turtleback Ferry     | 100
+1 | In The Hook's Shadow | 880
+2 | Retaking Rannick     | 970
+3 | Down Comes the Rain  | 600
+4 | The Haunted Heart    | 90
+5 | Harrowing the Hook   | 490
+
+- As per the original AP, the guide assumes fast advancement of 800 XP per level. 
+
+- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
+
+## Target Allocation of Treasure
 
 Level | Total gp | Permanent Items         | Consumables                        | Cash    | Part
 ------|----------|-------------------------|------------------------------------|---------|-----
@@ -74,15 +80,15 @@ If they are breezing through then liberally apply elite templates or add minions
 Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 
-## Part 0: Turtleback ferry (XP 150, Party Level 7)
+## Part 0: Turtleback ferry (XP 100, Party Level 7)
 
 These investigations and encounters could happen at any point during the book.  
 
-### Investigating the story of The Paradise and Lucrecia (30xp story award)
+### Investigating the story of The Paradise and Lucrecia (10xp story award)
 
-  - Award 30 story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos on the villagers.
+  - Award story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos on the villagers.
 
-### Wreck of the Paradise (XP 80, Moderate Threat, +40xp story award)
+### Wreck of the Paradise (XP 80, Moderate Threat, +10xp story award)
 
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
@@ -93,7 +99,7 @@ These investigations and encounters could happen at any point during the book.
     - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interations
     - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
     - Turtle shell is a prized hull for local fishing boats
-    - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 40xp
+    - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 10xp
 
 
 ## Part 1: In The Hook's Shadow (XP 880, Party Level 7/8)
@@ -207,7 +213,6 @@ Encounters include scaling for level 8 parties.
     - Tin of Noses, Caltrops
     - 35 gp, 40 sp, 60 cp
 
-
 ### A14. Tendriculous Lair (XP 40, trivial threat)
 
   - **Creatures:** 
@@ -260,7 +265,7 @@ Encounters include scaling for level 8 parties.
   - if the PCs expose the traitor in any part of this book then award 30xp
 
 
-## Part 2: Retaking Rannick (XP 1050, Party Level 8-9) 
+## Part 2: Retaking Rannick (XP 970, Party Level 8-9) 
 
 Note these are mostly lower threat individual encounters, but there is a high likelihood of two or more combining in this setting. Usually the most threatening thing they can do is yell for assistance. Also note large creatures hit very hard so crits are especially dangerous. Be wary of increasing their level. If you have an inexperienced or gung-ho players, or a sub-optimal PC mix, then scale back the use of elite templates. To up the challenge level you just need to make it more likely encounters will combine.
 
@@ -445,18 +450,18 @@ The other unique ogres are covered individually below.
     - 8x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     - adjustment for level 9 - add 4x Shocker Lizards
 
-### Liberating Fort Rannick (XP 120 story award)
+### Liberating Fort Rannick (XP 80 story award and hero point)
 
-  - for succesfully liberating Fort Rannick from ogre control award 120xp.
+  - for succesfully liberating Fort Rannick from ogre control award 80xp.
 
 
-## Part 3: Down Comes the Rain (XP 610, Party Level 9)
+## Part 3: Down Comes the Rain (XP 600, Party Level 9)
 
-### Saving the Schoolchildren (XP 30, trivial threat, +30xp story award)
+### Saving the Schoolchildren (XP 30, trivial threat, +10xp story award)
   - **Creatures:** 
     - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
-    - For saving the children award an additional 30xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for any social interation checks
+    - For saving the children award an additional 10xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for any social interation checks
 
 ### Black Magga Rises (XP 80, beyond extreme temporary threat)
 
@@ -523,10 +528,10 @@ The other unique ogres are covered individually below.
 
     ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
 
-### C16. Infernal Engines (XP 80-120)
+### C16. Infernal Engines (XP 80-120 plus hero point)
 
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
-  - award 80 XP for figuring out how to open the floodgates, regardless of their negotiations with Avaxial
+  - award 80 XP for figuring out how to open the floodgates  (and saving tens of thousands of lives) regardless of their negotiations with Avaxial
   - If they do so without killing a creature (other than Avaxial; and summons or evil creatures don't count) award an additonal 40XP
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored. 
@@ -642,6 +647,6 @@ The other unique ogres are covered individually below.
     - Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp
     - Black Onyx Gems (60 gp)
 
-  - **XP** Returning the black arrows equipment gains an additional 60xp story award 
+  - **XP** Returning the black arrows equipment gains an additional 60xp story award and hero point 
 
 # --- End of Hook Mountain Massacre 2E Conversion Guide ---

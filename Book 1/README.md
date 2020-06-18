@@ -2,12 +2,23 @@
 
 ## Conversion Guide for Pathfinder second edition (2E)
 
-  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, treasure, and occassionally tactics where they don't convert well from 1E.
+  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and occassionally tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
-  - Creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
+  - Unique creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
   - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
-## Party Level 
+## TO DO
+  - 2E Treasure by level allocation - replace old treasure with new level guidelines
+  - Create monster builder versions of Gogmurt and Animal companion
+
+## General GM information
+
+  - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
+  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion. 
+  - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with first edition stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
+
+## Party Levelling Milestones
 
 - Level 1: up to the Catacombs of Wrath 
 - Level 2: start Catacombs of Wrath (Pt3.5)
@@ -43,12 +54,6 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 All level 1-4 items should be awarded in this book.
 
-### General TO DO
-  - DCs
-  - Hazards
-  - 2E Treasure by level allocation - replace old treasure with new level guidelines
-  - Create monster builder versions of Gogmurt and Animal companion
-
 ## Friendly NPC Roster (key stats only)
 
   - [Sherriff Belor Hemlock](https://2e.aonprd.com/NPCs.aspx?ID=936) - If required use the Watch Officer from the GMG.
@@ -63,8 +68,7 @@ All level 1-4 items should be awarded in this book.
   - [Brodert Quink - Sage] - Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
   - townsfolk using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level [NPCs](https://2e.aonprd.com/NPCs.aspx) from the GMG
 
-  - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with first edition stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
-  
+ 
 ## Part 1: Festival and Fire (350xp, Party Level 1)
 
   - Part 1 shouldn't be brutal but rather fun and exciting. 
@@ -450,13 +454,14 @@ Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes,
 
 ### E3. Trapped Hall Level 4 (10xp)
 
-Stealth DC 23,
-Disable: Expert Crafting DC 17 or Trained Thievery DC 19
-Reflex DC 17
-Success: no Damage
-Critical Success: Same as Success but Creature also takes a free Step Action in either direction and avoids being caught.
-Failure: 2d8+6 Damage
-Critical Failure: 4d8+12 Damage
+  **Hazard:** 
+    - Stealth DC 23,
+    - Disable: Expert Crafting DC 17 or Trained Thievery DC 19
+    - Reflex DC 17
+    - Success: no Damage
+    - Critical Success: Same as Success but Creature also takes a free Step Action in either direction and avoids being caught.
+    - Failure: 2d8+6 Damage
+    - Critical Failure: 4d8+12 Damage
 
 ### E4. Observation Deck (120xp, severe threat)
 
