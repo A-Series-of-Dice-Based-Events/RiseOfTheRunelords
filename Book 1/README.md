@@ -24,9 +24,9 @@
 - Level 2: start Catacombs of Wrath (Pt3.5)
 - Level 3: start Thistletop (Part 4)
 - Level 4: conclusion of Thistletop (Part 4)
-- Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). All level 4 treasure should be allocated in this book.
+- Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). 
 
-Using Fast Track Advancement, as per the original AP, the target for this book is therefore around 3,200 level adjusted XP. 
+Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000+ level adjusted XP. There is around 10% more than this available in the book, to allow for optional encounters.
 
 ## Section XP rewards
 
@@ -52,7 +52,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-All level 1-4 items should be awarded in this book.
+All level 1-4 items and cash should be awarded in this book.
 
 ## Friendly NPC Roster (key stats only)
 
