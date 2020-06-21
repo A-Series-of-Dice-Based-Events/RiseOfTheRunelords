@@ -10,7 +10,6 @@
 
 ## TO DO
   - 2E Treasure by level allocation - replace old treasure with new level guidelines
-  - Create monster builder versions of Gogmurt and Animal companion
 
 ## General GM information
 
