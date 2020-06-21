@@ -301,24 +301,15 @@ All level 1-4 items and cash should be awarded in this book.
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (80xp, moderate threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - Gogmurt {Goblin Druid - see below}
+    - [Gogmurt PDF](./NPC-Monsters-Statblocks/Gogmurt.pdf)
+    ![Gogmurt PNG](./NPC-Monsters-Statblocks/Gogmurt.png)
     - [Tangletooth PDF](./NPC-Monsters-Statblocks/Tangletooth.pdf)
     ![Tangletooth PNG](./NPC-Monsters-Statblocks/Tangletooth.png)
 
-
-Gogmurt {Goblin Druid}
-Perception: +9; Languages: Common, Goblin
-Skills: +5; Athletics: +5, Crafting: +5, Nature: +10, Survival: +9, Thievery: +9
-Str: 0, Dex: +4, Con: +2, Int: 0, Wis: +4, Cha: 0,
-AC: 20, TAC: 17, Fort: +8, Ref: +9, Will: +10, Resistance: Fire 3
-HP: 56
-Weapon: Light Mace: +10 {1d4}
-Actions: Savage Slice: Must have made an attack with the previous action; Make another Strike against the same target with the same weapon, if it hits add an additional damage die
-Spell Roll: +9, DC: 19; Spell Points: 4
-Cantrips: Produce Flame{2A}, Tanglefoot{2A}, Guidance{2A}, Know Direction{2A};
- {1st} Burning Hands{2A}, Goblin Pox{2A}, Magic Fang{2A},
-{2nd}Barkskin{2A}, Entangle{2A}, Burning Hands{2A},
-Feats: Burn it{Ancestry}, Flame Heart{Ancestry}, Savage Slice{Druid}, Forager{Skill}, Natural Medicine{General}
+  - **Tactics:** Replace the before combat and during combat tactics as follows:
+    - Before Combat: If forewarned by Greeny or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities and to judge whether to use his shield. Then when ready Gogmurt casts Shillagh on his mace. He sends his leshy familiar Greeny to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
+    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind
+    - Gogmurt uses his feather step ability to make maximum use of the bushes for cover.
 
 ### C27. Bunyip Lair (60xp, low threat, plus 20xp terrain)
 
