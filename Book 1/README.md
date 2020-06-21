@@ -301,12 +301,12 @@ All level 1-4 items and cash should be awarded in this book.
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (80xp, moderate threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - Tangletooth {Use cat Stats from CRB pg. 215}
-    - Gogmurt {Goblin Druid/Rogue 5 - see below}
+    - Gogmurt {Goblin Druid - see below}
+    - [Tangletooth PDF](./NPC-Monsters-Statblocks/Tangletooth.pdf)
+    ![Tangletooth PNG](./NPC-Monsters-Statblocks/Tangletooth.png)
 
-### Gogmurt and Tangletooth
 
-Gogmurt {Goblin, Druid Archetype Rogue}
+Gogmurt {Goblin Druid}
 Perception: +9; Languages: Common, Goblin
 Skills: +5; Athletics: +5, Crafting: +5, Nature: +10, Survival: +9, Thievery: +9
 Str: 0, Dex: +4, Con: +2, Int: 0, Wis: +4, Cha: 0,
@@ -318,19 +318,7 @@ Spell Roll: +9, DC: 19; Spell Points: 4
 Cantrips: Produce Flame{2A}, Tanglefoot{2A}, Guidance{2A}, Know Direction{2A};
  {1st} Burning Hands{2A}, Goblin Pox{2A}, Magic Fang{2A},
 {2nd}Barkskin{2A}, Entangle{2A}, Burning Hands{2A},
-{3rd} Produce Flame, Wall of Thorns{3A}
-Feats: Burn it{Ancestry}, Flame Heart{Ancestry}, Savage Slice{Druid}, Rogue Dedication{Druid}, Forager{Skill}, Natural Medicine{General}
-Items: Expert Hide, Lesser Healing Potion, Holly Bush Feather Token pg571
-
-Tangletooth {Cat Animal Companion, Small}
-Perception: +7; Senses: Scent
-Skills: Stealth: +7
-HP: 34; Speed: 25
-Str: +2, Dex: +2, Con: 0, Int: -4, Wis: +2, Cha: -1
-Jaws{Finesse}: +7 {1d6+2 P}
-Claw{Agile}: +3 {1d4+2 S}
-Special: Deal 1d6 additional damage against a flatfooted foe
-Work Together {Action}: If Tangletooth threatens the target of Gogmurts Strikes, Gogmurts strikes make the target flatfooted until the end of his next turn.
+Feats: Burn it{Ancestry}, Flame Heart{Ancestry}, Savage Slice{Druid}, Forager{Skill}, Natural Medicine{General}
 
 ### C27. Bunyip Lair (60xp, low threat, plus 20xp terrain)
 
