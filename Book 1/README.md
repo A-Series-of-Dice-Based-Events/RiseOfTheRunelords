@@ -133,6 +133,7 @@ All level 1-4 items and cash should be awarded in this book.
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
+    - Aldern has a painting commissioned showing him and the heroes of Sandpoint in action against the goblins, which makes it look like he is part of tha party. He donates it to the Rusty Dragon to be hung in the lounge.
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
 
@@ -492,4 +493,4 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **XP:** A major story award for eliminating the menace posed by Thistletop. This is also a major RP opportunity. 
 
-# --- End of RotR Burnt Offerings 2E conversion guide ---
+## -- End of RotR Burnt Offerings 2E conversion guide --

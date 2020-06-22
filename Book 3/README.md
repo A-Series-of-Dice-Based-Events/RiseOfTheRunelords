@@ -649,4 +649,4 @@ The other unique ogres are covered individually below.
 
   - **XP** Returning the black arrows equipment gains an additional 60xp story award and hero point 
 
-# --- End of Hook Mountain Massacre 2E Conversion Guide ---
+## -- End of Hook Mountain Massacre 2E Conversion Guide --
