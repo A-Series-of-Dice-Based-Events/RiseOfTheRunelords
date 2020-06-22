@@ -5,7 +5,7 @@
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, XP, level based treasure, and occassionally tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- Unique creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- Unique or missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## TO DO
@@ -14,18 +14,19 @@
 
 ## General GM information
 
+  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
-  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion. 
-
+  - As all the contributors are GMs we occassionally add some minor feature or twist, that was not in the original, that we think complements the story. Consider these easter eggs.
+ 
 ## Party Levelling Milestones
 
-- Level 7: Party should be close to 8th level at start of the book 
+- Level 7: Party should be over half way to 8th level at start of the book 
 - Level 8: After first encounter with the Grauls
 - Level 9: Midway through Fort Rannick
 - Level 10: Near end of Skull's Crossing
 - Level 11: Party should be close to level 11 at the end of the book.
 
-Target for this book is therefore 3000 level adjusted XP
+Target for this book is therefore 2800 level adjusted XP
 
 ## Section XP Rewards
   
@@ -38,7 +39,7 @@ Part | Title | Max XP
 4 | The Haunted Heart    | 90
 5 | Harrowing the Hook   | 490
 
-- As per the original AP, the guide assumes fast advancement of 800 XP per level. 
+- As per the original AP, the guide assumes fast advancement of 800 XP per level.
 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
@@ -88,7 +89,7 @@ These investigations and encounters could happen at any point during the book.
 
   - Award story XP for following up on the story of the Paradise to get further information on Lucrecia and the Paradise, and for noticing the sihedron tattoos on the villagers.
 
-### Wreck of the Paradise (XP 80, Moderate Threat, +10xp story award)
+### Wreck of the Paradise (XP 80, Moderate Threat, +10xp story award, optional encounter)
 
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
@@ -112,14 +113,14 @@ Encounters include scaling for level 8 parties.
 
 ### The Strange Firepelt (XP 90, moderate threat)
  - **Creatures:** 
-    - [Kibb PDF](./NPC-Monsters-Statblocks/Kibb.pdf)  
-  ![Kibb PNG](./NPC-Monsters-Statblocks/Kibb.png)
+    - [Kibb PDF](./Statblocks/Kibb.pdf)  
+  ![Kibb PNG](./Statblocks/Kibb.png)
     - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses. 
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
-    - [Rukus Graul PDF](./NPC-Monsters-Statblocks/RukusGraul.pdf)  
+    - [Rukus Graul PDF](./Statblocks/RukusGraul.pdf)  
 
-      ![Rukus Graul PNG](./NPC-Monsters-Statblocks/RukusGraul.png)
+      ![Rukus Graul PNG](./Statblocks/RukusGraul.png)
   
     - Level 8 adjustment: apply the Elite template to Rukus
 
@@ -129,9 +130,9 @@ Encounters include scaling for level 8 parties.
 
 ### The Graul Farm (XP 80, moderate threat)
   - **Creatures:** 
-    - [Crowfood Graul PDF](./NPC-Monsters-Statblocks/CrowfoodGraul.pdf)  
+    - [Crowfood Graul PDF](./Statblocks/CrowfoodGraul.pdf)  
 
-    ![Crowfood Graul PNG](./NPC-Monsters-Statblocks/CrowfoodGraul.png)
+    ![Crowfood Graul PNG](./Statblocks/CrowfoodGraul.png)
   
     - Level 8 adjustment: apply the Elite template to Crowfood
 
@@ -159,10 +160,10 @@ Encounters include scaling for level 8 parties.
     
 ### A5. Playpen (XP 60, low threat)
   - **Creatures:** 
-    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
+    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
     - Level 8 adjustment: either apply the Elite template OR add a third ogrekin fighter
 
-    ![Ogrekin Fighter PNG](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
+    ![Ogrekin Fighter PNG](./Statblocks/OgrekinFighter.png)
 
 ### A6. Rukus's Room
   - **Loot:** Jade Ring worth 60 gp
@@ -171,9 +172,9 @@ Encounters include scaling for level 8 parties.
 
   - **Creatures:** 
     - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
-    - [Mammy Graul PDF](./NPC-Monsters-Statblocks/MammyGraul.pdf)
+    - [Mammy Graul PDF](./Statblocks/MammyGraul.pdf)
 
-    ![Mammy Graul PNG](./NPC-Monsters-Statblocks/MammyGraul.png)
+    ![Mammy Graul PNG](./Statblocks/MammyGraul.png)
 
   - **Encounter Notes:**   
     - Consider applying the weak template to Mammy if this encounter will be too strong for your PCs
@@ -199,9 +200,9 @@ Encounters include scaling for level 8 parties.
 ### A12. Hucker's Lair (XP 100, moderate threat)
   - **Creatures:** 
     - 2x **medium** sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
-    - [Hucker Graul PDF](./NPC-Monsters-Statblocks/HuckerGraul.pdf)
+    - [Hucker Graul PDF](./Statblocks/HuckerGraul.pdf)
 
-    ![Hucker Graul PNG](./NPC-Monsters-Statblocks/HuckerGraul.png)
+    ![Hucker Graul PNG](./Statblocks/HuckerGraul.png)
 
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) to the Donkey Rats. 
 
@@ -234,10 +235,10 @@ Encounters include scaling for level 8 parties.
 ### A16. Kennel (XP 90, moderate threat)
 
   - **Creatures:** 
-    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](./NPC-Monsters-Statblocks/ogrekin_fighter.pdf)
+    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
     - Party level 8: add an additional ogrekin fighter
 
-![Ogrekin Fighter](./NPC-Monsters-Statblocks/ogrekin_fighter.png)
+![Ogrekin Fighter](./Statblocks/OgrekinFighter.png)
 
   - **Loot:** Moonshine worth 3 gp to anyone who's into that kind of thing.
 
@@ -247,16 +248,16 @@ Encounters include scaling for level 8 parties.
     - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
 
   - **Captive Black Arrows:**
-    - [Jakardros Savark PDF](./NPC-Monsters-Statblocks/Jakardros.pdf)
-    - [Vale Temross PDF](./NPC-Monsters-Statblocks/ValeTemros.pdf) 
-    - [Kaven Windstrike PDF](./NPC-Monsters-Statblocks/KavenWindstrike.pdf)
+    - [Jakardros Savark PDF](./Statblocks/Jakardros.pdf)
+    - [Vale Temross PDF](./Statblocks/ValeTemros.pdf) 
+    - [Kaven Windstrike PDF](./Statblocks/KavenWindstrike.pdf)
 
   - **Loot:** (Kaven's gear from the haul in A15)
     - [Greater Coyote Cloak](https://2e.aonprd.com/Equipment.aspx?ID=426) [P9]
     - +1 Striking Rapier
     - +1 Dagger
 
-### Ending the ogrekin menace (XP 80)
+### Ending the ogrekin menace (XP 80 and hero point)
 
   - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, over half the total ogrekin, or similarly disrupting the threat)
 
@@ -282,9 +283,9 @@ Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319) 
 
 These adjusted creatures are simply referred to as Ogre Warrior* and Ogre Boss* throughout the rest of this book.
 
-  ![Ogre Warrior](./NPC-Monsters-Statblocks/OgreWarriorDoubleElite.png)  
+  ![Ogre Warrior](./Statblocks/OgreWarriorDoubleElite.png)  
 
-  ![Ogre Boss](./NPC-Monsters-Statblocks/OgreBossElite.png)  
+  ![Ogre Boss](./Statblocks/OgreBossElite.png)  
 
 The other unique ogres are covered individually below.
 
@@ -379,9 +380,9 @@ The other unique ogres are covered individually below.
 ### B29. Chapel (XP 80/60, moderate/low threat)
   
   - **Creatures:**
-    - [Jaagrath Kreeg PDF](./NPC-Monsters-Statblocks/jaagrath_kreeg.pdf)
+    - [Jaagrath Kreeg PDF](./Statblocks/JaagrathKreeg.pdf)
 
-    ![Jaagrath Kreeg](./NPC-Monsters-Statblocks/jaagrath_kreeg.png)
+    ![Jaagrath Kreeg](./Statblocks/JaagrathKreeg.png)
 
   - **Encounter Notes:**
     - B29 and B30 are likely to run together and become a severe to extreme threat. If they do then don't add any more reinforcements unless you are sure they can handle them. 
@@ -394,9 +395,9 @@ The other unique ogres are covered individually below.
 ### B30. Commanders Quarters (XP 80/90, moderate threat)
 
   - **Creatures:**
-    - [Dorella Kreeg PDF](./NPC-Monsters-Statblocks/dorella_kreeg.pdf)
+    - [Dorella Kreeg PDF](./Statblocks/DorellaKreeg.pdf)
 
-    ![Dorella Kreeg](./NPC-Monsters-Statblocks/dorella_kreeg.png)
+    ![Dorella Kreeg](./Statblocks/DorellaKreeg.png)
 
   - **Encounter Notes:**
     - adjustment for level 9 - add 1x Ogre Boss*
@@ -422,9 +423,9 @@ The other unique ogres are covered individually below.
     - 2 [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
       - adjustment for level 9 - add the Elite template to the Lamias
       - if you want a less challenging encounter (in line with the 1E AP) then omit the Lamias
-    - [Lucrecia PDF](./NPC-Monsters-Statblocks/Lucrecia.pdf)
+    - [Lucrecia PDF](./Statblocks/Lucrecia.pdf)
 
-    ![Lucrecia PNG](./NPC-Monsters-Statblocks/Lucrecia.png)
+    ![Lucrecia PNG](./Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
     - be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower level PCs 
@@ -466,9 +467,9 @@ The other unique ogres are covered individually below.
 ### Black Magga Rises (XP 80, beyond extreme temporary threat)
 
   - **Creatures:**
-    - [Black Magga PDF](./NPC-Monsters-Statblocks/black_magga.pdf)
+    - [Black Magga PDF](./Statblocks/BlackMagga.pdf)
 
-    ![Black Magga](./NPC-Monsters-Statblocks/black_magga.png)
+    ![Black Magga](./Statblocks/BlackMagga.png)
 
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
@@ -510,9 +511,9 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Skulltaker Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395) are here paying tribute to Papi Grazuul, praying either side of the mound of skulls.
 
-    - [Grazuul PDF](./NPC-Monsters-Statblocks/grazuul.pdf)
+    - [Grazuul PDF](./Statblocks/Grazuul.pdf)
 
-    ![Grazuul PNG](./NPC-Monsters-Statblocks/grazuul.png)
+    ![Grazuul PNG](./Statblocks/Grazuul.png)
 
   - **Encounter Notes:**   
     - Grazuul is underwater when visitors arrive and he uses aquatic ambush to launch his attack and then makes a bestial roar that sounds a lot like "Grazuul"
@@ -524,9 +525,9 @@ The other unique ogres are covered individually below.
 ### C15. Floodgate Controls (XP 60, low threat)
 
   - **Creatures:**
-    - [Skull Ripper PDF](./NPC-Monsters-Statblocks/SkullRipper.pdf)
+    - [Skull Ripper PDF](./Statblocks/SkullRipper.pdf)
 
-    ![Skull Ripper](./NPC-Monsters-Statblocks/SkullRipper.png)
+    ![Skull Ripper](./Statblocks/SkullRipper.png)
 
 ### C16. Infernal Engines (XP 80-120 plus hero point)
 
@@ -557,9 +558,9 @@ The other unique ogres are covered individually below.
     - Recall Knowledge - Fey (Nature): DC 25 to identify a Naiad Queen
     - Recall Knowledge - Spirit (Occultism) or Undead (Religion): DC 27 to identify the Ghostly nature of her
 
-    - [Myriana PDF](./NPC-Monsters-Statblocks/myriana.pdf)
+    - [Myriana PDF](./Statblocks/Myriana.pdf)
 
-    ![Myriana](./NPC-Monsters-Statblocks/myriana.png)
+    ![Myriana](./Statblocks/Myriana.png)
 
 
 ## Part 5: Harrowing the Hook (XP 490, Party Level 10)
@@ -569,9 +570,9 @@ The other unique ogres are covered individually below.
 ### Valley of Broken Trees (40xp, trivial threat)
 
   - **Creatures:**
-    - [Razmus PDF](./NPC-Monsters-Statblocks/razmus.pdf)
+    - [Razmus PDF](./Statblocks/Razmus.pdf)
   
-    ![Razmus PNG](./NPC-Monsters-Statblocks/razmus.png)
+    ![Razmus PNG](./Statblocks/Razmus.png)
 
     - The same XP is awarded for whatever way they deal with Razmus - whether he ends up as a temporary ally or they defeat him
 
@@ -615,8 +616,8 @@ The other unique ogres are covered individually below.
 ### D8 Abandoned Shrine (40xp, trivial threat)
 
   - **Creatures:**
-    - [Lamatar Bayden PDF](./NPC-Monsters-Statblocks/LamatarBayden.pdf)
-    ![Lamatar Bayden PNG](./NPC-Monsters-Statblocks/LamatarBayden.png)
+    - [Lamatar Bayden PDF](./Statblocks/LamatarBayden.pdf)
+    ![Lamatar Bayden PNG](./Statblocks/LamatarBayden.png)
 
     - Alternatively use a Grave Knight. The standard Grave Knight is closer to the 1E Lamatar and the Betrayed Revivification Grave Knight is closer to the backstory for Lamatar. 
       - [Betrayed Revivification Grave Knight](https://2e.aonprd.com/Monsters.aspx?ID=244). Replace cold with mental throughout. Devastating Blast (mental) has a Will save instead of Reflex.
@@ -630,9 +631,9 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - if Lucrecia has retreated here then just she and Barl are here together
     - otherwise add up to 3x [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
-    - [Barl Breakbones PDF](./NPC-Monsters-Statblocks/barl_breakbones.pdf)
+    - [Barl Breakbones PDF](./Statblocks/BarlBreakbones.pdf)
 
-    ![Barl Breakbones](./NPC-Monsters-Statblocks/barl_breakbones.png)
+    ![Barl Breakbones](./Statblocks/BarlBreakbones.png)
   
   - **Loot:**
     - 29 pp, 222 gp, 483 sp, 1369 cp
@@ -649,4 +650,4 @@ The other unique ogres are covered individually below.
 
   - **XP** Returning the black arrows equipment gains an additional 60xp story award and hero point 
 
-## -- End of Hook Mountain Massacre 2E Conversion Guide --
+## -- End of RotR Hook Mountain Massacre 2E Conversion Guide --
