@@ -91,7 +91,7 @@ All level 1-4 items and cash should be awarded in this book.
     - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
     - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
-    - **Loot:** none
+  - **Loot:** none
  
 ### Die Dog Die! (140xp, severe threat)
 
@@ -100,6 +100,7 @@ All level 1-4 items and cash should be awarded in this book.
     - [Mounted Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - During Combat The goblin commando uses the superior mobilty of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG if stats are required
   - **Loot:** none
 
 ### Aftermath (30xp and hero point)
@@ -133,7 +134,7 @@ All level 1-4 items and cash should be awarded in this book.
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
     - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
-    - Aldern has a painting commissioned showing him and the heroes of Sandpoint in action against the goblins, which makes it look like he is part of tha party. He donates it to the Rusty Dragon to be hung in the lounge.
+    - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
 
@@ -164,8 +165,8 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
-    - [Tsuto PDF](./NPC-Monsters-Statblocks/Tsuto.pdf)
-    ![Tsuto PNG](./NPC-Monsters-Statblocks/Tsuto.png)
+    - [Tsuto PDF](./Statblocks/Tsuto.pdf)
+    ![Tsuto PNG](./Statblocks/Tsuto.png)
 
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
@@ -213,9 +214,9 @@ All level 1-4 items and cash should be awarded in this book.
 ### B4. Washing Pool (40xp, trivial threat)
 
   - **Creatures:**
-    - [Vargouille PDF](./NPC-Monsters-Statblocks/Vargouille.pdf)  
+    - [Vargouille PDF](./Statblocks/Vargouille.pdf)  
 
-    ![Vargouille PNG](./NPC-Monsters-Statblocks/Vargouille.png)
+    ![Vargouille PNG](./Statblocks/Vargouille.png)
 
     - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20)
 
@@ -233,8 +234,8 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
-    - [Koruvus PDF](./NPC-Monsters-Statblocks/Koruvus.pdf)
-    ![Koruvus PNG](./NPC-Monsters-Statblocks/Koruvus.png)
+    - [Koruvus PDF](./Statblocks/Koruvus.pdf)
+    ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
     - +1 weapon potency rune (P2)
@@ -262,9 +263,9 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
-    - [Erylium PDF](./NPC-Monsters-Statblocks/Erylium.pdf)
+    - [Erylium PDF](./Statblocks/Erylium.pdf)
     
-    ![Erylium PNG](./NPC-Monsters-Statblocks/Erylium.png)
+    ![Erylium PNG](./Statblocks/Erylium.png)
 
     - Note that to stay flying Erylium must use at least one fly move action per turn. 
     - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
@@ -301,10 +302,10 @@ All level 1-4 items and cash should be awarded in this book.
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (80xp, moderate threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - [Gogmurt PDF](./NPC-Monsters-Statblocks/Gogmurt.pdf)
-    ![Gogmurt PNG](./NPC-Monsters-Statblocks/Gogmurt.png)
-    - [Tangletooth PDF](./NPC-Monsters-Statblocks/Tangletooth.pdf)
-    ![Tangletooth PNG](./NPC-Monsters-Statblocks/Tangletooth.png)
+    - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
+    ![Gogmurt PNG](./Statblocks/Gogmurt.png)
+    - [Tangletooth PDF](./Statblocks/Tangletooth.pdf)
+    ![Tangletooth PNG](./Statblocks/Tangletooth.png)
 
   - **Tactics:** Replace the before combat and during combat tactics as follows:
     - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
@@ -363,8 +364,8 @@ All level 1-4 items and cash should be awarded in this book.
 ### C19. Throne Room (160xp, extreme threat)
 
   - **Creatures:**
-    - [Chief Ripnugget PDF](./NPC-Monsters-Statblocks/ChiefRipnugget.pdf)  
-    ![Chief Ripnugget PNG](./NPC-Monsters-Statblocks/ChiefRipnugget.png)  
+    - [Chief Ripnugget PDF](./Statblocks/ChiefRipnugget.pdf)  
+    ![Chief Ripnugget PNG](./Statblocks/ChiefRipnugget.png)  
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
@@ -393,22 +394,22 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-    - [Bruthazmus PDF](./NPC-Monsters-Statblocks/Bruthazmus.pdf)  
-    ![Bruthazmus PNG](./NPC-Monsters-Statblocks/Bruthazmus.png)
+    - [Bruthazmus PDF](./Statblocks/Bruthazmus.pdf)  
+    ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
 
 ### D4b. Orik's Chambers (60xp, low threat)
 
   - **Creatures:**
-    - [ Orik Vancaskerkin PDF](./NPC-Monsters-Statblocks/OrikVancaskerkin.pdf)  
-    ![ Orik Vancaskerkin PNG](./NPC-Monsters-Statblocks/OrikVancaskerkin.png)
+    - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
+    ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
     - When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave.
 
 ### D7. Tentamort Hunting Grounds (60xp, low threat)
 
   - **Creatures:**
-    - 1x [Tentamort PDF](./NPC-Monsters-Statblocks/Tentamort.pdf)  
-    ![Tentamort PNG](./NPC-Monsters-Statblocks/Tentamort.png)
+    - 1x [Tentamort PDF](./Statblocks/Tentamort.pdf)  
+    ![Tentamort PNG](./Statblocks/Tentamort.png)
 
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
@@ -418,8 +419,8 @@ All level 1-4 items and cash should be awarded in this book.
 ### D15. Research Room (60xp, low threat)
 
   - **Creatures:**
-    - [Lyrie Akenja PDF](./NPC-Monsters-Statblocks/LyrieAkenja.pdf)  
-    ![Lyrie Akenja PNG](./NPC-Monsters-Statblocks/LyrieAkenja.png)
+    - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
+    ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
 
   - **Tactics** Replace the "During Combat" tactics with the following:
     - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
@@ -446,8 +447,8 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Creatures:**
     - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
-    - [Nualia PDF](./NPC-Monsters-Statblocks/Nualia.pdf) 
-    ![Nualia PNG](./NPC-Monsters-Statblocks/Nualia.png) 
+    - [Nualia PDF](./Statblocks/Nualia.pdf) 
+    ![Nualia PNG](./Statblocks/Nualia.png) 
 
   - **Tactics**
     - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
@@ -467,8 +468,8 @@ All level 1-4 items and cash should be awarded in this book.
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
   - **Creatures:**
-    - [Giant Hermit Crab PDF](./NPC-Monsters-Statblocks/GiantHermitCrab.pdf)
-    ![Giant Hermit Crab PNG](./NPC-Monsters-Statblocks/GiantHermitCrab.png)
+    - [Giant Hermit Crab PDF](./Statblocks/GiantHermitCrab.pdf)
+    ![Giant Hermit Crab PNG](./Statblocks/GiantHermitCrab.png)
 
   - **Loot:**
     - 1400sp
