@@ -4,8 +4,8 @@ Using http://monster.pf2.tools/ you can import/export and share JSON files for y
 Please share those JSON files here along with the PNG and PDF file downloaded from the monster builder tool.
 
 The PDF and PNG files should be linked in the Book 3 README.md file, for example (remove the space between the square and round brackets to use)
-  - [Black Magga PDF] (https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.pdf)
-  - ![Black Magga PNG] (https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Book%203/black_magga.png)
+  - [Black Magga PDF] (./Statblocks/black_magga.pdf)
+  - ![Black Magga PNG] (./Statblocks/black_magga.png)
 
 Please remove the number from the end of the filenames downloaded from monster builder so that updates to the monsters do not require an update to the Book 3 README file.
 
