@@ -140,7 +140,7 @@ All level 1-4 items and cash should be awarded in this book.
 
   - 10xp for helping getting rid of Lonjiku, 20xp for doing so peacefully.
 
-### Monster in the closet (40xp, trivial threat)
+### Monster in the closet (40xp, trivial threat, mainly RP encounter)
 
   - **Creatures:**
     - 1x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233) has only an improvised dagger.
@@ -244,8 +244,8 @@ All level 1-4 items and cash should be awarded in this book.
 ### B11. Meditation Chamber
 
   - **Loot:**
-    - [Scroll of Burning Hands heightened to level 2](https://2e.aonprd.com/Spells.aspx?ID=30) (C2)
-    - [Wand of Shocking Grasp](https://2e.aonprd.com/Spells.aspx?ID=283) (P3)
+    - Scroll of second level spell (situational spell) e.g. Dispel Magic, See Invisibility (C3)
+    - Wand of first level spell (everyday spell) e.g. Mage Armor, Longstrider (P3)
 
 ### B12. Shrine to Lamashtu
 
@@ -316,8 +316,8 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Creatures:**
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
-  - **Loot:** None
-
+  - **Loot:** 
+    - As this is an optional encounter no loot has been placed here. If they do defeat the Bunyip place some coins here.
 
 ## Part 4B. Thistletop island top (540xp, assumed party level 3)
 
@@ -426,7 +426,7 @@ All level 1-4 items and cash should be awarded in this book.
     - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
 
   - **Loot:**
-    - Wand of Mage Armor (P3)
+    - Wand of first level spell (everyday spell) e.g. Mage Armor (P3)
     - Spellbook worth 18GP (6x second level spells)
 
 
@@ -457,7 +457,8 @@ All level 1-4 items and cash should be awarded in this book.
 
   - **Loot**
     - Breastplate, Composite Longbow
-    - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5], +1 Striking Falchion [P3], 
+    - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5]
+    - +1 Striking Falchion [P3], 
  
 ### E6. Crypt (80xp, moderate threat)
 
@@ -479,7 +480,7 @@ All level 1-4 items and cash should be awarded in this book.
 ### E9. Transmutation Room
 
   - **Loot:**
-    - Wand of 2nd level spell
+    - Wand of 2nd level spell (everyday spell) e.g. Heightened Longstrider (P5)
     - Lesser Elixir of Life
     - Disrupting Rune
     - +1 Weapon Potency Rune
