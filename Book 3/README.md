@@ -16,7 +16,6 @@
 
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
-  - As all the contributors are GMs we occassionally add some minor feature or twist, that was not in the original, that we think complements the story. Consider these easter eggs.
  
 ## Party Levelling Milestones
 
@@ -99,7 +98,7 @@ These investigations and encounters could happen at any point during the book.
     - The paradise sank near the edge of the territory of a (locally infamous "old pinkeye") giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
     - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interations
     - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
-    - Turtle shell is a prized hull for local fishing boats
+    - Turtle shell is a prized hull for local fishing boats as it has a reputation for preventing giant gar attacks
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 10xp
 
 
@@ -160,7 +159,7 @@ Encounters include scaling for level 8 parties.
     
 ### A5. Playpen (XP 60, low threat)
   - **Creatures:** 
-    - Lucky and Maulgro Graul - [Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
+    - 2x [Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
     - Level 8 adjustment: either apply the Elite template OR add a third ogrekin fighter
 
     ![Ogrekin Fighter PNG](./Statblocks/OgrekinFighter.png)
@@ -199,7 +198,7 @@ Encounters include scaling for level 8 parties.
 
 ### A12. Hucker's Lair (XP 100, moderate threat)
   - **Creatures:** 
-    - 2x **medium** sized Dire Wolves [Chuckles and Drooler / Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
+    - 2x **medium** sized Dire Wolves [Donkey Rats](https://2e.aonprd.com/Monsters.aspx?ID=416)
     - [Hucker Graul PDF](./Statblocks/HuckerGraul.pdf)
 
     ![Hucker Graul PNG](./Statblocks/HuckerGraul.png)
@@ -217,7 +216,7 @@ Encounters include scaling for level 8 parties.
 ### A14. Tendriculous Lair (XP 40, trivial threat)
 
   - **Creatures:** 
-    - Muck Graul [Tendriculos](https://2e.aonprd.com/Monsters.aspx?ID=823)
+    - [Tendriculos](https://2e.aonprd.com/Monsters.aspx?ID=823)
 
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
@@ -235,7 +234,7 @@ Encounters include scaling for level 8 parties.
 ### A16. Kennel (XP 90, moderate threat)
 
   - **Creatures:** 
-    - Hograth, Jeppo, and Sugar Graul - [Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
+    - 3x[Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
     - Party level 8: add an additional ogrekin fighter
 
 ![Ogrekin Fighter](./Statblocks/OgrekinFighter.png)
@@ -264,6 +263,7 @@ Encounters include scaling for level 8 parties.
 ### Exposing the traitor (XP 30)
 
   - if the PCs expose the traitor in any part of this book then award 30xp
+  - if you think any of your players may have foreknowledge consider switching who the traitor is
 
 
 ## Part 2: Retaking Rannick (XP 970, Party Level 8-9) 
@@ -334,7 +334,7 @@ The other unique ogres are covered individually below.
     - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     
   - **Loot:** 
-    - 2 [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) [2x C9]
+    - 2x [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) [2x C9]
     - Various mundane weapons
 
 ### B14. Ravine (XP 10, trivial threat)
@@ -344,7 +344,7 @@ The other unique ogres are covered individually below.
 ### B15 Crypt (XP 45, trivial threat)
 
   - **Creatures:**
-    - Lorgus Fenker [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
+    - [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Ogre Warrior* Thrall under control of Lorgus
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
     - adjustment for level 9 - add a second Ogre Warrior* Thrall
