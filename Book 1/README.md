@@ -422,8 +422,11 @@ All level 1-4 items and cash should be awarded in this book.
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
     ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
 
-  - **Tactics** Replace the "During Combat" tactics with the following:
-    - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
+
+  - **Tactics** 
+    - Lyrie has chosen Skivver's familiar abilites of darkvision and scent to give her warning of any approach
+    - Replace the "During Combat" tactics with the following:
+      - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
 
   - **Loot:**
     - Wand of first level spell (everyday spell) e.g. Mage Armor (P3)
