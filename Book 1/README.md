@@ -5,7 +5,7 @@
   - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and occassionally tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
   - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
-  - Unique creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
+  - Unique and missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
   - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## TO DO
@@ -14,7 +14,7 @@
 ## General GM information
 
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
-  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion. 
+  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion. See [level based DCs](https://2e.aonprd.com/Rules.aspx?ID=554) for guidance.
   - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with first edition stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
 
 ## Party Levelling Milestones
