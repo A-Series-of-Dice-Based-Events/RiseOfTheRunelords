@@ -192,9 +192,6 @@ Encounters include scaling for level 8 parties.
     - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Ogre Spider Venom](https://2e.aonprd.com/Monsters.aspx?ID=814)
     
   - **Loot:** There are 5 gold, 12 silver, and 30 copper coins in the in the Hand Chopper.
-  
-### A10. Attic
-  - **Loot:** none
 
 ### A12. Hucker's Lair (XP 100, moderate threat)
   - **Creatures:** 
@@ -211,7 +208,7 @@ Encounters include scaling for level 8 parties.
     - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329) [C4]
     - +1 Striking Ogre Hook
     - Tin of Noses, Caltrops
-    - 35 gp, 40 sp, 60 cp
+    - 35 gp, 45 sp, 60 cp
 
 ### A14. Tendriculous Lair (XP 40, trivial threat)
 
@@ -221,8 +218,6 @@ Encounters include scaling for level 8 parties.
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
-
-  - **Loot:** none
 
 ### A15. The Graul Fortune
 
@@ -238,8 +233,6 @@ Encounters include scaling for level 8 parties.
     - Party level 8: add an additional ogrekin fighter
 
 ![Ogrekin Fighter](./Statblocks/OgrekinFighter.png)
-
-  - **Loot:** Moonshine worth 3 gp to anyone who's into that kind of thing.
 
 ### A17. Biggin (XP 60, low threat with terrain advantage, +80xp for rescuing the black arrows)
 
@@ -486,13 +479,15 @@ The other unique ogres are covered individually below.
     - [Greater Hat of the Magi](https://2e.aonprd.com/Equipment.aspx?ID=443) [P9]
     - [Serum of Sex Shift](https://2e.aonprd.com/Equipment.aspx?ID=198) [C7]
     - Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk [C9] and a Scroll of Illusory Scene [C9]
-    - 82 gp, 285 sp, 450 cp, pearls (80 gp) 
+    - 72 gp, 285 sp, 450 cp, pearls (80 gp) 
 
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
 
   - **Creatures:**
     - 1x Ogre Boss*
     - 4x Ogre Warriors*
+    
+    - **Loot:** +1 Ogre Hook
 
   - **Encounter Notes:**
     - The terrain makes this moderate threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
