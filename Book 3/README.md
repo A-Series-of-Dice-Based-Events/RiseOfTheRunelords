@@ -183,7 +183,7 @@ Encounters include scaling for level 8 parties.
   - **Loot:**
     - Lesser Healing Potion [C3]
     - Wand of [Globe of Invulnerability](https://2e.aonprd.com/Spells.aspx?ID=137) [P9]
-    - gold holy symbol of Lamashtu
+    - Holy symbol of Lamashtu
     - Spellbook worth 105 gp
     - Material Component Pouch worth 5 sp
 
