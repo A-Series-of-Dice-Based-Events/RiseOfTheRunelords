@@ -10,7 +10,8 @@
 
 ## TO DO
   - Final review and clean up.
-  - Match creature items and loot
+  - Match creature items and loot - done
+  - Update NPC stats to reflect updated equipment ? (Hucker, Crowfood, Mammy, Lamatar, Lucrecia, Barl)
 
 ## General GM information
 
@@ -53,6 +54,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
 Treasure allocation approach: 
+https://docs.google.com/spreadsheets/d/1a_elP7ClHzSNUCdade_noig8yZDG5dQXmBSDK98G1_A/edit?usp=sharing
 
 This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
 
@@ -70,7 +72,7 @@ GP value of currency items was scaled down to take into account the treasure gui
 
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
 
-Note there is no contingency in the treasure. If your players miss something early on in the adventure then add bonus items later on to balance it out.
+Note there is no contingency in the treasure. If your players miss something early on in the adventure, you may need to include additional items later.
 
 ### General Encounter Advice
 
@@ -78,7 +80,6 @@ Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite
 If they are finding it hard going then liberally apply weak templates or remove minions.  
 If they are breezing through then liberally apply elite templates or add minions. 
 Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
-
 
 ## Part 0: Turtleback ferry (XP 100, Party Level 7)
 
@@ -92,21 +93,20 @@ These investigations and encounters could happen at any point during the book.
 
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
-    - If the party are higher than level 7 when they investigate the paradise then apply the Elite or double Elite template accordingly
+    - If the party are higher than level 7 when they investigate The Paradise then apply the Elite or double Elite template accordingly
 
   - **Encounter Notes:**   
-    - The paradise sank near the edge of the territory of a (locally infamous "old pinkeye") giant snapping turtle and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
+    - The Paradise sank near the edge of the territory of a giant snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
     - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interations
     - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
     - Turtle shell is a prized hull for local fishing boats as it has a reputation for preventing giant gar attacks
     - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 10xp
 
-
 ## Part 1: In The Hook's Shadow (XP 880, Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
-For Traps near fit Hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters, or happen during an encounter they are more serious.
+For traps, near fit hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters or happen during an encounter they are more serious.
 
 Encounters include scaling for level 8 parties.
 
@@ -114,7 +114,7 @@ Encounters include scaling for level 8 parties.
  - **Creatures:** 
     - [Kibb PDF](./Statblocks/Kibb.pdf)  
   ![Kibb PNG](./Statblocks/Kibb.png)
-    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and for example provides flanking bonuses. 
+    - Kibb is obviously intelligent and unnaturally friendly towards any rescuers, and, for example, provides flanking bonuses. 
     - 5x [Graul Hounds - Riding Dogs](http://2e.aonprd.com/Monsters.aspx?ID=125)
     - Note the level of the dogs is too low to be a challenge to the PCs - it is an interesting dilemma for them to fight and kill relatively harmless doggies
     - [Rukus Graul PDF](./Statblocks/RukusGraul.pdf)  
@@ -178,12 +178,12 @@ Encounters include scaling for level 8 parties.
   - **Encounter Notes:**   
     - Consider applying the weak template to Mammy if this encounter will be too strong for your PCs
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should be level 2 distractions as above
-    - Party level 8: Raise the Zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
+    - Party level 8: Raise the zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
 
   - **Loot:**
     - Lesser Healing Potion [C3]
     - Wand of [Globe of Invulnerability](https://2e.aonprd.com/Spells.aspx?ID=137) [P9]
-    - gold holy symbol of Lamashtu
+    - Holy symbol of Lamashtu
     - Spellbook worth 105 gp
     - Material Component Pouch worth 5 sp
 
@@ -192,9 +192,6 @@ Encounters include scaling for level 8 parties.
     - [Hand Chopper - single Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6). Anyone injured by the blade also has to save vs [Ogre Spider Venom](https://2e.aonprd.com/Monsters.aspx?ID=814)
     
   - **Loot:** There are 5 gold, 12 silver, and 30 copper coins in the in the Hand Chopper.
-  
-### A10. Attic
-  - **Loot:** none
 
 ### A12. Hucker's Lair (XP 100, moderate threat)
   - **Creatures:** 
@@ -211,7 +208,7 @@ Encounters include scaling for level 8 parties.
     - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329) [C4]
     - +1 Striking Ogre Hook
     - Tin of Noses, Caltrops
-    - 35 gp, 40 sp, 60 cp
+    - 35 gp, 45 sp, 60 cp
 
 ### A14. Tendriculous Lair (XP 40, trivial threat)
 
@@ -222,24 +219,22 @@ Encounters include scaling for level 8 parties.
     - Can become a severe threat if combined with Hucker and the Donkey Rats
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
 
-  - **Loot:** none
-
 ### A15. The Graul Fortune
 
   - **Loot:**
-    - Gold Ring worth 10 gp, Emerald Necklace worth 65 gp, Ruby Inlaid Red Dragon Scale Clasp worth 110 gp
+    - Gold Ring worth 10 gp
+    - Emerald Necklace worth 65 gp
+    - Ruby Inlaid Red Dragon Scale Clasp worth 110 gp
     - 41 gp, 53 sp, 130 cp
-    - weapons and equipment belonging to the Black Arrows (including Kaven's gear - see A17 below). 
+    - Weapons and equipment belonging to the Black Arrows (including Kaven's gear - see A17 below). 
 
 ### A16. Kennel (XP 90, moderate threat)
 
   - **Creatures:** 
-    - 3x[Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
+    - 3x [Ogrekin Fighters PDF](./Statblocks/OgrekinFighter.pdf)
     - Party level 8: add an additional ogrekin fighter
 
 ![Ogrekin Fighter](./Statblocks/OgrekinFighter.png)
-
-  - **Loot:** Moonshine worth 3 gp to anyone who's into that kind of thing.
 
 ### A17. Biggin (XP 60, low threat with terrain advantage, +80xp for rescuing the black arrows)
 
@@ -258,13 +253,12 @@ Encounters include scaling for level 8 parties.
 
 ### Ending the ogrekin menace (XP 80 and hero point)
 
-  - award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, over half the total ogrekin, or similarly disrupting the threat)
+  - Award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, over half the total ogrekin, or similarly disrupting the threat)
 
 ### Exposing the traitor (XP 30)
 
-  - if the PCs expose the traitor in any part of this book then award 30xp
-  - if you think any of your players may have foreknowledge consider switching who the traitor is
-
+  - If the PCs expose the traitor in any part of this book then award 30xp
+  - If you think any of your players may have foreknowledge consider switching who the traitor is
 
 ## Part 2: Retaking Rannick (XP 970, Party Level 8-9) 
 
@@ -297,7 +291,7 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - Ogre Boss*
     - 2x Ogre Warriors*
-    - adjustment for level 9 - add 2x Ogre Warriors*
+    - Adjustment for level 9 - add 2x Ogre Warriors*
 
   - **Loot:** +1 Ogre Hook
 
@@ -305,7 +299,7 @@ The other unique ogres are covered individually below.
   
   - **Creatures:**
     - Ogre Boss*
-    - adjustment for level 9 - add 1x Ogre Warrior*
+    - Adjustment for level 9 - add 1x Ogre Warrior*
 
   - **Loot:** +1 Ogre Hook
 
@@ -318,7 +312,7 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - Ogre Boss*
     - Ogre Warrior*
-    - adjustment for level 9 - add 2x Ogre Warriors*
+    - Adjustment for level 9 - add 2x Ogre Warriors*
 
   - **Loot:** +1 Ogre Hook
 
@@ -326,7 +320,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 8x Sleeping Ogre Warriors*
-    - adjustment for level 9 - add 4x Ogre Warriors*
+    - Adjustment for level 9 - add 4x Ogre Warriors*
 
 ### B13. Secret Armory (XP20, trivial threat)
 
@@ -347,15 +341,15 @@ The other unique ogres are covered individually below.
     - [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Ogre Warrior* Thrall under control of Lorgus
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
-    - adjustment for level 9 - add a second Ogre Warrior* Thrall
+    - Adjustment for level 9 - add a second Ogre Warrior* Thrall
 
-    - if an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
+    - If an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
     
 ### B18. Workroom (XP 40, trivial threat)
 
   - **Creatures:**
     - Ogre Boss*
-    - adjustment for level 9 - add 1x Ogre Warrior*
+    - Adjustment for level 9 - add 1x Ogre Warrior*
 
   - **Loot:** +1 Ogre Hook
 
@@ -363,7 +357,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 2x Ogre Warrior*
-    - adjustment for level 9 - add 1x Ogre Warrior*
+    - Adjustment for level 9 - add 1x Ogre Warrior*
     
 ### B23. Library (XP 40/30, trivial threat)
 
@@ -375,7 +369,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 4x Ogre Warriors*
-    - adjustment for level 9 - add 2x Ogre Warriors*
+    - Adjustment for level 9 - add 2x Ogre Warriors*
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   
@@ -400,7 +394,7 @@ The other unique ogres are covered individually below.
     ![Dorella Kreeg](./Statblocks/DorellaKreeg.png)
 
   - **Encounter Notes:**
-    - adjustment for level 9 - add 1x Ogre Boss*
+    - Adjustment for level 9 - add 1x Ogre Boss*
     - B29 and B30 are likely to run together and become a severe to extreme threat. If they do then don't add any more reinforcements unless you are sure they can handle them.
 
 - **Loot:** [Boots of Elvenkind](https://2e.aonprd.com/Equipment.aspx?ID=413) [P5], Love letters, nymph hair, silver locket in a jewelry box
@@ -411,7 +405,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 2x Ogre Warriors*
-    - adjustment for level 9 - add 1x Ogre Warrior*
+    - Adjustment for level 9 - add 1x Ogre Warrior*
 
 ### B32. Map Room
 
@@ -421,17 +415,17 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - 2 [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
-      - adjustment for level 9 - add the Elite template to the Lamias
-      - if you want a less challenging encounter (in line with the 1E AP) then omit the Lamias
+      - Adjustment for level 9 - add the Elite template to the Lamias
+      - If you want a less challenging encounter (in line with the 1E AP) then omit the Lamias
     - [Lucrecia PDF](./Statblocks/Lucrecia.pdf)
 
     ![Lucrecia PNG](./Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
-    - be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower level PCs 
-    - the lamias will use deception and disguise as they see fit (and they have had lots of practice and enjoy doing it). Create or choose a deception that will resonate with your players or you feel you can roleplay well. Some examples:
-      - if Kaven is with the party they will weave him into the deception by using his name as they recognise him from The Paradise
-      - if they are aware of the parties approach the Lamias could be in human form posing as black arrows using the humanoid form and illusory disguise spells.
+    - Be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower level PCs 
+    - The lamias will use deception and disguise as they see fit (and they have had lots of practice and enjoy doing it). Create or choose a deception that will resonate with your players or you feel you can roleplay well. Some examples:
+      - If Kaven is with the party they will weave him into the deception by using his name as they recognise him from The Paradise
+      - If they are aware of the parties approach the Lamias could be in human form posing as black arrows using the humanoid form and illusory disguise spells.
         - They claim that any black arrows accompanying the party are either imposters or deserters (except Kaven) as best fits the circumstance.
         - They say they are holed up in here as they were driven back by the ogres and they are grateful to be rescued. 
       - They may all be playing a friendly gambling game and invite the PCs to join them. Lucrecia says she made a deal with the ogres that allows this secret black arrows gambling den to continue operating for a share of the profits.
@@ -449,11 +443,11 @@ The other unique ogres are covered individually below.
 
   - **Creatures:** 
     - 8x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
-    - adjustment for level 9 - add 4x Shocker Lizards
+    - Adjustment for level 9 - add 4x Shocker Lizards
 
 ### Liberating Fort Rannick (XP 80 story award and hero point)
 
-  - for succesfully liberating Fort Rannick from ogre control award 80xp.
+  - For succesfully liberating Fort Rannick from ogre control award 80xp.
 
 
 ## Part 3: Down Comes the Rain (XP 600, Party Level 9)
@@ -486,13 +480,15 @@ The other unique ogres are covered individually below.
     - [Greater Hat of the Magi](https://2e.aonprd.com/Equipment.aspx?ID=443) [P9]
     - [Serum of Sex Shift](https://2e.aonprd.com/Equipment.aspx?ID=198) [C7]
     - Jade and Ivory Scroll Case (40 gp) containing a Scroll of Shadow Walk [C9] and a Scroll of Illusory Scene [C9]
-    - 82 gp, 285 sp, 450 cp, pearls (80 gp) 
+    - 72 gp, 285 sp, 450 cp, pearls (80 gp) 
 
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
 
   - **Creatures:**
     - 1x Ogre Boss*
     - 4x Ogre Warriors*
+    
+    - **Loot:** +1 Ogre Hook
 
   - **Encounter Notes:**
     - The terrain makes this moderate threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
@@ -629,8 +625,8 @@ The other unique ogres are covered individually below.
 ### D9 As the Dread Kings of Old (120xp, severe threat, +60xp story award)
 
   - **Creatures:** 
-    - if Lucrecia has retreated here then just she and Barl are here together
-    - otherwise add up to 3x [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    - If Lucrecia has retreated here then just she and Barl are here together
+    - Otherwise add up to 3x [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - [Barl Breakbones PDF](./Statblocks/BarlBreakbones.pdf)
 
     ![Barl Breakbones](./Statblocks/BarlBreakbones.png)
