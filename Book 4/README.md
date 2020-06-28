@@ -39,7 +39,7 @@ Part | Title | Max XP
 - If they are breezing through then liberally apply elite templates or add minions. 
 - Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-# Raid on Sandpoint (xp 385, multiple encounters from low to moderate)
+## Raid on Sandpoint (xp 385, multiple low to moderate encounters)
 
   - **Creatures:** 
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
@@ -56,97 +56,97 @@ Part | Title | Max XP
     - Each giant that isn't blocked likely gets away with 3 prisoners.
     - If you dont want the Storval Stairs encounter completely bypassed (which is a common occurence noted by GMs), then it is useful to have captives mention the Storval Stairs, perhaps as a fallback location, or that they already mark the edge of the territory of the Giants, or that Mokmurian put great emphasis on defending the statues there, or somesuch. Also Brodert might mention the huge ancient statues and that he would like to see them someday.  
 
-# Ogre Cattle Rustlers
+## Ogre Cattle Rustlers
  - **Creatures:** 
    - Ogre fighters as per Fort Rannick
 
-# Storval Stairs
+## Storval Stairs
   - Note that this encounter seems to be the one most often completely bypassed. e.g. by flying or Teleport. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this to encounter to Skulls Crossing in Book3 if they have cleared out the ogres and returned later.
 
-# Part 3 Valley of the Black Tower
+## Part 3 Valley of the Black Tower
 
-## A1
+### A1
   - **Non standard Creatures:** 
     - [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
 
-## A3
+### A3
   - **Creatures:** 
     - 3x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
-## A4
+### A4
   - **Creatures:** 
     - 3x [Deathwebs PDF](./Statblocks/DeathwebSpider.pdf)
     ![Deathweb PNG](./Statblocks/DeathwebSpider.png)
 
-## A6
+### A6
   - **Creatures:** 
     - 3x [Harpy Monks] TO DO
 
-## A14
+### A14
   - **Creatures:** 
     - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Mummy Pharoah](https://2e.aonprd.com/Monsters.aspx?ID=305)
 
-# Jorgenfist
+## Jorgenfist
 
-## B2
+### B2
   - **Creatures:** 
     - [Conna] TO DO
 
-## B3
+### B3
   - **Creatures:** 
     - [Galenmir] TO DO
 
-## B6
+### B6
   - **Creatures:** 
     - [Flayed Giant] TO DO
 
-## B7a
+### B7a
   - **Creatures:** 
     - [Enga PDF](./Statblocks/EngaKeckvia.pdf)
     ![Enga PNG](./Statblocks/EngaKeckvia.png)
 
-## B7b
+### B7b
   - **Creatures:** 
     - [Elite] [Redcaps]
 
-## B8
+### B8
   - **Creatures:** 
     - [Ogre Fighters] as per Fort Rannick
 
-## B11
+### B11
   - **Creatures:** 
     - [Lokansir] TO DO
 
-## B13
+### B13
   - **Creatures:** 
     - [Lamias] TO DO
 
-## B14
+### B14
   - **Creatures:** 
     - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## C2 
+### C2 
   - **Creatures:** 
     - [Runeslave Hill Giant PDF](./NPC-Monsters-Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./NPC-Monsters-Statblocks/RuneslaveHillGiant.png)
 
-## C4
+### C4
   - **Creatures:** 
     - [Headless Lord] TO DO
     - [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
-## C5
+### C5
   - **Creatures:** 
     - [Forgefiend] TO DO
 
-## C7
+### C7
   - **Creatures:** 
     - [Clockwork Librarian] TO DO
 
-## C9
+### C9
   - **Creatures:** 
     - [Mokmurian] TO DO
 
 
-# --- End of RotR Fortress of the Stone Giants 2E Conversion Guide ---
+## - End of RotR Fortress of the Stone Giants 2E Conversion Guide -
