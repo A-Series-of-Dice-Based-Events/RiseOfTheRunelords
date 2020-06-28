@@ -11,6 +11,7 @@
 ## General GM information
 
   - A lot of encounters in this book use mostly standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
+  - There are many encounters where multiple level-4 (or level-5) creatures are used in 1E. These are utterly trivial threats in 2E and are replaced with higher level creatures.
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
  
@@ -25,7 +26,8 @@ Part | Title | Max XP
 
 
 ## TO DO
-  - everything
+  - most unique creatures
+  - treasure by level
 
 ## Party Level and Target Allocation of Treasure
 
@@ -72,16 +74,17 @@ Part | Title | Max XP
 
 ### A3
   - **Creatures:** 
-    - 3x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
+    - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
 ### A4
   - **Creatures:** 
-    - 3x [Deathwebs PDF](./Statblocks/DeathwebSpider.pdf)
-    ![Deathweb PNG](./Statblocks/DeathwebSpider.png)
+    - [Deathweb Spiders PDF](./Statblocks/DeathwebSpider.pdf)
+    ![Deathweb Spiders PNG](./Statblocks/DeathwebSpider.png)
 
 ### A6
   - **Creatures:** 
-    - 3x [Harpy Monks] TO DO
+    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Harpy Monks](https://2e.aonprd.com/Monsters.aspx?ID=258)
+    - as Harpy song has the incapacitation trait, and these level-4 encounters are trivial replace this encounter with higher level creatures.
 
 ### A14
   - **Creatures:** 
@@ -126,15 +129,17 @@ Part | Title | Max XP
   - **Creatures:** 
     - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
+## Library
+
 ### C2 
   - **Creatures:** 
-    - [Runeslave Hill Giant PDF](./NPC-Monsters-Statblocks/RuneslaveHillGiant.pdf)  
-    ![Runeslave Hill Giant  PNG](./NPC-Monsters-Statblocks/RuneslaveHillGiant.png)
+    - [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
+    ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
 
 ### C4
   - **Creatures:** 
     - [Headless Lord] TO DO
-    - [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
+    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
 ### C5
   - **Creatures:** 
@@ -147,6 +152,5 @@ Part | Title | Max XP
 ### C9
   - **Creatures:** 
     - [Mokmurian] TO DO
-
 
 ## - End of RotR Fortress of the Stone Giants 2E Conversion Guide -
