@@ -11,7 +11,7 @@
 ## General GM information
 
   - A lot of encounters in this book use mostly standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
-  - There are many encounters where multiple level-4 (or level-5) creatures are used in 1E. These are utterly trivial threats in 2E and are replaced with higher level creatures.
+  - There are many encounters where multiple much lower level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
  
@@ -27,6 +27,18 @@ Part | Title | Max XP
 
 ## TO DO
   - most unique creatures
+    - Teraktinus
+    - Galenmir
+    - Lokansir
+    - Conna
+    - Lamias
+    - Flayed Giant
+    - Headless lord
+    - Forgefiend
+    - Clockwork librarian
+    - Mokmurian
+  - too low level creature adjustments
+  - xp & threat rating
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -41,7 +53,7 @@ Part | Title | Max XP
 - If they are breezing through then liberally apply elite templates or add minions. 
 - Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Raid on Sandpoint (xp 385, multiple low to moderate encounters)
+## Part 1: Raid on Sandpoint (xp 385, party level 10)
 
   - **Creatures:** 
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
@@ -56,23 +68,27 @@ Part | Title | Max XP
     - The PCs will have to pick their fights very carefully.
     - The most notable and effective thing they could do with preparation is set traps.
     - Each giant that isn't blocked likely gets away with 3 prisoners.
-    - If you dont want the Storval Stairs encounter completely bypassed (which is a common occurence noted by GMs), then it is useful to have captives mention the Storval Stairs, perhaps as a fallback location, or that they already mark the edge of the territory of the Giants, or that Mokmurian put great emphasis on defending the statues there, or somesuch. Also Brodert might mention the huge ancient statues and that he would like to see them someday.  
+    - If you dont want the Storval Stairs encounter bypassed (which is a common occurence noted by 1E GMs), then it is useful to have captives mention the Storval Stairs, perhaps as a fallback location, or that they already mark the edge of the territory of the Giants, or that Mokmurian put great emphasis on defending the statues there, or somesuch. Also Brodert might mention the huge ancient statues and that he would like to see them someday. Plus the travel spells such as wind walk or teleport are higher level and less available in 2E.
 
-## Ogre Cattle Rustlers
+## Part 2: Journey to Jorgenfist (party level 11)
+
+### Ogre Cattle Rustlers (xp 45, trivial threat)
  - **Creatures:** 
    - Ogre fighters as per Fort Rannick
 
-## Storval Stairs
-  - Note that this encounter seems to be the one most often completely bypassed. e.g. by flying or Teleport. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this to encounter to Skulls Crossing in Book3 if they have cleared out the ogres and returned later.
+### Storval Stairs (xp )
+  - Note that this encounter seems to be the one most often completely bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this to encounter to Skulls Crossing in Book 3 if they have cleared out the ogres and returned later.
 
-## Part 3 Valley of the Black Tower
+## Valley of the Black Tower (party level 11)
 
-### A1
+  - During the
+
+### A1 (xp )
   - **Non standard Creatures:** 
     - [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
 
-### A3
+### A3 (xp)
   - **Creatures:** 
     - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
