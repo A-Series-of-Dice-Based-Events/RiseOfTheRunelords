@@ -58,17 +58,17 @@ Part | Title | Max XP
   - **Creatures:** 
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Cave Bears](https://2e.aonprd.com/Monsters.aspx?ID=48)
-    - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136)
+    - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136). Choose either the frenzy/momentum or the spellcasting option to personal preference.
     - [Teraktinus] TO DO
   - **Notes:**
     - The six encounters are spread out with ratings from low to moderate only.
-    - The giants tactics make the encounters slightly easier (e.g. the rest run away when one in that group dies).
-    - It is unlikely in 2E that they can defeat the majority of encounters without rest between them.
+    - The giants tactics make the slightly easier (e.g. the rest run away when one in that group dies).
+    - It is unlikely in 2E that they can defeat the majority of encounters without rest between them. However it may be possible to force a rout.
     - 2E scaling means that the guard and the militia are totally ineffective against level+6/7 creatures.
     - The PCs will have to pick their fights very carefully.
     - The most notable and effective thing they could do with preparation is set traps.
-    - Each giant that isn't blocked likely gets away with 3 prisoners.
-    - If you dont want the Storval Stairs encounter bypassed (which is a common occurence noted by 1E GMs), then it is useful to have captives mention the Storval Stairs, perhaps as a fallback location, or that they already mark the edge of the territory of the Giants, or that Mokmurian put great emphasis on defending the statues there, or somesuch. Also Brodert might mention the huge ancient statues and that he would like to see them someday. Plus the travel spells such as wind walk or teleport are higher level and less available in 2E.
+    - Each giant that isn't blocked likely gets away with 3 prisoners. Plan ahead to include at least one person they know in the prisoners, to make it more keenly felt. 
+    - If you dont want the Storval Stairs encounter bypassed (which is a common occurence noted by 1E GMs), then it is useful to have captives mention the Storval Stairs, perhaps as a fallback location, or that they already mark the edge of the territory of the Giants, or that Mokmurian put great emphasis on defending the statues there, or somesuch. Also Brodert might mention the huge ancient statues and that he would like to see them someday. Plus the longer range travel spells such as wind walk or teleport are higher level and less available in 2E.
 
 ## Part 2: Journey to Jorgenfist (party level 11)
 
@@ -77,11 +77,11 @@ Part | Title | Max XP
    - Ogre fighters as per Fort Rannick
 
 ### Storval Stairs (xp )
-  - Note that this encounter seems to be the one most often completely bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this to encounter to Skulls Crossing in Book 3 if they have cleared out the ogres and returned later.
+  - Note that this encounter seems to be the one most often bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this encounter to Skulls Crossing in Book 3 if the party have cleared out the ogres and returned later.
 
 ## Valley of the Black Tower (party level 11)
 
-  - During the
+  - As the party could approach the encounters in the second half of this book in any order, then be prepared to dynamically adjust the encounters upwards with elite templates or extra creatures to maintain threat levels.  
 
 ### A1 (xp )
   - **Non standard Creatures:** 
@@ -90,7 +90,7 @@ Part | Title | Max XP
 
 ### A3 (xp)
   - **Creatures:** 
-    - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
+    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
 ### A4
   - **Creatures:** 
