@@ -27,7 +27,6 @@ Part | Title | Max XP
 
 ## TO DO
   - most unique creatures
-    - Teraktinus
     - Galenmir
     - Lokansir
     - Conna
@@ -45,7 +44,6 @@ Part | Title | Max XP
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-
 ## General Encounter Advice
 
 - Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
@@ -59,7 +57,8 @@ Part | Title | Max XP
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Cave Bears](https://2e.aonprd.com/Monsters.aspx?ID=48)
     - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136). Choose either the frenzy/momentum or the spellcasting option to personal preference.
-    - [Teraktinus] TO DO
+    - [Teraktinus PDF](./Statblocks/Teraktinus.pdf)  
+    ![Teraktinus PNG](./Statblocks/Teraktinus.png)
   - **Notes:**
     - The six encounters are spread out with ratings from low to moderate only.
     - The giants tactics make the slightly easier (e.g. the rest run away when one in that group dies).
@@ -100,7 +99,7 @@ Part | Title | Max XP
 ### A6
   - **Creatures:** 
     - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Harpy Monks](https://2e.aonprd.com/Monsters.aspx?ID=258)
-    - as Harpy song has the incapacitation trait, and these level-4 encounters are trivial replace this encounter with higher level creatures.
+    - as Harpy song has the incapacitation trait, and that makes these level-4 encounters even more trivial, consider replacing this encounter with higher level creatures.
 
 ### A14
   - **Creatures:** 
@@ -127,11 +126,11 @@ Part | Title | Max XP
 
 ### B7b
   - **Creatures:** 
-    - [Elite] [Redcaps]
+    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
 
 ### B8
   - **Creatures:** 
-    - [Ogre Fighters] as per Fort Rannick
+    - Ogre Fighters as per Fort Rannick
 
 ### B11
   - **Creatures:** 
@@ -139,7 +138,7 @@ Part | Title | Max XP
 
 ### B13
   - **Creatures:** 
-    - [Lamias] TO DO
+    - [quadruple elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
 
 ### B14
   - **Creatures:** 
