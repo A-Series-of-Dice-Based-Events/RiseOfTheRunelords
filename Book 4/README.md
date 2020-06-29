@@ -17,9 +17,13 @@
  
 ## Index and XP distribution
   
-Part | Title | Max XP 
------|-------|----
-0 | A | 1
+Title | Max XP 
+------|-------
+Raid on Sandpoint | 385
+Journey to Jorgenfist | 500
+Valley of the Black Tower | 500
+Jorgenfist | 500
+Library | 500
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
@@ -37,6 +41,7 @@ Part | Title | Max XP
     - Clockwork librarian
     - Mokmurian
   - too low level creature adjustments
+  - chamber of reduction hazard
   - xp & threat rating
   - treasure by level
 
@@ -52,6 +57,8 @@ Part | Title | Max XP
 - Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 1: Raid on Sandpoint (xp 385, party level 10)
+
+  - if your players go straight to Jorgenfist instead of returning to Sandpoint, then consider moving the raid acter Jorgenfist, where they can discover there is a raiding party on the way to Sandpoint.  
 
   - **Creatures:** 
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
@@ -71,6 +78,8 @@ Part | Title | Max XP
 
 ## Part 2: Journey to Jorgenfist (party level 11)
 
+  - Note it is common for PCs to use travel magic to bypass these encounters.
+
 ### Ogre Cattle Rustlers (xp 45, trivial threat)
  - **Creatures:** 
    - Ogre fighters as per Fort Rannick
@@ -81,6 +90,8 @@ Part | Title | Max XP
 ## Valley of the Black Tower (party level 11)
 
   - As the party could approach the encounters in the second half of this book in any order, then be prepared to dynamically adjust the encounters upwards with elite templates or extra creatures to maintain threat levels.  
+  - Note the scale on the map is NOT 5ft to the square on the Jorgenfist above ground and below ground maps. Many a GM has fallen foul of that small detail!
+  - It is common for PCs to secretly scout using flying, invisibility, etc. and then approach through the rear caves.
 
 ### A1 (xp )
   - **Non standard Creatures:** 
@@ -105,7 +116,7 @@ Part | Title | Max XP
   - **Creatures:** 
     - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Mummy Pharoah](https://2e.aonprd.com/Monsters.aspx?ID=305)
 
-## Jorgenfist
+## Jorgenfist (party level 12)
 
 ### B2
   - **Creatures:** 
@@ -115,9 +126,9 @@ Part | Title | Max XP
   - **Creatures:** 
     - [Galenmir] TO DO
 
-### B6
+### B6 (xp40, low threat)
   - **Creatures:** 
-    - [Flayed Giant] TO DO
+    - [Flayed Giant using Flensing Blades haunt](https://2e.aonprd.com/Hazards.aspx?ID=47)
 
 ### B7a
   - **Creatures:** 
@@ -144,9 +155,11 @@ Part | Title | Max XP
   - **Creatures:** 
     - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## Library
+## Library (party level 13)
 
 ### C2 
+  - **Hazard:**
+    - [Chamber of Reduction] TO DO
   - **Creatures:** 
     - [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
