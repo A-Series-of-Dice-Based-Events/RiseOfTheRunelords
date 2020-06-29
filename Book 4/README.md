@@ -19,7 +19,7 @@
   
 Title | Max XP 
 ------|-------
-Raid on Sandpoint | 385
+Raid on Sandpoint | 500
 Journey to Jorgenfist | 500
 Valley of the Black Tower | 500
 Jorgenfist | 500
@@ -34,7 +34,6 @@ Library | 500
     - Galenmir
     - Lokansir
     - Conna
-    - Lamias
     - Headless lord
     - Forgefiend
     - Clockwork librarian
@@ -55,7 +54,7 @@ Library | 500
 - If they are breezing through then liberally apply elite templates or add minions. 
 - Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: Raid on Sandpoint (xp 385, party level 10)
+## Part 1: Raid on Sandpoint (xp 385+115 story award, party level 10)
 
   - if your players go straight to Jorgenfist instead of returning to Sandpoint, then consider moving the raid to after Jorgenfist, where they can discover there is a raiding party on the way to Sandpoint.  
 
@@ -75,9 +74,15 @@ Library | 500
     - Each giant that isn't blocked likely gets away with 3 prisoners. Plan ahead to include at least one person they know in the prisoners, to make it more keenly felt. 
     - If you dont want the Storval Stairs encounter bypassed (which is a common occurence noted by 1E GMs), then it is useful to have captives mention the Storval Stairs, perhaps as a fallback location, or that they already mark the edge of the territory of the Giants, or that Mokmurian put great emphasis on defending the statues there, or somesuch. Also Brodert might mention the huge ancient statues and that he would like to see them someday. Plus the longer range travel spells such as wind walk or teleport are higher level and less available in 2E.
 
+  - **Story Awards:**
+    - For routing the attack award total XP as if all creatures had been defeated, 385xp and a hero point.
+    - If Longtooth was prevented from burning down half the town award bonus 80xp and a hero point
+    - For getting useful nformation from captives award 35xp
+
+
 ## Part 2: Journey to Jorgenfist (party level 11)
 
-  - Note it is common for PCs to use travel magic to bypass these encounters.
+  - Note it is common for PCs to use travel magic to bypass these encounters. If they do award xp appropriately.
 
 ### Ogre Cattle Rustlers (xp 45, trivial threat)
  - **Creatures:** 
