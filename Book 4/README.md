@@ -35,7 +35,6 @@ Library | 500
     - Lokansir
     - Conna
     - Lamias
-    - Flayed Giant
     - Headless lord
     - Forgefiend
     - Clockwork librarian
@@ -58,7 +57,7 @@ Library | 500
 
 ## Part 1: Raid on Sandpoint (xp 385, party level 10)
 
-  - if your players go straight to Jorgenfist instead of returning to Sandpoint, then consider moving the raid acter Jorgenfist, where they can discover there is a raiding party on the way to Sandpoint.  
+  - if your players go straight to Jorgenfist instead of returning to Sandpoint, then consider moving the raid to after Jorgenfist, where they can discover there is a raiding party on the way to Sandpoint.  
 
   - **Creatures:** 
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
