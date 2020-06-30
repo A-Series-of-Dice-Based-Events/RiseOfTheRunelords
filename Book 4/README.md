@@ -152,8 +152,14 @@ Library | 500
     - [Lokansir] TO DO
 
 ### B13
-  - **Creatures:** 
-    - [quadruple elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Lamias](https://2e.aonprd.com/Monsters.aspx?ID=277)
+  - **Creatures:**
+    - [Lamia Warpriest PDF](./Statblocks/LamiaWarpriest.pdf)  
+    ![Lamia Warpriest PNG](./Statblocks/LamiaWarpriest.png)  
+  - **Tactics:**
+    - Before combat: If the Lamias have warning and time to prepare they cast See invisibility, Freedom of Movement, Air Walk, Protection and Mirror Image. 
+    - During Combat: If they can get more than one PC in a channel or directed channel then they do that (regardless of whether that affects their sister). If they can attack anyone they assume is a caster they use their caress. Otherwise one of the lamias uses cast down and single target harm, while the other attacks with their falchion. Then they swap. If they have a free action they cast shield. If it looks like they are winning then they cast dimensional anchor to prevent escape. They use their superior mobility to make best use of their abilities.
+    - Morale: as per the book, though there is no sending spell.
+
 
 ### B14
   - **Creatures:** 
