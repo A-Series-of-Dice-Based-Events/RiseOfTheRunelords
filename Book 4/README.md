@@ -156,6 +156,7 @@ Library | 500
     - [Lamia Warpriest PDF](./Statblocks/LamiaWarpriest.pdf)  
     ![Lamia Warpriest PNG](./Statblocks/LamiaWarpriest.png)  
   - **Tactics:**
+    - The sisters trash talk each other during combat
     - Before combat: If the Lamias have warning and time to prepare they cast True Seeing, Freedom of Movement, Heroism, Air Walk, Protection and Mirror Image as they see fit. 
     - During Combat: If they can get more than one PC in a channel, directed channel or flame strike then they do that (regardless of whether that affects their sister or allies). If you think they can handle it then they cast chilling darkness on any PC bearing a light spell. If they can attack anyone they assume is a caster they use their caress. Otherwise one of the lamias uses cast down and single target harm, while the other attacks with their falchion. Then they swap. If they have a free action they cast shield. If it looks like they are winning then they cast dimensional anchor to prevent escape. They use their superior mobility to make best use of their abilities.
     - Morale: as per the book
