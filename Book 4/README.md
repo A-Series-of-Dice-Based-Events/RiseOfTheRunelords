@@ -10,7 +10,7 @@
 
 ## General GM information
 
-  - A lot of encounters in this book use mostly standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
+  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
   - There are many encounters where multiple much lower level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
@@ -38,6 +38,8 @@ Library | 500
     - Forgefiend
     - Clockwork librarian
     - Mokmurian
+    - Harpy monks
+    - The Black Monk
   - too low level creature adjustments
   - chamber of reduction hazard
   - xp & threat rating
@@ -114,11 +116,14 @@ Library | 500
 ### A6
   - **Creatures:** 
     - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Harpy Monks](https://2e.aonprd.com/Monsters.aspx?ID=258)
-    - as Harpy song has the incapacitation trait, and that makes these level-4 encounters even more trivial, consider replacing this encounter with higher level creatures.
+    - Needs replacinng with a Monk version.
+    - Conversion note: as both stunning fist and Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
 
 ### A14
   - **Creatures:** 
     - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Mummy Pharoah](https://2e.aonprd.com/Monsters.aspx?ID=305)
+    - Needs replacinng with a Monk version.
+
 
 ## Jorgenfist (party level 12)
 
@@ -158,26 +163,31 @@ Library | 500
   - **Tactics:**
     - The sisters trash talk each other during combat
     - Before combat: If the Lamias have warning and time to prepare they cast True Seeing, Freedom of Movement, Heroism, Air Walk, Protection and Mirror Image as they see fit. 
-    - During Combat: If they can get more than one PC in a channel, directed channel or flame strike then they do that (regardless of whether that affects their sister or allies). If you think they can handle it then they cast chilling darkness on any PC bearing a light spell. If they can attack anyone they assume is a caster they use their caress. Otherwise one of the lamias uses cast down and single target harm, while the other attacks with their falchion. Then they swap. If they have a free action they cast shield. If it looks like they are winning then they cast dimensional anchor to prevent escape. They use their superior mobility to make best use of their abilities.
+    - During Combat: They use their superior mobility to make best use of their abilities.
+    They cast chilling darkness on any PC carrying a light source (note this likely auto counteracts any everburning torches (DC18) and has a chance of turning all their magical lights off, regardless of whether the ray hits).
+    If they can get more than one PC in a channel, directed channel or flame strike then they do that (regardless of whether that affects their sister or allies).  
+    If they can attack anyone they assume is a caster they use their caress. 
+    Otherwise one of the lamias uses cast down and single target harm, while the other attacks with their falchion. Then they swap. If they have a free action they cast shield. 
+    If it looks like they are winning then they cast dimensional anchor to prevent escape. 
     - Morale: as per the book
 
 ### B14
   - **Creatures:** 
     - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## Library (party level 13)
+## Library (XP assumes party level 13)
 
 ### C2 
   - **Hazard:**
     - [Chamber of Reduction] TO DO
   - **Creatures:** 
-    - [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
+    - Elite [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
 
 ### C4
   - **Creatures:** 
     - [Headless Lord] TO DO
-    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
+    - [Triple Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
 ### C5
   - **Creatures:** 
