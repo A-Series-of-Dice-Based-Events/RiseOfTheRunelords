@@ -493,7 +493,7 @@ The other unique ogres are covered individually below.
   - **Encounter Notes:**
     - The terrain makes this moderate threat encounter potentially extremely dangerous. Being thrown off a dam could be life changing.
 
-### C7. Battlefield (XP 60, moderate threat)
+### C7. Battlefield (XP 60, low threat)
 
   - **Creatures:**
     - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Trolls](https://2e.aonprd.com/Monsters.aspx?ID=395)
