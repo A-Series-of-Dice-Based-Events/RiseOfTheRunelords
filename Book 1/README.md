@@ -433,7 +433,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
     ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
-    - When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave.
+    - If his HP drop below half or his sheild breaks, Orik can be persuaded to fight with the PCs or to just leave.
   - **Loot:**
     - [Minor Sturdy Shield](https://2e.aonprd.com/Equipment.aspx?ID=327)
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
