@@ -294,8 +294,8 @@ Note there is no contingency in the treasure. If your players miss something ear
     - Runewell - while active this is an ongoing threat to Sandpoint
 
   - **Loot:**
-    - +1 weapon potency rune (P2)
-    - returning rune (P3)
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
+    - [Returning Rune](https://2e.aonprd.com/Equipment.aspx?ID=301) (P3)
 
 ### Eliminating the Catacombs threat (30xp story award and hero point)
 
@@ -497,7 +497,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 
   - **Loot**
     - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5]
-    - [+1 Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
     - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
     - [Fear Gem Talisman](https://2e.aonprd.com/Equipment.aspx?ID=211)
     - [Tiger Menuki Talisman](https://2e.aonprd.com/Equipment.aspx?ID=236)
