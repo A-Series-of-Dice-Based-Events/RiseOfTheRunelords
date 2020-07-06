@@ -65,8 +65,6 @@ Spellbooks are valued at 50% of the cost of "learn a spell" for the highest leve
 
 Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life).
 
-## Need to do this GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth considerably more than in 1E. However, the value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same).
-
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.
 
 Note there is no contingency in the treasure. If your players miss something early on in the adventure, you may need to include additional items later.
@@ -319,7 +317,7 @@ Note there is no contingency in the treasure. If your players miss something ear
   - this encounter can be bypassed. If successfully bypassed award the same xp.
 
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (80xp, moderate threat, plus 40xp for terrain)
-
+  - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
     ![Gogmurt PNG](./Statblocks/Gogmurt.png)
@@ -328,8 +326,9 @@ Note there is no contingency in the treasure. If your players miss something ear
 
   - **Tactics:** Replace the before combat and during combat tactics as follows:
     - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
-    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind
-    - Gogmurt uses his feather step ability to make maximum use of the bushes for cover and for sneaking.
+    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes (though he can move through it if needs must). He follows up with burning hands from the staff if he can do so safely and if he can avoid burning the bushes with it. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind
+    - If the opportunity arises Gogmurt uses hydraulic push to push someone into the bunyip hole or off a cliff edge or the bridge.
+    - Gogmurt uses his feather step ability to make maximum use of the bushes for cover and for sneaking. Note this feat also allows him to step into an entangle spell.
     
  - **Loot:** 
     - [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356)
@@ -415,7 +414,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - Gold Holy Symbol of Sarenrae worth 13gp
     - Jade Necklace worth 8gp
     - Blue Silk Gown worth 18gp
-    - [Infiltrator's Elixer](https://2e.aonprd.com/Equipment.aspx?ID=93)
+    - [Infiltrator's Elixir](https://2e.aonprd.com/Equipment.aspx?ID=93)
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
 
 ## Thistletop Dungeon Level 1 (340xp, Assumed party level 3)
@@ -462,7 +461,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
   - **Loot:**
     - [Wand of Mage Armor L1](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35)
-    - [Moderate Darkvision Elixer](https://2e.aonprd.com/Equipment.aspx?ID=89)
+    - [Moderate Darkvision Elixr](https://2e.aonprd.com/Equipment.aspx?ID=89)
     - Spellbook worth 18gp
 
   - **Tactics** 
