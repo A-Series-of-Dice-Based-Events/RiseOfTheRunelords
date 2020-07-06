@@ -151,7 +151,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
-    - Regardless of whether they accompany him on the boar hunt, Aldern eventually sends a package of old family heirlooms to the target of his obsession. These were  were once valuable but not so much now. These represent the scraps of items he has not been able to pawn off, and in his growing insanity doesn't realize their worthlessness. They should be sent to the target of his obsession but the intent is that this will be party loot to be shared equally. The total value of the heirlooms is 100sp reward. There is also a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), the magical properties of which he has no clue.
+    - Regardless of whether they accompany him on the boar hunt, Aldern eventually sends a package of old family heirlooms to the target of his obsession. These were  were once valuable but not so much now. These represent the scraps of items he has not been able to pawn off, and in his growing insanity doesn't realize their worthlessness. They should be sent to the target of his obsession but the intent is that this will be party loot to be shared equally. The total value of the heirlooms is 41gp. There is also a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), the magical properties of which he has no clue.
     - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
@@ -356,6 +356,10 @@ Note there is no contingency in the treasure. If your players miss something ear
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    
+### C11. Trophy Hall
+  - **Loot:**
+    - A pearl handled dagger worth 13gp.
 
 ### C13. Pickle Thieves (40xp, trivial threat)
 
@@ -400,16 +404,17 @@ Note there is no contingency in the treasure. If your players miss something ear
 
   - **Loot:**
     - DC 16 Seek to find Iron Key to chest in C24.
+    - Symbol of Sarenrae worth 5gp.
     
 ### C24. Treasury (5xp Hazard)
 
   - **Hazard:**    
     - [Rusty Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6) with only a single blade. If it hits target must save vs [Tetanus](https://2e.aonprd.com/Diseases.aspx?ID=3)  
   - **Loot:**
-    - Assorted coinage to the value of 68gp
-    - Gold Holy Symbol of Sarenrae worth 10gp
-    - Jade Necklace worth 5gp
-    - Blue Silk Gown worth 15gp
+    - Assorted coinage worth 60gp
+    - Gold Holy Symbol of Sarenrae worth 13gp
+    - Jade Necklace worth 8gp
+    - Blue Silk Gown worth 18gp
     - [Infiltrator's Elixer](https://2e.aonprd.com/Equipment.aspx?ID=93)
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
 
@@ -516,7 +521,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     ![Giant Hermit Crab PNG](./Statblocks/GiantHermitCrab.png)
 
   - **Loot:**
-    - Various coins, gems, and other valuables including the giant helm worth a total of 2910sp
+    - Various coins worth 61gp, gems worth 25gp, and a  giant helm worth  200gp
 
 ### E9. Transmutation Room
 
@@ -524,6 +529,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Lesser Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91)
     - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
     - [+1 Armor Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=24)
+    - Tools worth 5gp
 
 ### E10. Malfeshnekors Prison (160xp, extreme threat)
 
