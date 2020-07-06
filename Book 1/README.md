@@ -113,7 +113,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 
   - **Creatures:** 
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
-    - [Mounted Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+    - [Mounted Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233). The goblin commando has a [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) on his bow, increasing his to hit by 1.
     - During Combat The goblin commando uses the superior mobilty of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG if stats are required
@@ -187,7 +187,7 @@ Note there is no contingency in the treasure. If your players miss something ear
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
   - **Loot:**
-    - [Handwraps of might blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
+    - [Handwraps of mighty blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
     - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P1)
     - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58)
     - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179)
@@ -437,7 +437,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
     ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
-    - If his HP drop below half or his sheild breaks, Orik can be persuaded to fight with the PCs or to just leave.
+    - If his HP drop below half or his shield breaks, Orik can be persuaded to fight with the PCs or to just leave.
   - **Loot:**
     - [Minor Sturdy Shield](https://2e.aonprd.com/Equipment.aspx?ID=327)
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
