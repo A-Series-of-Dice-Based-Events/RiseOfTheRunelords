@@ -51,7 +51,25 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-All level 1-4 items and cash should be awarded in this book.
+Treasure allocation approach: https://docs.google.com/spreadsheets/d/1a_elP7ClHzSNUCdade_noig8yZDG5dQXmBSDK98G1_A/edit?usp=sharing
+
+This adventure contains all treasure for 1st through 4th levels.
+
+The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1), and lower level items may be  included as well for flavor.
+
+It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items).
+
+Currency is lower than the guidelines, due to the cost of the permanent and consumable items.
+
+Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells only, usually those currently memorized by the NPC.
+
+Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life).
+
+## Need to do this GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth considerably more than in 1E. However, the value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same).
+
+Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.
+
+Note there is no contingency in the treasure. If your players miss something early on in the adventure, you may need to include additional items later.
 
 ## Friendly NPC Roster (key stats only)
 
@@ -83,7 +101,7 @@ All level 1-4 items and cash should be awarded in this book.
 
  - **Creatures:** 
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
- - **Loot:** none
+ - **Loot:** [Everburning Torch](https://2e.aonprd.com/Equipment.aspx?ID=255) 
 
 ### Goblin Pyros (120xp, severe threat)
 
@@ -91,7 +109,7 @@ All level 1-4 items and cash should be awarded in this book.
     - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
     - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
-  - **Loot:** none
+  - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75)
  
 ### Die Dog Die! (140xp, severe threat)
 
@@ -101,7 +119,7 @@ All level 1-4 items and cash should be awarded in this book.
     - During Combat The goblin commando uses the superior mobilty of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG if stats are required
-  - **Loot:** none
+  - **Loot:** [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
 
 ### Aftermath (30xp and hero point)
   
@@ -133,7 +151,7 @@ All level 1-4 items and cash should be awarded in this book.
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
-    - 100sp reward from Aldern for rescuing him in the raid regardless of whether they accompany him on the boar hunt
+    - Regardless of whether they accompany him on the boar hunt, Aldern eventually sends a package of old family heirlooms to the target of his obsession. These were  were once valuable but not so much now. These represent the scraps of items he has not been able to pawn off, and in his growing insanity doesn't realize their worthlessness. They should be sent to the target of his obsession but the intent is that this will be party loot to be shared equally. The total value of the heirlooms is 41gp. There is also a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), the magical properties of which he has no clue.
     - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
@@ -174,6 +192,8 @@ All level 1-4 items and cash should be awarded in this book.
     - [Handwraps of might blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
     - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P1)
     - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58)
+    - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179)
+    - [Bravo's Brew](https://2e.aonprd.com/Equipment.aspx?ID=84)
 
 ### Rescuing Ameiko (30xp, RP encounter)
 
@@ -193,9 +213,9 @@ All level 1-4 items and cash should be awarded in this book.
 
 ### End of Level 1 (XP, cash and items cross check)
 
-  - at this point the party should have:
+  - at this point the party should have received:
     - enough XP to level up
-    - cash: 40gp 
+    - cash: approximately 40gp 
     - items: 2xP1, 2xP2, 2xC2, 3xC1
 
 ## Part 3B. Catacombs of Wrath (490xp, Party Level 2) 
@@ -209,7 +229,7 @@ All level 1-4 items and cash should be awarded in this book.
 ### B3. Welcoming Chamber
 
   - **Loot:**
-    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 250sp
+    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 85gp
 
 ### B4. Washing Pool (40xp, trivial threat)
 
@@ -228,7 +248,7 @@ All level 1-4 items and cash should be awarded in this book.
 ### B8. Ancient Study
 
   - **Loot:**
-    - [Scroll of Flaming Sphere heightened to level 3](https://2e.aonprd.com/Spells.aspx?ID=121) (C4), Perception DC 19
+    - [Scroll of Flaming Sphere level 2](https://2e.aonprd.com/Spells.aspx?ID=121) (C3), Perception DC 19
 
 ### B9. Prisoner Pits (60xp, moderate threat, plus 20xp for dealing with the zombies)
 
@@ -238,14 +258,17 @@ All level 1-4 items and cash should be awarded in this book.
     ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
-    - +1 weapon potency rune (P2)
-    - low grade silver dagger (P2)
+    - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=277)(P2)
+    - [Moderate Juggernaut Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=94)
+    - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179) 
+    - [Wolf Fang Talisman](https://2e.aonprd.com/Equipment.aspx?ID=239) 
  
 ### B11. Meditation Chamber
 
   - **Loot:**
-    - Scroll of second level spell (situational spell) e.g. Dispel Magic, See Invisibility (C3)
-    - Wand of first level spell (everyday spell) e.g. Mage Armor, Longstrider (P3)
+    - [Scroll of Burning Hands (Level 1)](https://2e.aonprd.com/Spells.aspx?ID=121)(situational spell) e.g. Dispel Magic, See Invisibility (C1)
+    - [Wand of first level spell](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35) (everyday spell) e.g. Mage Armor, Longstrider (P3)
+    - [Oil of Weightlessness](https://2e.aonprd.com/Equipment.aspx?ID=181)
 
 ### B12. Shrine to Lamashtu
 
@@ -264,23 +287,19 @@ All level 1-4 items and cash should be awarded in this book.
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
     - [Erylium PDF](./Statblocks/Erylium.pdf)
-    
     ![Erylium PNG](./Statblocks/Erylium.png)
 
     - Note that to stay flying Erylium must use at least one fly move action per turn. 
     - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
-
     - Runewell - while active this is an ongoing threat to Sandpoint
 
   - **Loot:**
-    - +1 weapon potency rune (P2)
-    - returning rune (P3)
-    - low grade cold iron dagger
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
+    - [Returning Rune](https://2e.aonprd.com/Equipment.aspx?ID=301) (P3)
 
 ### Eliminating the Catacombs threat (30xp story award and hero point)
 
   - for eliminating the threat the catacombs pose to Sandpoint, award 30xp
-
 
 ## Part 4A. Thistletop Approach (500xp, assumed party level 2)
 
@@ -311,13 +330,16 @@ All level 1-4 items and cash should be awarded in this book.
     - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
     - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind
     - Gogmurt uses his feather step ability to make maximum use of the bushes for cover and for sneaking.
+    
+ - **Loot:** 
+    - [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356)
 
 ### C27. Bunyip Lair (60xp, low threat, plus 20xp terrain)
 
   - **Creatures:**
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
   - **Loot:** 
-    - As this is an optional encounter no loot has been placed here. If they do defeat the Bunyip place some coins here.
+    - As this is an optional encounter no loot has been placed here. If they do defeat the Bunyip, this would be a good place to put some treasure that was missed earlier. 
 
 ## Part 4B. Thistletop island top (540xp, assumed party level 3)
 
@@ -334,6 +356,10 @@ All level 1-4 items and cash should be awarded in this book.
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    
+### C11. Trophy Hall
+  - **Loot:**
+    - A pearl handled dagger worth 13gp.
 
 ### C13. Pickle Thieves (40xp, trivial threat)
 
@@ -369,24 +395,28 @@ All level 1-4 items and cash should be awarded in this book.
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
-
+  
+  - **Loot:**
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+    - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+  
 ### C23. Chieftan's Room
 
   - **Loot:**
     - DC 16 Seek to find Iron Key to chest in C24.
-    - DC ?? to find Silver Holy symbol of Lamashtu, ??sp
-
+    - Symbol of Sarenrae worth 5gp.
+    
 ### C24. Treasury (5xp Hazard)
 
   - **Hazard:**    
     - [Rusty Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6) with only a single blade. If it hits target must save vs [Tetanus](https://2e.aonprd.com/Diseases.aspx?ID=3)  
   - **Loot:**
-    - Assorted coinage to the value of 50gp
-    - Gold Holy Symbol of Sarenrae worth 10gp
-    - Jade Necklace worth 5gp
-    - Blue Silk Gown worth 15gp.
-    - Infiltrator’s Elixir pg548
-    - Lesser Healing Potion
+    - Assorted coinage worth 60gp
+    - Gold Holy Symbol of Sarenrae worth 13gp
+    - Jade Necklace worth 8gp
+    - Blue Silk Gown worth 18gp
+    - [Infiltrator's Elixer](https://2e.aonprd.com/Equipment.aspx?ID=93)
+    - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
 
 ## Thistletop Dungeon Level 1 (340xp, Assumed party level 3)
 
@@ -396,6 +426,11 @@ All level 1-4 items and cash should be awarded in this book.
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Bruthazmus PDF](./Statblocks/Bruthazmus.pdf)  
     ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
+    - **Loot:**
+      - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329)
+      - [Climbing Bolt](https://2e.aonprd.com/Equipment.aspx?ID=160)
+      - [Tanglefoot bag, moderate](https://2e.aonprd.com/Equipment.aspx?ID=78)
+      - [Feather Token, Holly Bush](https://2e.aonprd.com/Equipment.aspx?ID=244)
 
 ### D4b. Orik's Chambers (60xp, low threat)
 
@@ -403,7 +438,11 @@ All level 1-4 items and cash should be awarded in this book.
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
     ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
-    - When dropped below half HP, Orik can be persuaded to fight with the PC’s or to just leave.
+    - If his HP drop below half or his sheild breaks, Orik can be persuaded to fight with the PCs or to just leave.
+  - **Loot:**
+    - [Minor Sturdy Shield](https://2e.aonprd.com/Equipment.aspx?ID=327)
+    - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
+    - [Sleep Arrow](https://2e.aonprd.com/Equipment.aspx?ID=166)
 
 ### D7. Tentamort Hunting Grounds (60xp, low threat)
 
@@ -421,7 +460,10 @@ All level 1-4 items and cash should be awarded in this book.
   - **Creatures:**
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
     ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
-
+  - **Loot:**
+    - [Wand of Mage Armor L1](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35)
+    - [Moderate Darkvision Elixer](https://2e.aonprd.com/Equipment.aspx?ID=89)
+    - Spellbook worth 18gp
 
   - **Tactics** 
     - Lyrie has chosen Skivver's familiar abilites of darkvision and scent to give her warning of any approach
@@ -459,9 +501,12 @@ All level 1-4 items and cash should be awarded in this book.
     - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as approprite to make good her escape.
 
   - **Loot**
-    - Breastplate, Composite Longbow
     - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5]
-    - +1 Striking Falchion [P3], 
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+    - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+    - [Fear Gem Talisman](https://2e.aonprd.com/Equipment.aspx?ID=211)
+    - [Tiger Menuki Talisman](https://2e.aonprd.com/Equipment.aspx?ID=236)
+    
  
 ### E6. Crypt (80xp, moderate threat)
 
@@ -476,18 +521,15 @@ All level 1-4 items and cash should be awarded in this book.
     ![Giant Hermit Crab PNG](./Statblocks/GiantHermitCrab.png)
 
   - **Loot:**
-    - 1400sp
-    - Mistform Elixir
-    - +1 Armor Rune
+    - Various coins worth 61gp, gems worth 25gp, and a  giant helm worth  200gp
 
 ### E9. Transmutation Room
 
   - **Loot:**
-    - Wand of 2nd level spell (everyday spell) e.g. Heightened Longstrider (P5)
-    - Lesser Elixir of Life
-    - Disrupting Rune
-    - +1 Weapon Potency Rune
-    - +1 Heavy Armor Rune
+    - [Lesser Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91)
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+    - [+1 Armor Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=24)
+    - Tools worth 5gp
 
 ### E10. Malfeshnekors Prison (160xp, extreme threat)
 
