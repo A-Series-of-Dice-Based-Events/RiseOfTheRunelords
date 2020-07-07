@@ -492,6 +492,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
     - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with sweeping Falchion attacks and harm. She uses her Shield spell if she has an action free.
     - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as approprite to make good her escape.
+    - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defences using [Lamashtu's Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. 
 
   - **Loot**
     - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5]
