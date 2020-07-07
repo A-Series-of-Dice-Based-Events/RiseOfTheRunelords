@@ -55,7 +55,7 @@ Treasure allocation approach: https://docs.google.com/spreadsheets/d/1a_elP7ClHz
 
 This adventure contains all treasure for 1st through 4th levels.
 
-The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1), and lower level items may be  included as well for flavor.
+The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1).
 
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items).
 
@@ -99,7 +99,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 
  - **Creatures:** 
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
- - **Loot:** [Everburning Torch](https://2e.aonprd.com/Equipment.aspx?ID=255) 
+ - **Loot:** [Everburning Torch](https://2e.aonprd.com/Equipment.aspx?ID=255) that one of the goblins is using to try and set fire to things!
 
 ### Goblin Pyros (120xp, severe threat)
 
@@ -107,7 +107,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
     - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
-  - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75)
+  - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) that the goblins are using to burn wooden houses.
  
 ### Die Dog Die! (140xp, severe threat)
 
@@ -149,7 +149,8 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
-    - Regardless of whether they accompany him on the boar hunt, Aldern eventually sends a package of old family heirlooms to the target of his obsession. These were  were once valuable but not so much now. These represent the scraps of items he has not been able to pawn off, and in his growing insanity doesn't realize their worthlessness. They should be sent to the target of his obsession but the intent is that this will be party loot to be shared equally. The total value of the heirlooms is 41gp. There is also a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), the magical properties of which he has no clue.
+    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party with 41gp, either as cash or as a package of old family heirlooms sent to the target of his obsession. (in the backstory Aldern is broke so choose whichever option you are comfortable with as GM). These items were were once very valuable but neglect has reduced their value. These represent the items he has not yet been able to pawn off, and in his growing insanity doesn't realize their value. They should be sent to "the heroes of sandpoint, care of ...the target of his obsession...".  
+      - Aldern also magnanimously gives an interesting but what he secretly thinks is worthless [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), the magical properties of which he has no clue.
     - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
@@ -208,13 +209,6 @@ Note there is no contingency in the treasure. If your players miss something ear
 
   - for eliminating the goblin menace and discovering the secret tunnels, which can now be guarded, award 30xp. 
 
-
-### End of Level 1 (XP, cash and items cross check)
-
-  - at this point the party should have received:
-    - enough XP to level up
-    - cash: approximately 40gp 
-    - items: 2xP1, 2xP2, 2xC2, 3xC1
 
 ## Part 3B. Catacombs of Wrath (490xp, Party Level 2) 
 
