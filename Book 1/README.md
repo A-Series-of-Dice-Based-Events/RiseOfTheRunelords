@@ -9,7 +9,7 @@
   - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## TO DO
-  - 2E Treasure by level allocation - replace old treasure with new level guidelines
+  - Proof read and beta test
 
 ## General GM information
 
@@ -51,7 +51,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-Treasure allocation approach: https://docs.google.com/spreadsheets/d/1a_elP7ClHzSNUCdade_noig8yZDG5dQXmBSDK98G1_A/edit?usp=sharing
+[Treasure allocation approach](https://docs.google.com/spreadsheets/d/18jlGuaCs5O1qm3dP0zck3_I4YpZK4_aEerwI_J5LOnk/)
 
 This adventure contains all treasure for 1st through 4th levels.
 
@@ -74,11 +74,11 @@ Note there is no contingency in the treasure. If your players miss something ear
   - [Sherriff Belor Hemlock](https://2e.aonprd.com/NPCs.aspx?ID=936) - If required use the Watch Officer from the GMG.
   - 12x [Town Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG.
   - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG. 
-  - [Father Abstalar Zantus - cleric of Desna] - Cleric 4 
+  - [Father Abstalar Zantus - cleric of Desna] - Cleric 4. If required use a Pathfinder Society pregenerated cleric.
   - 4x [Cathedral Acolytes](https://2e.aonprd.com/NPCs.aspx?ID=893) using the Acolyte from the GMG.
-  - [Ameiko Kaijutsu - tavern owner] Bard 4
-  - [Ilsoari Gandethus - Headmaster] Wizard 4
-  - [Daviren Hosk - stable owner] Ranger 4
+  - [Ameiko Kaijutsu - tavern owner] Bard 4. 
+  - [Ilsoari Gandethus - Headmaster] Wizard 4. If required use a Pathfinder Society pregenerated wizard.
+  - [Daviren Hosk - stable owner] Ranger 4.
   - [Shelelu Andosana - Elven Ranger] Ranger 5
   - [Brodert Quink - Sage] - Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
   - townsfolk using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level [NPCs](https://2e.aonprd.com/NPCs.aspx) from the GMG
@@ -99,15 +99,15 @@ Note there is no contingency in the treasure. If your players miss something ear
 
  - **Creatures:** 
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
- - **Loot:** [Everburning Torch](https://2e.aonprd.com/Equipment.aspx?ID=255) that one of the goblins is using to try and set fire to things!
+ - **Loot:** [Everburning Torch](https://2e.aonprd.com/Equipment.aspx?ID=255) (P1) that one of the goblins is using to try and set fire to things!
 
 ### Goblin Pyros (120xp, severe threat)
 
   - **Creatures:** 
-    - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234)
+    - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) - these have [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) to set fire to wooden buildings. See loot below.
     - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
     - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
-  - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) that the goblins are using to burn wooden houses.
+  - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) (C1) that the goblins are using to burn wooden houses.
  
 ### Die Dog Die! (140xp, severe threat)
 
@@ -117,14 +117,14 @@ Note there is no contingency in the treasure. If your players miss something ear
     - During Combat The goblin commando uses the superior mobilty of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG if stats are required
-  - **Loot:** [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+  - **Loot:** [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
 
 ### Aftermath (30xp and hero point)
   
   - for helping drive off a goblin attack 30xp
 
   - **Loot:**
-    - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth 35sp each = 140sp)
+    - Ameiko rewards the Party with free lodging at the Rusty Dragon for a week (worth up to 5sp/night each, not included in treasure)
 
 
 ## Part 2: Local Heroes (260xp, Party level 1)
@@ -149,8 +149,8 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
-    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party with 41gp, either as cash or as a package of old family heirlooms sent to the target of his obsession. (in the backstory Aldern is broke so choose whichever option you are comfortable with as GM). These items were were once very valuable but neglect has reduced their value. These represent the items he has not yet been able to pawn off, and in his growing insanity doesn't realize their value. They should be sent to "the heroes of sandpoint, care of ...the target of his obsession...".  
-      - Aldern also magnanimously gives an interesting but what he secretly thinks is worthless [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), the magical properties of which he has no clue.
+    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party with 41gp, either as cash or as a package of old family heirlooms sent to the target of his obsession. (in the backstory Aldern is broke so choose whichever option you are comfortable with as GM). These items were were once very valuable but neglect has reduced their value. These represent the items he has not yet been able to pawn off, and in his growing insanity doesn't realize their value. They should be sent to "the heroes of sandpoint, care of ...whoever is the target of his obsession...".  
+      - Aldern also magnanimously gives an interesting but what he secretly thinks is worthless [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) (P1), the magical properties of which he has no clue.
     - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
@@ -189,17 +189,17 @@ Note there is no contingency in the treasure. If your players miss something ear
     - 120xp + 20xp per goblin who joined.
   - **Loot:**
     - [Handwraps of mighty blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
-    - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P1)
-    - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58)
-    - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179)
-    - [Bravo's Brew](https://2e.aonprd.com/Equipment.aspx?ID=84)
+    - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P-)
+    - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58) (P-)
+    - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179) (C2)
+    - [Bravo's Brew](https://2e.aonprd.com/Equipment.aspx?ID=84) (C2)
 
 ### Rescuing Ameiko (30xp, RP encounter)
 
   - 30xp for rescuing her.
   - Ameiko is unconscious and will wake at GM discretion or with any healing
   - **Loot:**
-    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth 35sp per week each when in town). This is not included in the level based cash total.
+    - Ameiko rewards the Party with free lodging at the Rusty Dragon for life (worth up to 5sp per night each when in town). This is not included in the level based cash total.
 
 ### Interrogating Tsuto (30xp, RP encounter)
 
@@ -230,7 +230,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 
     ![Vargouille PNG](./Statblocks/Vargouille.png)
 
-    - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20)
+    - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20) with the same trigger conditions.
 
 ### B6. Ancient Prison (80xp, moderate threat)
 
@@ -240,7 +240,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 ### B8. Ancient Study
 
   - **Loot:**
-    - [Scroll of Flaming Sphere level 2](https://2e.aonprd.com/Spells.aspx?ID=121) (C3), Perception DC 19
+    - [Scroll of Flaming Sphere (level 2)](https://2e.aonprd.com/Spells.aspx?ID=121) (C3), Perception DC 19
 
 ### B9. Prisoner Pits (60xp, moderate threat, plus 20xp for dealing with the zombies)
 
@@ -250,17 +250,17 @@ Note there is no contingency in the treasure. If your players miss something ear
     ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
-    - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=277)(P2)
-    - [Moderate Juggernaut Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=94)
-    - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179) 
-    - [Wolf Fang Talisman](https://2e.aonprd.com/Equipment.aspx?ID=239) 
+    - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=277) (P2)
+    - [Moderate Juggernaut Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=94) (C3)
+    - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179) (C2)
+    - [Wolf Fang Talisman](https://2e.aonprd.com/Equipment.aspx?ID=239) (C1)
  
 ### B11. Meditation Chamber
 
   - **Loot:**
-    - [Scroll of Burning Hands (Level 1)](https://2e.aonprd.com/Spells.aspx?ID=121)(situational spell) e.g. Dispel Magic, See Invisibility (C1)
-    - [Wand of first level spell](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35) (everyday spell) e.g. Mage Armor, Longstrider (P3)
-    - [Oil of Weightlessness](https://2e.aonprd.com/Equipment.aspx?ID=181)
+    - [Scroll of Burning Hands (Level 1)](https://2e.aonprd.com/Spells.aspx?ID=121) (C1)
+    - [Wand of Mage Armor](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35) (P3)
+    - [Oil of Weightlessness](https://2e.aonprd.com/Equipment.aspx?ID=181) (C2)
 
 ### B12. Shrine to Lamashtu
 
@@ -325,7 +325,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - Gogmurt uses his feather step ability to make maximum use of the bushes for cover and for sneaking. Note this feat also allows him to step into an entangle spell.
     
  - **Loot:** 
-    - [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356)
+    - [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356) (P3)
 
 ### C27. Bunyip Lair (60xp, low threat, plus 20xp terrain)
 
@@ -390,8 +390,8 @@ Note there is no contingency in the treasure. If your players miss something ear
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
   
   - **Loot:**
-    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
-    - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
+    - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P4)
   
 ### C23. Chieftan's Room
 
@@ -408,8 +408,8 @@ Note there is no contingency in the treasure. If your players miss something ear
     - Gold Holy Symbol of Sarenrae worth 13gp
     - Jade Necklace worth 8gp
     - Blue Silk Gown worth 18gp
-    - [Infiltrator's Elixir](https://2e.aonprd.com/Equipment.aspx?ID=93)
-    - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
+    - [Infiltrator's Elixir](https://2e.aonprd.com/Equipment.aspx?ID=93) (C2)
+    - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (C3)
 
 ## Thistletop Dungeon Level 1 (340xp, Assumed party level 3)
 
@@ -420,10 +420,10 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Bruthazmus PDF](./Statblocks/Bruthazmus.pdf)  
     ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
     - **Loot:**
-      - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329)
-      - [Climbing Bolt](https://2e.aonprd.com/Equipment.aspx?ID=160)
-      - [Tanglefoot bag, moderate](https://2e.aonprd.com/Equipment.aspx?ID=78)
-      - [Feather Token, Holly Bush](https://2e.aonprd.com/Equipment.aspx?ID=244)
+      - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329) (C4)
+      - [Climbing Bolt](https://2e.aonprd.com/Equipment.aspx?ID=160) (C4)
+      - [Tanglefoot bag, moderate](https://2e.aonprd.com/Equipment.aspx?ID=78) (C3)
+      - [Feather Token, Holly Bush](https://2e.aonprd.com/Equipment.aspx?ID=244) (C2)
 
 ### D4b. Orik's Chambers (60xp, low threat)
 
@@ -433,9 +433,9 @@ Note there is no contingency in the treasure. If your players miss something ear
   - **Tactics:**
     - If his HP drop below half or his shield breaks, Orik can be persuaded to fight with the PCs or to just leave.
   - **Loot:**
-    - [Minor Sturdy Shield](https://2e.aonprd.com/Equipment.aspx?ID=327)
-    - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
-    - [Sleep Arrow](https://2e.aonprd.com/Equipment.aspx?ID=166)
+    - [Minor Sturdy Shield](https://2e.aonprd.com/Equipment.aspx?ID=327) (P4)
+    - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (C3)
+    - [Sleep Arrow](https://2e.aonprd.com/Equipment.aspx?ID=166) (C3)
 
 ### D7. Tentamort Hunting Grounds (60xp, low threat)
 
@@ -453,10 +453,6 @@ Note there is no contingency in the treasure. If your players miss something ear
   - **Creatures:**
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
     ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
-  - **Loot:**
-    - [Wand of Mage Armor L1](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35)
-    - [Moderate Darkvision Elixr](https://2e.aonprd.com/Equipment.aspx?ID=89)
-    - Spellbook worth 18gp
 
   - **Tactics** 
     - Lyrie has chosen Skivver's familiar abilites of darkvision and scent to give her warning of any approach
@@ -464,16 +460,16 @@ Note there is no contingency in the treasure. If your players miss something ear
       - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
 
   - **Loot:**
-    - Wand of first level spell (everyday spell) e.g. Mage Armor (P3)
-    - Spellbook worth 18GP (6x second level spells)
-
+    - [Wand of Mage Armor L1](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35) (P3)
+    - [Moderate Darkvision Elixir](https://2e.aonprd.com/Equipment.aspx?ID=89) (C4)
+    - Spellbook worth 18gp (6x second level spells)
 
 ## Thistletop Dungeon Level 2 (530xp, Assumed party level 3)
 
 ### E3. Trapped Hall Level 4 (10xp)
 
   **Hazard:** 
-    - Stealth DC 23,
+      - Stealth DC 23,
     - Disable: Expert Crafting DC 17 or Trained Thievery DC 19
     - Reflex DC 17
     - Success: no Damage
@@ -492,21 +488,21 @@ Note there is no contingency in the treasure. If your players miss something ear
     - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
     - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with sweeping Falchion attacks and harm. She uses her Shield spell if she has an action free.
     - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as approprite to make good her escape.
-    - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defences using [Lamashtu's Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. 
+    - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defences using her [Mark of Lamashtu / Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. She might also do this if captured and left alone.
 
   - **Loot**
-    - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5]
-    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
-    - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
-    - [Fear Gem Talisman](https://2e.aonprd.com/Equipment.aspx?ID=211)
-    - [Tiger Menuki Talisman](https://2e.aonprd.com/Equipment.aspx?ID=236)
+    - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) (P5)
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
+    - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P4)
+    - [Fear Gem Talisman](https://2e.aonprd.com/Equipment.aspx?ID=211) (C4)
+    - [Tiger Menuki Talisman](https://2e.aonprd.com/Equipment.aspx?ID=236) (C5)
     
  
 ### E6. Crypt (80xp, moderate threat)
 
   - **Creatures:**
     - 2x weak [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
-    - Note that standard Shadows are a much higher threat in 2E, so reduced numbers. 
+    - Note that standard Shadows are a much higher threat in 2E, so reduced numbers and weakened. 
 
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
@@ -520,9 +516,9 @@ Note there is no contingency in the treasure. If your players miss something ear
 ### E9. Transmutation Room
 
   - **Loot:**
-    - [Lesser Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91)
-    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25)
-    - [+1 Armor Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=24)
+    - [Lesser Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91) (C5)
+    - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
+    - [+1 Armor Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=24) (P5)
     - Tools worth 5gp
 
 ### E10. Malfeshnekors Prison (160xp, extreme threat)

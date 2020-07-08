@@ -16,6 +16,10 @@ Where multiple options for a single monster exists explain the differences below
 ## General
   - some builds use the core rulebook, some use a bestiary entry as a starting point and then layer on other abilities using monster builder to stay within GMG recommended ranges  
 
+## Shalelu (not a core build)
+  - TO DO
+  - need a decision on what level to make her as level 5 as a support character seem too high 
+
 ## Vargouille
   - build largely from the playtest bestiary
   - the option to use an animated statue of Lamashtu with the same trigger conditions is there if you want a standard creature that fits the theme
