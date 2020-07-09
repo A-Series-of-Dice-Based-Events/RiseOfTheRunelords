@@ -66,7 +66,7 @@ Currency is lower than the guidelines, due to the cost of the permanent and cons
 
 Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells only, usually those currently memorized by the NPC.
 
-Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life). 
+Sihedron Medallions are valued at 160 gp (equivalent to a 2nd level wand of False Life). 
 
 GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth considerably more than in 1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
 

@@ -14,7 +14,7 @@
 ## General GM information
 
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
-  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion. See [level based DCs](https://2e.aonprd.com/Rules.aspx?ID=554) for guidance.
+  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. All other DCs are left to GM discretion. See [level based DCs](https://2e.aonprd.com/Rules.aspx?ID=554) for guidance.
   - Note there is a lot of background detail in the Sandpoint campaign setting that is useful, though with first edition stats. Be careful if using color text from it as it is set after the events of this adventure path and contains many subtle spoilers.
 
 ## Party Levelling Milestones
@@ -57,17 +57,19 @@ This adventure contains all treasure for 1st through 4th levels.
 
 The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1).
 
-It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items).
+Generally cash values of items such as coins and art objects are divided by between 10 and 20 to convert to 2E, depending on how well it fits the 2E wealth guidelines. 
 
-Currency is lower than the guidelines, due to the cost of the permanent and consumable items.
+Any magical items in 1E treasure are replaced by 2E items in this guide.
+
+It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items).
 
 Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells only, usually those currently memorized by the NPC.
 
-Sihedron Medallions are valued at 500 gp (equivalent to a 2nd level wand of False Life).
+Sihedron Medallions are valued at 160 gp (equivalent to a 2nd level wand of False Life).
 
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.
 
-Note there is no contingency in the treasure. If your players miss something early on in the adventure, you may need to include additional items later.
+There is no spare treasure. If your players miss something early on in the adventure, you should include additional items later.
 
 ## Friendly NPC Roster (key stats only)
 
@@ -93,7 +95,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 
 ### Goblin notes
 
-  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, other tiny animals, babies...
+  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -149,8 +151,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
-    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party with 41gp, either as cash or as a package of old family heirlooms sent to the target of his obsession. (in the backstory Aldern is broke so choose whichever option you are comfortable with as GM). These items were were once very valuable but neglect has reduced their value. These represent the items he has not yet been able to pawn off, and in his growing insanity doesn't realize their value. They should be sent to "the heroes of sandpoint, care of ...whoever is the target of his obsession...".  
-      - Aldern also magnanimously gives an interesting but what he secretly thinks is worthless [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) (P1), the magical properties of which he has no clue.
+    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party by giving a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) (P1) to his favorite party member, as he thinks it makes it look like they have a halo and look more angelic.
     - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
@@ -188,6 +189,7 @@ Note there is no contingency in the treasure. If your players miss something ear
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
   - **Loot:**
+    - Divide the value of all Tsuto's valuables by 10
     - [Handwraps of mighty blows](https://2e.aonprd.com/Equipment.aspx?ID=441) (P2)
     - [Composite Shortbow](https://2e.aonprd.com/Weapons.aspx?ID=75) (P-)
     - [Thieves Tools](https://2e.aonprd.com/Equipment.aspx?ID=58) (P-)
@@ -221,7 +223,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 ### B3. Welcoming Chamber
 
   - **Loot:**
-    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 85gp
+    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 55gp
 
 ### B4. Washing Pool (40xp, trivial threat)
 
@@ -250,7 +252,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
-    - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=277) (P2)
+    - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=379) (P2)
     - [Moderate Juggernaut Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=94) (C3)
     - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179) (C2)
     - [Wolf Fang Talisman](https://2e.aonprd.com/Equipment.aspx?ID=239) (C1)
@@ -261,6 +263,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     - [Scroll of Burning Hands (Level 1)](https://2e.aonprd.com/Spells.aspx?ID=121) (C1)
     - [Wand of Mage Armor](https://2e.aonprd.com/Equipment.aspx?Category=34&Subcategory=35) (P3)
     - [Oil of Weightlessness](https://2e.aonprd.com/Equipment.aspx?ID=181) (C2)
+    - Prayer book worth 10gp
 
 ### B12. Shrine to Lamashtu
 
@@ -397,17 +400,18 @@ Note there is no contingency in the treasure. If your players miss something ear
 
   - **Loot:**
     - DC 16 Seek to find Iron Key to chest in C24.
-    - Symbol of Sarenrae worth 5gp.
+    - Symbol of Sarenrae worth 4gp.
     
 ### C24. Treasury (5xp Hazard)
 
   - **Hazard:**    
     - [Rusty Scythe Blade](https://2e.aonprd.com/Hazards.aspx?ID=6) with only a single blade. If it hits target must save vs [Tetanus](https://2e.aonprd.com/Diseases.aspx?ID=3)  
   - **Loot:**
-    - Assorted coinage worth 60gp
-    - Gold Holy Symbol of Sarenrae worth 13gp
-    - Jade Necklace worth 8gp
-    - Blue Silk Gown worth 18gp
+    - Assorted coinage worth 44gp (divide all coin totals by 10)
+    - Malachites worth 3.4 gp total
+    - Gold Holy Symbol of Sarenrae worth 10gp
+    - Jade Necklace worth 6gp
+    - Blue Silk Gown worth 15gp
     - [Infiltrator's Elixir](https://2e.aonprd.com/Equipment.aspx?ID=93) (C2)
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (C3)
 
@@ -501,7 +505,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 ### E6. Crypt (80xp, moderate threat)
 
   - **Creatures:**
-    - 2x weak [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
+    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
     - Note that standard Shadows are a much higher threat in 2E, so reduced numbers and weakened. 
 
 ### E7. Collapsed Treasury (80xp, moderate threat)
@@ -511,7 +515,7 @@ Note there is no contingency in the treasure. If your players miss something ear
     ![Giant Hermit Crab PNG](./Statblocks/GiantHermitCrab.png)
 
   - **Loot:**
-    - Various coins worth 61gp, gems worth 25gp, and a  giant helm worth  200gp
+    - Divide all book treasure values by 20
 
 ### E9. Transmutation Room
 

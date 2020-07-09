@@ -25,7 +25,7 @@ Where multiple options for a single monster exists explain the differences below
   - the option to use an animated statue of Lamashtu with the same trigger conditions is there if you want a standard creature that fits the theme
 
 ## Tsuto
-  - built as a monk with rogue dedication
+  - built as a monk with rogue dedication. This was an early build and needs revisiting as his stats are off.
 
 ## Erylium
   - based off the playtest bestiary entry and upscaled with added occult spells. Likely needs revisiting.
