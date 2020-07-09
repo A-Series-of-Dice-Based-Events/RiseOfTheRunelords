@@ -57,9 +57,9 @@ This adventure contains all treasure for 1st through 4th levels.
 
 The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1).
 
-Generally cash values of items such as coins and art objects are divided by between 10 and 20 to convert to 2E, depending on how well it fits the 2E wealth guidelines. 
+As a general rule divide the gp values of valuables by 10 to convert to 2E. Occassionally they are divided by 20 in order to fit the 2E wealth guidelines. 
 
-Any magical items in 1E treasure are replaced by 2E items in this guide.
+All magical items in 1E treasure are replaced by 2E items in this guide.
 
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items).
 
@@ -151,7 +151,7 @@ There is no spare treasure. If your players miss something early on in the adven
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
-    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party by giving a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) (P1) to his favorite party member, as he thinks it makes it look like they have a halo and look more angelic.
+    - Regardless of whether they accompany him on the boar hunt, Aldern rewards the party by giving the party 1gp each and a [Dull Gray Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) (P1) to his favorite party member, as he thinks it makes it look like they have a halo and look more angelic.
     - Aldern has a painting commissioned entitled "The Heroes of Sandpoint" showing him and the PCs in action against the goblins, which makes it look like he is part of the party. He donates it to the Rusty Dragon to be hung in the lounge. (Note this is useful if you have party member changes between now and book 2 as it provides continuity)
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
