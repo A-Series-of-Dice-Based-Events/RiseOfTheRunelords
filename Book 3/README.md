@@ -53,8 +53,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-Treasure allocation approach: 
-https://docs.google.com/spreadsheets/d/1a_elP7ClHzSNUCdade_noig8yZDG5dQXmBSDK98G1_A/edit?usp=sharing
+[Treasure allocation approach](https://docs.google.com/spreadsheets/d/1a_elP7ClHzSNUCdade_noig8yZDG5dQXmBSDK98G1_A/edit?usp=sharing)
 
 This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
 
