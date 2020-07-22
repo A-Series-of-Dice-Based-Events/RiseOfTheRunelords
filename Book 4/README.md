@@ -30,9 +30,7 @@ Library | 500
 
 
 ## TO DO
-  - most unique creatures
-    - Galenmir
-    - Lokansir
+  - many unique creatures
     - Conna
     - Headless lord
     - Forgefiend
@@ -133,7 +131,8 @@ Library | 500
 
 ### B3
   - **Creatures:** 
-    - [Galenmir] TO DO
+    - [Galenmir](./Statblocks/Galenmir.pdf)
+    ![Galenmir PNG](./Statblocks/Galenmir.png)
 
 ### B6 (xp40, low threat)
   - **Creatures:** 
@@ -154,7 +153,8 @@ Library | 500
 
 ### B11
   - **Creatures:** 
-    - [Lokansir] TO DO
+    - [Lokansir](./Statblocks/Lokansir.pdf)  
+    ![Lokansir PNG](./Statblocks/Lokansir.png) 
 
 ### B13
   - **Creatures:**
