@@ -1,16 +1,17 @@
 # Rise Of The Runelords - 2E Conversion
 
 A repository for the conversion guides for those wishing to run and convert RotR to Pathfinder 2E.
-The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds  the individual monster/NPC stat blocks which are linked to from the guide.  
+The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds the individual monster/NPC stat blocks which are linked to from the guide.  
 
 * [Campaign Backgrounds](./RotRCampaignBackgrounds.md)  
-* [Book 1: Burnt Offerings](./Book%201) - complete - awaiting community feedback
-* [Book 2: The Skinsaw Murders](./Book%202) - in progress
-* [Book 3: The Hook Mountain Massacre](./Book%203) - complete - awaiting community feedback
-* [Book 4: Fortress of the Stone Giants](./Book%204) - in progress
-* [Book 5: Sins of the Saviors](./Book%205) - not started
-* [Book 6: Spires of Xin-Shalast](./Book%206) - not started
-* [Thassilonian Magic](./ThassilonianMagic)
+* [Book 1: Burnt Offerings](./Book%201/README.md) - complete - awaiting community feedback
+* [Book 2: The Skinsaw Murders](./Book%202/README.md) - in progress
+* [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete - awaiting community feedback
+* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - in progress
+* [Book 5: Sins of the Saviors](./Book%205/README.md) - not started
+* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - not started
+* [Thassilonian Magic](./ThassilonianMagic/README.md)
+* [OGL](./OGL.md)
 
 ## Join us
 
@@ -19,6 +20,7 @@ To join us just ask @mirkorainer on GitHub or in the [A Series of Dice-Based Eve
 Once you're added as a member, you can add and approve changes. All the changes are tracked so if we make a mistake, we can refer back to the old version.  
 
 ## Recommended Tool
+
 We generaly use the [PF2 Monster Builder](http://monster.pf2.tools/) to create NPCs and Monsters. This uses JSON, PNG and PDF files, that can be easily imported/exported. 
 
 This repository holds those files publicly sourced and created, as well as other tools/files.  
