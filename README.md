@@ -1,4 +1,4 @@
-# Rise Of The Runelords
+# Rise Of The Runelords - 2E Conversion
 
 A repository for the conversion guides for those wishing to run and convert RotR to Pathfinder 2E.
 The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds  the individual monster/NPC stat blocks which are linked to from the guide.  
