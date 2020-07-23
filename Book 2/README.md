@@ -59,7 +59,22 @@ If they are breezing through then liberally apply elite templates or add minions
 
   - **XP:** The XP awards in the book are divided by ten.
 
+
 ## Part 2: The Thing in the Attic (XP ??, Party Level 5)
+
+### A5 (40xp, low threat)
+  - For Gortus and Gurnak use the Pathfinder Society rogue 3 pregen with darkvision and a level 2 innate darkness cantrip ability.
+
+### A11 (30xp, low threat)
+  - Pidget Tergelson [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
+
+### A15 (60xp, low threat)   
+  - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](http://2e.aonprd.com/Monsters.aspx?ID=424)
+
+### A16 
+  - Erin Habe TO DO
+  - Grayst Sevilla TO DO
+  - Caizarlu Zerren TO DO
 
 ## Part 3: Walking Scarecrows (XP ??, Party Level 5)
 
@@ -110,13 +125,25 @@ If they are breezing through then liberally apply elite templates or add minions
 ### B23 
   - Unfulfilled Glories ![Unfulfilled Glories PNG](./Statblocks/UnfulfilledGlories.png)
 
+### B25
+  - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
+
 ### B29 
   - Origins of Lichdom ![Origins of Lichdom PNG](./Statblocks/OriginsOfLichdom.png)
 
 ### B30 
   - Ghoulish Uprising ![Ghoulish Uprising PNG](./Statblocks/GhoulishUprising.png)
 
+### B33
+  - Yellow Mold TO DO
+
+### B34/B35
+  - Party level 5: [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
+  - Party level 6: Add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)
+
 ### B37  
+  - [The Skinsaw Man] TO DO
+
   - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
 ## Part 5: Chasing The Skinsaw (XP ??, Party Level 6)
