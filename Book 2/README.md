@@ -72,52 +72,52 @@ If they are breezing through then liberally apply elite templates or add minions
   - [Carrionstorm] TO DO
 
 ### B2
-  - Burning Manticore ![Burning Manticore PNG](./statblocks/BurningManticore.png)
+  - Burning Manticore ![Burning Manticore PNG](./Statblocks/BurningManticore.png)
 
 ### B5 
-  - Worried Wife ![Worried Wife PNG](./statblocks/WorriedWife.png)
+  - Worried Wife ![Worried Wife PNG](./Statblocks/WorriedWife.png)
 
 ### B6 
   - Vorel's Phage TO DO
 
 ### B7  
-  - Dance of Ruin ![Dance of Ruin PNG](./statblocks/DanceOfRuin.png)
+  - Dance of Ruin ![Dance of Ruin PNG](./Statblocks/DanceOfRuin.png)
 
 ### B9 
-  - Iesha's Vengeance ![Iesha's Vengeance PNG](./statblocks/IeshasVengeance.png)
+  - Iesha's Vengeance ![Iesha's Vengeance PNG](./Statblocks/IeshasVengeance.png)
   
 ### B11 
-  - Frightened Child ![Frightened Child PNG](./statblocks/FrightenedChild.png)
+  - Frightened Child ![Frightened Child PNG](./Statblocks/FrightenedChild.png)
   
 ### B13 
-  - Phantom Phage ![Phantom Phage PNG](./statblocks/PhantomPhage.png)
+  - Phantom Phage ![Phantom Phage PNG](./Statblocks/PhantomPhage.png)
   
 ### B14 
-  - Collapsing Floor ![Collapsing Floor PNG](./statblocks/CollapsingFloor.png)
+  - Collapsing Floor ![Collapsing Floor PNG](./Statblocks/CollapsingFloor.png)
   
 ### B15 
-  - Misogynistic Rage ![Misogynistic Rage PNG](./statblocks/MisogynisticRage.png)
+  - Misogynistic Rage ![Misogynistic Rage PNG](./Statblocks/MisogynisticRage.png)
 
 ### B17 
-  - The Stricken Family ![The Stricken Family PNG](./statblocks/StrickenFamily.png)
+  - The Stricken Family ![The Stricken Family PNG](./Statblocks/StrickenFamily.png)
 
 ### B18 
-  - Suicide Compulsion ![Suicide Compulsion PNG](./statblocks/SuicideCompulsion.png)
+  - Suicide Compulsion ![Suicide Compulsion PNG](./Statblocks/SuicideCompulsion.png)
 
 ### B22 
-  - Plummeting Inferno ![Plummeting Inferno PNG](./statblocks/PlummetingInferno.png)
+  - Plummeting Inferno ![Plummeting Inferno PNG](./Statblocks/PlummetingInferno.png)
 
 ### B23 
-  - Unfulfilled Glories ![Unfulfilled Glories PNG](./statblocks/UnfulfilledGlories.png)
+  - Unfulfilled Glories ![Unfulfilled Glories PNG](./Statblocks/UnfulfilledGlories.png)
 
 ### B29 
-  - Origins of Lichdom ![Origins of Lichdom PNG](./statblocks/OriginsOfLichdom.png)
+  - Origins of Lichdom ![Origins of Lichdom PNG](./Statblocks/OriginsOfLichdom.png)
 
 ### B30 
-  - Ghoulish Uprising ![Ghoulish Uprising PNG](./statblocks/GhoulishUprising.png)
+  - Ghoulish Uprising ![Ghoulish Uprising PNG](./Statblocks/GhoulishUprising.png)
 
 ### B37  
-  - Vorel's Legacy ![Vorel's Legacy PNG](./statblocks/VorelsLegacy.png)
+  - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
 ## Part 5: Chasing The Skinsaw (XP ??, Party Level 6)
 
