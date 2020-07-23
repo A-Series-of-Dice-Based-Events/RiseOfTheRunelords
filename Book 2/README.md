@@ -68,6 +68,57 @@ If they are breezing through then liberally apply elite templates or add minions
 
 ## Part 4: Misgivings (XP ??, Party Level 5/6)
 
+### B1
+  - [Carrionstorm] TO DO
+
+### B2
+  - Burning Manticore ![Burning Manticore PNG](./statblocks/BurningManticore.png)
+
+### B5 
+  - Worried Wife ![Worried Wife PNG](./statblocks/WorriedWife.png)
+
+### B6 
+  - Vorel's Phage TO DO
+
+### B7  
+  - Dance of Ruin ![Dance of Ruin PNG](./statblocks/DanceOfRuin.png)
+
+### B9 
+  - Iesha's Vengeance ![Iesha's Vengeance PNG](./statblocks/IeshasVengeance.png)
+  
+### B11 
+  - Frightened Child ![Frightened Child PNG](./statblocks/FrightenedChild.png)
+  
+### B13 
+  - Phantom Phage ![Phantom Phage PNG](./statblocks/PhantomPhage.png)
+  
+### B14 
+  - Collapsing Floor ![Collapsing Floor PNG](./statblocks/CollapsingFloor.png)
+  
+### B15 
+  - Misogynistic Rage ![Misogynistic Rage PNG](./statblocks/MisogynisticRage.png)
+
+### B17 
+  - The Stricken Family ![The Stricken Family PNG](./statblocks/StrickenFamily.png)
+
+### B18 
+  - Suicide Compulsion ![Suicide Compulsion PNG](./statblocks/SuicideCompulsion.png)
+
+### B22 
+  - Plummeting Inferno ![Plummeting Inferno PNG](./statblocks/PlummetingInferno.png)
+
+### B23 
+  - Unfulfilled Glories ![Unfulfilled Glories PNG](./statblocks/UnfulfilledGlories.png)
+
+### B29 
+  - Origins of Lichdom ![Origins of Lichdom PNG](./statblocks/OriginsOfLichdom.png)
+
+### B30 
+  - Ghoulish Uprising ![Ghoulish Uprising PNG](./statblocks/GhoulishUprising.png)
+
+### B37  
+  - Vorel's Legacy ![Vorel's Legacy PNG](./statblocks/VorelsLegacy.png)
+
 ## Part 5: Chasing The Skinsaw (XP ??, Party Level 6)
 
 ### Foxglove Townhouse (60xp, low threat)
