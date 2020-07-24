@@ -1,6 +1,6 @@
 # Rise Of The Runelords - 2E Conversion
 
-A repository for the conversion guides for those wishing to run and convert RotR to Pathfinder 2E.
+A fan built repository for the conversion guides for those wishing to run and convert RotR to Pathfinder 2E.
 The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds the individual monster/NPC stat blocks which are linked to from the guide.  
 
 * [Campaign Backgrounds](./RotRCampaignBackgrounds.md)  
@@ -17,7 +17,7 @@ The README.md files for each book are the conversion guides. While the Statblock
 
 To join us just ask @mirkorainer on GitHub or in the [A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)  
 
-Once you're added as a member, you can add and approve changes. All the changes are tracked so if we make a mistake, we can refer back to the old version.  
+Once you're added as a member then you can add and approve changes. All the changes are tracked so if we make a mistake, we can refer back to the old version.  
 
 ## Recommended Tool
 
@@ -29,7 +29,7 @@ This repository holds those files publicly sourced and created, as well as other
 
 Please do not submit PDF files or entire texts, or any images from the AP. Only submit modifications necessary to convert to 2E, such as the DCs and 2E builds of NPCs/Monsters/Hazards/Items plus XP and 2E level based treasure. Please include a location number or name for each encounter or item so GMs can cross-reference with the original scenario.
 
-# About Github
+# Using Github
 
 ## How does this even work? 
 
