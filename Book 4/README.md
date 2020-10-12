@@ -64,6 +64,7 @@ Library | 500
     - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136). Choose either the frenzy/momentum or the spellcasting option to personal preference.
     - [Teraktinus PDF](./Statblocks/Teraktinus.pdf)  
     ![Teraktinus PNG](./Statblocks/Teraktinus.png)
+    A level 12 version of Teraktinus can be found [here](https://monster.pf2.tools/v/zfzmhMbR-teraktinus). This changes the encounter from moderate to severe for level 10 characters, or from low to moderate for level 11 characters.
   - **Notes:**
     - The six encounters are spread out with ratings from low to moderate only.
     - The giants tactics make the slightly easier (e.g. the rest run away when one in that group dies).
