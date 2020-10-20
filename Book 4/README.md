@@ -201,6 +201,7 @@ Library | 500
 
 ### C9
   - **Creatures:** 
-    - [Mokmurian] TO DO
+    - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v2.pdf)
+    ![Mokmurian PNG](./Statblocks/Mokmurian_github_v2.png)
 
 ## - End of RotR Fortress of the Stone Giants 2E Conversion Guide -
