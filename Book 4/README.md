@@ -15,6 +15,15 @@
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
  
+## Party Levelling Milestones
+
+- Level 11: The PCs should reach 11th level during (or just after) the attack on Sandpoint.
+- Level 12: The PCs should reach 12th level by the time they’re infiltrating the interior of Jorgenfist.
+- Level 13: The PCs should be 13th level as they finish exploring the pit and caverns below Jorgenfist.
+- Level 14: The PCs should be close to (but not quite) 14th level at the conclusion of this chapter.
+
+Target for this book is therefore around 2400 level adjusted XP 
+ 
 ## Index and XP distribution
   
 Title | Max XP 
@@ -43,9 +52,16 @@ Library | 500
   - xp & threat rating
   - treasure by level
 
-## Party Level and Target Allocation of Treasure
+## Target Allocation of Treasure
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
+
+
+Level | Total gp | Permanent Items         | Consumables                        | Cash    | Part
+------|----------|-------------------------|------------------------------------|---------|-----
+  11  | 11,500gp | **12th:** 2 **11th:** 2 | **12th:** 2 **11th:** 2 **10th:** 2| 2,800gp | 1
+  12  | 16,500gp | **13th:** 2 **12th:** 2 | **13th:** 2 **12th:** 2 **11th:** 2| 4,000gp | 2
+  13  | 25,000gp | **14th:** 2 **13th:** 2 | **14th:** 2 **13th:** 2 **12th:** 2| 6,000gp | 3  
 
 ## General Encounter Advice
 
