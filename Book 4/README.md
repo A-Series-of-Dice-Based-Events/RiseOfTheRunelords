@@ -131,21 +131,22 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ### A6
   - **Creatures:** 
-    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Harpy Monks](https://2e.aonprd.com/Monsters.aspx?ID=258)
-    - Needs replacinng with a Monk version.
-    - Conversion note: as both stunning fist and Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
+    - [Harpy Monk PDF](./Statblocks/Harpy Monk.pdf)
+    ![Harpy Monk PNG](./Statblocks/Harpy Monk.png)
+    - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
 
 ### A14
   - **Creatures:** 
-    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Mummy Pharoah](https://2e.aonprd.com/Monsters.aspx?ID=305)
-    - Needs replacinng with a Monk version.
+    - [The Black Monk PDF](./Statblocks/TheBlackMonk.pdf)
+    ![The Black Monk PNG](./Statblocks/TheBlackMonk.png)
 
 
 ## Jorgenfist (party level 12)
 
 ### B2
   - **Creatures:** 
-    - [Conna] TO DO
+    - [Conna PDF](./Statblocks/Conna.pdf)
+    ![Conna PNG](./Statblocks/Conna.png)
 
 ### B3
   - **Creatures:** 
