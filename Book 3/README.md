@@ -183,7 +183,7 @@ Encounters include scaling for level 8 parties.
     - Lesser Healing Potion [C3]
     - Wand of [Globe of Invulnerability](https://2e.aonprd.com/Spells.aspx?ID=137) [P9]
     - Holy symbol of Lamashtu
-    - Spellbook worth 105 gp
+    - Spellbook worth 105 gp. Suggestion for spells in the spellbook: all common necromancy and evocation spells up to spell level 4, plus fly, dimension door, black tentacles, crushing despair, and cloudkill.
     - Material Component Pouch worth 5 sp
 
 ### A9. Bedroom (XP 10, trivial threat)
