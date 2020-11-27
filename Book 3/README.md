@@ -120,7 +120,7 @@ Encounters include scaling for level 8 parties.
 
       ![Rukus Graul PNG](./Statblocks/RukusGraul.png)
   
-    - Level 8 adjustment: apply the Elite template to Rukus
+    - If the party is not Level 8 yet, consider applying the weak template to Rukus.
 
  - **Loot:**
    - +1 striking [corrosive](https://2e.aonprd.com/Equipment.aspx?ID=292) spear [P8]
@@ -132,7 +132,7 @@ Encounters include scaling for level 8 parties.
 
     ![Crowfood Graul PNG](./Statblocks/CrowfoodGraul.png)
   
-    - Level 8 adjustment: apply the Elite template to Crowfood
+    - If the party is not Level 8 yet, consider applying the weak template to Crowfood.
 
   - **Loot:**
     - +1 striking ogre hook [P4]
