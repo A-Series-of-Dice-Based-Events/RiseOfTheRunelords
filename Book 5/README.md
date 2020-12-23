@@ -1,4 +1,4 @@
-# RotR Sins of the Saviors (levels -)
+# RotR Sins of the Saviors (levels 13-15)
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
@@ -110,7 +110,19 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
     
 ## Part 6: The Iron Cages of Lust
+  - **Creatures:**
+    - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
+    ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
+    - To do: Nelevetu Voan 
+    - Enslaved stone giants: Elite Stone Giants
+    - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
+    ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
+    - [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
 
+
+## Part 7: The Shimmering Veils
+  - **Creatures:**
+      - 
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
