@@ -15,6 +15,14 @@
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
  
+## Party levelling milestones
+
+- Level 13: The PCs should be 13th level when they begin this chapter.
+- Level 14: The PCs should reach 14th level after defeating the white dragon Arkrhyst.
+- Level 15:  The PCs should reach 15th level by the time they begin exploring the sixth wing of Runeforge (since the exact order in which they explore the wings of this
+dungeon is fluid, they may hit 15th level earlier if they manage to explore and survive the more dangerous wings of Runeforge earlier than expected).
+- Level 15+: The PCs should be well into 15th level by the time they finish this chapter.
+ 
 ## Index and XP distribution
   
 Title | Max XP 
@@ -40,9 +48,12 @@ XXX | 500
 - If they are breezing through then liberally apply elite templates or add minions. 
 - Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: ( xp)
+## Part 1: The Scribbler ( xp)
   
   - **Creatures:** 
+    - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf)  
+    ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
+    Scribbler by @Primemakes.
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
