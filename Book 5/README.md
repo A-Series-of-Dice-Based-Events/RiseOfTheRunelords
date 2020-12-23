@@ -117,6 +117,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - Enslaved stone giants: Elite Stone Giants
     - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
     ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
+    - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
     - [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
 
 
@@ -150,7 +151,8 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     
  ## Part 10: Weapons of Power
   - **Creatures:**
-    - 
+    - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
+    ![Highlady AthroxisPNG](./Statblocks/karzoug_statue-1608761700.png)
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
