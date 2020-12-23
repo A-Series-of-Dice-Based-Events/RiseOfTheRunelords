@@ -99,7 +99,18 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
    
  ## Part 5: The Vault of Greed
   - **Creatures:**
-   - 
+    - To do: Crushing Door
+    - To do: Morphic Mist
+    - To do: replace Water Mephits with something. Or not.
+    - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
+    - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
+    ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
+    - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
+    ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
+    - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
+    
+## Part 6: The Iron Cages of Lust
+
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
