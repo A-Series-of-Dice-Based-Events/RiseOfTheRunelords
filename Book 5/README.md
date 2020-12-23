@@ -122,7 +122,35 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 
 ## Part 7: The Shimmering Veils
   - **Creatures:**
-      - 
+      - To do: Mirrors of Opposition
+      - To do: False Vraxerises
+      - To do: False Delvahines
+      
+ ## Part 8: The Festering Maze
+  - **Creatures:**
+    - To do: Sobloch
+    - [Omox Demon PDF](./Statblocks/omox_demon-1608760936.pdf) by @Primemakes.
+    ![Omox Demon PNG](./Statblocks/omox_demon-1608760934.png)
+    - [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
+    - [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775)
+    - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
+    ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
+    - To do: Variant Ochre Jellies
+ 
+ ## Part 9: The Halls of Wrath
+  - **Creatures:**
+    - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242). To do: add longbow
+    - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
+    ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png)
+    - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
+    ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
+    - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) by @Primemakes.
+    ![Highlady AthroxisPNG](./Statblocks/highlady_athroxis-1608761466.pdf)
+    -[Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101)
+    
+ ## Part 10: Weapons of Power
+  - **Creatures:**
+    - 
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
