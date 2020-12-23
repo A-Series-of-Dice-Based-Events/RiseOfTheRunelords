@@ -59,7 +59,8 @@ XXX | 500
     -Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
     - [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
     ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
-    - ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
+    - The Scribbler's suggestion, by @Nintendogeek01:
+    ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
     - Revelation Quill, by @Nintendogeek01:
     **Revelation Quill**: Item 20 [Rare, Artifact, Divination, Magical]
 **Usage** held in 1 hand; Bulk L
@@ -72,10 +73,33 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 
 - **Creatures:**
   - [Arkhryst](https://2e.aonprd.com/Monsters.aspx?ID=141)
-  - Consider adding extra minions to the Arkhryst encounter to make it a severe encounter. @Nintendogeek01 made two Frost Giant rangers called Gunvor and Gunilla.
-  -2x [Elite Elemental Avalanche](https://2e.aonprd.com/Monsters.aspx?ID=186)
+  - Consider adding extra minions to the Arkhryst encounter to make it a severe encounter. @Nintendogeek01 made two Frost Giant rangers called Gunvor and Gunilla, look for it on the discord server.
+  - 2x [Elite Elemental Avalanche](https://2e.aonprd.com/Monsters.aspx?ID=186)
   
-
+## Part 3: Runeforge and the Abjurant Halls
+ - **Creatures:**
+   - Disjunction pulse: to do
+   - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
+   ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
+## Part 4: The Ravenous Crypts
+ - **Creatures:**
+   - To do: replace Wraiths with something that poses a challenge in PF2
+   - 6x [Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
+   ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
+   - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
+   - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
+   ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
+   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
+   ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
+   - [Azaven PDF](./Statblocks/azaven-1608759104.pdf) by @Primemakes.
+   ![Azaven PNG](./Statblocks/azaven-1608759100.png)
+   - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
+   ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
+   - To do: Necromantic Deathtrap
+   
+ ## Part 5: The Vault of Greed
+  - **Creatures:**
+   - 
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
