@@ -51,9 +51,31 @@ XXX | 500
 ## Part 1: The Scribbler ( xp)
   
   - **Creatures:** 
-    - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf)  
+    - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.  
     ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
-    Scribbler by @Primemakes.
+    [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
+    ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
+    - [Yerrin-ku](https://2e.aonprd.com/Monsters.aspx?ID=101)
+    -Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
+    - [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
+    ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
+    - ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
+    - Revelation Quill, by @Nintendogeek01:
+    **Revelation Quill**: Item 20 [Rare, Artifact, Divination, Magical]
+**Usage** held in 1 hand; Bulk L
+This quill is fashioned from a peacock's tail feather. Its nib is made of bone, and when held in one's hand, the quill seems strangely heavy. If placed in an empty vial or other glass container of similar size and left there for one hour, a revelation quill fills that container with ink. The ink created is of a random color 50% of the time, otherwise the ink is black. A Revelation Quill can act as a standard writing implement, its true strength lies in its ability to answer questions.
+**Activate** 10 minutes (Envision); **Frequency** Once per day; While holding the quill, the user concentrates on a specific future goal, event, or activity occurring within the coming week, the Revelation Quill takes over and writes out a response similar to the way Augury functions except the response can be a short phrase, often in the form of a cryptic rhyme or omen.
+**Activate** 10 minutes (Envision); **Frequency** Once per week; Upon activation, the user may use the quill in the same way to to ask the mysterious intellect that guides the Revelation Quill up to 10 questions as though the user has rolled a success to cast the Commune Ritual.
+**Destruction**: The quill must be tricked into revealing the method of destroying itself without asking it to reveal that method.
+
+## Part 2: Seeking Runeforge ( xp)
+
+- **Creatures:**
+  - [Arkhryst](https://2e.aonprd.com/Monsters.aspx?ID=141)
+  - Consider adding extra minions to the Arkhryst encounter to make it a severe encounter. @Nintendogeek01 made two Frost Giant rangers called Gunvor and Gunilla.
+  -2x [Elite Elemental Avalanche](https://2e.aonprd.com/Monsters.aspx?ID=186)
+  
+
     
 
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
