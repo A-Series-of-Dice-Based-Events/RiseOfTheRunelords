@@ -146,7 +146,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
     ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
     - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) by @Primemakes.
-    ![Highlady AthroxisPNG](./Statblocks/highlady_athroxis-1608761466.pdf)
+    ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png)
     -[Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101)
     
  ## Part 10: Weapons of Power
