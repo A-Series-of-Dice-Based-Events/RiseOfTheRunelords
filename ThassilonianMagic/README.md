@@ -18,6 +18,6 @@ Gives a new Arcane Thesis.
 Also gives a new Arcane Thesis.
 
 ## Different take on Sin Magic, by @Lawrencelot
-[Thassilonian Specialist PDF (old version)](ThassilonianSpecialist.pdf) and [Thassilonian Specialist PDF (new version)](Thassilonian_Specialist_v2.pdf)
+[Thassilonian Specialist PDF (old version)](ThassilonianSpecialist.pdf) and [Thassilonian Specialist PDF (new version)](Thassilonian_specialist_v2.pdf) 
 
 Gives a new Archetype instead of an Arcane Thesis. Has been playtested once (with the Wizard class, not with other spellcasting classes yet) up until level 11 and gone through some feedback, feels quite balanced so far.
