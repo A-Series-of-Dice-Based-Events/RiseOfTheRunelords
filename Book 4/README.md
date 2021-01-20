@@ -215,6 +215,10 @@ Level | Total gp | Permanent Items         | Consumables                        
 ### C7
   - **Creatures:** 
     - [Clockwork Librarian] TO DO
+    
+### C8
+  - **Creatures:** 
+    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
 
 ### C9
   - **Creatures:** 
