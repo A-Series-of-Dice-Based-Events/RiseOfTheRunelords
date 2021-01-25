@@ -40,13 +40,9 @@ Library | 500
 
 ## TO DO
   - many unique creatures
-    - Conna
     - Headless lord
     - Forgefiend
-    - Clockwork librarian
-    - Mokmurian
-    - Harpy monks
-    - The Black Monk
+    - Harpy monks (incapacitation trait makes their captivating song useless)
   - too low level creature adjustments
   - chamber of reduction hazard
   - xp & threat rating
