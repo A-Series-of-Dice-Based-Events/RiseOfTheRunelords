@@ -135,6 +135,11 @@ Level | Total gp | Permanent Items         | Consumables                        
     ![Harpy Monk PNG](./Statblocks/Harpy%20Monk.png)
     - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
 
+### A11
+  - **Creatures:** 
+    - [Embers PDF](./Statblocks/Embers.pdf)
+    ![Embers PNG](./Statblocks/Embers.png)
+
 ### A14
   - **Creatures:** 
     - [The Black Monk PDF](./Statblocks/TheBlackMonk.pdf)
