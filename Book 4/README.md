@@ -214,8 +214,8 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ### C7
   - **Creatures:** 
-    - [Clockwork Librarian PDF] (./Statblocks/clockwork_librarian-1611601296.pdf)
-    - ![Clockwork Librarian PNG] (./Statblocks/clockwork_librarian-1611180129.png)
+    - [Clockwork Librarian PDF](./Statblocks/clockwork_librarian-1611601296.pdf)
+    - ![Clockwork Librarian PNG](./Statblocks/clockwork_librarian-1611180129.png)
 
     
 ### C8
