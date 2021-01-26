@@ -111,10 +111,15 @@ Level | Total gp | Permanent Items         | Consumables                        
   - Note the scale on the map is NOT 5ft to the square on the Jorgenfist above ground and below ground maps. Many a GM has fallen foul of that small detail!
   - It is common for PCs to secretly scout using flying, invisibility, etc. and then approach through the rear caves.
 
-### A1 (xp )
-  - **Non standard Creatures:** 
-    - [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
+### A1 (xp 90, moderate threat)
+  - **Creatures:** 
+    - [Cinderma](https://2e.aonprd.com/Monsters.aspx?ID=680)
+    - 2x [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
+    
+### A2
+  - Optional: either let PCs bypass the encounters somehow, or use the Infiltration rules from the Gamemastery Guide: 
+    - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration.pdf )
 
 ### A3 (xp)
   - **Creatures:** 
