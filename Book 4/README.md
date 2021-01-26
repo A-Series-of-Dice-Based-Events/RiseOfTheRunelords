@@ -105,7 +105,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 ### Storval Stairs (xp )
   - Note that this encounter seems to be the one most often bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this encounter to Skulls Crossing in Book 3 if the party have cleared out the ogres and returned later.
 
-## Valley of the Black Tower (party level 11)
+## Part 3: Valley of the Black Tower (party level 11)
 
   - As the party could approach the encounters in the second half of this book in any order, then be prepared to dynamically adjust the encounters upwards with elite templates or extra creatures to maintain threat levels.  
   - Note the scale on the map is NOT 5ft to the square on the Jorgenfist above ground and below ground maps. Many a GM has fallen foul of that small detail!
@@ -119,35 +119,57 @@ Level | Total gp | Permanent Items         | Consumables                        
     
 ### A2
   - Optional: either let PCs bypass the encounters somehow, or use the Infiltration rules from the Gamemastery Guide: 
-    - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration.pdf )
+    - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration.pdf)
+    - Consider giving story XP if the PCs overcome this challenge.
 
-### A3 (xp)
+### A3 (xp 45, Trivial)
   - **Creatures:** 
-    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
+    - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
-### A4
+### A4 (xp 80, Moderate)
   - **Creatures:** 
-    - [Deathweb Spiders PDF](./Statblocks/DeathwebSpider.pdf)
+    - 2x [Deathweb Spiders PDF](./Statblocks/DeathwebSpider.pdf)
     ![Deathweb Spiders PNG](./Statblocks/DeathwebSpider.png)
 
-### A6
+### A6 (xp 30, Trivial)
   - **Creatures:** 
-    - [Harpy Monk PDF](./Statblocks/Harpy%20Monk.pdf)
+    - 3x [Harpy Monk PDF](./Statblocks/Harpy%20Monk.pdf)
     ![Harpy Monk PNG](./Statblocks/Harpy%20Monk.png)
     - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
 
-### A11
+### A7 (xp 15, Trivial)
+  - **Creatures:** 
+    - 1x per tower: [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    
+### A8 (xp 45, Trivial)
+  - **Creatures:** 
+    - 1x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    - 1x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
+    
+### A10 (xp 90, Moderate)
+  - **Creatures:** 
+    - 3x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
+
+### A11 (xp 40, Trivial)
   - **Creatures:** 
     - [Embers PDF](./Statblocks/Embers.pdf)
     ![Embers PNG](./Statblocks/Embers.png)
+    
+### A12 (xp 40, Trivial)
+  - **Creatures:** 
+    - 2x [Frost giant](https://2e.aonprd.com/Monsters.aspx?ID=222)
 
-### A14
+### A13 (xp 40, Trivial)
+  - **Creatures:** 
+    - 2x [Roc](https://2e.aonprd.com/Monsters.aspx?ID=352)
+
+### A14 (xp 120, Severe)
   - **Creatures:** 
     - [The Black Monk PDF](./Statblocks/TheBlackMonk.pdf)
     ![The Black Monk PNG](./Statblocks/TheBlackMonk.png)
 
 
-## Jorgenfist (party level 12)
+## Part 4: Under Jorgenfist (party level 12)
 
 ### B2
   - **Creatures:** 
