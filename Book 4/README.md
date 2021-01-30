@@ -30,7 +30,7 @@ Title | Max XP
 ------|-------
 Raid on Sandpoint | 500
 Journey to Jorgenfist | 500
-Valley of the Black Tower | 500
+Valley of the Black Tower | 500 (currently 635)
 Jorgenfist | 500
 Library | 500
 
@@ -39,11 +39,7 @@ Library | 500
 
 
 ## TO DO
-  - many unique creatures
-    - Headless lord
-    - Forgefiend
-    - Harpy monks (incapacitation trait makes their captivating song useless)
-  - too low level creature adjustments
+  - too low level creature adjustments, for example incapacitation trait makes the Harpy Monk's captivating song useless
   - chamber of reduction hazard
   - xp & threat rating
   - treasure by level
@@ -233,12 +229,15 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ### C4
   - **Creatures:** 
-    - [Headless Lord] TO DO
+    - [Headless Lord]
+    ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
+    ![Runechill PNG](./Statblocks/runechill-1612041545.png)
     - [Triple Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
 ### C5
   - **Creatures:** 
-    - [Forgefiend] TO DO
+    - [Forgefiend PDF](./Statblocks/forgefiend-1612040837.pdf)
+    ![Forgefiend PNG](./Statblocks/Forgefiend.png)
 
 ### C7
   - **Creatures:** 
