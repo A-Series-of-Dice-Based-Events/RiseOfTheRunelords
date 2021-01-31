@@ -31,7 +31,7 @@ Title | Max XP
 Raid on Sandpoint | 500
 Journey to Jorgenfist | 500
 Valley of the Black Tower | 500 (currently 635)
-Jorgenfist | 500
+Jorgenfist | 500 (currently 510)
 Library | 500
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
