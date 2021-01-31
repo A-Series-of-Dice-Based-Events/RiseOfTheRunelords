@@ -167,39 +167,65 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ## Part 4: Under Jorgenfist (party level 12)
 
-### B2
+### B1 (xp 40, Trivial)
+  - **Creatures:** 
+    - 2x Dire bear guard (use the Weak template on Embers above)
+
+### B2 (xp 40, but see B6)
   - **Creatures:** 
     - [Conna PDF](./Statblocks/Conna.pdf)
     ![Conna PNG](./Statblocks/Conna.png)
 
-### B3
+### B3 (xp 40, Trivial)
   - **Creatures:** 
     - [Galenmir](./Statblocks/Galenmir.pdf)
     ![Galenmir PNG](./Statblocks/Galenmir.png)
+    
+### B4 (xp 40, Trivial)
+  - **Creatures:** 
+    - 4x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    
+### B5 (xp 10, Trivial)
+  - **Creatures:** 
+    - 1x [Grumelda](https://2e.aonprd.com/Monsters.aspx?ID=221)
 
-### B6 (xp40, low threat)
+### B6 (xp 40, Trivial)
   - **Creatures:** 
     - [Flayed Giant using Flensing Blades haunt](https://2e.aonprd.com/Hazards.aspx?ID=47)
+  - Give the PCs xp for both the haunt (40) and for Conna (40) if they secure an alliance with her.
 
-### B7a
+### B7a (xp 40, Trivial)
   - **Creatures:** 
     - [Enga PDF](./Statblocks/EngaKeckvia.pdf)
     ![Enga PNG](./Statblocks/EngaKeckvia.png)
 
-### B7b
+### B7b (no xp)
   - **Creatures:** 
     - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
 
-### B8
+### B8 (xp 30, Trivial)
   - **Creatures:** 
-    - Ogre Fighters as per Fort Rannick
+    - 3x Ogre Fighters as per Fort Rannick
 
-### B11
+### B9 (xp 20, Trivial)
+  - **Creatures:** 
+    - 2x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+  - Each prisoner whom the PCs rescue and whose safe return home they ensure gives xp as a story reward.
+
+### B10 (xp 40, Trivial)
+  - **Creatures:** 
+    - 4x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+
+### B11 (xp 30, Trivial)
   - **Creatures:** 
     - [Lokansir](./Statblocks/Lokansir.pdf)  
     ![Lokansir PNG](./Statblocks/Lokansir.png) 
 
-### B13
+### B12 (xp 40, Trivial)
+  - **Creatures:** 
+    - 2x [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136)
+
+### B13 (xp 60, Low)
   - **Creatures:**
     - [Lamia Warpriest PDF](./Statblocks/LamiaWarpriest.pdf)  
     ![Lamia Warpriest PNG](./Statblocks/LamiaWarpriest.png)  
@@ -214,7 +240,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     If it looks like they are winning then they cast dimensional anchor to prevent escape. 
     - Morale: as per the book
 
-### B14
+### B14 (xp 40, Trivial)
   - **Creatures:** 
     - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
