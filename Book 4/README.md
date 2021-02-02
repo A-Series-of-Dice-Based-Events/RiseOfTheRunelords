@@ -32,7 +32,7 @@ Raid on Sandpoint | 500
 Journey to Jorgenfist | 500
 Valley of the Black Tower | 500 (currently 635)
 Jorgenfist | 500 (currently 510)
-Library | 500
+Library | 500 (currently 235)
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
@@ -246,36 +246,44 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ## Library (XP assumes party level 13)
 
-### C2 
+### C2 (xp ?)
   - **Hazard:**
     - [Chamber of Reduction] TO DO
   - **Creatures:** 
     - Elite [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
 
-### C4
+### C3 (xp 20, Trivial)
+  - **Creatures:**
+    - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
+
+### C4 (xp 60, Low)
   - **Creatures:** 
     - [Headless Lord]
     ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
     ![Runechill PNG](./Statblocks/runechill-1612041545.png)
-    - [Triple Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
+    - 4x [Triple Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
-### C5
+### C5 (xp 15, Trivial)
   - **Creatures:** 
     - [Forgefiend PDF](./Statblocks/forgefiend-1612040837.pdf)
     ![Forgefiend PNG](./Statblocks/Forgefiend.png)
 
-### C7
+### C6 (xp 30, Trivial)
+- **Creatures:**
+    - [Shining Child](https://2e.aonprd.com/Monsters.aspx?ID=367)
+
+### C7 (no combat xp)
   - **Creatures:** 
     - [Clockwork Librarian PDF](./Statblocks/clockwork_librarian-1611601296.pdf)
     - ![Clockwork Librarian PNG](./Statblocks/clockwork_librarian-1611180129.png)
 
     
-### C8
+### C8 (xp 30, Trivial)
   - **Creatures:** 
-    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
+    - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
 
-### C9
+### C9 (xp 80, Moderate)
   - **Creatures:** 
     - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v3.pdf)
     ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
