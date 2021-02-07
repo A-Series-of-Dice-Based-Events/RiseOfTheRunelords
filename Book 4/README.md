@@ -191,7 +191,8 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ### B6 (xp 40, Trivial)
   - **Creatures:** 
-    - [Flayed Giant using Flensing Blades haunt](https://2e.aonprd.com/Hazards.aspx?ID=47)
+    - [Flayed Giant haunt PDF](./Statblocks/flayed_giant-1612708369.pdf)
+    ![Flayed Giant PNG](./Statblocks/flayed_giant-1612708350.png)
   - Give the PCs xp for both the haunt (40) and for Conna (40) if they secure an alliance with her.
 
 ### B7a (xp 40, Trivial)
