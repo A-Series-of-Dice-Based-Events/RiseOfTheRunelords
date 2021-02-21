@@ -40,8 +40,7 @@ Library | 500 (currently 235)
 
 ## TO DO
   - too low level creature adjustments, for example incapacitation trait makes the Harpy Monk's captivating song useless
-  - chamber of reduction hazard
-  - xp & threat rating
+  - xp
   - treasure by level
 
 ## Target Allocation of Treasure
@@ -114,9 +113,9 @@ Level | Total gp | Permanent Items         | Consumables                        
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
     
 ### A2
-  - Optional: either let PCs bypass the encounters somehow, or use the Infiltration rules from the Gamemastery Guide: 
-    - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration.pdf)
-    - Consider giving story XP if the PCs overcome this challenge.
+  - Optional: either let PCs bypass the encounters somehow, or use the Infiltration rules from the Gamemastery Guide. An example Infiltration is given here: 
+    - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration_withSecretTunnel.pdf)
+  - Consider giving story XP if the PCs overcome this challenge.
 
 ### A3 (xp 45, Trivial)
   - **Creatures:** 
@@ -166,6 +165,8 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 
 ## Part 4: Under Jorgenfist (party level 12)
+
+Note: in this part and the next one there are a lot of Trivial encounters. In Pathfinder 1 they would cause attrition to the party, in PF2 the party really doesn't need to spend a lot of resources to overcome each encounter, as lower level creatures are not much of a threat. Don't be afraid to combine these encounters so that they become more challenging.
 
 ### B1 (xp 40, Trivial)
   - **Creatures:** 
@@ -247,9 +248,9 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ## Library (XP assumes party level 13)
 
-### C2 (xp ?)
+### C2 (xp 40, Trivial)
   - **Hazard:**
-    - [Chamber of Reduction] TO DO
+    - [Chamber of Reduction](./Statblocks/chamber_of_reduction-1613937614.png)
   - **Creatures:** 
     - Elite [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
     ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
