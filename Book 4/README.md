@@ -285,7 +285,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:** 
     - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
     - Alternatively, use these stronger [Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.pdf) statblocks, 2x for a moderate and 3x for a severe encounter. This statblock doesn't contain the sickened condition yet.
-    - ![Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020768.pdf)
+    - ![Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.png)
 
 ### C9 (xp 80, Moderate)
   - **Creatures:** 
