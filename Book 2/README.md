@@ -74,7 +74,9 @@ If they are breezing through then liberally apply elite templates or add minions
 ### A16 
   - Erin Habe TO DO
   - Grayst Sevilla TO DO
-  - Caizarlu Zerren TO DO
+  - Caizarlu Zerren ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
+   ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
+
 
 ## Part 3: Walking Scarecrows (XP ??, Party Level 5)
 
