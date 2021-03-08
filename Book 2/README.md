@@ -20,7 +20,6 @@
 ## General TO DO
   - Treasure
   - Vorel's Phage
-  - Skinsaw man
   
 ### Party Level and Target Allocation of Treasure
 
@@ -146,7 +145,8 @@ If they are breezing through then liberally apply elite templates or add minions
   - Party level 6: Add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)
 
 ### B37  
-  - [The Skinsaw Man] TO DO
+  - [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
+  ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
 
   - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
