@@ -20,7 +20,6 @@
 ## General TO DO
   - XP
   - Treasure
-  - Vorel's Phage
   
 ### Party Level and Target Allocation of Treasure
 
@@ -96,8 +95,9 @@ If they are breezing through then liberally apply elite templates or add minions
 ### B5 
   - Worried Wife ![Worried Wife PNG](./Statblocks/WorriedWife.png)
 
-### B6 
-  - Vorel's Phage TO DO
+### B6
+  - Vorel's Phage [Vorels Phage PDF](./Statblocks/VorelsPhage.pdf) 
+  ![Vorels Phage PNG](./Statblocks/VorelsPhage.png)
 
 ### B7  
   - Dance of Ruin ![Dance of Ruin PNG](./Statblocks/DanceOfRuin.png)
