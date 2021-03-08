@@ -33,8 +33,13 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - several creatures
-  - disjunction pulse
+  - creatures
+    - Nelevetu Voan
+    - False Vraxerises
+    - False Delvahines
+    - Sobloch
+    - Iron Archer Longbow stats
+  - Disjunction pulse
   - xp & threat rating
   - treasure by level
 
@@ -84,7 +89,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
    ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
 ## Part 4: The Ravenous Crypts
  - **Creatures:**
-   - To do: replace Wraiths with something that poses a challenge in PF2
+   - Replace Wraiths with [Dread Wraiths](https://2e.aonprd.com/Monsters.aspx?ID=865)
    - 6x [Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
    ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
    - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
@@ -104,7 +109,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
      - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
     - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
     - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
-    - To do: replace Water Mephits with something. Or not.
+    - Replace Water Mephits with [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=600)
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
     - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
     ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
@@ -126,7 +131,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 
 ## Part 7: The Shimmering Veils
   - **Creatures:**
-      - To do: Mirrors of Opposition
+      - For the unique Mirrors of Opposition use the 1E stats as guides
       - To do: False Vraxerises
       - To do: False Delvahines
       
@@ -139,7 +144,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775)
     - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
     ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
-    - To do: Variant Ochre Jellies
+    - Replace Variant Ochre Jellies with [Tallow Oozes](https://2e.aonprd.com/Monsters.aspx?ID=533)
  
  ## Part 9: The Halls of Wrath
   - **Creatures:**
