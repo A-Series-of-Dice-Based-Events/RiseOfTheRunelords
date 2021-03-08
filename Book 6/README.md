@@ -1,4 +1,4 @@
-# RotR Spires of Xin-Shalast (levels -)
+# RotR Spires of Xin-Shalast (levels 15 - 18)
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
@@ -40,9 +40,120 @@ XXX | 500
 - If they are breezing through then liberally apply elite templates or add minions. 
 - Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: ( xp)
-  
-  - **Creatures:** 
-    
+## Part 1: Seeking Xin-Shalast ( xp)
+
+
+## Part 2: WHISPERS IN THE WIND (XP ??, Party Level 15??)
+
+### Vekker's Cabin (??xp)
+
+  - **Creatures:**  
+
+### The Watcher in the Wastes (??xp)
+
+
+### B1 The Tailings (??xp)
+
+### B4 Sack Room
+
+### B5 Ore Seperation
+
+### B6 Ore Shaft
+
+### B8 Front Porch
+
+### B10 Coatroom 
+
+### B13 Strong Room
+
+### B14 Living Area
+
+### B15 Larder
+
+### Event 1: Cannibal Fury
+
+### Event 3: Hungry Ghost
+
+### Event 4: The Siege
+
+## Part 3: On the World's Roof
+
+### C Queen of the Icemists
+
+### D Giant Sentinels
+
+
+## Part 4: Xin-Shalast
+
+### Event 5: Emergence of the Spared
+
+### E Krak Naratha
+
+### F Golden Road
+
+### G Giant Encampment
+
+### H Abominable Dome
+  - Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
+
+### I Lair of the Hidden Beast
+
+  - Vampire Skulk ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
+  - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
+
+### K Heptaric Locus
+  - Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
+  - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
+
+
+### N Hidden Path
+  - Mountain Roper ![Mountain Roper PNG](./Statblocks/MountainRoper.png)
+
+### Q Ghlorofaex's Lair
+
+## Part 5: Scaling Mhar Massif
+
+### Invaders from Leng
+
+## Part 6: Pinnacle of Avarice
+
+### Pinnacle Resources
+
+### X1 Entrance Ramp
+
+### X2 Kharzoug
+
+### X3 Throne Rooom
+
+### X4 Lair
+
+### X5 Kin Quarters
+
+### X6 Cells
+
+### X7 Den
+
+### X8 Prison
+
+### X9 Chambers
+
+### X10 Door
+
+### X11 Doors
+
+### X12 The Device
+
+### X13 Cells
+
+### X15 Quarters
+
+### X16 Reliquary
+
+### X17 Chamber of Focus
+
+## Part 7: The Eye of Avarive
+
+### The Final Battle
+
 
 ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
