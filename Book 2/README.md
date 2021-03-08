@@ -18,6 +18,7 @@
   - Part 7: Shadows of Time 
 
 ## General TO DO
+  - XP
   - Treasure
   - Vorel's Phage
   
@@ -144,6 +145,10 @@ If they are breezing through then liberally apply elite templates or add minions
   - Party level 5: [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
   - Party level 6: Add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)
 
+### B36 
+  - [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
+  ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
+   
 ### B37  
   - [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
   ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
