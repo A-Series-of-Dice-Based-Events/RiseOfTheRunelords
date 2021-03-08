@@ -9,16 +9,18 @@
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## Index and status
-  - Part 1: Murder Most Foul - DCs to do
-  - Part 2: The Thing in the Attic - to do
-  - Part 3: Walking Scarecrows - to do
-  - Part 4: Misgivings - to do
-  - Part 5: Chasing The Skinsaw - DCs to do
-  - Part 6: The Seven's Sawmill - to do
-  - Part 7: Shadows of Time - to do
+  - Part 1: Murder Most Foul
+  - Part 2: The Thing in the Attic
+  - Part 3: Walking Scarecrows 
+  - Part 4: Misgivings 
+  - Part 5: Chasing The Skinsaw 
+  - Part 6: The Seven's Sawmill 
+  - Part 7: Shadows of Time 
 
 ## General TO DO
-  - everything...
+  - Treasure
+  - Vorel's Phage
+  - Skinsaw man
   
 ### Party Level and Target Allocation of Treasure
 
@@ -69,11 +71,11 @@ If they are breezing through then liberally apply elite templates or add minions
   - Pidget Tergelson [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
 
 ### A15 (60xp, low threat)   
-  - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](http://2e.aonprd.com/Monsters.aspx?ID=424)
+  - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 
 ### A16 
-  - Erin Habe TO DO
-  - Grayst Sevilla TO DO
+  - Erin Habe [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
+  - Grayst Sevilla [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
   - Caizarlu Zerren ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
    ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
@@ -86,7 +88,7 @@ If they are breezing through then liberally apply elite templates or add minions
 ## Part 4: Misgivings (XP ??, Party Level 5/6)
 
 ### B1
-  - [Carrionstorm] TO DO
+  - For Carrionstorm use Flying [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) with a weaker version of Vorel's Phage
 
 ### B2
   - Burning Manticore ![Burning Manticore PNG](./Statblocks/BurningManticore.png)
@@ -137,7 +139,7 @@ If they are breezing through then liberally apply elite templates or add minions
   - Ghoulish Uprising ![Ghoulish Uprising PNG](./Statblocks/GhoulishUprising.png)
 
 ### B33
-  - Yellow Mold TO DO
+  - [Brown Mold](https://2e.aonprd.com/Hazards.aspx?ID=35)
 
 ### B34/B35
   - Party level 5: [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
@@ -157,16 +159,19 @@ If they are breezing through then liberally apply elite templates or add minions
 ## Part 6: The Seven's Sawmill (XP ??, Party Level 7)
 
   - **Creatures:**
-    - [Skinsaw Cultist]
-    - [Cult Leader]
+    - [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
+    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
 
 ## Part 7: Shadows of Time (XP ??, Party Level 7)
 
   - **Creatures:**
     - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
-    - [Scarecrow]
-    - [Xanesha]
+    - Scarecrow - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
+    - Xanesha [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
+
+          - Add Feather Fall to her prepared spells
+          - optionally use Lucrecia from book 4 for a more challenging encounter.
   - **Hazards:**
-    - [Falling Bell]
+    - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
 
 # --- End of The Skinsaw Murders 2E Conversion Guide---
