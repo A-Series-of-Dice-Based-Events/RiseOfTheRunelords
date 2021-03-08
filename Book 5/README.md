@@ -95,7 +95,8 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
    ![Azaven PNG](./Statblocks/azaven-1608759100.png)
    - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
    ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
-   - To do: Necromantic Deathtrap
+   Negative Energy Portal ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
+   Necromantic Deathtrap ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
    
  ## Part 5: The Vault of Greed
   - **Creatures:**
