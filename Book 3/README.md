@@ -543,6 +543,17 @@ The other unique ogres are covered individually below.
 
 	- **Loot:** Yap will provide two doses of Dust of Disappearance [2x C9]. 
 
+### Haunts
+  - Whispers Of Regret ![Whispers Of Regret Haunt PNG](./Statblocks/WhispersOfRegretHaunt.png)
+
+  - Apparitions Of Death ![Apparitions Of Death Haunt JPG](./Statblocks/ApparitionsOfDeathHaunt.jpg)
+
+  - Dead Pool ![Dead Pool Haunt PNG](./Statblocks/DeadPoolHaunt.png)
+
+  - Ghostly Revels ![Ghostly Revels Haunt PNG](./Statblocks/GhostlyRevelsHaunt.png)
+
+  - Ghostly Revels Routine ![Ghostly Revels Routine PNG](./Statblocks/GhostlyRevelsRoutine.png)
+
 ### Mysterious Derelict
 
   - **Loot:** Musical Score worth 300 GP
