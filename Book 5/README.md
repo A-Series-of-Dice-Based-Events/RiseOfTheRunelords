@@ -32,8 +32,9 @@ XXX | 500
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
-## TO DO - EVERYTHING
-  - all unique creatures
+## TO DO
+  - several creatures
+  - disjunction pulse
   - xp & threat rating
   - treasure by level
 
@@ -100,8 +101,9 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
    
  ## Part 5: The Vault of Greed
   - **Creatures:**
-    - To do: Crushing Door
-    - To do: Morphic Mist
+     - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
+    - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
+    - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
     - To do: replace Water Mephits with something. Or not.
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
     - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
