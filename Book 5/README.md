@@ -33,12 +33,9 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - creatures
-    - Nelevetu Voan
-    - False Vraxerises
-    - False Delvahines
-    - Sobloch
-    - Iron Archer Longbow stats
+  - False Vraxerises
+  - Sobloch (standard improved familiar)
+  - Iron Archer Longbow stats
   - Disjunction pulse
   - xp & threat rating
   - treasure by level
@@ -121,7 +118,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
   - **Creatures:**
     - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
     ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
-    - To do: Nelevetu Voan 
+    - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937) 
     - Enslaved stone giants: Elite Stone Giants
     - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
     ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
@@ -133,11 +130,11 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
   - **Creatures:**
       - For the unique Mirrors of Opposition use the 1E stats as guides
       - To do: False Vraxerises
-      - To do: False Delvahines
+      - For False Delvahines use either triple or quadruple elite Succubus OR triple or quadruple weak Delvahine (see above) depending on what you think your party can handle.
       
  ## Part 8: The Festering Maze
   - **Creatures:**
-    - To do: Sobloch
+    - To do: Sobloch (Standard Improved Familiar)
     - [Omox Demon PDF](./Statblocks/omox_demon-1608760936.pdf) by @Primemakes.
     ![Omox Demon PNG](./Statblocks/omox_demon-1608760934.png)
     - [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
@@ -148,7 +145,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
  
  ## Part 9: The Halls of Wrath
   - **Creatures:**
-    - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242). To do: add longbow
+    - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242). To do: add longbow stats
     - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
     ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png)
     - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
