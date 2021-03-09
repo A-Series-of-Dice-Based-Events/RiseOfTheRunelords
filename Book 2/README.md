@@ -87,7 +87,7 @@ If they are breezing through then liberally apply elite templates or add minions
 ## Part 4: Misgivings (XP ??, Party Level 5/6)
 
 ### B1
-  - For Carrionstorm use Flying [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) with a weaker version of Vorel's Phage
+  - For Carrionstorms use Flying Undead [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) 
 
 ### B2
   - Burning Manticore ![Burning Manticore PNG](./Statblocks/BurningManticore.png)
