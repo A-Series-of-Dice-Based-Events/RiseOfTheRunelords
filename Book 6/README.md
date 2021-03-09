@@ -85,7 +85,7 @@ XXX | 500
 ### C Queen of The Icemists
 
   - Svevenka ![Ice Nymph Queen PDF](./Statblocks/Svevenka.pdf)
-  ![Svevenka PNG](./Statblocks/Svevenka.png)
+  - ![Svevenka PNG](./Statblocks/Svevenka.png)
 
 ### D Sentinels
 
