@@ -74,13 +74,17 @@ XXX | 500
 
 ### Event 3: Hungry Ghost
 
+  - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
+
 ### Event 4: The Siege
+
+  - no change
 
 ## Part 3: On the World's Roof
 
-### C Queen of the Icemists
+### C The Icemists
 
-### D Giant Sentinels
+### D Sentinels
 
 
 ## Part 4: Xin-Shalast
@@ -91,7 +95,9 @@ XXX | 500
 
 ### F Golden Road
 
-### G Giant Encampment
+### G Encampment
+
+  - Gyukak [Onidashi](https://2e.aonprd.com/Monsters.aspx?ID=746)
 
 ### H Abominable Dome
   - Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
@@ -102,6 +108,8 @@ XXX | 500
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
 
 ### K Heptaric Locus
+  - [triple elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
+  
   - Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
   - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
 
@@ -111,15 +119,21 @@ XXX | 500
 
 ### Q Ghlorofaex's Lair
 
+  - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
+
 ## Part 5: Scaling Mhar Massif
 
 ### Invaders from Leng
+
+  - [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
 ## Part 6: Pinnacle of Avarice
 
 ### Pinnacle Resources
 
 ### X1 Entrance Ramp
+
+  - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ### X2 Kharzoug
 
