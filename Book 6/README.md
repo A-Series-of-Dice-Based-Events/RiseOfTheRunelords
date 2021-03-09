@@ -82,7 +82,10 @@ XXX | 500
 
 ## Part 3: On the World's Roof
 
-### C The Icemists
+### C Queen of The Icemists
+
+  - Svevenka ![Ice Nymph Queen PDF](./Statblocks/Svevenka.pdf)
+  ![Svevenka PNG](./Statblocks/Svevenka.png)
 
 ### D Sentinels
 
@@ -120,6 +123,7 @@ XXX | 500
 ### Q Ghlorofaex's Lair
 
   - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
+  - Choose spellcaster or frenzy/momentum according to taste
 
 ## Part 5: Scaling Mhar Massif
 
