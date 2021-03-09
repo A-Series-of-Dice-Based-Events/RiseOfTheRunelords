@@ -34,9 +34,7 @@ XXX | 500
 
 ## TO DO
   - False Vraxerises
-  - Sobloch (standard improved familiar)
   - Iron Archer Longbow stats
-  - Disjunction pulse
   - xp & threat rating
   - treasure by level
 
@@ -81,7 +79,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
   
 ## Part 3: Runeforge and the Abjurant Halls
  - **Creatures:**
-   - Disjunction pulse: to do
+   - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.  
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
 ## Part 4: The Ravenous Crypts
@@ -134,7 +132,14 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
       
  ## Part 8: The Festering Maze
   - **Creatures:**
-    - To do: Sobloch (Standard Improved Familiar)
+    - Sobloch [Quasit Improved Familiar](https://2e.aonprd.com/Monsters.aspx?ID=97) 
+      - As a familiar the Quasit is only its form and it cannot use strikes or any other special abilities of a Quasit
+      - The only ability it retains is Invisibility at will.
+      - 75HP, AC 36, Fort +29, Ref +23, Will +27 
+      - Perception +23, Acrobatics +23, Stealth +23
+      - Empathic link to Jordimandus within 1 mile
+      - Abilities: Flier, Darkvision, Fast Movement (fly 40ft), Manual Dexterity, Speech (Thassilonian)
+
     - [Omox Demon PDF](./Statblocks/omox_demon-1608760936.pdf) by @Primemakes.
     ![Omox Demon PNG](./Statblocks/omox_demon-1608760934.png)
     - [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
