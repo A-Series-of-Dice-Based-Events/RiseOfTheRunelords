@@ -24,9 +24,9 @@ XXX | 500
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
-## TO DO - EVERYTHING
-  - all unique creatures
-  - xp & threat rating
+## TO DO
+  - most unique creatures
+  - xp & threat rating & encounter balance
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -35,7 +35,7 @@ XXX | 500
 
 ## General Encounter Advice
 
-- Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
+- Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
 - If they are finding it hard going then liberally apply weak templates or remove minions.  
 - If they are breezing through, then liberally apply elite templates or add minions. 
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
@@ -47,38 +47,46 @@ XXX | 500
 
 ### Vekker's Cabin (??xp)
 
-  - **Creatures:**  
-
 ### The Watcher in the Wastes (??xp)
 
-
 ### B1 The Tailings (??xp)
+  - The Horror Tree - TO DO
 
 ### B4 Sack Room
+  - Treasure - TO DO
 
 ### B5 Ore Separation
+  - Gold Eating Dwarf - TO DO
 
 ### B6 Ore Shaft
+  - Haunted Chain - TO DO
+  - Tipping Stairs - TO DO
 
 ### B8 Front Porch
+  - Partially Eaten Dwarf - TO DO
 
 ### B10 Coatroom 
+  - Treasure - TO DO
 
 ### B13 Strong Room
+  - Treasure - TO DO
 
 ### B14 Living Area
+  - Cannibal Urgings - TO DO
 
 ### B15 Larder
+  - The Hungry Dead - TO DO
 
 ### Event 1: Cannibal Fury
+  - Cannibal Fury - TO DO
 
 ### Event 3: Hungry Ghost
-
+  - Karivek Vekker - TO DO
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
 ### Event 4: The Siege
 
-  - no change
+  - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
 ## Part 3: On the World's Roof
 
@@ -114,6 +122,8 @@ XXX | 500
 
   - Vampire Skulk ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
+  - The Hidden Beast - TO DO
+  - Vampire Skulks - TO DO
 
 ### K Heptaric Locus
   - [triple elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
@@ -141,42 +151,62 @@ XXX | 500
 ### Pinnacle Resources
 
 ### X1 Entrance Ramp
-
-  - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ### X2 Kharzoug
 
 ### X3 Throne Rooom
+  - Viorian Dekanti TO DO
+  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ### X4 Lair
+  - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
 ### X5 Kin Quarters
+  - Treasure TO DO
 
 ### X6 Cells
+  - Lamia Priestesses TO DO (upscale the ones from Jorgenfist)
 
 ### X7 Den
+  - Lamia Kin Hungerers TO DO
 
 ### X8 Prison
+  - [Astradaemon](https://2e.aonprd.com/Monsters.aspx?ID=91)
 
 ### X9 Chambers
+  - Treasure TO DO
 
 ### X10 Door
+  - [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
 
 ### X11 Doors
+  - The Aklo Doors TO DO
 
-### X12 The Device
+### X12 The Device (Extreme)
+  - Denizens of Leng TO DO (upscale to be PC level-4 = L13?)
+  - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L16)
 
 ### X13 Cells
+  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
 ### X15 Quarters
+  - Khalib TO DO
 
 ### X16 Reliquary
+  - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
 
 ### X17 Chamber of Focus
+  - Most High Ceoptra TO DO
+  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ## Part 7: The Eye of Avarice
 
-### The Final Battle
-
+### The Final Battle (Extreme - TO BALANCE)
+  - Karzoug the claimer TO DO
+  - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
+  - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
