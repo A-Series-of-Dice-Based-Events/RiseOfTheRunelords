@@ -184,7 +184,8 @@ XXX | 500
   - The Aklo Doors TO DO
 
 ### X12 The Device (Extreme)
-  - Denizens of Leng TO DO (upscale to be PC level-4 = L13?)
+  - [Pinnacle of Leng PDF](./Statblocks/PinnacleOfLeng.pdf)
+  - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
   - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L16)
 
 ### X13 Cells
