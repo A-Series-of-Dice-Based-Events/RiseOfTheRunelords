@@ -82,19 +82,24 @@ XXX | 500
 
 ## Part 3: On the World's Roof
 
-### C Queen of The Icemists
+### C Queen of The Icemists (XP40, Trivial, RP Encounter)
 
-  - Svevenka ![Ice Nymph Queen PDF](./Statblocks/Svevenka.pdf)
+  - Svevenka [Ice Nymph Queen PDF](./Statblocks/Svevenka.pdf)
   - ![Svevenka PNG](./Statblocks/Svevenka.png)
 
-### D Sentinels
+### D Sentinels (XP 80, Moderate)
 
+  - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Frost Giant](https://2e.aonprd.com/Monsters.aspx?ID=222)
+  - 4x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
 ## Part 4: Xin-Shalast
 
 ### Event 5: Emergence of the Spared
 
-### E Krak Naratha
+### E Krak Naratha (XP 120, severe)
+  - 12 Krak Narath soldiers [Lamia Kin Kuchrecia PDF](./Statblocks/KrakNarathaSoldier.pdf)
+  - ![Lamia Kin Kuchrecia PNG](./Statblocks/KrakNarathaSoldier.png)
+  - For Aurochs use the stats for [Woolly Rhinoceros](https://2e.aonprd.com/Monsters.aspx?ID=789). This is an obstacle rather than  a threat.
 
 ### F Golden Road
 
