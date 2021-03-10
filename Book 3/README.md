@@ -2,7 +2,7 @@
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
-- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, XP, level based treasure, and occassionally tactics.
+- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, XP, level based treasure, and occasionally tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
 - Unique or missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
@@ -57,17 +57,17 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 This adventure contains treasure for 8th, 9th, and 10th levels (it assumes that treasure for level 7 was acquired prior to the start of this adventure). 
 
-The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 17,700 GP in value (4000 gp + 5700 gp + 8000 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 9th level and 2x 8th level for Level 8), and lower level items were included as well for flavor. 
+The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 17,700 GP in value (4000 gp + 5700 gp + 8000 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 9th level and 2x 8th level for Level 8), and lower-level items were included as well for flavor. 
 
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items). 
 
 Currency is lower than the guidelines, due to the cost of the permanent and consumable items. 
 
-Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells only, usually those currently memorized by the NPC.
+Spellbooks are valued at 50% of the cost of "learn a spell" for the highest-level spells only, usually those currently memorized by the NPC.
 
 Sihedron Medallions are valued at 160 gp (equivalent to a 2nd level wand of False Life). 
 
-GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth considerably more than in 1E. However, the  value of non magic item valuables (i.e. jewelry, maps, etc) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
+GP value of currency items was scaled down to take into account the treasure guidelines and the fact that gold in 2E is worth considerably more than in 1E. However, the  value of non-magic item valuables (i.e. jewelry, maps, etc.) relative to each other as laid out in the original RotR AP is more or less maintained. For example, Lucrecia's silver necklace was originally worth 200 gp and her ring was worth 300 gp. They are now worth 25 and 40 gp (keeping the ratios approximately the same). 
 
 Treasure was provided for a party of 4. If you have additional party members, include additional treasure and items per the "Full level to Wealth Chart" and accompanying information linked above.  
 
@@ -78,7 +78,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
 If they are finding it hard going then liberally apply weak templates or remove minions.  
 If they are breezing through then liberally apply elite templates or add minions. 
-Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
+Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 0: Turtleback ferry (XP 100, Party Level 7)
 
@@ -92,14 +92,14 @@ These investigations and encounters could happen at any point during the book.
 
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
-    - If the party are higher than level 7 when they investigate The Paradise then apply the Elite or double Elite template accordingly
+    - If the party are higher than level 7 when they investigate The Paradise, then apply the Elite or double Elite template accordingly
 
   - **Encounter Notes:**   
     - The Paradise sank near the edge of the territory of a giant snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
-    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interations
-    - Turtle meat is a delicacy and there is enough in a gaint turtle to provide a much needed boost to the local economy
+    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interactions
+    - Turtle meat is a delicacy and there is enough in a giant turtle to provide a much needed boost to the local economy
     - Turtle shell is a prized hull for local fishing boats as it has a reputation for preventing giant gar attacks
-    - Succesfully investigating the wreck of the Paradise provides some clues and a story award of 10xp
+    - Successfully investigating the wreck of the Paradise provides some clues and a story award of 10xp
 
 ## Part 1: In The Hook's Shadow (XP 880, Party Level 7/8)
 
@@ -252,7 +252,7 @@ Encounters include scaling for level 8 parties.
 
 ### Ending the ogrekin menace (XP 80 and hero point)
 
-  - Award story xp of 80 for succesfuly ending the ogrekin threat (either killing mammy graul, over half the total ogrekin, or similarly disrupting the threat)
+  - Award story xp of 80 for successfuly ending the ogrekin threat (either killing mammy graul, over half the total ogrekin, or similarly disrupting the threat)
 
 ### Exposing the traitor (XP 30)
 
@@ -339,7 +339,7 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
     - Ogre Warrior* Thrall under control of Lorgus
-    - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
+    - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower-level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
     - Adjustment for level 9 - add a second Ogre Warrior* Thrall
 
     - If an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
@@ -421,9 +421,9 @@ The other unique ogres are covered individually below.
     ![Lucrecia PNG](./Statblocks/Lucrecia.png)
 
   - **Encounter Notes:**
-    - Be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower level PCs 
+    - Be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower-level PCs 
     - The lamias will use deception and disguise as they see fit (and they have had lots of practice and enjoy doing it). Create or choose a deception that will resonate with your players or you feel you can roleplay well. Some examples:
-      - If Kaven is with the party they will weave him into the deception by using his name as they recognise him from The Paradise
+      - If Kaven is with the party they will weave him into the deception by using his name as they recognize him from The Paradise
       - If they are aware of the parties approach the Lamias could be in human form posing as black arrows using the humanoid form and illusory disguise spells.
         - They claim that any black arrows accompanying the party are either imposters or deserters (except Kaven) as best fits the circumstance.
         - They say they are holed up in here as they were driven back by the ogres and they are grateful to be rescued. 
@@ -446,7 +446,7 @@ The other unique ogres are covered individually below.
 
 ### Liberating Fort Rannick (XP 80 story award and hero point)
 
-  - For succesfully liberating Fort Rannick from ogre control award 80xp.
+  - For successfully liberating Fort Rannick from ogre control award 80xp.
 
 
 ## Part 3: Down Comes the Rain (XP 600, Party Level 9)
@@ -455,7 +455,7 @@ The other unique ogres are covered individually below.
   - **Creatures:** 
     - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
-    - For saving the children award an additional 10xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for any social interation checks
+    - For saving the children award an additional 10xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for any social interaction checks
 
 ### Black Magga Rises (XP 80, beyond extreme temporary threat)
 
@@ -466,8 +466,8 @@ The other unique ogres are covered individually below.
 
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
-     - XP is awarded for the bravery of enagaging with Black Magga and defending the church / driving her off
-     - This improves the attitude of everyone in Turtleback Ferry towards them for any social interation checks
+     - XP is awarded for the bravery of engaging with Black Magga and defending the church / driving her off
+     - This improves the attitude of everyone in Turtleback Ferry towards them for any social interaction checks
 
 ### C4. Gorger and Chaw’s Lair (XP 50, trivial threat, terrain makes it more challenging)
 
@@ -528,7 +528,7 @@ The other unique ogres are covered individually below.
 
   - Recall Knowledge - Fiend (Religion): DC 40 to identify the creature
   - award 80 XP for figuring out how to open the floodgates  (and saving tens of thousands of lives) regardless of their negotiations with Avaxial
-  - If they do so without killing a creature (other than Avaxial; and summons or evil creatures don't count) award an additonal 40XP
+  - If they do so without killing a creature (other than Avaxial; and summons or evil creatures don't count) award an additional 40XP
   - Infernal Engine: [Curse, Death]
     - The magical circle drains the life force of the creature within the circle to power the floodgate. Though the magic has waned over the millennia, it still requires a DC29 fortitude save or the creature within becomes drained 1 and sickened 1, or has its sickened and drained values increased by 1. The sickened value cannot be reduced below the drained value while afflicted with this curse. If the creature critically fails this save, the drained value gained from this failed save does not reduce by 1 with rest as it would normally, and must be magically restored. 
     - Avaxial is currently drained 16 and sickened 16, and has been for several decades, and will say and do almost anything to end his suffering.
@@ -654,6 +654,6 @@ The other unique ogres are covered individually below.
     - Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp
     - Black Onyx Gems (60 gp)
 
-  - **XP** Returning the black arrows equipment gains an additional 60xp story award and hero point 
+  - **XP** Returning the black arrows equipment gains an additional 60xp story award and hero point. 
 
 ## -- End of RotR Hook Mountain Massacre 2E Conversion Guide --

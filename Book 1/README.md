@@ -2,7 +2,7 @@
 
 ## Conversion Guide for Pathfinder second edition (2E)
 
-  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and occassionally tactics where they don't convert well from 1E.
+  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and occasionally tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
   - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
   - Unique and missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
@@ -57,13 +57,13 @@ This adventure contains all treasure for 1st through 4th levels.
 
 The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1).
 
-As a general rule divide the gp values of valuables by 10 to convert to 2E. Occassionally they are divided by 20 in order to fit the 2E wealth guidelines. 
+As a general rule divide the gp values of valuables by 10 to convert to 2E. Occasionally they are divided by 20 in order to fit the 2E wealth guidelines. 
 
 All magical items in 1E treasure are replaced by 2E items in this guide.
 
 It's assumed that even though NPCs may use consumable items in their possession, those items will still become part of the loot. If you decide not to do this, you should replace it with something else (or just increase the cash value of currency items).
 
-Spellbooks are valued at 50% of the cost of "learn a spell" for the highest level spells only, usually those currently memorized by the NPC.
+Spellbooks are valued at 50% of the cost of "learn a spell" for the highest-level spells only, usually those currently memorized by the NPC.
 
 Sihedron Medallions are valued at 160 gp (equivalent to a 2nd level wand of False Life).
 
@@ -95,7 +95,7 @@ There is no spare treasure. If your players miss something early on in the adven
 
 ### Goblin notes
 
-  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewellry, hats, chickens, butterflies, babies...
+  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewelry, hats, chickens, butterflies, babies...
 
 ### Initial Assault (60xp, low threat)
 
@@ -116,7 +116,7 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:** 
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
     - [Mounted Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233). The goblin commando has a [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) on his bow, increasing his to hit by 1.
-    - During Combat The goblin commando uses the superior mobilty of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
+    - During Combat The goblin commando uses the superior mobility of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
     - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG if stats are required
   - **Loot:** [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
@@ -156,7 +156,7 @@ There is no spare treasure. If your players miss something early on in the adven
 
 ### Trouble at the Rusty Dragon (10-20xp, RP encounter)
 
-  - 10xp for helping getting rid of Lonjiku, 20xp for doing so peacefully.
+  - 10xp for helping get rid of Lonjiku, 20xp for doing so peacefully.
 
 ### Monster in the closet (40xp, trivial threat, mainly RP encounter)
 
@@ -267,7 +267,7 @@ There is no spare treasure. If your players miss something early on in the adven
 
 ### B12. Shrine to Lamashtu
 
-  - Waters of Lamashtu, Fortititude Save DC 22 
+  - Waters of Lamashtu, Fortitude Save DC 22 
     - Drinking the Waters of Lamashtu temporarily twists your mind and body. Repeated doses over many weeks can cause permanent changes that are rarely beneficial.
     - Critical Success: No effect
     - Success: Sickened 1 as your body purges the waters from your system
@@ -299,7 +299,7 @@ There is no spare treasure. If your players miss something early on in the adven
 ## Part 4A. Thistletop Approach (500xp, assumed party level 2)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
-  - Shalelu should have forwarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
+  - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
   - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
 ### C4. Refugees Nest (120xp, severe threat, plus 40xp for terrain)
@@ -322,8 +322,8 @@ There is no spare treasure. If your players miss something early on in the adven
     ![Tangletooth PNG](./Statblocks/Tangletooth.png)
 
   - **Tactics:** Replace the before combat and during combat tactics as follows:
-    - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
-    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes (though he can move through it if needs must). He follows up with burning hands from the staff if he can do so safely and if he can avoid burning the bushes with it. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind
+    - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillelagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
+    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes (though he can move through it if needs must). He follows up with burning hands from the staff if he can do so safely and if he can avoid burning the bushes with it. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind.
     - If the opportunity arises Gogmurt uses hydraulic push to push someone into the bunyip hole or off a cliff edge or the bridge.
     - Gogmurt uses his feather step ability to make maximum use of the bushes for cover and for sneaking. Note this feat also allows him to step into an entangle spell.
     
@@ -396,7 +396,7 @@ There is no spare treasure. If your players miss something early on in the adven
     - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
     - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P4)
   
-### C23. Chieftan's Room
+### C23. Chieftain's Room
 
   - **Loot:**
     - DC 16 Seek to find Iron Key to chest in C24.
@@ -459,7 +459,7 @@ There is no spare treasure. If your players miss something early on in the adven
     ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
 
   - **Tactics** 
-    - Lyrie has chosen Skivver's familiar abilites of darkvision and scent to give her warning of any approach
+    - Lyrie has chosen Skivver's familiar abilities of darkvision and scent to give her warning of any approach
     - Replace the "During Combat" tactics with the following:
       - Lyrie is a firm believer in the adage that wizards belong nowhere near the front line of combat. If she expects to be engaged in close range combat or to be targeted then she casts mirror image. When she is forced into combat, she prefers her long range offensive abilities, such as Magic Missile, Hand of the Apprentice and Reach Spell solutions. 
 
@@ -491,8 +491,8 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Tactics**
     - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
     - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with sweeping Falchion attacks and harm. She uses her Shield spell if she has an action free.
-    - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as approprite to make good her escape.
-    - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defences using her [Mark of Lamashtu / Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. She might also do this if captured and left alone.
+    - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as appropriate to make good her escape.
+    - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defenses using her [Mark of Lamashtu / Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. She might also do this if captured and left alone.
 
   - **Loot**
     - [Sihedron Medallion PDF](../ThassilonianMagic/SihedronMedallion.pdf) (P5)
@@ -525,7 +525,7 @@ There is no spare treasure. If your players miss something early on in the adven
     - [+1 Armor Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=24) (P5)
     - Tools worth 5gp
 
-### E10. Malfeshnekors Prison (160xp, extreme threat)
+### E10. Malfeshnekor's Prison (160xp, extreme threat)
 
   - **Creatures:**
     - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
