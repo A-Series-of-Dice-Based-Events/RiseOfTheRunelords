@@ -95,17 +95,17 @@ These investigations and encounters could happen at any point during the book.
     - If the party are higher than level 7 when they investigate The Paradise, then apply the Elite or double Elite template accordingly
 
   - **Encounter Notes:**   
-    - The Paradise sank near the edge of the territory of a giant snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most
-    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interactions
-    - Turtle meat is a delicacy and there is enough in a giant turtle to provide a much needed boost to the local economy
-    - Turtle shell is a prized hull for local fishing boats as it has a reputation for preventing giant gar attacks
-    - Successfully investigating the wreck of the Paradise provides some clues and a story award of 10xp
+    - The Paradise sank near the edge of the territory of a giant snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most.
+    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interactions.
+    - Turtle meat is a delicacy and there is enough in a giant turtle to provide a much-needed boost to the local economy.
+    - Turtle shell is a prized hull for local fishing boats as it has a reputation for preventing giant gar attacks.
+    - Successfully investigating the wreck of the Paradise provides some clues and a story award of 10xp.
 
 ## Part 1: In The Hook's Shadow (XP 880, Party Level 7/8)
 
 For ogrekin, custom creatures have been created, based on ogre templates.
 
-For traps, near fit hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters or happen during an encounter they are more serious.
+For traps, near fit hazards have been used. Note the traps are unlikely to be a significant hazard on their own, but if they trigger other encounters or happen during an encounter, they are more serious.
 
 Encounters include scaling for level 8 parties.
 

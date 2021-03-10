@@ -2,18 +2,18 @@
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
-- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and occassionally tactics.
+- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
 - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
-- If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
+- If you find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
 ## General GM information
 
   - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
-  - There are encounters where multiple much lower level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
-  - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
-  - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
+  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
+  - DCs are not converted to 2E, except where they are contained within a creature or hazard statblock, or are particularly significant. This is left up to GM discretion.
+  - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
 ## Party levelling milestones
 
@@ -45,8 +45,8 @@ XXX | 500
 
 - Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
 - If they are finding it hard going then liberally apply weak templates or remove minions.  
-- If they are breezing through then liberally apply elite templates or add minions. 
-- Usually it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
+- If they are breezing through, then liberally apply elite templates or add minions. 
+- Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 1: The Scribbler ( xp)
   
@@ -66,7 +66,7 @@ XXX | 500
 **Usage** held in 1 hand; Bulk L
 This quill is fashioned from a peacock's tail feather. Its nib is made of bone, and when held in one's hand, the quill seems strangely heavy. If placed in an empty vial or other glass container of similar size and left there for one hour, a revelation quill fills that container with ink. The ink created is of a random color 50% of the time, otherwise the ink is black. A Revelation Quill can act as a standard writing implement, its true strength lies in its ability to answer questions.
 **Activate** 10 minutes (Envision); **Frequency** Once per day; While holding the quill, the user concentrates on a specific future goal, event, or activity occurring within the coming week, the Revelation Quill takes over and writes out a response similar to the way Augury functions except the response can be a short phrase, often in the form of a cryptic rhyme or omen.
-**Activate** 10 minutes (Envision); **Frequency** Once per week; Upon activation, the user may use the quill in the same way to to ask the mysterious intellect that guides the Revelation Quill up to 10 questions as though the user has rolled a success to cast the Commune Ritual.
+**Activate** 10 minutes (Envision); **Frequency** Once per week; Upon activation, the user may use the quill in the same way to ask the mysterious intellect that guides the Revelation Quill up to 10 questions as though the user has rolled a success to cast the Commune Ritual.
 **Destruction**: The quill must be tricked into revealing the method of destroying itself without asking it to reveal that method.
 
 ## Part 2: Seeking Runeforge ( xp)

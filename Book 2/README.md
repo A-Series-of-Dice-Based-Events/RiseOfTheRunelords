@@ -2,11 +2,11 @@
 
 ## Conversion guide for Pathfinder second edition (2E) 
 
-- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and some tactics.
+- This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level-based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
 - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PNG and PDF files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available.
-- If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
+- If you find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
 ## Index and status
   - Part 1: Murder Most Foul
@@ -24,7 +24,7 @@
 ### Party Level and Target Allocation of Treasure
 
 - Level 4: At start of the book the party are at or within 200xp of level 5 and should have received all level 4 treasure in book 1
-- Level 5: After the inital murder investigation
+- Level 5: After the initial murder investigation
 - Level 6: After they reach Foxglove Manor
 - Level 7: After they reach Magnimar
 - Level 8: The party should be close to level 8 at the end of the book and therefore should receive all of the level 7 treasure in this book
@@ -43,7 +43,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate to suit the capabilities of your party. 
 If they are finding it hard going then liberally apply weak templates or remove minions. 
-If they are breezing through then liberally apply elite templates or add minions. 
+If they are breezing through, then liberally apply elite templates or add minions. 
 
 
 ## Part 1: Murder Most Foul (XP 240, Party Level 4)
@@ -164,7 +164,7 @@ If they are breezing through then liberally apply elite templates or add minions
 ## Part 6: The Seven's Sawmill (XP ??, Party Level 7)
 
   - **Creatures:**
-    - [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
+    - [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
 
 ## Part 7: Shadows of Time (XP ??, Party Level 7)
