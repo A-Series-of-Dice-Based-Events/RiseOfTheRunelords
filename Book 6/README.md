@@ -177,8 +177,9 @@ XXX | 500
 ### X10 Door (xp 30, trivial threat, RP potential)
   - Ayruzi [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
 
-### X11 Doors (xp , )
-  - The Aklo Doors TO DO
+### X11 Doors
+  - Aklo Doors [Aklo Doors PDF](./Statblocks/AkloDoors.pdf)
+    - ![Aklo Doors PNG](./Statblocks/AkloDoors.png)
 
 ### X12 The Device (xp 160, Extreme)
   - 12 [Pinnacle of Leng PDF](./Statblocks/PinnacleOfLeng.pdf)
