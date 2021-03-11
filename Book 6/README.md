@@ -40,67 +40,67 @@ XXX | 500
 - If they are breezing through, then liberally apply elite templates or add minions. 
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: Seeking Xin-Shalast ( xp)
+## Part 1: Seeking Xin-Shalast (Party Level 15)
 
 
-## Part 2: WHISPERS IN THE WIND (XP ??, Party Level 15??)
+## Part 2: WHISPERS IN THE WIND (Party Level 15)
 
 ### Vekker's Cabin (??xp)
 
 ### The Watcher in the Wastes (??xp)
 
-### B1 The Tailings (??xp)
-  - The Horror Tree - TO DO
+### B1 The Tailings (xp , )
+  - The Horror Tree TO DO
 
 ### B4 Sack Room
-  - Treasure - TO DO
+  - Treasure TO DO
 
-### B5 Ore Separation
-  - Gold Eating Dwarf - TO DO
+### B5 Ore Separation (xp , )
+  - Gold Eating Dwarf TO DO
 
-### B6 Ore Shaft
-  - Haunted Chain - TO DO
-  - Tipping Stairs - TO DO
+### B6 Ore Shaft (xp , )
+  - Haunted Chain TO DO
+  - Tipping Stairs TO DO
 
-### B8 Front Porch
-  - Partially Eaten Dwarf - TO DO
+### B8 Front Porch (xp , )
+  - Partially Eaten Dwarf TO DO
 
 ### B10 Coatroom 
-  - Treasure - TO DO
+  - Treasure TO DO
 
 ### B13 Strong Room
-  - Treasure - TO DO
+  - Treasure TO DO
 
-### B14 Living Area
-  - Cannibal Urgings - TO DO
+### B14 Living Area (xp , )
+  - Cannibal Urgings TO DO
 
-### B15 Larder
-  - The Hungry Dead - TO DO
+### B15 Larder (xp , )
+  - The Hungry Dead TO DO
 
-### Event 1: Cannibal Fury
-  - Cannibal Fury - TO DO
+### Event 1: Cannibal Fury (xp , )
+  - Cannibal Fury TO DO
 
-### Event 3: Hungry Ghost
-  - Karivek Vekker - TO DO
+### Event 3: Hungry Ghost (xp , )
+  - Karivek Vekker TO DO
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
-### Event 4: The Siege
+### Event 4: The Siege (xp 80, moderate)
 
   - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
-## Part 3: On the World's Roof
+## Part 3: On the World's Roof (Party Level 16)
 
-### C Queen of The Icemists (XP40, Trivial, RP Encounter)
+### C Queen of The Icemists (XP 40, Trivial, RP Encounter)
 
   - Svevenka [Ice Nymph Queen PDF](./Statblocks/Svevenka.pdf)
   - ![Svevenka PNG](./Statblocks/Svevenka.png)
 
-### D Sentinels (XP 80, Moderate)
+### D Sentinels (XP 90, Moderate)
 
-  - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Frost Giant](https://2e.aonprd.com/Monsters.aspx?ID=222)
+  - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
   - 4x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
-## Part 4: Xin-Shalast
+## Part 4: Xin-Shalast (Party Level 16)
 
 ### Event 5: Emergence of the Spared
 
@@ -111,103 +111,100 @@ XXX | 500
 
 ### F Golden Road
 
-### G Encampment
+### G Encampment (XP 0, zero threat, RP encounter)
 
   - Gyukak [Onidashi](https://2e.aonprd.com/Monsters.aspx?ID=746)
 
-### H Abominable Dome
-  - Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
+### H Abominable Dome (XP 90, moderate)
+  - 6 Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
 
-### I Lair of the Hidden Beast
+### I Lair of the Hidden Beast (xp , )
 
-  - Vampire Skulk ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
+  - 4 Vampire Skulk ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
-  - The Hidden Beast - TO DO
-  - Vampire Skulks - TO DO
+  - The Hidden Beast TO DO
 
-### K Heptaric Locus
-  - [triple elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
+### K Heptaric Locus (XP 90, moderate)
+  - Gamigin [triple elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
   
-  - Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
+  - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
   - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
 
-
-### N Hidden Path
+### N Hidden Path (XP 40, trivial)
   - Mountain Roper ![Mountain Roper PNG](./Statblocks/MountainRoper.png)
 
-### Q Ghlorofaex's Lair
+### Q Ghlorofaex's Lair (XP 120, severe)
 
   - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
   - Choose spellcaster or frenzy/momentum according to taste
 
-## Part 5: Scaling Mhar Massif
+## Part 5: Scaling Mhar Massif (Party Level 16)
 
-### Invaders from Leng
+### Invaders from Leng (xp 90, moderate)
 
-  - [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
+  - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
-## Part 6: Pinnacle of Avarice
+## Part 6: Pinnacle of Avarice (Party Level 17)
 
-### Pinnacle Resources
-
-### X1 Entrance Ramp
-  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+### X1 Entrance Ramp (xp 80, moderate)
+  - 4 Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ### X2 Kharzoug
 
-### X3 Throne Rooom
+### X3 Throne Rooom (xp , )
   - Viorian Dekanti TO DO
   - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
-### X4 Lair
+### X4 Lair (xp 30, trivial)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
 ### X5 Kin Quarters
   - Treasure TO DO
 
-### X6 Cells
-  - Lamia Priestesses TO DO (upscale the ones from Jorgenfist)
+### X6 Cells (xp 60, moderate)
+  - 4 Lamia Priestesses TO DO (upscale the ones from Jorgenfist to L14)
 
-### X7 Den
-  - Lamia Kin Hungerers TO DO
+### X7 Den (xp 60, moderate)
+  - 2 Lamia Kin Hungerers L16 TO DO
 
-### X8 Prison
+### X8 Prison (xp 30, trivial threat)
   - [Astradaemon](https://2e.aonprd.com/Monsters.aspx?ID=91)
 
-### X9 Chambers
+### X9 Chambers 
   - Treasure TO DO
 
-### X10 Door
-  - [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
+### X10 Door (xp 30, trivial threat, RP potential)
+  - Ayruzi [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
 
-### X11 Doors
+### X11 Doors (xp , )
   - The Aklo Doors TO DO
 
-### X12 The Device (Extreme)
-  - [Pinnacle of Leng PDF](./Statblocks/PinnacleOfLeng.pdf)
-  - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
-  - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L16)
+### X12 The Device (xp 160, Extreme)
+  - 12 [Pinnacle of Leng PDF](./Statblocks/PinnacleOfLeng.pdf)
+    - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
+  - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L17)
 
-### X13 Cells
-  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+### X13 Cells (xp 90, moderate)
+  - 3 Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
-### X15 Quarters
-  - Khalib TO DO
+### X15 Quarters (xp 40, trivial if encountered here)
+  - Khalib L17 TO DO
+    - Khalib is likely to join other (non-extreme) combats in the Pinnacle than to be found here
 
-### X16 Reliquary
+### X16 Reliquary (xp 30, trivial)
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
 
-### X17 Chamber of Focus
+### X17 Chamber of Focus (xp 105, moderate to severe)
   - Most High Ceoptra TO DO
-  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - 3 Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
-## Part 7: The Eye of Avarice
+## Part 7: The Eye of Avarice (Party Level 17)
 
-### The Final Battle (Extreme - TO BALANCE)
-  - Karzoug the claimer TO DO
+### The Final Battle (xp 180, Extreme)
+  - Karzoug the claimer TO DO (Level 20)
   - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
-  - Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - 2 Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
 ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
