@@ -49,8 +49,10 @@ XXX | 500
 
 ### The Watcher in the Wastes (??xp)
 
-### B1 The Tailings (xp , )
-  - The Horror Tree TO DO
+### B1 The Tailings (xp 40, Trivial)
+  - The Horror Tree [Horror Tree PDF](./Statblocks/HorrorTree.pdf)
+    - ![Horror Tree PNG](./Statblocks/HorrorTree.png)
+    - [Crimson Ooze](https://2e.aonprd.com/Diseases.aspx?ID=14)
 
 ### B4 Sack Room
   - Treasure TO DO
