@@ -80,8 +80,9 @@ XXX | 500
 ### Event 1: Cannibal Fury (xp , )
   - Cannibal Fury TO DO
 
-### Event 3: Hungry Ghost (xp , )
-  - Karivek Vekker TO DO
+### Event 3: Hungry Ghost (xp 70, moderate)
+  - Karivek Vekker [Karivek Vekker PDF](./Statblocks/KarivekVekker.pdf)
+    - ![Karivek Vekker PNG](./Statblocks/KarivekVekker.png)
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
 ### Event 4: The Siege (xp 80, moderate)
