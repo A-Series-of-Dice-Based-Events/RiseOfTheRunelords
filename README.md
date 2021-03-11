@@ -5,12 +5,12 @@ The README.md files for each book are the conversion guides. While the Statblock
 
 * [Campaign Backgrounds](./RotRCampaignBackgrounds.md)  
 * [Book 1: Burnt Offerings](./Book%201/README.md) - complete - awaiting community feedback
-* [Book 2: The Skinsaw Murders](./Book%202/README.md) - in progress
+* [Book 2: The Skinsaw Murders](./Book%202/README.md) - creatures complete
 * [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete - awaiting community feedback
-* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - in progress
-* [Book 5: Sins of the Saviors](./Book%205/README.md) - not started
-* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - not started
-* [Thassilonian Magic](./ThassilonianMagic/README.md)
+* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - creatures complete
+* [Book 5: Sins of the Saviors](./Book%205/README.md) - creatures almost complete (1 left) 
+* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - in progress (custom creatures part done) 
+* [Thassilonian Magic](./ThassilonianMagic/README.md) - several options
 * [OGL](./OGL.md)
 
 ## Join us
