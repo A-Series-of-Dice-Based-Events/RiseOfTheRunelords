@@ -166,7 +166,9 @@ XXX | 500
   - Treasure TO DO
 
 ### X6 Cells (xp 60, moderate)
-  - 4 Lamia Priestesses TO DO (upscale the ones from Jorgenfist to L14)
+  - 4 [Lamia Priestess](./Statblocks/lamiaPriestess.pdf)
+    - ![Lamia Priestess A PNG](./Statblocks/lamiaPriestessA.png)
+    - ![Lamia Priestess B PNG](./Statblocks/lamiaPriestessB.png)
 
 ### X7 Den (xp 40, moderate)
   - 2 [Lamia Kin Hungerer](./Statblocks/hungerer.pdf)
