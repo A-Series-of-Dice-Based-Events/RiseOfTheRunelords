@@ -25,7 +25,8 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - most unique creatures
+  - 7 unique creatures
+  - 7 hazards/haunts/traps
   - xp & threat rating & encounter balance
   - treasure by level
 
@@ -167,8 +168,9 @@ XXX | 500
 ### X6 Cells (xp 60, moderate)
   - 4 Lamia Priestesses TO DO (upscale the ones from Jorgenfist to L14)
 
-### X7 Den (xp 60, moderate)
-  - 2 Lamia Kin Hungerers L16 TO DO
+### X7 Den (xp 40, moderate)
+  - 2 [Lamia Kin Hungerer](./Statblocks/hungerer.pdf)
+    - ![Hungerer PNG](./Statblocks/hungerer.png)
 
 ### X8 Prison (xp 30, trivial threat)
   - [Astradaemon](https://2e.aonprd.com/Monsters.aspx?ID=91)
