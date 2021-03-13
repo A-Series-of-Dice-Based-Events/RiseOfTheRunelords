@@ -25,7 +25,7 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - 7 unique creatures
+  - 6 unique creatures
   - 7 hazards/haunts/traps
   - xp & threat rating & encounter balance
   - treasure by level
@@ -51,7 +51,7 @@ XXX | 500
 ### The Watcher in the Wastes (??xp)
 
 ### B1 The Tailings (xp 40, Trivial)
-  - The Horror Tree [Horror Tree PDF](./Statblocks/HorrorTree.pdf)
+  - [Horror Tree](./Statblocks/HorrorTree.pdf)
     - ![Horror Tree PNG](./Statblocks/HorrorTree.png)
     - [Crimson Ooze](https://2e.aonprd.com/Diseases.aspx?ID=14)
 
@@ -84,7 +84,7 @@ XXX | 500
   - Cannibal Fury TO DO
 
 ### Event 3: Hungry Ghost (xp 70, moderate)
-  - Karivek Vekker [Karivek Vekker PDF](./Statblocks/KarivekVekker.pdf)
+  - [Karivek Vekker](./Statblocks/KarivekVekker.pdf)
     - ![Karivek Vekker PNG](./Statblocks/KarivekVekker.png)
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
@@ -96,8 +96,9 @@ XXX | 500
 
 ### C Queen of The Icemists (XP 40, Trivial, RP Encounter)
 
-  - Svevenka [Ice Nymph Queen PDF](./Statblocks/Svevenka.pdf)
-  - ![Svevenka PNG](./Statblocks/Svevenka.png)
+  - [Svevenka Ice Nymph Queen](./Statblocks/svevenka.pdf)
+    - ![Svevenka A PNG](./Statblocks/svevenkaA.png)
+    - ![Svevenka B PNG](./Statblocks/svevenkaB.png)
 
 ### D Sentinels (XP 90, Moderate)
 
@@ -109,7 +110,7 @@ XXX | 500
 ### Event 5: Emergence of the Spared
 
 ### E Krak Naratha (XP 120, severe)
-  - 12 Krak Narath soldiers [Lamia Kin Kuchrecia PDF](./Statblocks/KrakNarathaSoldier.pdf)
+  - 12 [Krak Naratha soldiers](./Statblocks/KrakNarathaSoldier.pdf)
   - ![Lamia Kin Kuchrecia PNG](./Statblocks/KrakNarathaSoldier.png)
   - For Aurochs use the stats for [Woolly Rhinoceros](https://2e.aonprd.com/Monsters.aspx?ID=789). This is an obstacle rather than  a threat.
 
@@ -124,7 +125,8 @@ XXX | 500
 
 ### I Lair of the Hidden Beast (xp , )
 
-  - 4 Vampire Skulk ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
+  - 4 Vampire Skulk 
+  - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
   - The Hidden Beast TO DO
 
@@ -184,11 +186,11 @@ XXX | 500
   - Ayruzi [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
 
 ### X11 Doors
-  - Aklo Doors [Aklo Doors PDF](./Statblocks/AkloDoors.pdf)
+  - [Aklo Doors](./Statblocks/AkloDoors.pdf)
     - ![Aklo Doors PNG](./Statblocks/AkloDoors.png)
 
 ### X12 The Device (xp 160, Extreme)
-  - 12 [Pinnacle of Leng PDF](./Statblocks/PinnacleOfLeng.pdf)
+  - 12 [Pinnacle of Leng](./Statblocks/PinnacleOfLeng.pdf)
     - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
   - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L17)
 
