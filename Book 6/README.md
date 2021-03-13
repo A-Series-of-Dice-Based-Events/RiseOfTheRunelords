@@ -25,8 +25,14 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - 6 unique creatures
-  - 7 hazards/haunts/traps
+  - 6 unique creatures (in order of perceived difficulty)
+    - The Thing From Beyond Time - suggest upgraded Wolf of Tindalos from book 4
+    - Most High Ceoptra - 18th level Lamia Oracle
+    - Khalib - 16th level Transmuter Wizard - suggest upscale Mokmurian
+    - Viorian Dekanti - 18th level Fighter
+    - The Hidden Beast - 15th level Vampire Sorceror
+    - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
+  - 6 hazards/haunts/traps
   - xp & threat rating & encounter balance
   - treasure by level
 
@@ -58,8 +64,10 @@ XXX | 500
 ### B4 Sack Room
   - Treasure TO DO
 
-### B5 Ore Separation (xp , )
-  - Gold Eating Dwarf TO DO
+### B5 Ore Separation (xp 10, trivial threat)
+  - [Gold Eating Dwarf](./Statblocks/GoldEatingDwarf.pdf)
+    - ![Gold Eating Dwarf PNG](./Statblocks/GoldEatingDwarf.png)
+    - This haunt is hard to resist though the effects are realatively harmless.
 
 ### B6 Ore Shaft (xp , )
   - Haunted Chain TO DO
