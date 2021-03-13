@@ -25,10 +25,10 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - 6 unique creatures (in order of perceived difficulty)
+  - 6 unique creatures (in order of perceived build difficulty)
     - The Thing From Beyond Time - suggest upgraded Wolf of Tindalos from book 4
     - Most High Ceoptra - 18th level Lamia Oracle
-    - Khalib - 16th level Transmuter Wizard - suggest upscale Mokmurian
+    - Khalib - 16th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
     - Viorian Dekanti - 18th level Fighter
     - The Hidden Beast - 15th level Vampire Sorceror
     - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
@@ -59,7 +59,7 @@ XXX | 500
 ### B1 The Tailings (xp 40, Trivial)
   - [Horror Tree](./Statblocks/HorrorTree.pdf)
     - ![Horror Tree PNG](./Statblocks/HorrorTree.png)
-    - [Crimson Ooze](https://2e.aonprd.com/Diseases.aspx?ID=14)
+    - [Crimson Ooze](https://2e.aonprd.com/Diseases.aspx?ID=14) affects the area damaged.
 
 ### B4 Sack Room
   - Treasure TO DO
@@ -67,7 +67,7 @@ XXX | 500
 ### B5 Ore Separation (xp 10, trivial threat)
   - [Gold Eating Dwarf](./Statblocks/GoldEatingDwarf.pdf)
     - ![Gold Eating Dwarf PNG](./Statblocks/GoldEatingDwarf.png)
-    - This haunt is hard to resist though the effects are realatively harmless.
+    - This haunt is hard to resist though the effects are relatively harmless.
 
 ### B6 Ore Shaft (xp , )
   - Haunted Chain TO DO
@@ -140,6 +140,10 @@ XXX | 500
 
 ### K Heptaric Locus (XP 90, moderate)
   - Gamigin [triple elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
+    - The Cone of Colds are raised to 8th level
+    - Add Chilling Darkness, Finger of Death and Regenerate at 7th level
+    - Add Teleport at 6th Level
+    - Add Darkness(x2) at 4th level
   
   - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
   - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
@@ -148,14 +152,12 @@ XXX | 500
   - Mountain Roper ![Mountain Roper PNG](./Statblocks/MountainRoper.png)
 
 ### Q Ghlorofaex's Lair (XP 120, severe)
-
   - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
-  - Choose spellcaster or frenzy/momentum according to taste
+    - Choose spellcaster or frenzy/momentum according to taste
 
 ## Part 5: Scaling Mhar Massif (Party Level 16)
 
 ### Invaders from Leng (xp 90, moderate)
-
   - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
 ## Part 6: Pinnacle of Avarice (Party Level 17)
