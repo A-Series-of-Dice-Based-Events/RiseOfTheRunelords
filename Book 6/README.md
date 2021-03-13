@@ -32,7 +32,7 @@ XXX | 500
     - Viorian Dekanti - 18th level Fighter
     - The Hidden Beast - 15th level Vampire Sorceror
     - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
-  - 6 hazards/haunts/traps
+  - 5 hazards/haunts/traps
   - xp & threat rating & encounter balance
   - treasure by level
 
@@ -73,8 +73,9 @@ XXX | 500
   - Haunted Chain TO DO
   - Tipping Stairs TO DO
 
-### B8 Front Porch (xp , )
-  - Partially Eaten Dwarf TO DO
+### B8 Front Porch (xp 10, trivial threat)
+  - [Partially Eaten Dwarf](./Statblocks/PartiallyEatenDwarf.pdf)
+    - ![Partially Eaten Dwarf PNG](./Statblocks/PartiallyEatenDwarf.png)
 
 ### B10 Coatroom 
   - Treasure TO DO
@@ -97,19 +98,16 @@ XXX | 500
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
 ### Event 4: The Siege (xp 80, moderate)
-
   - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
 ## Part 3: On the World's Roof (Party Level 16)
 
 ### C Queen of The Icemists (XP 40, Trivial, RP Encounter)
-
   - [Svevenka Ice Nymph Queen](./Statblocks/svevenka.pdf)
     - ![Svevenka A PNG](./Statblocks/svevenkaA.png)
     - ![Svevenka B PNG](./Statblocks/svevenkaB.png)
 
 ### D Sentinels (XP 90, Moderate)
-
   - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
   - 4x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
