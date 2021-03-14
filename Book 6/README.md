@@ -48,7 +48,7 @@ XXX | 500
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 1: Seeking Xin-Shalast (Party Level 15)
-
+  - In parts 1,2 and possibly 3 relevant Kodar monster wandering monster encounters are required to help achieve suffcient XP to level up.
 
 ## Part 2: WHISPERS IN THE WIND (Party Level 15)
 
@@ -100,18 +100,23 @@ XXX | 500
 ### Event 4: The Siege (xp 80, moderate)
   - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
-## Part 3: On the World's Roof (Party Level 16)
+### Vekker Cabin Completion Bonus
+  - For laying the haunts to rest award a hero point and bonus XP 
+
+## Part 3: On the World's Roof (Party Level 16, xp 130)
 
 ### C Queen of The Icemists (XP 40, Trivial, RP Encounter)
   - [Svevenka Ice Nymph Queen](./Statblocks/svevenka.pdf)
     - ![Svevenka A PNG](./Statblocks/svevenkaA.png)
     - ![Svevenka B PNG](./Statblocks/svevenkaB.png)
+  - xp is awarded for befriending Svevenka
 
 ### D Sentinels (XP 90, Moderate)
-  - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
-  - 4x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
+  - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
-## Part 4: Xin-Shalast (Party Level 16)
+## Part 4: Xin-Shalast (Party Level 16, xp 440, target xp 600)
+  - Note this section requires at least an additonal 140 xp of encounters from wandering monsters / encounters.
 
 ### Event 5: Emergence of the Spared
 
@@ -123,20 +128,18 @@ XXX | 500
 ### F Golden Road
 
 ### G Encampment (XP 0, zero threat, RP encounter)
-
   - Gyukak [Onidashi](https://2e.aonprd.com/Monsters.aspx?ID=746)
 
-### H Abominable Dome (XP 90, moderate)
+### H Abominable Dome (XP 60, low)
   - 6 Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
 
-### I Lair of the Hidden Beast (xp , )
-
+### I Lair of the Hidden Beast (xp 70, moderate)
   - 4 Vampire Skulk 
   - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
   - The Hidden Beast TO DO
 
-### K Heptaric Locus (XP 90, moderate)
+### K Heptaric Locus (XP 80, moderate)
   - Gamigin [triple elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
     - The Cone of Colds are raised to 8th level
     - Add Chilling Darkness, Finger of Death and Regenerate at 7th level
@@ -146,14 +149,17 @@ XXX | 500
   - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
   - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
 
-### N Hidden Path (XP 40, trivial)
+### N Hidden Path (XP 30, trivial)
   - Mountain Roper ![Mountain Roper PNG](./Statblocks/MountainRoper.png)
 
-### Q Ghlorofaex's Lair (XP 120, severe)
+### Q Ghlorofaex's Lair (xp 80, moderate)
   - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
     - Choose spellcaster or frenzy/momentum according to taste
 
-## Part 5: Scaling Mhar Massif (Party Level 16)
+### Xin-Shalast completion bonus
+  - For navigating through Xin-Shalast and finding their way up award bonus XP and a hero point
+
+## Part 5: Scaling Mhar Massif (Party Level 16, xp 90)
 
 ### Invaders from Leng (xp 90, moderate)
   - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
@@ -197,10 +203,11 @@ XXX | 500
   - [Aklo Doors](./Statblocks/AkloDoors.pdf)
     - ![Aklo Doors PNG](./Statblocks/AkloDoors.png)
 
-### X12 The Device (xp 160, Extreme)
+### X12 The Device (xp 160 + 100 bonus, Extreme)
   - 12 [Pinnacle of Leng](./Statblocks/PinnacleOfLeng.pdf)
     - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
   - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L17)
+  - For stopping the completion of the Leng Device award bonus XP and a hero point.
 
 ### X13 Cells (xp 90, moderate)
   - 3 Wardens of Wind/Thunder [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
@@ -219,7 +226,7 @@ XXX | 500
 
 ## Part 7: The Eye of Avarice (Party Level 17)
 
-### The Final Battle (xp 180, Extreme)
+### The Final Battle (xp 200, Extreme)
   - Karzoug the claimer TO DO (Level 20)
   - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
