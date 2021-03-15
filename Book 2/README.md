@@ -31,7 +31,7 @@
 
 Target for this book is therefore 3000 level adjusted XP 
 
-Level | Total gp | Permanent Items         | Consumables                        | Cash    | Part
+Level | Total gp | Permanent Items (P_)         | Consumables (C_)                       | Cash    | Part
 ------|----------|-------------------------|------------------------------------|---------|-----
   5   | 1,350gp  | **6th:** 2 **5th:** 2   | **6th:** 2 **5th:** 2 **4th:** 2   |   320gp | 
   6   | 2,000gp  | **7th:** 2 **6th:** 2   | **7th:** 2 **6th:** 2 **5th:** 2   |   500gp | 
@@ -45,138 +45,151 @@ Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite
 If they are finding it hard going then liberally apply weak templates or remove minions. 
 If they are breezing through, then liberally apply elite templates or add minions. 
 
-
 ## Part 1: Murder Most Foul (XP 240, Party Level 4)
 
 ### Sandpoint Lumber Mill (40+40+60xp)
-
   - **XP:** The XP awards in the book are divided by ten.
 
 ### Ibor Thorne (40xp)
-
   - **XP:** The XP awards in the book are divided by ten.
 
 ### The Sihedron Rune (60xp)
-
   - **XP:** The XP awards in the book are divided by ten.
 
+## Part 2: The Thing in the Attic (210xp, Party Level 5)
 
-## Part 2: The Thing in the Attic (XP ??, Party Level 5)
-
-### A5 (40xp, low threat)
+### A5 (40xp, trivial threat)
   - For Gortus and Gurnak use the Pathfinder Society rogue 3 pregen with darkvision and a level 2 innate darkness cantrip ability.
 
-### A11 (30xp, low threat)
-  - Pidget Tergelson [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
+### A11 (30xp, trivial threat)
+  - Pidget Tergelson (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
 
 ### A15 (60xp, low threat)   
-  - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
+  - 4 (L2) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 
-### A16 
+### A16 (80xp, moderate)
   - Erin Habe [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
   - Grayst Sevilla [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
   - Caizarlu Zerren ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
    ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
+## Part 3: Walking Scarecrows (410xp, Party Level 5)
 
-## Part 3: Walking Scarecrows (XP ??, Party Level 5)
+### The Hambley Farm fields (260xp, spread out in mostly trivial encounters)
+  - 13 (L3) Ghoul Scarecrows - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
 
-  - **Creatures:**
-    - Ghoul Scarecrows - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
+### A1 Barn (120xp, severe threat, though may split in two)
+  - 6 (L3) Ghoul Scarecrows - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
 
-## Part 4: Misgivings (XP ??, Party Level 5/6)
+### A2 Farmhouse (30xp, trivial threat)
+  - Rogors Craesby (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
 
-### B1
-  - For Carrionstorms use Flying Undead [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) 
+## Part 4: Misgivings (60+160+135+80+205=640xp, Party Level 5/6)
 
-### B2
+## Runined Outbuildings (80/60xp, Party Level 5 or 6)
+
+### B1 (80/60xp, moderate/low threat)
+  - For Carrionstorms use 4 Flying Undead (L3) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) 
+
+## Ground Floor (160xp, Party Level 5)
+
+### B2 (30xp, trivial threat)
   - Burning Manticore ![Burning Manticore PNG](./Statblocks/BurningManticore.png)
 
-### B5 
+### B5 (30xp, trivial threat)
   - Worried Wife ![Worried Wife PNG](./Statblocks/WorriedWife.png)
 
-### B6
+### B6 (40xp, trivial threat)
   - Vorel's Phage [Vorels Phage PDF](./Statblocks/VorelsPhage.pdf) 
   ![Vorels Phage PNG](./Statblocks/VorelsPhage.png)
 
-### B7  
+### B7 (20xp, trivial threat) 
   - Dance of Ruin ![Dance of Ruin PNG](./Statblocks/DanceOfRuin.png)
 
-### B9 
+### B9 (40xp, trivial threat)
   - Iesha's Vengeance ![Iesha's Vengeance PNG](./Statblocks/IeshasVengeance.png)
   
-### B11 
+## Upper Floor (135xp,Party Level 6)
+
+### B11 (15xp, trivial threat)
   - Frightened Child ![Frightened Child PNG](./Statblocks/FrightenedChild.png)
   
-### B13 
+### B13 (20xp, trivial threat)
   - Phantom Phage ![Phantom Phage PNG](./Statblocks/PhantomPhage.png)
   
-### B14 
+### B14 (10xp, trivial threat)
   - Collapsing Floor ![Collapsing Floor PNG](./Statblocks/CollapsingFloor.png)
   
-### B15 
+### B15 (40xp, trivial threat)
   - Misogynistic Rage ![Misogynistic Rage PNG](./Statblocks/MisogynisticRage.png)
 
-### B17 
+### B17 (20xp, trivial threat)
   - The Stricken Family ![The Stricken Family PNG](./Statblocks/StrickenFamily.png)
 
-### B18 
+### B18 (30xp, trivial threat)
   - Suicide Compulsion ![Suicide Compulsion PNG](./Statblocks/SuicideCompulsion.png)
 
-### B22 
+## Attic (80xp,Party Level 6)
+
+### B22 (40xp, trivial threat)
   - Plummeting Inferno ![Plummeting Inferno PNG](./Statblocks/PlummetingInferno.png)
 
-### B23 
+### B23 (40xp, trivial threat)
   - Unfulfilled Glories ![Unfulfilled Glories PNG](./Statblocks/UnfulfilledGlories.png)
 
-### B25
-  - 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
+## Basement (205xp,Party Level 6)
 
-### B29 
+### B25 (30xp, trivial threat)
+  - 2x (L3) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
+
+### B29 (40xp, trivial threat)
   - Origins of Lichdom ![Origins of Lichdom PNG](./Statblocks/OriginsOfLichdom.png)
 
-### B30 
+### B30 (20xp, trivial threat)
   - Ghoulish Uprising ![Ghoulish Uprising PNG](./Statblocks/GhoulishUprising.png)
 
-### B33
+### B33 (10xp, trivial threat)
   - [Brown Mold](https://2e.aonprd.com/Hazards.aspx?ID=35)
 
-### B34/B35
-  - Party level 5: [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
-  - Party level 6: Add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)
+### B34/B35 (20xp, trivial threat)
+  - (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
 
-### B36 
-  - [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
+### B36 (10xp, trivial threat)
+  - (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
   ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
    
-### B37  
+### B37 (75xp, moderate threat)
   - [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
   ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
 
   - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
-## Part 5: Chasing The Skinsaw (XP ??, Party Level 6)
+## Part 5: Chasing The Skinsaw (80xp, Party Level 6)
 
-### Foxglove Townhouse (60xp, low threat)
+### Foxglove Townhouse (80xp, low threat)
 
-  - **Creatures:** 2x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
+  - **Creatures:** 2x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
 
-## Part 6: The Seven's Sawmill (XP ??, Party Level 7)
-
-  - **Creatures:**
-    - [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
-    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
-
-## Part 7: Shadows of Time (XP ??, Party Level 7)
+## Part 6: The Seven's Sawmill (255xp, Party Level 7)
 
   - **Creatures:**
-    - 3x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
-    - Scarecrow - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
-    - Xanesha [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
+    - 13 (L4) [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
+    - Justice Ironbriar (L8) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
 
-          - Add Feather Fall to her prepared spells
-          - optionally use Lucrecia from book 4 for a more challenging encounter.
-  - **Hazards:**
-    - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
+## Part 7: Shadows of Time (285xp, Party Level 7)
+
+### E1 (60xp, low threat)
+  - Scarecrow - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
+
+### E2 (15xp, trivial threat)
+  - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
+
+### E3 (90xp, moderate threat)    
+  - 3x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
+
+### E6 (120xp, severe threat) 
+    - Xanesha (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
+      - Add Feather Fall to her prepared spells
+      - optionally use Lucrecia from book 4 for a more challenging encounter.
 
 # --- End of The Skinsaw Murders 2E Conversion Guide---
