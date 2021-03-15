@@ -18,8 +18,8 @@
   - Part 7: Shadows of Time 
 
 ## General TO DO
-  - XP
-  - Treasure
+  - XP validation
+  - Treasure by level allocation
   
 ### Party Level and Target Allocation of Treasure
 
@@ -67,7 +67,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### A15 (60xp, low threat)   
   - 4 (L2) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 
-### A16 (80xp, moderate)
+### A16 (80xp, moderate threat)
   - Erin Habe [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
   - Grayst Sevilla [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
   - Caizarlu Zerren ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
@@ -84,9 +84,9 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### A2 Farmhouse (30xp, trivial threat)
   - Rogors Craesby (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
 
-## Part 4: Misgivings (60+160+135+80+205=640xp, Party Level 5/6)
+## Part 4: Misgivings (60+160+135+120+375=850xp, Party Level 5/6)
 
-## Runined Outbuildings (80/60xp, Party Level 5 or 6)
+## Ruined Outbuildings (80/60xp, Party Level 5 or 6)
 
 ### B1 (80/60xp, moderate/low threat)
   - For Carrionstorms use 4 Flying Undead (L3) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) 
@@ -129,7 +129,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### B18 (30xp, trivial threat)
   - Suicide Compulsion ![Suicide Compulsion PNG](./Statblocks/SuicideCompulsion.png)
 
-## Attic (80xp,Party Level 6)
+## Attic (120xp,Party Level 6)
 
 ### B22 (40xp, trivial threat)
   - Plummeting Inferno ![Plummeting Inferno PNG](./Statblocks/PlummetingInferno.png)
@@ -137,7 +137,10 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### B23 (40xp, trivial threat)
   - Unfulfilled Glories ![Unfulfilled Glories PNG](./Statblocks/UnfulfilledGlories.png)
 
-## Basement (205xp,Party Level 6)
+### B24 (40xp, trivial threat)
+  - Iesha Foxglove [Revenant](http://2e.aonprd.com/Monsters.aspx?ID=347)
+
+## Basement (375xp,Party Level 6)
 
 ### B25 (30xp, trivial threat)
   - 2x (L3) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
@@ -151,22 +154,25 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### B33 (10xp, trivial threat)
   - [Brown Mold](https://2e.aonprd.com/Hazards.aspx?ID=35)
 
-### B34/B35 (20xp, trivial threat)
-  - (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
+### B34 (60xp, low threat)
+  - 3 (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
 
-### B36 (10xp, trivial threat)
-  - (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
+### B35 (80xp, moderate threat)
+  - 4 (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
+
+### B36 (40xp, trivial threat)
+  - 4 (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
   ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
    
-### B37 (75xp, moderate threat)
-  - [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
+### B37 (95xp, moderate threat)
+  - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
   ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
 
   - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
 ## Part 5: Chasing The Skinsaw (80xp, Party Level 6)
 
-### Foxglove Townhouse (80xp, low threat)
+### Foxglove Townhouse (80xp, moderate threat)
 
   - **Creatures:** 2x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
 
@@ -188,8 +194,8 @@ If they are breezing through, then liberally apply elite templates or add minion
   - 3x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
 
 ### E6 (120xp, severe threat) 
-    - Xanesha (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
-      - Add Feather Fall to her prepared spells
-      - optionally use Lucrecia from book 4 for a more challenging encounter.
+  - Xanesha (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
+    - Add Feather Fall to her prepared spells
+    - optionally use Lucrecia from book 4 for a more challenging encounter.
 
 # --- End of The Skinsaw Murders 2E Conversion Guide---
