@@ -176,11 +176,11 @@ If they are breezing through, then liberally apply elite templates or add minion
 
   - **Creatures:** 2x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
 
-## Part 6: The Seven's Sawmill (255xp, Party Level 7)
+## Part 6: The Seven's Sawmill (275xp, Party Level 7)
 
   - **Creatures:**
     - 13 (L4) [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
-    - Justice Ironbriar (L8) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
+    - Justice Ironbriar (L9) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
 
 ## Part 7: Shadows of Time (285xp, Party Level 7)
 
