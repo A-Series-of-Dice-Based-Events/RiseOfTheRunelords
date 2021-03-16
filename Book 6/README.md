@@ -25,7 +25,7 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - 5 hazards/haunts/traps
+  - 3 haunts
   - 6 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - The Thing From Beyond Time - suggest Wolf of Tindalos from book 4 as one possible starting point
@@ -68,11 +68,14 @@ XXX | 500
     - ![Gold Eating Dwarf PNG](./Statblocks/GoldEatingDwarf.png)
     - This haunt is hard to resist though the effects are relatively harmless.
 
-### B6 Ore Shaft (xp , )
-  - Haunted Chain TO DO
-  - Tipping Stairs TO DO
+### B6 Ore Shaft (xp 60, low)
+  - [Tipping Stairs](./Statblocks/TippingStairs.pdf)
+    - ![Tipping Stairs PNG](./Statblocks/TippingStairs.png)
+  - [Haunted Chain](./Statblocks/HauntedChain.pdf)
+    - ![Haunted Chain PNG](./Statblocks/HauntedChain.png)
 
-### B8 Front Porch (xp 10, trivial threat)
+
+### B8 Front Porch (xp 10, trivial)
   - [Partially Eaten Dwarf](./Statblocks/PartiallyEatenDwarf.pdf)
     - ![Partially Eaten Dwarf PNG](./Statblocks/PartiallyEatenDwarf.png)
 
