@@ -103,7 +103,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
      - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
     - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
     - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
-    - Replace Water Mephits with [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=600)
+    - Replace Water Mephits with [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=600)
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
     - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
     ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
@@ -127,7 +127,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
   - **Creatures:**
       - For the unique Mirrors of Opposition use the 1E stats as guides
       - To do: False Vraxerises
-      - For False Delvahines use either triple or quadruple elite Succubus OR triple or quadruple weak Delvahine (see above) depending on what you think your party can handle.
+      - For False Delvahines use either double elite Succubus OR double weak Delvahine (see above) depending on what you think your party can handle.
       
  ## Part 8: The Festering Maze
   - **Creatures:**

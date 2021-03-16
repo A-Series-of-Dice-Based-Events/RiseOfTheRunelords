@@ -117,7 +117,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration_withSecretTunnel.pdf)
   - Consider giving story XP if the PCs overcome this challenge.
 
-### A3 (xp 45, Trivial)
+### A3 (xp 60, Low)
   - **Creatures:** 
     - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
@@ -201,9 +201,9 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Enga PDF](./Statblocks/EngaKeckvia.pdf)
     ![Enga PNG](./Statblocks/EngaKeckvia.png)
 
-### B7b (no xp)
+### B7b (xp 50, trivial)
   - **Creatures:** 
-    - [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
+    - 5 [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
 
 ### B8 (xp 30, Trivial)
   - **Creatures:** 
@@ -259,12 +259,12 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:**
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
 
-### C4 (xp 60, Low)
+### C4 (xp 90, Moderate)
   - **Creatures:** 
     - [Headless Lord]
     ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
     ![Runechill PNG](./Statblocks/runechill-1612041545.png)
-    - 4x [Triple Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
+    - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
 ### C5 (xp 15, Trivial)
   - **Creatures:** 
@@ -281,7 +281,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - ![Clockwork Librarian PNG](./Statblocks/clockwork_librarian-1611180129.png)
 
     
-### C8 (xp 30, Trivial)
+### C8 (xp 45, Trivial)
   - **Creatures:** 
     - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
     - Alternatively, use these stronger [Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.pdf) statblocks, 2x for a moderate and 3x for a severe encounter. This statblock doesn't contain the sickened condition yet.

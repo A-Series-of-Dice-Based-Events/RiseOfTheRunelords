@@ -8,17 +8,7 @@
 - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PNG and PDF files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available.
 - If you find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
-## Index and status
-  - Part 1: Murder Most Foul
-  - Part 2: The Thing in the Attic
-  - Part 3: Walking Scarecrows 
-  - Part 4: Misgivings 
-  - Part 5: Chasing The Skinsaw 
-  - Part 6: The Seven's Sawmill 
-  - Part 7: Shadows of Time 
-
 ## General TO DO
-  - XP validation
   - Treasure by level allocation
   
 ### Party Level and Target Allocation of Treasure
@@ -41,7 +31,7 @@ Level | Total gp | Permanent Items (P_)         | Consumables (C_)              
 
 ### General Notes and Advice
 
-Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate to suit the capabilities of your party. 
+Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate to suit the capabilities of your party. Note that double elite is closer to 3 additional levels rather than 2, unless their main thing is a now innefective incapacitation effect.
 If they are finding it hard going then liberally apply weak templates or remove minions. 
 If they are breezing through, then liberally apply elite templates or add minions. 
 
@@ -61,10 +51,10 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### A5 (40xp, trivial threat)
   - For Gortus and Gurnak use the Pathfinder Society rogue 3 pregen with darkvision and a level 2 innate darkness cantrip ability.
 
-### A11 (30xp, trivial threat)
-  - Pidget Tergelson (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
+### A11 (40xp, trivial threat)
+  - Pidget Tergelson (L5) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
 
-### A15 (60xp, low threat)   
+### A15 (60xp, low threat)
   - 4 (L2) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 
 ### A16 (80xp, moderate threat)
@@ -73,7 +63,7 @@ If they are breezing through, then liberally apply elite templates or add minion
   - Caizarlu Zerren ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
    ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
-## Part 3: Walking Scarecrows (410xp, Party Level 5)
+## Part 3: Walking Scarecrows (420xp, Party Level 5)
 
 ### The Hambley Farm fields (260xp, spread out in mostly trivial encounters)
   - 13 (L3) Ghoul Scarecrows - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
@@ -81,15 +71,16 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### A1 Barn (120xp, severe threat, though may split in two)
   - 6 (L3) Ghoul Scarecrows - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
 
-### A2 Farmhouse (30xp, trivial threat)
-  - Rogors Craesby (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
+### A2 Farmhouse (40xp, trivial threat)
+  - Rogors Craesby (L5) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
+    - Treat as level 5 for the paralysis incapacitation effect
 
-## Part 4: Misgivings (60+160+135+120+375=850xp, Party Level 5/6)
+## Part 4: Misgivings (80+160+135+120+390=885xp, Party Level 5/6)
 
-## Ruined Outbuildings (80/60xp, Party Level 5 or 6)
+## Ruined Outbuildings (80xp, Party Level 5 or 6)
 
-### B1 (80/60xp, moderate/low threat)
-  - For Carrionstorms use 4 Flying Undead (L3) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) 
+### B1 (80xp, moderate/low threat)
+  - For Carrionstorms use 4 Flying Undead (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarms](http://2e.aonprd.com/Monsters.aspx?ID=347) 
 
 ## Ground Floor (160xp, Party Level 5)
 
@@ -140,10 +131,10 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### B24 (40xp, trivial threat)
   - Iesha Foxglove [Revenant](http://2e.aonprd.com/Monsters.aspx?ID=347)
 
-## Basement (375xp,Party Level 6)
+## Basement (390xp,Party Level 6)
 
-### B25 (30xp, trivial threat)
-  - 2x (L3) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
+### B25 (40xp, trivial threat)
+  - 2x (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
 
 ### B29 (40xp, trivial threat)
   - Origins of Lichdom ![Origins of Lichdom PNG](./Statblocks/OriginsOfLichdom.png)
@@ -164,7 +155,7 @@ If they are breezing through, then liberally apply elite templates or add minion
   - 4 (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
   ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
    
-### B37 (95xp, moderate threat)
+### B37 (100xp, moderate threat)
   - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
   ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
 
@@ -176,11 +167,11 @@ If they are breezing through, then liberally apply elite templates or add minion
 
   - **Creatures:** 2x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
 
-## Part 6: The Seven's Sawmill (275xp, Party Level 7)
+## Part 6: The Seven's Sawmill (300xp, Party Level 7)
 
   - **Creatures:**
-    - 13 (L4) [Triple Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
-    - Justice Ironbriar (L9) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
+    - 13 (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927)
+    - Justice Ironbriar (L9-10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
 
 ## Part 7: Shadows of Time (285xp, Party Level 7)
 
@@ -190,12 +181,12 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### E2 (15xp, trivial threat)
   - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
 
-### E3 (90xp, moderate threat)    
+### E3 (100xp, moderate threat)    
   - 3x (L6) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
 
-### E6 (120xp, severe threat) 
-  - Xanesha (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
+### E6 (80-120xp, moderate to severe threat) 
+  - Xanesha (L9) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
     - Add Feather Fall to her prepared spells
-    - optionally use Lucrecia from book 4 for a more challenging encounter.
+    - optionally use L10 Lucrecia from book 3 for a more challenging encounter.
 
 # --- End of The Skinsaw Murders 2E Conversion Guide---
