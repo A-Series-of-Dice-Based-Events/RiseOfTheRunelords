@@ -25,15 +25,15 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - 6 unique creatures (in order of perceived build difficulty)
-    - The Thing From Beyond Time - suggest upgraded Wolf of Tindalos from book 4
-    - Most High Ceoptra - 18th level Lamia Oracle
-    - Khalib - 16th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
-    - Viorian Dekanti - 18th level Fighter
-    - The Hidden Beast - 15th level Vampire Sorceror
-    - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
   - 5 hazards/haunts/traps
-  - xp & threat rating & encounter balance
+  - 6 unique creatures
+    - The Hidden Beast - 16th level Vampire Sorceror
+    - The Thing From Beyond Time - suggest Wolf of Tindalos from book 4 as one possible starting point
+    - Most High Ceoptra - 18th level Lamia Oracle
+    - Khalib - 17th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
+    - Viorian Dekanti - 18th level Fighter
+    - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
+  - tweaking XP and encounter balance
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -49,7 +49,7 @@ XXX | 500
 
 ## Part 1: Seeking Xin-Shalast (Party Level 15)
 
-## Part 2: WHISPERS IN THE WIND (Party Level 15)
+## Part 2: Whispers In The Wind (Party Level 15)
 
 ### Vekker's Cabin (??xp)
 
@@ -116,7 +116,7 @@ XXX | 500
 
 ## Part 4: Xin-Shalast (Party Level 16, xp 440)
 
-### Resources
+### Resources used throughout
   - Wardens of Wind are (L14) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giants](https://2e.aonprd.com/Monsters.aspx?ID=224)
   - Wardens of Thunder are (L16) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
 
@@ -135,11 +135,11 @@ XXX | 500
 ### H Abominable Dome (XP 60, low)
   - 6 Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
 
-### I Lair of the Hidden Beast (xp 70, moderate)
+### I Lair of the Hidden Beast (xp 80, moderate)
   - 4 Vampire Skulk 
   - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
-  - The Hidden Beast TO DO
+  - The L16 Hidden Beast TO DO
 
 ### K Heptaric Locus (XP 80, moderate)
   - Gamigin [double elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
@@ -217,7 +217,8 @@ XXX | 500
 
 ### X15 Quarters (xp 40, trivial if encountered here)
   - Khalib L17 TO DO
-    - Khalib is likely to join other (non-extreme) combats in the Pinnacle than to be found here
+    - Khalib is likely to join other (non-extreme) combats in the Pinnacle rather than be found here
+    - Khalib is essentialy the practice run for Karzoug
 
 ### X16 Reliquary (xp 30, trivial)
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
@@ -232,6 +233,5 @@ XXX | 500
   - Karzoug the claimer TO DO (Level 20)
   - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
-
 
 ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
