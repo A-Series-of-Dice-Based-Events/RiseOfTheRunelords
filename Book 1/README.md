@@ -183,7 +183,7 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
-    - Note that Tsuto is a severe threat and feedback is he can sometimes be too much. If you have an inexperienced, smaller or beat up party, it is strongly recommended you apply the [weak](http://2e.aonprd.com/Rules.aspx?ID=791) template.
+    - Note that Tsuto is a severe threat and feedback is he can sometimes be too much. If you have an inexperienced, smaller or beat up party, or extra goblins, it is strongly recommended you apply the [weak](http://2e.aonprd.com/Rules.aspx?ID=791) template.
     - [Tsuto PDF](./Statblocks/Tsuto.pdf)
     ![Tsuto PNG](./Statblocks/Tsuto.png)
 
