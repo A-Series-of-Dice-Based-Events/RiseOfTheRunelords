@@ -125,7 +125,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 
 ## Part 7: The Shimmering Veils
   - **Creatures:**
-      - For the unique Mirrors of Opposition use the 1E stats as guides
+      - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
       - To do: False Vraxerises
       - For False Delvahines use either double elite Succubus OR double weak Delvahine (see above) depending on what you think your party can handle.
       
