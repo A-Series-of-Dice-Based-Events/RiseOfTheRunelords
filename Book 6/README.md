@@ -5,13 +5,13 @@
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level-based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is updated.
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
 ## General GM information
 
   - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
-  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite is closer to 3 additional levels rather than 2, unless their main thing is a now innefective incapacitation effect.
+  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite can be closer to 3 additional levels rather than 2, unless their main thing is a now innefective incapacitation effect.
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -22,14 +22,14 @@ Title | Max XP
 XXX | 500
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
-- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
+- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher, and more for minions. Lower CR creatures need to be raised more to work in 2E.
 
 ## TO DO
   - 3 haunts
   - 5 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
-    - Khalib - 17th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
+    - Khalib - 17/18th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
     - Viorian Dekanti - 18th level Fighter
     - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
   - tweaking XP and encounter balance
@@ -72,7 +72,6 @@ XXX | 500
     - ![Tipping Stairs PNG](./Statblocks/TippingStairs.png)
   - [Haunted Chain](./Statblocks/HauntedChain.pdf)
     - ![Haunted Chain PNG](./Statblocks/HauntedChain.png)
-
 
 ### B8 Front Porch (xp 10, trivial)
   - [Partially Eaten Dwarf](./Statblocks/PartiallyEatenDwarf.pdf)
@@ -212,16 +211,17 @@ XXX | 500
     - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
   - [The Thing From Beyond Time](./Statblocks/TheThingFromBeyondTime.pdf)
     - ![The Thing From Beyond Time PNG](./Statblocks/TheThingFromBeyondTime.png)
+    - Remember that the Occluding Field stops Angled Entry from working and causes it extreme discomfort and pain.
 
-  - For stopping the completion of the Leng Device award bonus a hero point.
+  - For stopping the completion of the Leng Device award bonus XP and a hero point.
 
 ### X13 Cells (xp 90, moderate)
   - 4 Wardens of Wind
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
-### X15 Quarters (xp 40, trivial if encountered here)
-  - Khalib L17 TO DO
-    - Khalib is likely to join other (non-extreme) combats in the Pinnacle rather than be found here
+### X15 Quarters (xp 40/60, trivial to low if encountered here)
+  - Khalib L17/18 TO DO
+    - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
     - Khalib is essentialy the practice run for Karzoug
 
 ### X16 Reliquary (xp 30, trivial)
