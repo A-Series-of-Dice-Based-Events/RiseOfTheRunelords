@@ -210,8 +210,8 @@ XXX | 500
 ### X12 The Device (xp 120 + 40, severe+)
   - 12 [Pinnacle of Leng](./Statblocks/PinnacleOfLeng.pdf)
     - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
-  - [The Thing from Beyond Time](./Statblocks/TheThingfromBeyondTime.pdf)
-    - ![The Thing from Beyond Time PNG](./Statblocks/TheThingfromBeyondTime.png)
+  - [The Thing From Beyond Time](./Statblocks/TheThingFromBeyondTime.pdf)
+    - ![The Thing From Beyond Time PNG](./Statblocks/TheThingFromBeyondTime.png)
 
   - For stopping the completion of the Leng Device award bonus a hero point.
 
