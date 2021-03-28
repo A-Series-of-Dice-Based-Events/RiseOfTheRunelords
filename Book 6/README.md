@@ -26,9 +26,8 @@ XXX | 500
 
 ## TO DO
   - 3 haunts
-  - 6 unique creatures
+  - 5 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
-    - The Thing From Beyond Time - suggest Wolf of Tindalos from book 4 as one possible starting point
     - Most High Ceoptra - 18th level Lamia Oracle
     - Khalib - 17th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
     - Viorian Dekanti - 18th level Fighter
@@ -211,7 +210,9 @@ XXX | 500
 ### X12 The Device (xp 120 + 40, severe+)
   - 12 [Pinnacle of Leng](./Statblocks/PinnacleOfLeng.pdf)
     - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
-  - The Thing from Beyond Time TO DO (upscale the Wolf of Tindalos to L17)
+  - [The Thing from Beyond Time](./Statblocks/TheThingfromBeyondTime.pdf)
+    - ![The Thing from Beyond Time PNG](./Statblocks/TheThingfromBeyondTime.png)
+
   - For stopping the completion of the Leng Device award bonus a hero point.
 
 ### X13 Cells (xp 90, moderate)
