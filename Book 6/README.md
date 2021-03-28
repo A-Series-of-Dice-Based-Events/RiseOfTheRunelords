@@ -25,7 +25,7 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher, and more for minions. Lower CR creatures need to be raised more to work in 2E.
 
 ## TO DO
-  - 3 haunts
+  - 2 haunts
   - 5 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
@@ -83,8 +83,9 @@ XXX | 500
 ### B13 Strong Room
   - Treasure TO DO
 
-### B14 Living Area (xp , )
-  - Cannibal Urgings TO DO
+### B14 Living Area (xp 10, trivial)
+  - [Cannibal Urgings](./Statblocks/CannibalUrgings.pdf)
+    - ![Cannibal Urgings PNG](./Statblocks/CannibalUrgings.png)
 
 ### B15 Larder (xp , )
   - The Hungry Dead TO DO
