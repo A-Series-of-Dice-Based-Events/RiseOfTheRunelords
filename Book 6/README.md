@@ -25,7 +25,7 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher, and more for minions. Lower CR creatures need to be raised more to work in 2E.
 
 ## TO DO
-  - 2 haunts
+  - 1 haunt
   - 5 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
@@ -60,7 +60,7 @@ XXX | 500
     - [Crimson Ooze](https://2e.aonprd.com/Diseases.aspx?ID=14) affects the area damaged.
 
 ### B4 Sack Room
-  - Treasure TO DO
+  - Treasure TODO
 
 ### B5 Ore Separation (xp 10, trivial threat)
   - [Gold Eating Dwarf](./Statblocks/GoldEatingDwarf.pdf)
@@ -78,17 +78,18 @@ XXX | 500
     - ![Partially Eaten Dwarf PNG](./Statblocks/PartiallyEatenDwarf.png)
 
 ### B10 Coatroom 
-  - Treasure TO DO
+  - Treasure TODO
 
 ### B13 Strong Room
-  - Treasure TO DO
+  - Treasure TODO
 
 ### B14 Living Area (xp 10, trivial)
   - [Cannibal Urgings](./Statblocks/CannibalUrgings.pdf)
     - ![Cannibal Urgings PNG](./Statblocks/CannibalUrgings.png)
 
 ### B15 Larder (xp , )
-  - The Hungry Dead TO DO
+  - [The Hungry Dead](./Statblocks/TheHungryDead.pdf)
+    - ![The Hungry Dead PNG](./Statblocks/TheHungryDead.png)
 
 ### Event 1: Cannibal Fury (xp , )
   - Cannibal Fury TO DO
@@ -183,7 +184,7 @@ XXX | 500
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
 ### X5 Kin Quarters
-  - Treasure TO DO
+  - Treasure TODO
 
 ### X6 Cells (xp 60, moderate)
   - 4 [Lamia Priestess](./Statblocks/lamiaPriestess.pdf)
@@ -198,7 +199,7 @@ XXX | 500
   - [Astradaemon](https://2e.aonprd.com/Monsters.aspx?ID=91)
 
 ### X9 Chambers 
-  - Treasure TO DO
+  - Treasure TODO
 
 ### X10 Door (xp 30, trivial threat, RP potential)
   - Ayruzi [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
