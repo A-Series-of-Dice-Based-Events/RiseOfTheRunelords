@@ -33,7 +33,6 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - False Vraxerises
   - xp & threat rating
   - treasure by level
 
@@ -126,7 +125,9 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 ## Part 7: The Shimmering Veils
   - **Creatures:**
       - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
-      - To do: False Vraxerises
+      - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
+    ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
+
       - For False Delvahines use either double elite Succubus OR double weak Delvahine (see above) depending on what you think your party can handle.
       
  ## Part 8: The Festering Maze
