@@ -25,7 +25,6 @@ XXX | 500
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher, and more for minions. Lower CR creatures need to be raised more to work in 2E.
 
 ## TO DO
-  - 1 haunt
   - 5 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
@@ -92,7 +91,9 @@ XXX | 500
     - ![The Hungry Dead PNG](./Statblocks/TheHungryDead.png)
 
 ### Event 1: Cannibal Fury (xp , )
-  - Cannibal Fury TO DO
+  - [Cannibal Fury](./Statblocks/CannibalFury.pdf)
+    - ![Cannibal Fury A PNG](./Statblocks/CannibalFury1.png)
+    - ![Cannibal Fury B PNG](./Statblocks/CannibalFury2.png)
 
 ### Event 3: Hungry Ghost (xp 80, moderate)
   - [Karivek Vekker](./Statblocks/KarivekVekker.pdf)
