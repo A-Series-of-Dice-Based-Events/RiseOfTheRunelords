@@ -153,6 +153,8 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
     - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
     ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png)
+    - As an alternative to the warrior, or as a replacement for some ofd the warriors, consider using [Alchemist of Wrath PDF](./Statblocks/AlchemistOfWrath.pdf) by @Lawrencealot.
+    ![Alchemist of Wrath PNG](./Statblocks/AlchemistOfWrath.png)
     - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
     ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
     - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) by @Primemakes.
@@ -164,5 +166,4 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
     ![Karzoug Statue PNG](./Statblocks/karzoug_statue-1608761700.png)
     
-
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
