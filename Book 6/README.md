@@ -31,10 +31,9 @@
 7 | The Eye of Avarice   | 17 | 160-200
 
 ## TO DO
-  - 5 unique creatures
+  - 4 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
-    - Khalib - 17/18th level Transmuter Wizard - suggest upscale Mokmurian / Ordikon
     - Viorian Dekanti - 18th level Fighter
     - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
   - tweaking XP and encounter balance
@@ -227,10 +226,23 @@
   - 4 Wardens of Wind
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
-### X15 Quarters (xp 40/60, trivial to low if encountered here)
-  - Khalib L17/18 TO DO
+### X15 Quarters (xp 60, low if encountered here)
+  - [Khalib](./Statblocks/Khalib.pdf)
+    - ![Khalib PNG 1](./Statblocks/Khalib1.png)
+    - ![Khalib PNG 2](./Statblocks/Khalib2.png)
+    - ![Khalib PNG 3](./Statblocks/Khalib3.png)
     - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
-    - Khalib is essentialy the practice run for Karzoug
+    - Khalib is essentialy the practice run for Karzoug - both for the players and for the GM
+#### Tactics:
+  - Before combat
+    - Khalib casts darkvision, false life, longstrider, see invisibility, tongues and nondetection on himself every day. 
+    - Once an alarm is raised, he also casts stoneskin (instant contingency), fly and true seeing on himself before entering battle.
+  - During Combat
+    - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
+    - Following up with free action sustained Duplicate Foe, and another Duplicate Foe.
+    - He uses (clever) counterspell with reflect spell to target enemy arcane casters.
+    - The first attack or non arcane effect of each round uses his Foresight reaction.
+    - If he has any actions left he casts shield.
 
 ### X16 Reliquary (xp 30, trivial)
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
