@@ -16,13 +16,19 @@
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
 ## Index and XP distribution
-  
-Title | Max XP 
-------|-------
-XXX | 500
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher, and more for minions. Lower CR creatures need to be raised more to work in 2E.
+
+# | Title | Level | Max XP 
+-|-|-|-
+1 | Seeking Xin-Shalast  | 15 | GM Discretion
+2 | Whispers In The Wind | 15 | 400
+3 | On the World's Roof  | 16 | 160
+4 | Xin-Shalast          | 16 | 440
+5 | Scaling Mhar Massif  | 16 | 120
+6 | Pinnacle of Avarice  | 17 | 900
+7 | The Eye of Avarice   | 17 | 160-200
 
 ## TO DO
   - 5 unique creatures
@@ -47,11 +53,9 @@ XXX | 500
 
 ## Part 1: Seeking Xin-Shalast (Party Level 15)
 
-## Part 2: Whispers In The Wind (Party Level 15)
+  - GM discretion on wandering monsters
 
-### Vekker's Cabin (??xp)
-
-### The Watcher in the Wastes (??xp)
+## Part 2: Whispers In The Wind (Party Level 15, xp 400)
 
 ### B1 The Tailings (xp 40, Trivial)
   - [Horror Tree](./Statblocks/HorrorTree.pdf)
@@ -86,11 +90,11 @@ XXX | 500
   - [Cannibal Urgings](./Statblocks/CannibalUrgings.pdf)
     - ![Cannibal Urgings PNG](./Statblocks/CannibalUrgings.png)
 
-### B15 Larder (xp , )
+### B15 Larder (xp 30, trivial)
   - [The Hungry Dead](./Statblocks/TheHungryDead.pdf)
     - ![The Hungry Dead PNG](./Statblocks/TheHungryDead.png)
 
-### Event 1: Cannibal Fury (xp , )
+### Event 1: Cannibal Fury (xp 40, trivial)
   - [Cannibal Fury](./Statblocks/CannibalFury.pdf)
     - ![Cannibal Fury A PNG](./Statblocks/CannibalFury1.png)
     - ![Cannibal Fury B PNG](./Statblocks/CannibalFury2.png)
@@ -104,7 +108,7 @@ XXX | 500
   - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
 ### Vekker Cabin Completion Bonus
-  - For laying the haunts to rest award a hero point and bonus XP 
+  - For laying the haunts to rest award a hero point and bonus 40 XP 
 
 ## Part 3: On the World's Roof (Party Level 16, xp 160)
 
@@ -170,14 +174,15 @@ XXX | 500
 ### Invaders from Leng (xp 120, severe)
   - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
-## Part 6: Pinnacle of Avarice (Party Level 17, xp 1000)
+## Part 6: Pinnacle of Avarice (Party Level 17, xp 960)
 
 ### X1 Entrance Ramp (xp 60, low)
   - 4 Wardens of Wind
 
-### X2 Kharzoug
+### X2 Kharzoug (xp 10 x 6, trivial)
+  - each image destroyed is worth 10 xp
 
-### X3 Throne Rooom (xp120, severe)
+### X3 Throne Rooom (xp 120, severe)
   - Viorian Dekanti TO DO
   - 2 Wardens of Thunder
 
@@ -205,18 +210,18 @@ XXX | 500
 ### X10 Door (xp 30, trivial threat, RP potential)
   - Ayruzi [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
 
-### X11 Doors (xp30)
+### X11 Doors (xp 30)
   - [Aklo Doors](./Statblocks/AkloDoors.pdf)
     - ![Aklo Doors PNG](./Statblocks/AkloDoors.png)
 
-### X12 The Device (xp 120 + 40, severe+)
+### X12 The Device (xp 120 + 40 + 40, severe+)
   - 12 [Pinnacle of Leng](./Statblocks/PinnacleOfLeng.pdf)
     - ![Pinnacle of Leng PNG](./Statblocks/PinnacleOfLeng.png)
   - [The Thing From Beyond Time](./Statblocks/TheThingFromBeyondTime.pdf)
     - ![The Thing From Beyond Time PNG](./Statblocks/TheThingFromBeyondTime.png)
     - Remember that the Occluding Field stops Angled Entry from working and causes it extreme discomfort and pain.
 
-  - For stopping the completion of the Leng Device award bonus XP and a hero point.
+  - For stopping the completion of the Leng Device award bonus 40 XP and a hero point.
 
 ### X13 Cells (xp 90, moderate)
   - 4 Wardens of Wind
@@ -234,11 +239,16 @@ XXX | 500
   - Most High Ceoptra TO DO
   - 2 Wardens of Thunder 
 
-## Part 7: The Eye of Avarice (Party Level 17)
+## Part 7: The Eye of Avarice (Party Level 17, xp 160)
 
-### The Final Battle (xp 160, Extreme)
-  - Karzoug the claimer TO DO (Level 20)
+### The Final Battle (xp up to 180, Severe+)
+  - Karzoug the claimer TO DO (Level 20/21)
   - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - 2 Wardens of Thunder 
+
+#### Tactics:
+  - 
+    
 
 ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -

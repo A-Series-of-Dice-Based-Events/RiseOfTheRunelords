@@ -5,13 +5,13 @@
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
 - If you find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
 ## General GM information
 
-  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
-  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
+  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy to generate without guidance. Where that is the case, any location and encounter notes will concentrate on the none-creature aspects.
+  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
   - DCs are not converted to 2E, except where they are contained within a creature or hazard statblock, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -19,8 +19,7 @@
 
 - Level 13: The PCs should be 13th level when they begin this chapter.
 - Level 14: The PCs should reach 14th level after defeating the white dragon Arkrhyst.
-- Level 15:  The PCs should reach 15th level by the time they begin exploring the sixth wing of Runeforge (since the exact order in which they explore the wings of this
-dungeon is fluid, they may hit 15th level earlier if they manage to explore and survive the more dangerous wings of Runeforge earlier than expected).
+- Level 15:  The PCs should reach 15th level by the time they begin exploring the sixth wing of Runeforge (since the exact order in which they explore the wings of this dungeon is fluid, they may hit 15th level earlier if they manage to explore and survive the more dangerous wings of Runeforge earlier than expected).
 - Level 15+: The PCs should be well into 15th level by the time they finish this chapter.
  
 ## Index and XP distribution
@@ -80,6 +79,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
    - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.  
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
+
 ## Part 4: The Ravenous Crypts
  - **Creatures:**
    - Replace Wraiths with [Dread Wraiths](https://2e.aonprd.com/Monsters.aspx?ID=865)
@@ -102,7 +102,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
      - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
     - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
     - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
-    - Replace Water Mephits with [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=600)
+    - Replace Water Mephits with [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=198)
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
     - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
     ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
@@ -128,7 +128,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
       - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
     ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
 
-      - For False Delvahines use either double elite Succubus OR double weak Delvahine (see above) depending on what you think your party can handle.
+      - For False Delvahines use either double elite [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98) OR double weak Delvahine (see above) depending on what you think your party can handle.
       
  ## Part 8: The Festering Maze
   - **Creatures:**
@@ -153,7 +153,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
     - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
     ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png)
-    - As an alternative to the warrior, or as a replacement for some of the warriors, consider using [Alchemist of Wrath PDF](./Statblocks/AlchemistofWrath.pdf) by @Lawrencealot.
+    - Consider replacing some or all of the warriors with [Alchemist of Wrath PDF](./Statblocks/AlchemistofWrath.pdf) by @Lawrencealot.
     ![Alchemist of Wrath PNG](./Statblocks/AlchemistofWrath.png)
     - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
     ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
