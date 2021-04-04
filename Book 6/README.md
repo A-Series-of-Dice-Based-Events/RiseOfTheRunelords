@@ -227,21 +227,21 @@
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
 
 ### X15 Quarters (xp 60, low if encountered here)
-  - [Khalib](./Statblocks/Khalib.pdf)
+  - ["First Apprentice" Khalib](./Statblocks/Khalib.pdf)
     - ![Khalib PNG 1](./Statblocks/Khalib1.png)
     - ![Khalib PNG 2](./Statblocks/Khalib2.png)
-    - ![Khalib PNG 3](./Statblocks/Khalib3.png)
     - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
     - Khalib is essentialy the practice run for Karzoug - both for the players and for the GM
+    - If you think that an 18th level Wizard is too tough for the party to handle then apply the weak template and remove his 9th level spells.
 #### Tactics:
   - Before combat
     - Khalib casts darkvision, false life, longstrider, see invisibility, tongues and nondetection on himself every day. 
-    - Once an alarm is raised, he also casts stoneskin (instant contingency), fly and true seeing on himself before entering battle.
+    - Once an alarm is raised, he also casts stoneskin (instant contingency), true seeing and Fiery Body on himself before entering battle.
   - During Combat
     - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
     - Following up with free action sustained Duplicate Foe, and another Duplicate Foe.
-    - He uses (clever) counterspell with reflect spell to target enemy arcane casters.
-    - The first attack or non arcane effect of each round uses his Foresight reaction.
+    - He uses (clever) counterspell with reflect spell to target enemy casters.
+    - The first attack or non-counterspellable effect of each round uses his Foresight reaction.
     - If he has any actions left he casts shield.
 
 ### X16 Reliquary (xp 30, trivial)
