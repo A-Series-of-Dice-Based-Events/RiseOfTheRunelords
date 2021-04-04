@@ -92,7 +92,8 @@ These investigations and encounters could happen at any point during the book.
 
   - **Creatures**
     - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
-    - If the party are higher than level 7 when they investigate The Paradise, then apply the Elite or double Elite template accordingly
+    - If the party are higher than level 7 when they investigate The Paradise, then apply the Elite template accordingly
+    - Alternatively if you want the giant gar from 1E use a [huge Megaladon](https://2e.aonprd.com/Monsters.aspx?ID=366)
 
   - **Encounter Notes:**   
     - The Paradise sank near the edge of the territory of a giant snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most.
