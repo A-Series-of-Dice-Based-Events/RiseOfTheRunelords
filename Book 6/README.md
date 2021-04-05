@@ -35,7 +35,7 @@
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
     - Viorian Dekanti - 18th level Fighter
-    - Karzoug - 20th level Transmuter Wizard - suggest upscale Khalib
+    - Karzoug - 20th level Transmuter Wizard - based on Khalib
   - tweaking XP and encounter balance
   - treasure by level
 
@@ -231,15 +231,16 @@
     - ![Khalib PNG 1](./Statblocks/Khalib1.png)
     - ![Khalib PNG 2](./Statblocks/Khalib2.png)
     - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
+    - If Khalib is encountered alone here, consider adding Wardens to the fight.
     - Khalib is essentialy the practice run for Karzoug - both for the players and for the GM
     - If you think that an 18th level Wizard is too tough for the party to handle then apply the weak template and remove his 9th level spells.
 #### Tactics:
   - Before combat
-    - Khalib casts darkvision, false life, longstrider, see invisibility, tongues and nondetection on himself every day. 
-    - Once an alarm is raised, he also casts stoneskin (instant contingency), true seeing and Fiery Body on himself before entering battle.
+    - Khalib casts darkvision, false life, longstrider, see invisibility, tongues, nondetection and mind blank on himself every day.
+    - Once an alarm is raised, he also casts stoneskin (instant contingency), true seeing and Fiery Body (which can fly) on himself before entering battle.
   - During Combat
     - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
-    - Following up with free action sustained Duplicate Foe, and another Duplicate Foe.
+    - Following up with free action sustained Duplicate Foe, and whatever spell he thinks appropriate.
     - He uses (clever) counterspell with reflect spell to target enemy casters.
     - The first attack or non-counterspellable effect of each round uses his Foresight reaction.
     - If he has any actions left he casts shield.
@@ -249,7 +250,7 @@
 
 ### X17 Chamber of Focus (xp 120, severe)
   - Most High Ceoptra TO DO
-  - 2 Wardens of Thunder 
+  - 4 Wardens of Wind 
 
 ## Part 7: The Eye of Avarice (Party Level 17, xp 160)
 
