@@ -4,7 +4,7 @@
 
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level-based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
-- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
+- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
 - New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is updated.
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
@@ -20,7 +20,7 @@
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher, and more for minions. Lower CR creatures need to be raised more to work in 2E.
 
-# | Title | Level | Max XP 
+Part | Title | Level | Max XP 
 -|-|-|-
 1 | Seeking Xin-Shalast  | 15 | GM Discretion
 2 | Whispers In The Wind | 15 | 400
@@ -101,7 +101,7 @@
     - ![Karivek Vekker PNG](./Statblocks/KarivekVekker.png)
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
-### Event 4: The Siege (xp 80, moderate)
+### Event 4: The Siege (xp 60, low)
   - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
 ### Vekker Cabin Completion Bonus
@@ -109,13 +109,13 @@
 
 ## Part 3: On the World's Roof (Party Level 16, xp 160)
 
-### C Queen of The Icemists (XP 40, Trivial, RP Encounter)
+### C. Queen of The Icemists (XP 40, Trivial, RP Encounter)
   - [Svevenka Ice Nymph Queen](./Statblocks/svevenka.pdf)
     - ![Svevenka A PNG](./Statblocks/svevenkaA.png)
     - ![Svevenka B PNG](./Statblocks/svevenkaB.png)
   - xp is awarded for befriending Svevenka
 
-### D Sentinels (XP 120, Severe)
+### D. Sentinels (XP 120, Severe)
   - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
   - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
@@ -139,12 +139,14 @@
 
 ### H Abominable Dome (XP 60, low)
   - 6 Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
+  - Add one Abominable Snowman per PC in the party over 4
 
 ### I Lair of the Hidden Beast (xp 80, moderate)
   - 4 Vampire Skulk 
   - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
   - The L16 Hidden Beast TO DO
+  - Add one Vampire Skulk per PC in the party over 4
 
 ### K Heptaric Locus (XP 80, moderate)
   - Gamigin [double elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
@@ -172,10 +174,9 @@
   - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
 ## Part 6: Pinnacle of Avarice (Party Level 17, xp 900)
-  - Be wary of running too many encounters together.
+  - Be wary of running too many encounters together, or of casting too many area affect spells from groups of identical creatures.
 
 ### X1 Entrance Ramp (xp 60, low)
-  - 4 Wardens of Wind
   - There is one warden of wind for each party member
 
 ### X2 Kharzoug (xp 10 x 6, trivial)
@@ -186,7 +187,7 @@
 ### X3 Throne Rooom (xp 90, moderate)
   - Viorian Dekanti TO DO
   - 2 Wardens of Thunder
-  - add a Warden of Thunder for each party member over 4
+  - add a Warden of Thunder for each PC in the party over 4
 
 ### X4 Lair (xp 30, trivial)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
@@ -241,7 +242,7 @@
 #### Tactics:
   - Before combat
     - Khalib casts darkvision, false life, longstrider, see invisibility, tongues, and mind blank on himself every day.
-    - Once an alarm is raised, he also casts stoneskin, true seeing and Fiery Body (which can fly) on himself before entering battle.
+    - Once an alarm is raised, he also casts stoneskin, true seeing, Fiery Body (which can fly) on himself before entering battle.
   - During Combat
     - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
     - Following up with free action sustained Duplicate Foe, and whatever spell he thinks appropriate.
@@ -259,6 +260,12 @@
 
 ## Part 7: The Eye of Avarice (Party Level 17, xp 160)
 
+- optionally this can be for level 18 PCs, but you will need to adjust minions accordingly.
+  - Replace the Adult blue dragon with an Ancient blue dragon.
+  - Apply a second elite to the Storm Giants making them level 16
+  - Add a single elite to the Rune Giant. 
+  - For additional PCs you will need to add a second elite to the Rune Giant (making it level 19) and an Elite to the Ancient Blue Dragon. 
+
 ### The Final Battle (xp 190, Extreme+, adjust down by image draining encounters)
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
@@ -275,8 +282,8 @@
   - ROUND 1: 
     - Karzoug casts time stop and inside that casts Foresight, Stoneskin and Fiery Body (which can fly).
     - The blue dragon begins the fight next to Karzoug’s throne, and flies out toward the PCs to breathe lightning on them. 
-    - The rune giant begins between the runewell and the throne—he closes the distance to the PCs and casts true seeing. 
-    - A warden of thunder stands atop each of the balconies at area Y2—each of them casts chain lightning. 
+    - The rune giant begins between the runewell and the throne. He closes the distance to the PCs and casts true seeing. 
+    - A warden of thunder stands atop each of the balconies at area Y2. Each of them casts chain lightning. 
   - ROUND 2: 
     - Karzoug casts Meteor Storm and quickened horrid wilting      
     - The blue dragon makes physical attacks and breathes lightning as he can.
