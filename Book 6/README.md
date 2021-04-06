@@ -188,6 +188,8 @@ Part | Title | Level | Max XP
   - Viorian Dekanti TO DO
   - 2 Wardens of Thunder
   - add a Warden of Thunder for each PC in the party over 4
+  - [Chellan, Sword of Greed](./Statblocks/ChellanSwordofGreed.pdf)
+  - ![Chellan, Sword of Greed PNG](./Statblocks/ChellanSwordofGreed.png)
 
 ### X4 Lair (xp 30, trivial)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
