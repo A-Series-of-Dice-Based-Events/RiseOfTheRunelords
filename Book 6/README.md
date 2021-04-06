@@ -237,7 +237,7 @@
 #### Tactics:
   - Before combat
     - Khalib casts darkvision, false life, longstrider, see invisibility, tongues, nondetection and mind blank on himself every day.
-    - Once an alarm is raised, he also casts stoneskin (instant contingency), true seeing and Fiery Body (which can fly) on himself before entering battle.
+    - Once an alarm is raised, he also casts stoneskin, true seeing and Fiery Body (which can fly) on himself before entering battle.
   - During Combat
     - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
     - Following up with free action sustained Duplicate Foe, and whatever spell he thinks appropriate.
@@ -255,13 +255,30 @@
 ## Part 7: The Eye of Avarice (Party Level 17, xp 160)
 
 ### The Final Battle (xp up to 180, Severe+)
-  - Karzoug the claimer TO DO (Level 20/21)
+  - Karzoug the claimer TO DO (Level 20) For now use an Elite or double elite Khalib with two tenth level spell slots of TimeStop and spell combination, and other spells adjusted as per the tactics below
   - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
   - 2 Wardens of Thunder 
 
 #### Tactics:
-  - 
+  - ROUND 1: 
+    - Karzoug casts time stop and inside that casts Foresight, Stoneskin and Fiery Body.
+    - The blue dragon begins the fight next to Karzoug’s throne, and flies out toward the PCs to breathe lightning on them. 
+    - The rune giant begins between the runewell and the throne—he closes the distance to the PCs and casts true seeing. 
+    - A warden of thunder stands atop each of the balconies at area Y2—each of them casts chain lightning. 
+  - ROUND 2: 
+    - Karzoug casts Meteor Storm and quickened horrid wilting      
+    - The blue dragon makes physical attacks and breathes lightning as he can.
+    - The rune giant readies to defend as a bodyguard.
+    - The wardens of thunder cast chain lightning again
+  - ROUND 3: 
+    - Karzoug casts true strike and spell-combination double disintegrate
+    - The rune giant melees as Karzoug's bodyguard. 
+    - The wardens of thunder cast chain lightning again
+    - The blue dragon makes physical attacks and breathes lightning as he can.
+  - REMAINDER OF COMBAT:
+    - Karzoug continues casting offensive spells like flesh to stone, resorting to his glaive as a last resort. 
+    - The rune giant melees as Karzoug's bodyguard. 
+    - The blue dragon makes physical attacks and breathes lightning as he can.
     
-
 ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
