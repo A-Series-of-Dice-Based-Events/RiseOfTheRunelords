@@ -31,12 +31,10 @@
 7 | The Eye of Avarice   | 17 | 160-200
 
 ## TO DO
-  - 4 unique creatures
+  - 3 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
     - Viorian Dekanti - 18th level Fighter
-    - Karzoug - 20th level Transmuter Wizard - based on Khalib
-  - tweaking XP and encounter balance
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -125,7 +123,7 @@
 
 ### Resources used throughout
   - Wardens of Wind are (L14) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giants](https://2e.aonprd.com/Monsters.aspx?ID=224)
-  - Wardens of Thunder are (L16) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - Wardens of Thunder are (L14) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225) and raise Chain Lightning to 7th level
 
 ### Event 5: Emergence of the Spared
 
@@ -173,17 +171,22 @@
 ### Invaders from Leng (xp 120, severe)
   - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
-## Part 6: Pinnacle of Avarice (Party Level 17, xp 960)
+## Part 6: Pinnacle of Avarice (Party Level 17, xp 900)
+  - Be wary of running too many encounters together.
 
 ### X1 Entrance Ramp (xp 60, low)
   - 4 Wardens of Wind
+  - There is one warden of wind for each party member
 
 ### X2 Kharzoug (xp 10 x 6, trivial)
   - each image destroyed is worth 10 xp
+  - Kharzoug generally only casts through these images if he can help a combat, using spells such as Slow, Wall of Force, Resilient Sphere, Black Tentacles, Earthbind, Aqueous Orb, Telekinetic Maneuver, Grease, Glitterdust (from the staff).
+  - Karzoug will however try and counter and potentially reflect any spell he sees being cast.
 
-### X3 Throne Rooom (xp 120, severe)
+### X3 Throne Rooom (xp 90, moderate)
   - Viorian Dekanti TO DO
   - 2 Wardens of Thunder
+  - add a Warden of Thunder for each party member over 4
 
 ### X4 Lair (xp 30, trivial)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
@@ -225,6 +228,7 @@
 ### X13 Cells (xp 90, moderate)
   - 4 Wardens of Wind
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - add another Warden of Wind for each member in the party over 4
 
 ### X15 Quarters (xp 60, low if encountered here)
   - ["First Apprentice" Khalib](./Statblocks/Khalib.pdf)
@@ -236,7 +240,7 @@
     - If you think that an 18th level Wizard is too tough for the party to handle then apply the weak template and remove his 9th level spells.
 #### Tactics:
   - Before combat
-    - Khalib casts darkvision, false life, longstrider, see invisibility, tongues, nondetection and mind blank on himself every day.
+    - Khalib casts darkvision, false life, longstrider, see invisibility, tongues, and mind blank on himself every day.
     - Once an alarm is raised, he also casts stoneskin, true seeing and Fiery Body (which can fly) on himself before entering battle.
   - During Combat
     - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
@@ -248,21 +252,28 @@
 ### X16 Reliquary (xp 30, trivial)
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
 
-### X17 Chamber of Focus (xp 120, severe)
+### X17 Chamber of Focus (xp 105, severe)
   - Most High Ceoptra TO DO
-  - 4 Wardens of Wind 
+  - 3 Wardens of Wind
+  - add a warden of wind for each party member over 4
 
 ## Part 7: The Eye of Avarice (Party Level 17, xp 160)
 
-### The Final Battle (xp up to 180, Severe+)
-  - Karzoug the claimer TO DO (Level 20) For now use an Elite or double elite Khalib with two tenth level spell slots of TimeStop and spell combination, and other spells adjusted as per the tactics below
+### The Final Battle (xp 190, Extreme+, adjust down by image draining encounters)
+  - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
+    - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
+    - ![Karzoug 2 PNG](./Statblocks/Karzoug2.png)
+    - ![Karzoug 3 PNG](./Statblocks/Karzoug3.png)
   - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
-  - 2 Wardens of Thunder 
+  - 2 Wardens of Thunder
+  - If there are more than 4 PCs make the dragon an [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
 
 #### Tactics:
+  - Before combat
+    - Karzoug casts darkvision, longstrider, see invisibility, tongues, and mind blank on himself every day. 
   - ROUND 1: 
-    - Karzoug casts time stop and inside that casts Foresight, Stoneskin and Fiery Body.
+    - Karzoug casts time stop and inside that casts Foresight, Stoneskin and Fiery Body (which can fly).
     - The blue dragon begins the fight next to Karzoug’s throne, and flies out toward the PCs to breathe lightning on them. 
     - The rune giant begins between the runewell and the throne—he closes the distance to the PCs and casts true seeing. 
     - A warden of thunder stands atop each of the balconies at area Y2—each of them casts chain lightning. 
