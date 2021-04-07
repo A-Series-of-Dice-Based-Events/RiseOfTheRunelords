@@ -11,7 +11,7 @@
 ## General GM information
 
   - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
-  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite can be closer to 3 additional levels rather than 2, unless their main thing is a now innefective incapacitation effect.
+  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite is closer to 3 additional levels rather than 2, unless their main thing is a now innefective incapacitation effect.
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -28,13 +28,12 @@ Part | Title | Level | Max XP
 4 | Xin-Shalast          | 16 | 440
 5 | Scaling Mhar Massif  | 16 | 120
 6 | Pinnacle of Avarice  | 17 | 900
-7 | The Eye of Avarice   | 17 | 160-200
+7 | The Eye of Avarice   | 17 or 18 | 160-200
 
 ## TO DO
-  - 3 unique creatures
+  - 2 unique creatures
     - The Hidden Beast - 16th level Vampire Sorceror
     - Most High Ceoptra - 18th level Lamia Oracle
-    - Viorian Dekanti - 18th level Fighter
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -175,6 +174,7 @@ Part | Title | Level | Max XP
 
 ## Part 6: Pinnacle of Avarice (Party Level 17, xp 900)
   - Be wary of running too many encounters together, or of casting too many area affect spells from groups of identical creatures.
+  - Use the politics to your advantage here. While all the leaders (Viorian, Khalib, Ceoptra) are loyal to Karzoug, they each want and expect to be next in line to be the future runelord of greed.
 
 ### X1 Entrance Ramp (xp 60, low)
   - There is one warden of wind for each party member
@@ -185,7 +185,9 @@ Part | Title | Level | Max XP
   - Karzoug will however try and counter and potentially reflect any spell he sees being cast.
 
 ### X3 Throne Rooom (xp 90, moderate)
-  - Viorian Dekanti TO DO
+  - [Viorian Dekanti, Champion of Greed](./Statblocks/ViorianDekanti.pdf)
+    - ![Viorian Dekanti 1 PNG](./Statblocks/ViorianDekanti1.png)
+    - ![Viorian Dekanti 2 PNG](./Statblocks/ViorianDekanti2.png)
   - 2 Wardens of Thunder
   - add a Warden of Thunder for each PC in the party over 4
   - [Chellan, Sword of Greed](./Statblocks/ChellanSwordofGreed.pdf)
@@ -228,13 +230,14 @@ Part | Title | Level | Max XP
 
   - For stopping the completion of the Leng Device award bonus 40 XP and a hero point.
 
-### X13 Cells (xp 90, moderate)
+### X13 Cells (xp 100, moderate)
   - 4 Wardens of Wind
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - image of Karzoug
   - add another Warden of Wind for each member in the party over 4
 
 ### X15 Quarters (xp 60, low if encountered here)
-  - ["First Apprentice" Khalib](./Statblocks/Khalib.pdf)
+  - [First Apprentice Khalib](./Statblocks/Khalib.pdf)
     - ![Khalib PNG 1](./Statblocks/Khalib1.png)
     - ![Khalib PNG 2](./Statblocks/Khalib2.png)
     - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
@@ -242,6 +245,7 @@ Part | Title | Level | Max XP
     - Khalib is essentialy the practice run for Karzoug - both for the players and for the GM
     - If you think that an 18th level Wizard is too tough for the party to handle then apply the weak template and remove his 9th level spells.
 #### Tactics:
+  - Khalib wont go to the assistance of either Viorian or Ceoptra (or they to his).
   - Before combat
     - Khalib casts darkvision, false life, longstrider, see invisibility, tongues, and mind blank on himself every day.
     - Once an alarm is raised, he also casts stoneskin, true seeing, Fiery Body (which can fly) on himself before entering battle.
@@ -260,13 +264,13 @@ Part | Title | Level | Max XP
   - 3 Wardens of Wind
   - add a warden of wind for each party member over 4
 
-## Part 7: The Eye of Avarice (Party Level 17, xp 160)
+## Part 7: The Eye of Avarice (Party Level 17, xp 160-200)
 
 - optionally this can be for level 18 PCs, but you will need to adjust minions accordingly.
   - Replace the Adult blue dragon with an Ancient blue dragon.
-  - Apply a second elite to the Storm Giants making them level 16
+  - Apply a second elite to the Storm Giants making them level 16 and increase their chain lightnings to level 8.
   - Add a single elite to the Rune Giant. 
-  - For additional PCs you will need to add a second elite to the Rune Giant (making it level 19) and an Elite to the Ancient Blue Dragon. 
+  - For additional PCs add a second elite to the Rune Giant (making it level 19) and an Elite to the Ancient Blue Dragon. 
 
 ### The Final Battle (xp 190, Extreme+, adjust down by image draining encounters)
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
