@@ -235,6 +235,7 @@ Part | Title | Level | Max XP
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
   - image of Karzoug
   - add another Warden of Wind for each member in the party over 4
+  - Khalib is likely to join this combat on round 4 or 5 after prepping
 
 ### X15 Quarters (xp 60, low if encountered here)
   - [First Apprentice Khalib](./Statblocks/Khalib.pdf)
@@ -266,43 +267,54 @@ Part | Title | Level | Max XP
 
 ## Part 7: The Eye of Avarice (Party Level 17, xp 160-200)
 
-- optionally this can be for level 18 PCs, but you will need to adjust minions accordingly.
+- Level 18? optionally this can be for level 18 PCs, but you will need to adjust minions accordingly:
   - Replace the Adult blue dragon with an Ancient blue dragon.
-  - Apply a second elite to the Storm Giants making them level 16 and increase their chain lightnings to level 8.
+  - Apply a second elite to the Storm Giant Wardens making them level 16 and increase their chain lightnings to level 8.
   - Add a single elite to the Rune Giant. 
   - For additional PCs add a second elite to the Rune Giant (making it level 19) and an Elite to the Ancient Blue Dragon. 
+
+- The layout of this room needs some consideration and potential adjustment: 
+  - Consider adjusting the throne to be on a further raised dais and lower the runewell by 20 ft thereby having the entire room on a slope where Karzoug can see down the centre and has line of sight for his spells without getting up.
+  - Consider making all the walkways 15ft wide as the dragon and the 3 gaints are all huge
+  - The huge dragon has a 60 foot wingspan. If it is to fly consider having all the gold columns stop level with the adjacent walkways, and 40-60ft of free space above them.
 
 ### The Final Battle (xp 190, Extreme+, adjust down by image draining encounters)
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
     - ![Karzoug 2 PNG](./Statblocks/Karzoug2.png)
     - ![Karzoug 3 PNG](./Statblocks/Karzoug3.png)
-  - [Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131)
-  - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
-  - 2 Wardens of Thunder
+  - [Fulmina - Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131) - consider using the Frenzy/Momentum version as there are quite enough spellcasters here already
+  - Warden of Runes [Teth - Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - 2 Wardens of Thunder (Berg and Gil)
   - If there are more than 4 PCs make the dragon an [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
 
 #### Tactics:
+  - The general tactics are that the Dragon is a distraction, the Rune Giant is defence to allow Karzoug to keep casting, and the Wardens are ranged support.
   - Before combat
     - Karzoug casts darkvision, longstrider, see invisibility, tongues, and mind blank on himself every day. 
   - ROUND 1: 
     - Karzoug casts time stop and inside that casts Foresight, Stoneskin and Fiery Body (which can fly).
-    - The blue dragon begins the fight next to Karzoug’s throne, and flies out toward the PCs to breathe lightning on them. 
-    - The rune giant begins between the runewell and the throne. He closes the distance to the PCs and casts true seeing. 
+    - The blue dragon begins the fight next to Karzoug’s throne, and flies out toward the PCs to breathe lightning on them, and to position herself to be a wall of dragon. 
+    - The rune giant begins between the runewell and the throne. He casts true seeing and then air walks to stay between the PCs and Karzoug as a wall of giant. 
     - A warden of thunder stands atop each of the balconies at area Y2. Each of them casts chain lightning. 
   - ROUND 2: 
     - Karzoug casts Meteor Storm and quickened horrid wilting      
-    - The blue dragon makes physical attacks and breathes lightning as he can.
-    - The rune giant readies to defend as a bodyguard.
+    - The blue dragon hinders using physical attacks and breathes lightning if she can.
+    - The rune giant defends as Karzoug's bodyguard.
     - The wardens of thunder cast chain lightning again
   - ROUND 3: 
     - Karzoug casts true strike and spell-combination double disintegrate
-    - The rune giant melees as Karzoug's bodyguard. 
+    - The rune giant continues to protect Karzoug. 
     - The wardens of thunder cast chain lightning again
-    - The blue dragon makes physical attacks and breathes lightning as he can.
+    - The blue dragon hinders using physical attacks and breathes lightning if she can.
   - REMAINDER OF COMBAT:
-    - Karzoug continues casting offensive spells like flesh to stone, resorting to his glaive as a last resort. 
-    - The rune giant melees as Karzoug's bodyguard. 
-    - The blue dragon makes physical attacks and breathes lightning as he can.
+    - Karzoug continues casting offensive spells like flesh to stone. He sets his glaive dancing. 
+    - The rune giant continues to protect Karzoug. 
+    - The blue dragon continues to distract.
+    - The wardens of thunder enter melee.
     
-## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
+  - Morale
+    - If the rune giant is killed the Wardens switch sides, and the PCs should be suspecting this might happen by now. 
+    - Everyone else fights to the death - unless Karzoug is killed.
+
+    ## - End of RotR Spires of Xin-Shalast 2E Conversion Guide -
