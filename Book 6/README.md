@@ -31,9 +31,7 @@ Part | Title | Level | Max XP
 7 | The Eye of Avarice   | 17 or 18 | 160-200
 
 ## TO DO
-  - 2 unique creatures
-    - The Hidden Beast - 16th level Vampire Sorceror
-    - Most High Ceoptra - 18th level Lamia Oracle
+  - Most High Ceoptra - 18th level Lamia Oracle
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -144,7 +142,9 @@ Part | Title | Level | Max XP
   - 4 Vampire Skulk 
   - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
   - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
-  - The L16 Hidden Beast TO DO
+  - [The Hidden Beast](./Statblocks/TheHiddenBeast.pdf)
+    - ![The Hidden Beast 1 PNG](./Statblocks/TheHiddenBeast1.png)
+    - ![The Hidden Beast 2 PNG](./Statblocks/TheHiddenBeast2.png)
   - Add one Vampire Skulk per PC in the party over 4
 
 ### K Heptaric Locus (XP 80, moderate)
