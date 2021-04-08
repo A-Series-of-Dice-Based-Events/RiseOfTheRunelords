@@ -244,7 +244,7 @@ Part | Title | Level | Max XP
     - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
     - If Khalib is encountered alone here, consider adding Wardens to the fight.
     - Khalib is essentialy the practice run for Karzoug - both for the players and for the GM
-    - If you think that an 18th level Wizard is too tough for the party to handle then apply the weak template and remove his 9th level spells.
+
 #### Tactics:
   - Khalib wont go to the assistance of either Viorian or Ceoptra (or they to his).
   - Before combat
@@ -254,7 +254,7 @@ Part | Title | Level | Max XP
     - At the start of combat Khalib casts quickened Slow and Flesh to Stone. On the second round he casts Duplicate Foe (not living so not affected by the occluding field). 
     - Following up with free action sustained Duplicate Foe, and whatever spell he thinks appropriate.
     - He uses (clever) counterspell with reflect spell to target enemy casters.
-    - The first attack or non-counterspellable effect of each round uses his Foresight reaction.
+    - The first attack against him or non-counterspellable effect of each round uses his Foresight reaction.
     - If he has any actions left he casts shield.
 
 ### X16 Reliquary (xp 30, trivial)
