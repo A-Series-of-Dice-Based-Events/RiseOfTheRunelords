@@ -140,8 +140,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
       - Empathic link to Jordimandus within 1 mile
       - Abilities: Flier, Darkvision, Fast Movement (fly 40ft), Manual Dexterity, Speech (Thassilonian)
 
-    - [Omox Demon PDF](./Statblocks/omox_demon-1608760936.pdf) by @Primemakes.
-    ![Omox Demon PNG](./Statblocks/omox_demon-1608760934.png)
+    - [Omox Demon](https://2e.aonprd.com/Monsters.aspx?ID=1112)
     - [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
     - [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775)
     - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.

@@ -512,9 +512,7 @@ There is no spare treasure. If your players miss something early on in the adven
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
   - **Creatures:**
-    - [Giant Hermit Crab PDF](./Statblocks/GiantHermitCrab.pdf)
-    ![Giant Hermit Crab PNG](./Statblocks/GiantHermitCrab.png)
-
+    - [Giant Hermit Crab](http://2e.aonprd.com/Rules.aspx?ID=1107) 
   - **Loot:**
     - Divide all book treasure values by 20
 
