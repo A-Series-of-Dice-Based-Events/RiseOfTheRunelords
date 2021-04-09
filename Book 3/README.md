@@ -72,8 +72,10 @@ Note there is no contingency in the treasure. If your players miss something ear
 
 ### General Encounter Advice
 
-Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note applying a weak or elite template twice is closer to 3 levels than 2. 
+Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note applying a weak or elite template twice is closer to 3 levels than 2.  
+
 If they are finding it hard going then liberally apply weak templates or remove minions.  
+
 If they are breezing through then liberally apply elite templates or add minions. 
 Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
