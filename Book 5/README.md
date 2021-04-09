@@ -164,5 +164,9 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
   - **Creatures:**
     - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
     ![Karzoug Statue PNG](./Statblocks/karzoug_statue-1608761700.png)
+
+- [Dominant Weapon](./Statblocks/DominantWeapon.pdf)
+- ![Dominant Weapon PNG](./Statblocks/DominantWeapon.png)
+  
     
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
