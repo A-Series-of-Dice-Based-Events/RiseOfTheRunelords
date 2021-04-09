@@ -5,16 +5,13 @@
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, XP, level based treasure, and occasionally tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- Unique or missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- Unique or missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is updated.
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## TO DO
-  - Final review and clean up.
-  - Match creature items and loot - done
-  - Update NPC stats to reflect updated equipment ? (Hucker, Crowfood, Mammy, Lamatar, Lucrecia, Barl)
+  - Possibly update NPC stats to reflect updated equipment? (Hucker, Crowfood, Mammy, Lamatar, Lucrecia, Barl)
 
 ## General GM information
-
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
  
@@ -75,7 +72,7 @@ Note there is no contingency in the treasure. If your players miss something ear
 
 ### General Encounter Advice
 
-Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
+Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note applying a weak or elite template twice is closer to 3 levels than 2. 
 If they are finding it hard going then liberally apply weak templates or remove minions.  
 If they are breezing through then liberally apply elite templates or add minions. 
 Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
@@ -91,14 +88,13 @@ These investigations and encounters could happen at any point during the book.
 ### Wreck of the Paradise (XP 80, Moderate Threat, +10xp story award, optional encounter)
 
   - **Creatures**
-    - [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837)
+    - Use either a [Giant Snapping Turtle](https://2e.aonprd.com/Monsters.aspx?ID=837) or a giant gar [huge Megaladon](https://2e.aonprd.com/Monsters.aspx?ID=366)
     - If the party are higher than level 7 when they investigate The Paradise, then apply the Elite template accordingly
-    - Alternatively if you want the giant gar from 1E use a [huge Megaladon](https://2e.aonprd.com/Monsters.aspx?ID=366)
 
   - **Encounter Notes:**   
-    - The Paradise sank near the edge of the territory of a giant snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most.
-    - Killing a giant snapping turtle will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interactions.
-    - Turtle meat is a delicacy and there is enough in a giant turtle to provide a much-needed boost to the local economy.
+    - The Paradise sank near the edge of the territory of a giant gar / snapping turtle (locally infamous "Old Pinkeye") and anyone in a craft 20ft long or smaller or anyone entering the water here will draw its hostile attention in a few minutes at most.
+    - Killing Old Pinkeye will make the PCs local heroes and improve the attitude of everyone in Turtleback Ferry towards them for social interactions.
+    - Their meat is a delicacy and there is enough in a huge creature to provide a much-needed boost to the local economy.
     - Turtle shell is a prized hull for local fishing boats as it has a reputation for preventing giant gar attacks.
     - Successfully investigating the wreck of the Paradise provides some clues and a story award of 10xp.
 
@@ -425,6 +421,7 @@ The other unique ogres are covered individually below.
     - Be aware that Lucrecia has several **incapacitation** effects, and you need to use these carefully as these have full effect on lower-level PCs 
     - The lamias will use deception and disguise as they see fit (and they have had lots of practice and enjoy doing it). Create or choose a deception that will resonate with your players or you feel you can roleplay well. Some examples:
       - If Kaven is with the party they will weave him into the deception by using his name as they recognize him from The Paradise
+      - Lucrecia might also thank the black arrows (or Jakardros personally if someone uses his name) for conveniently leading the patrol away from the fort on the day of the attack
       - If they are aware of the parties approach the Lamias could be in human form posing as black arrows using the humanoid form and illusory disguise spells.
         - They claim that any black arrows accompanying the party are either imposters or deserters (except Kaven) as best fits the circumstance.
         - They say they are holed up in here as they were driven back by the ogres and they are grateful to be rescued. 
