@@ -115,7 +115,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
     ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
     - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937) 
-    - Enslaved stone giants: Elite Stone Giants
+    - Enslaved stone giants: Elite Stone Giants. Alternatively, consider using [Storm Giants](https://pf2.easytool.es/index.php?id=3761&name=storm_giant) if Stone Giants are not a challenge anymore, but be sure to reduce the number of giants to no more than 2 or 3 in this case for a low to moderate challenge.
     - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
     ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
     - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
