@@ -4,13 +4,13 @@ A fan built repository for the conversion guides for those wishing to run and co
 The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds the individual monster/NPC stat blocks which are linked to from the guide.  
 
 * [Campaign Backgrounds](./RotRCampaignBackgrounds.md)  
-* [Book 1: Burnt Offerings](./Book%201/README.md) - complete - awaiting community feedback
-* [Book 2: The Skinsaw Murders](./Book%202/README.md) - creatures complete
-* [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete - awaiting community feedback
-* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - creatures complete
-* [Book 5: Sins of the Saviors](./Book%205/README.md) - creatures almost complete (1 left) 
-* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - in progress (custom creatures part done) 
-* [Thassilonian Magic](./ThassilonianMagic/README.md) - several options
+* [Book 1: Burnt Offerings](./Book%201/README.md) - complete
+* [Book 2: The Skinsaw Murders](./Book%202/README.md) - creatures complete 
+* [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete
+* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - creatures complete 
+* [Book 5: Sins of the Saviors](./Book%205/README.md) - creatures complete 
+* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - 1 creature build remaining 
+* [Thassilonian Magic](./ThassilonianMagic/README.md) - choose which option you prefer
 * [OGL](./OGL.md)
 
 ## Join us
@@ -27,7 +27,7 @@ This repository holds those files publicly sourced and created, as well as other
 
 ## No Copyright Materials
 
-Please do not submit PDF files or entire texts, or any images from the AP. Only submit modifications necessary to convert to 2E, such as the DCs and 2E builds of NPCs/Monsters/Hazards/Items plus XP and 2E level based treasure. Please include a location number or name for each encounter or item so GMs can cross-reference with the original scenario.
+Please do not submit PDF files or entire texts, or any images or maps from the AP. Only submit modifications necessary to convert to 2E, such as the DCs and 2E builds of NPCs/Monsters/Hazards/Items plus XP and 2E level based treasure. Please include a location number or name for each encounter or item so GMs can cross-reference with the original scenario.
 
 # Using Github
 
