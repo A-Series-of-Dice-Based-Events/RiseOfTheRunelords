@@ -32,7 +32,6 @@ Part | Title | Level | Max XP
 
 ## TO DO
   - Most High Ceoptra - 18th level Lamia Oracle
-  - Effects of destroying an image
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -180,12 +179,13 @@ Part | Title | Level | Max XP
 ### X1 Entrance Ramp (xp 60, low)
   - There is one warden of wind for each party member
 
-### X2 Kharzoug (xp 10 x 6, trivial)
+### X2 Kharzoug (xp 10 x 6, trivial, RP opportunities)
+  - The images provide good opportunities for roleplay and for each side to weigh up the capabilities of their opponents. For example they get to understand the power of Karzoug's spells without major risk and possibly his counterspell / reflect spell ability. Karzoug tries to weigh up who is the greatest threat.
   - each image destroyed is worth 10 xp
   - Kharzoug generally only casts through these images if he can help a combat, using spells such as Slow, Wall of Force, Resilient Sphere, Black Tentacles, Earthbind, Aqueous Orb, Telekinetic Maneuver, Grease, Glitterdust (from the staff).
   - Karzoug will however try and counter and potentially reflect any spell he sees being cast.
 
-  - TO DO Effects of destroying an image
+  - Destroying the images weakens the link between the eye of avarice and xin-shalast and delays Karzoug's return.
 
 ### X3 Throne Rooom (xp 90, moderate)
   - [Viorian Dekanti, Champion of Greed](./Statblocks/ViorianDekanti.pdf)
@@ -269,7 +269,7 @@ Part | Title | Level | Max XP
   - add a warden of wind for each party member over 4
 
 ## Part 7: The Eye of Avarice (Party Level 17, xp 160+)
-- This is the epic final battle. Review carefully and balance to your party. Its final makeup should not be over 40XP per PC.
+- This is the epic final battle. Review carefully and balance to your party. Its final makeup should not be over 40XP per PC. Though note with intelligent play the Wardens can change sides.
 
 - Level 18? optionally this can be for level 18 PCs, but you will need to adjust minions accordingly:
   - Replace the Adult blue dragon with an Ancient blue dragon.
@@ -282,7 +282,7 @@ Part | Title | Level | Max XP
   - Consider making all the walkways 15ft wide as the dragon and the 3 gaints are all huge
   - The huge dragon has a 60 foot wingspan. If it is to fly consider having all the gold columns stop level with the adjacent walkways, and 40-60ft of free space above them.
 
-### The Final Battle (xp 190, Extreme+, adjust down by image draining encounters)
+### The Final Battle (xp 190, Extreme+)
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
     - ![Karzoug 2 PNG](./Statblocks/Karzoug2.png)
@@ -293,7 +293,7 @@ Part | Title | Level | Max XP
   - If there are more than 4 PCs make the dragon an [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
 
 #### Tactics:
-  - The general tactics are that the Dragon is a distraction, the Rune Giant is defence to allow Karzoug to keep casting, and the Wardens are ranged support.
+  - The general tactics are that the Dragon is a distraction, the Rune Giant is a bodyguard to allow Karzoug to keep casting, and the Wardens are ranged support.
   - Before combat
     - Karzoug casts darkvision, longstrider, see invisibility, tongues, and mind blank on himself every day. 
   - ROUND 1: 
