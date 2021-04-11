@@ -32,6 +32,7 @@ Part | Title | Level | Max XP
 
 ## TO DO
   - Most High Ceoptra - 18th level Lamia Oracle
+  - Effects of destroying an image
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -184,6 +185,8 @@ Part | Title | Level | Max XP
   - Kharzoug generally only casts through these images if he can help a combat, using spells such as Slow, Wall of Force, Resilient Sphere, Black Tentacles, Earthbind, Aqueous Orb, Telekinetic Maneuver, Grease, Glitterdust (from the staff).
   - Karzoug will however try and counter and potentially reflect any spell he sees being cast.
 
+  - TO DO Effects of destroying an image
+
 ### X3 Throne Rooom (xp 90, moderate)
   - [Viorian Dekanti, Champion of Greed](./Statblocks/ViorianDekanti.pdf)
     - ![Viorian Dekanti 1 PNG](./Statblocks/ViorianDekanti1.png)
@@ -265,7 +268,8 @@ Part | Title | Level | Max XP
   - 3 Wardens of Wind
   - add a warden of wind for each party member over 4
 
-## Part 7: The Eye of Avarice (Party Level 17, xp 160-200)
+## Part 7: The Eye of Avarice (Party Level 17, xp 160+)
+- This is the epic final battle. Review carefully and balance to your party. Its final makeup should not be over 40XP per PC.
 
 - Level 18? optionally this can be for level 18 PCs, but you will need to adjust minions accordingly:
   - Replace the Adult blue dragon with an Ancient blue dragon.
