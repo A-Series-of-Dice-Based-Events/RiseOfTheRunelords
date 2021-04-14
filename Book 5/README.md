@@ -125,10 +125,11 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 ## Part 7: The Shimmering Veils
   - **Creatures:**
       - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
+      - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
       - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
     ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
 
-      - For False Delvahines use either double elite [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98) OR double weak Delvahine (see above) depending on what you think your party can handle.
+      - For False Delvahines use either double elite Level 10 [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98) OR double weak Level 12 Delvahine (see above) depending on what you think your party can handle.
       
  ## Part 8: The Festering Maze
   - **Creatures:**
