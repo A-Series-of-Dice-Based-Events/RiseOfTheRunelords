@@ -7,7 +7,7 @@ This folder contains ancient items that are used in more than one book such as S
 
 [Greater Sihedron Medallion PDF](GreaterSihedronMedallion.pdf)
 
-## One take on Sin Magic, by ZomBagus (?)
+## One take on Sin Magic, by ZomBagus
 [Sin Magic Arcane Thesis PDF](ArcaneThesisSinMagic.pdf) and [Drain Sinful Item PDF](DrainSinfulItem.pdf)
 
 Gives a new Arcane Thesis.

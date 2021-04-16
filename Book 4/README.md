@@ -114,7 +114,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     
 ### A2
   - Optional: either let PCs bypass the encounters somehow, or use the Infiltration rules from the Gamemastery Guide. An example Infiltration is given here: 
-    - [Jorgenfist Infiltration optional subsystem](./Jorgenfist_Infiltration_withSecretTunnel.pdf)
+    - [Jorgenfist Infiltration optional subsystem](./Statblocks/Jorgenfist_Infiltration_withSecretTunnel.pdf)
   - Consider giving story XP if the PCs overcome this challenge.
 
 ### A3 (xp 60, Low)
