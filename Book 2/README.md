@@ -60,8 +60,9 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### A16 (80xp, moderate threat)
   - Erin Habe [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
   - Grayst Sevilla [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
-  - Caizarlu Zerren ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
-   ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
+  - Caizarlu Zerren use either: [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
+  - or ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
+  - ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
 ## Part 3: Walking Scarecrows (420xp, Party Level 5)
 
@@ -92,7 +93,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ### B6 (40xp, trivial threat)
   - Vorel's Phage [Vorels Phage PDF](./Statblocks/VorelsPhage.pdf) 
-  ![Vorels Phage PNG](./Statblocks/VorelsPhage.png)
+  - ![Vorels Phage PNG](./Statblocks/VorelsPhage.png)
 
 ### B7 (20xp, trivial threat) 
   - Dance of Ruin ![Dance of Ruin PNG](./Statblocks/DanceOfRuin.png)
@@ -176,7 +177,8 @@ If they are breezing through, then liberally apply elite templates or add minion
 ## Part 7: Shadows of Time (285xp, Party Level 7)
 
 ### E1 (60xp, low threat)
-  - Scarecrow - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
+  - Scarecrow
+  - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
 
 ### E2 (15xp, trivial threat)
   - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
