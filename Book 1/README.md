@@ -2,14 +2,11 @@
 
 ## Conversion Guide for Pathfinder second edition (2E)
 
-  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and occasionally tactics where they don't convert well from 1E.
+  - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and some tactics where they don't convert well from 1E.
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
   - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
   - Unique and missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
   - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
-
-## TO DO
-  - Proof read and beta test
 
 ## General GM information
 
@@ -212,7 +209,6 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - for eliminating the goblin menace and discovering the secret tunnels, which can now be guarded, award 30xp. 
 
-
 ## Part 3B. Catacombs of Wrath (490xp, Party Level 2) 
 
 ### B1. Guard Cave (40xp, trivial threat)
@@ -224,7 +220,7 @@ There is no spare treasure. If your players miss something early on in the adven
 ### B3. Welcoming Chamber
 
   - **Loot:**
-    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two) moderate art object worth 55gp
+    - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two); moderate art object worth 55gp
 
 ### B4. Washing Pool (40xp, trivial threat)
 
@@ -474,7 +470,7 @@ There is no spare treasure. If your players miss something early on in the adven
 ### E3. Trapped Hall Level 4 (10xp)
 
   **Hazard:** 
-      - Stealth DC 23,
+    - Stealth DC 23,
     - Disable: Expert Crafting DC 17 or Trained Thievery DC 19
     - Reflex DC 17
     - Success: no Damage
@@ -490,7 +486,7 @@ There is no spare treasure. If your players miss something early on in the adven
     ![Nualia PNG](./Statblocks/Nualia.png) 
 
   - **Tactics**
-    - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
+    - Before combat: Nualia uses the Sihedron Medallion to cast False Life every day. If forewarned: she casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
     - During Combat: Nualia uses her heightened Fear spell and Intimidating Glance to demoralize her enemies. Then follows up with sweeping Falchion attacks and harm. She uses her Shield spell if she has an action free.
     - Morale : if reduced to 21 or less HP, she tries to escape. She casts Sanctuary, Athletic Rush or Animal Form (for speed) as appropriate to make good her escape.
     - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defenses using her [Mark of Lamashtu / Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. She might also do this if captured and left alone.
