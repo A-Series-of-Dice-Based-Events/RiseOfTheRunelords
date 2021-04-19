@@ -9,6 +9,7 @@
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## TO DO
+  - Update Black Magga to be more imposing with sweeping attacks
   - Possibly update NPC stats to reflect updated equipment? (Hucker, Crowfood, Mammy, Lamatar, Lucrecia, Barl)
 
 ## General GM information

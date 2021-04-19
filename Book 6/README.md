@@ -286,7 +286,6 @@ Part | Title | Level | Max XP
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
     - ![Karzoug 2 PNG](./Statblocks/Karzoug2.png)
-    - ![Karzoug 3 PNG](./Statblocks/Karzoug3.png)
   - [Fulmina - Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131) - consider using the Frenzy/Momentum version as there are quite enough spellcasters here already
   - Warden of Runes [Teth - Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
   - 2 Wardens of Thunder (Berg and Gil)
