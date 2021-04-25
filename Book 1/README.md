@@ -342,7 +342,7 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - Simple hazard, but potentially high damage and possibility of drowning.
   - DC 18 Stealth to detect, save as per scenario.
-  - 80 foot fall into water = 60ft fall damage = 30HP.
+  - 80 foot fall into water = 60ft fall damage = 30HP. As falling into water is much more damaging than in 1E, consider reducing the bridge height.
 
 ### C10. Thistletop (120xp, severe threat)
 
