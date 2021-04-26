@@ -24,8 +24,8 @@
  
 ## Index and XP distribution
   
-Part | Title            | Level | Max XP 
-- |-                    |-      |-
+Part | Title            | Level | Max XP  
+-|-|-|-  
 1 | The Scribbler       | 13    | 360
 2 | Seeking Runeforge   | 13    | 140
 3 | Abjurant Halls      | 14/15 | 240/180 
@@ -36,7 +36,7 @@ Part | Title            | Level | Max XP
 8 | Festering Maze      | 14/15 | 240/180
 9 | Halls of Wrath      | 14/15 | 240/180 
 10| Weapons of Power    | 14/15 | 80/60 
-
+  
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
@@ -66,19 +66,19 @@ Part | Title            | Level | Max XP
     -Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
 
 ### A8 Kennels
-    - [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
-    ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
+  - [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
+  - ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
 
 ### A9 Outer Sanctum
-    - The Scribbler's suggestion, by @Nintendogeek01:
-    ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
-    - Revelation Quill, by @Nintendogeek01:
-    **Revelation Quill**: Item 20 [Rare, Artifact, Divination, Magical]
-    **Usage** held in 1 hand; Bulk L
-This quill is fashioned from a peacock's tail feather. Its nib is made of bone, and when held in one's hand, the quill seems strangely heavy. If placed in an empty vial or other glass container of similar size and left there for one hour, a revelation quill fills that container with ink. The ink created is of a random color 50% of the time, otherwise the ink is black. A Revelation Quill can act as a standard writing implement, its true strength lies in its ability to answer questions.
-**Activate** 10 minutes (Envision); **Frequency** Once per day; While holding the quill, the user concentrates on a specific future goal, event, or activity occurring within the coming week, the Revelation Quill takes over and writes out a response similar to the way Augury functions except the response can be a short phrase, often in the form of a cryptic rhyme or omen.
-**Activate** 10 minutes (Envision); **Frequency** Once per week; Upon activation, the user may use the quill in the same way to ask the mysterious intellect that guides the Revelation Quill up to 10 questions as though the user has rolled a success to cast the Commune Ritual.
-**Destruction**: The quill must be tricked into revealing the method of destroying itself without asking it to reveal that method.
+  - The Scribbler's suggestion, by @Nintendogeek01:
+  - ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
+  - Revelation Quill, by @Nintendogeek01:
+  **Revelation Quill**: Item 20 [Rare, Artifact, Divination, Magical]
+  **Usage** held in 1 hand; Bulk L
+  This quill is fashioned from a peacock's tail feather. Its nib is made of bone, and when held in one's hand, the quill seems strangely heavy. If placed in an empty vial or other glass container of similar size and left there for one hour, a revelation quill fills that container with ink. The ink created is of a random color 50% of the time, otherwise the ink is black. A Revelation Quill can act as a standard writing implement, its true strength lies in its ability to answer questions.
+  **Activate** 10 minutes (Envision); **Frequency** Once per day; While holding the quill, the user concentrates on a specific future goal, event, or activity occurring within the coming week, the Revelation Quill takes over and writes out a response similar to the way Augury functions except the response can be a short phrase, often in the form of a cryptic rhyme or omen.
+  **Activate** 10 minutes (Envision); **Frequency** Once per week; Upon activation, the user may use the quill in the same way to ask the mysterious intellect that guides the Revelation Quill up to 10 questions as though the user has rolled a success to cast the Commune Ritual.
+  **Destruction**: The quill must be tricked into revealing the method of destroying itself without asking it to reveal that method.
 
 ## Part 2: Seeking Runeforge (Party Level 13, 140 xp)
 
@@ -86,16 +86,16 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
   - [Arkrhyst](https://2e.aonprd.com/Monsters.aspx?ID=141)
   - Consider adding extra minions to the Arkrhyst encounter to make it a severe encounter. @Nintendogeek01 made two Frost Giant rangers called Gunvor and Gunilla, look for it on the discord server.
 
-### The Stairway (Party level 13, 60xp, low threat)
+### The Stairway (Party level 13, 60xp, low threat)  
   - 2x [Elite Elemental Avalanche](https://2e.aonprd.com/Monsters.aspx?ID=186)
   
-## Part 3: The Abjurant Halls (Party Level 14/15, 200 xp)
+## Part 3: The Abjurant Halls (Party Level 14/15, 240/180 xp)
  - **Creatures:**
    - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.  
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
 
-## Part 4: The Ravenous Crypts (Party Level 14/15, 200 xp)
+## Part 4: The Ravenous Crypts (Party Level 14/15, 240/180 xp)
  - **Creatures:**
    - Replace Wraiths with [Dread Wraiths](https://2e.aonprd.com/Monsters.aspx?ID=865)
    - 6x [Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
@@ -112,7 +112,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
    Negative Energy Portal ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
    Necromantic Deathtrap ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
    
- ## Part 5: The Vault of Greed (Party Level 14/15, 200 xp)
+ ## Part 5: The Vault of Greed (Party Level 14/15, 240/180 xp)
   - **Creatures:**
      - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
     - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
@@ -125,7 +125,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
     - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
     
-## Part 6: The Iron Cages of Lust (Party Level 14/15, 200 xp)
+## Part 6: The Iron Cages of Lust (Party Level 14/15, 240/180 xp)
   - **Creatures:**
     - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
     ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
@@ -137,7 +137,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
 
 
-## Part 7: The Shimmering Veils (Party Level 14/15, 200 xp)
+## Part 7: The Shimmering Veils (Party Level 14/15, 240/180 xp)
   - **Creatures:**
       - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
       - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
@@ -146,7 +146,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
 
       - For False Delvahines use either double elite Level 10 [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98) OR double weak Level 12 Delvahine (see above) depending on what you think your party can handle.
       
- ## Part 8: The Festering Maze (Party Level 14/15, 200 xp)
+ ## Part 8: The Festering Maze (Party Level 14/15, 240/180 xp)
   - **Creatures:**
     - Sobloch [Quasit Improved Familiar](https://2e.aonprd.com/Monsters.aspx?ID=97) 
       - As a familiar the Quasit is only its form and it cannot use strikes or any other special abilities of a Quasit
@@ -163,7 +163,7 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
     - Replace Variant Ochre Jellies with [Tallow Oozes](https://2e.aonprd.com/Monsters.aspx?ID=533)
  
- ## Part 9: The Halls of Wrath (Party Level 14/15, 200 xp)
+ ## Part 9: The Halls of Wrath (Party Level 14/15, 240/180 xp)
   - **Creatures:**
     - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) (20/30xp) with a longbow (use melee stats for to hit, wrath arrows)
     - Adjust the number of Warriors and the number of Sinspawn to match the number of PCs. For a party of 4 that means 4 of each and that makes it either an 80xp moderate or 120xp severe encounter.
