@@ -167,8 +167,8 @@ This quill is fashioned from a peacock's tail feather. Its nib is made of bone, 
     - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
     ![Karzoug Statue PNG](./Statblocks/karzoug_statue-1608761700.png)
 
-- [Commanding Weapon](./Statblocks/CommandingWeapon.pdf)
-- ![Commanding Weapon PNG](./Statblocks/CommandingWeapon.png)
+- [Dominant Weapon](./Statblocks/DominantWeapon.pdf)
+- ![Dominant Weapon PNG](./Statblocks/DominantWeapon.png)
 - Designers notes: Discussion of dominant/commanding weapons reasoned that outright countering was not in keeping with other 2E abilities, and that a counteract ability was closest to intent. The current definition borrows from aligned weapons and for the reaction ability from the ring of counterspells and the ring of spell turning. Note that spell DCs of Khalib and Karzoug in book 6 are in the mid 40s so a counteract of 30 is only around a 25% chance of working vs them, though with all PCs having a dominant weapon the odds of one of them working is high. To raise the counteract modifier would require raising the level of the item. Another option considered (of the same level) was an effect based on the foresight spell, effectively allowing 2 saving throws, keep the highest, or 2 targeting rolls, take the lowest.
     
 ## - End of RotR Sins of the Saviors 2E Conversion Guide -
