@@ -32,16 +32,15 @@ Part | Title            | Level | Max XP
 4 | Ravenous Crypts     | 14/15 | 370/220
 5 | Vault of Greed      | 14/15 | 260/190 
 6 | Iron Cages of Lust  | 14/15 | 200/140
-7 | Shimmering Veils    | 14/15 | / 
-8 | Festering Maze      | 14/15 | /
-9 | Halls of Wrath      | 14/15 | / 
+7 | Shimmering Veils    | 14/15 | 220/180 
+8 | Festering Maze      | 14/15 | 230/160
+9 | Halls of Wrath      | 14/15 | 290/200 
 10| Weapons of Power    | 14/15 | 80/60 
   
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
 
 ## TO DO
-  - xp & threat rating
   - treasure by level
 
 ## Party Level and Target Allocation of Treasure
@@ -180,17 +179,25 @@ Part | Title            | Level | Max XP
   - 2 [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
 
 
-## Part 7: The Shimmering Veils (Party Level 14/15, / xp)
-  - **Creatures:**
-      - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
-      - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
-      - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
-    ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
+## Part 7: The Shimmering Veils (Party Level 14/15, 220/180 xp)
 
-      - For False Delvahines use either double elite Level 10 [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98) OR double weak Level 12 Delvahine (see above) depending on what you think your party can handle.
-      
- ## Part 8: The Festering Maze (Party Level 14/15, / xp)
-  - **Creatures:**
+### I1 Reflected Enmity (60xp, low threat, but potentially multiple times)
+  - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
+
+### I2 Peacock Shrine (80/60xp, moderate threat)
+  - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
+  - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
+  ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
+  - There is 1 Vraxeris per PC.
+
+### I6 Bedroom (80/60xp, moderate threat)
+  - For False Delvahines use double weak Level 12 Delvahine (see above).
+  - There is 1 Delvahine per PC.
+
+
+## Part 8: The Festering Maze (Party Level 14/15, 230/160 xp)
+
+### J1 Sewers
     - Sobloch [Quasit Improved Familiar](https://2e.aonprd.com/Monsters.aspx?ID=97) 
       - As a familiar the Quasit is only its form and it cannot use strikes or any other special abilities of a Quasit
       - The only ability it retains is Invisibility at will.
@@ -199,27 +206,43 @@ Part | Title            | Level | Max XP
       - Empathic link to Jordimandus within 1 mile
       - Abilities: Flier, Darkvision, Fast Movement (fly 40ft), Manual Dexterity, Speech (Thassilonian)
 
-    - [Omox Demon](https://2e.aonprd.com/Monsters.aspx?ID=1112)
-    - [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
-    - [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775)
-    - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
-    ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
-    - Replace Variant Ochre Jellies with [Tallow Oozes](https://2e.aonprd.com/Monsters.aspx?ID=533)
+### J2 Sluice (70/50xp, low threat)  
+  - 2 [Omox Demon](https://2e.aonprd.com/Monsters.aspx?ID=1112)
+  - 2 [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
+
+### J4 Sump (40/30xp, trivial threat)
+  - 2 [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775)
+
+### J5 Throne (120/80xp, severe/moderate threat)
+  - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
+  ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
+  - Replace Variant Ochre Jellies with 4 [Tallow Oozes](https://2e.aonprd.com/Monsters.aspx?ID=533)
  
- ## Part 9: The Halls of Wrath (Party Level 14/15, / xp)
-  - **Creatures:**
-    - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) (20/30xp) with a longbow (use melee stats for to hit, wrath arrows)
-    - Adjust the number of Warriors and the number of Sinspawn to match the number of PCs. For a party of 4 that means 4 of each and that makes it either an 80xp moderate or 120xp severe encounter.
-    - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) (10/15xp each) by @Primemakes.
-    ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png) 
-    - Consider replacing some or all of the warriors with [Alchemist of Wrath PDF](./Statblocks/AlchemistofWrath.pdf) by @Lawrencealot.
-    ![Alchemist of Wrath PNG](./Statblocks/AlchemistofWrath.png) (10/15xp each)
-    - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) (10/15xp each) by @Primemakes.
-    ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
-    - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.
-    ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png) 
-    -[Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
-    
+
+ ## Part 9: The Halls of Wrath (Party Level 14/15, 290/200 xp)
+ 
+ ### K1 Iron Guardian (30/20xp, trivial threat)
+  - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
+
+### K3 Barracks (90/60xp, severe/moderate threat)
+  - The total number of warriors and axemen should equal 50% more than the number of PCs. For a party of 4 that means 6 in total split however you wish.
+  - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
+  ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png) 
+
+  - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
+  ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
+
+### K4 Lab (60/40xp, low/trivial threat)
+  - There is one warrior per PC.
+  - Consider replacing some or all of the warriors with [Alchemist of Wrath PDF](./Statblocks/AlchemistofWrath.pdf) by @Lawrencealot.
+  ![Alchemist of Wrath PNG](./Statblocks/AlchemistofWrath.png) 
+
+### K6 Hall (110/80xp, severe/moderate threat)
+  - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.
+  ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png) 
+  -[Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
+
+
  ## Part 10: Weapons of Power (Party Level 14/15, 80/60 xp)
   - **Creatures:**
     - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
