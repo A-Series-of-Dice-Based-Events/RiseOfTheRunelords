@@ -26,15 +26,15 @@
   
 Part | Title            | Level | Max XP  
 -|-|-|-  
-1 | The Scribbler       | 13    | 360
+1 | The Scribbler       | 13    | 200
 2 | Seeking Runeforge   | 13    | 140
-3 | Abjurant Halls      | 14/15 | 240/180 
-4 | Ravenous Crypts     | 14/15 | 240/180
-5 | Vault of Greed      | 14/15 | 240/180 
-6 | Iron Cages of Lust  | 14/15 | 240/180
-7 | Shimmering Veils    | 14/15 | 240/180 
-8 | Festering Maze      | 14/15 | 240/180
-9 | Halls of Wrath      | 14/15 | 240/180 
+3 | Abjurant Halls      | 14/15 | 50/40 
+4 | Ravenous Crypts     | 14/15 | 370/220
+5 | Vault of Greed      | 14/15 | 260/190 
+6 | Iron Cages of Lust  | 14/15 | 200/140
+7 | Shimmering Veils    | 14/15 | / 
+8 | Festering Maze      | 14/15 | /
+9 | Halls of Wrath      | 14/15 | / 
 10| Weapons of Power    | 14/15 | 80/60 
   
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
@@ -55,21 +55,23 @@ Part | Title            | Level | Max XP
 - If they are breezing through, then liberally apply elite templates or add minions. 
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: The Scribbler (Party Level 13, 360 xp)
+## Part 1: The Scribbler (Party Level 13, 200 xp)
   
-  - **Creatures:** 
-    - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.  
-    ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
-    [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
-    ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
-    - [Yerrin-ku](https://2e.aonprd.com/Monsters.aspx?ID=101)
-    -Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
+### The Scribbler (60xp, low threat)
+  - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.  
+  ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
+  [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
+  ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
 
-### A8 Kennels
-  - [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
+### Shrine (40xp, trivial threat)
+  - [Yerrin-ku](https://2e.aonprd.com/Monsters.aspx?ID=101)
+  -Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
+
+### A8 Kennels (60xp, low threat)
+  - 6x [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
   - ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
 
-### A9 Outer Sanctum
+### A9 Outer Sanctum (40xp, trivial threat)
   - The Scribbler's suggestion, by @Nintendogeek01:
   - ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
   - Revelation Quill, by @Nintendogeek01:
@@ -89,55 +91,96 @@ Part | Title            | Level | Max XP
 ### The Stairway (Party level 13, 60xp, low threat)  
   - 2x [Elite Elemental Avalanche](https://2e.aonprd.com/Monsters.aspx?ID=186)
   
-## Part 3: The Abjurant Halls (Party Level 14/15, 240/180 xp)
+## Part 3: The Abjurant Halls (Party Level 14/15, 50/40 xp)
  - **Creatures:**
    - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.  
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
 
-## Part 4: The Ravenous Crypts (Party Level 14/15, 240/180 xp)
- - **Creatures:**
-   - Replace Wraiths with [Dread Wraiths](https://2e.aonprd.com/Monsters.aspx?ID=865)
-   - 6x [Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
-   ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
-   - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
-   - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
-   ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
-   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
-   ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
-   - [Azaven PDF](./Statblocks/azaven-1608759104.pdf) by @Primemakes.
-   ![Azaven PNG](./Statblocks/azaven-1608759100.png)
-   - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
-   ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
-   Negative Energy Portal ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
-   Necromantic Deathtrap ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
+## Part 4: The Ravenous Crypts (Party Level 14/15, 370/220xp)
+
+### Undead Guardians (40/20xp, trivial threat)
+ - Replace Wraiths with [Elite Dread Wraiths](https://2e.aonprd.com/Monsters.aspx?ID=865)
+ - 1 Wraith per PC
    
- ## Part 5: The Vault of Greed (Party Level 14/15, 240/180 xp)
-  - **Creatures:**
-     - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
-    - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
-    - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
-    - Replace Water Mephits with [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=198)
-    - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
-    - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
-    ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
-    - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
-    ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
-    - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
-    
-## Part 6: The Iron Cages of Lust (Party Level 14/15, 240/180 xp)
-  - **Creatures:**
-    - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
+### F1 Crypts of the Builders (60/30xp, low/trivial threat)
+  - 6x [Elite Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
+  ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
+
+### F3 The crypt of Lord Mankray (20/10xp, trivial threat)
+  - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
+
+### F4 Infusion Chamber (70/50xp, low threat)
+  - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
+  ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
+  
+  Negative Energy Portal ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
+
+### F7 Laboratory (30/20xp, trivial threat))
+  - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
+  ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
+
+### F8 Crypt Guardians (60/30xp, low/trivial threat)
+  - 6x [Elite Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
+  ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
+
+### F10 Assembly Room (60/40xp, low/trivial threat)
+  - [Azaven PDF](./Statblocks/azaven-1608759104.pdf) by @Primemakes.
+  ![Azaven PNG](./Statblocks/azaven-1608759100.png)
+  - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
+  ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
+
+### F11 (30/20xp, trivial threat)
+  - Necromantic Deathtrap ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
+   
+
+## Part 5: The Vault of Greed (Party Level 14/15, 260/190 xp)
+
+### G1 Pilferer's Bane (40/30xp, trivial threat)
+  - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
+
+### G2 Morphic Mist (40/30xp, trivial threat)
+  - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
+  - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
+
+### G3 Trouble with Mephits (40/30xp, trivial threat)
+  - Replace Water Mephits with (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=198)
+
+### G4 Fountains (60/40xp, low/trivial threat)
+  - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
+
+### G6 Research Center (40/30xp, trivial threat) 
+  - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
+  ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
+  - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
+  ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
+
+### G7 Hall of Golden Repose (40/30xp, trivial threat)  
+  - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
+
+
+## Part 6: The Iron Cages of Lust (Party Level 14/15, 200/140xp)
+
+### (40/30xp, trivial threat)
+  - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
     ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
-    - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937) 
-    - Enslaved stone giants: Elite Stone Giants. Alternatively, consider using [Storm Giants](https://pf2.easytool.es/index.php?id=3761&name=storm_giant) if Stone Giants are not a challenge anymore, but be sure to reduce the number of giants to no more than 2 or 3 in this case for a low to moderate challenge.
-    - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
-    ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
-    - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
-    - [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
+
+### H3 (RP encounter)
+  - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937) 
+
+### H (60/40xp, low/trivial threat)
+  - Enslaved [cloud giants](https://2e.aonprd.com/Monsters.aspx?ID=224) 1 per PC
+
+### H (60/40xp, low/trivial threat)   
+  - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
+  ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
+  - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
+
+### H (40/30xp, trivial threat) 
+  - 2 [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
 
 
-## Part 7: The Shimmering Veils (Party Level 14/15, 240/180 xp)
+## Part 7: The Shimmering Veils (Party Level 14/15, / xp)
   - **Creatures:**
       - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
       - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
@@ -146,7 +189,7 @@ Part | Title            | Level | Max XP
 
       - For False Delvahines use either double elite Level 10 [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98) OR double weak Level 12 Delvahine (see above) depending on what you think your party can handle.
       
- ## Part 8: The Festering Maze (Party Level 14/15, 240/180 xp)
+ ## Part 8: The Festering Maze (Party Level 14/15, / xp)
   - **Creatures:**
     - Sobloch [Quasit Improved Familiar](https://2e.aonprd.com/Monsters.aspx?ID=97) 
       - As a familiar the Quasit is only its form and it cannot use strikes or any other special abilities of a Quasit
@@ -163,7 +206,7 @@ Part | Title            | Level | Max XP
     ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
     - Replace Variant Ochre Jellies with [Tallow Oozes](https://2e.aonprd.com/Monsters.aspx?ID=533)
  
- ## Part 9: The Halls of Wrath (Party Level 14/15, 240/180 xp)
+ ## Part 9: The Halls of Wrath (Party Level 14/15, / xp)
   - **Creatures:**
     - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) (20/30xp) with a longbow (use melee stats for to hit, wrath arrows)
     - Adjust the number of Warriors and the number of Sinspawn to match the number of PCs. For a party of 4 that means 4 of each and that makes it either an 80xp moderate or 120xp severe encounter.
