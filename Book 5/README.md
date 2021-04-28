@@ -26,7 +26,7 @@
   
 Part | Title            | Level | Max XP  
 -|-|-|-  
-1 | The Scribbler       | 13    | 200
+1 | The Scribbler       | 13    | 220
 2 | Seeking Runeforge   | 13    | 140
 3 | Abjurant Halls      | 14/15 | 50/40 
 4 | Ravenous Crypts     | 14/15 | 370/220
@@ -54,7 +54,7 @@ Part | Title            | Level | Max XP
 - If they are breezing through, then liberally apply elite templates or add minions. 
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: The Scribbler (Party Level 13, 200 xp)
+## Part 1: The Scribbler (Party Level 13, 220 xp)
   
 ### The Scribbler (60xp, low threat)
   - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.  
@@ -62,15 +62,15 @@ Part | Title            | Level | Max XP
   [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
   ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
 
-### Shrine (40xp, trivial threat)
+### Shrine (40 or 50xp, trivial threat)
   - [Yerrin-ku](https://2e.aonprd.com/Monsters.aspx?ID=101)
-  -Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
+  - Consider adding an [Elite Nabasu](https://2e.aonprd.com/Monsters.aspx?ID=600) to the Yerrin-ku encounter for more of a challenge.
 
 ### A8 Kennels (60xp, low threat)
   - 6x [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
   - ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
 
-### A9 Outer Sanctum (40xp, trivial threat)
+### A9 Outer Sanctum (60xp, low threat)
   - The Scribbler's suggestion, by @Nintendogeek01:
   - ![The Scribbler's Suggestion](./Statblocks/ScribblerSuggestion.png)
   - Revelation Quill, by @Nintendogeek01:
@@ -113,7 +113,8 @@ Part | Title            | Level | Max XP
   - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
   ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
   
-  Negative Energy Portal ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
+  - Negative Energy Portal
+  - ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
 
 ### F7 Laboratory (30/20xp, trivial threat))
   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
@@ -130,23 +131,26 @@ Part | Title            | Level | Max XP
   ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
 
 ### F11 (30/20xp, trivial threat)
-  - Necromantic Deathtrap ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
+  - Necromantic Deathtrap
+  - ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
    
 
 ## Part 5: The Vault of Greed (Party Level 14/15, 260/190 xp)
 
 ### G1 Pilferer's Bane (40/30xp, trivial threat)
-  - Crushing Door Trap ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
+  - Crushing Door Trap
+  - ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
 
 ### G2 Morphic Mist (40/30xp, trivial threat)
-  - Morphic Mist ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
+  - Morphic Mist
+  - ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
   - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
 
-### G3 Trouble with Mephits (40/30xp, trivial threat)
-  - Replace Water Mephits with (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=198)
+### G3 Trouble with Mephits (40/20xp, trivial threat)
+  - Replace Water Mephits with 4 (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=198)
 
 ### G4 Fountains (60/40xp, low/trivial threat)
-  - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
+  - 4 [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
 
 ### G6 Research Center (40/30xp, trivial threat) 
   - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
@@ -160,7 +164,7 @@ Part | Title            | Level | Max XP
 
 ## Part 6: The Iron Cages of Lust (Party Level 14/15, 200/140xp)
 
-### (40/30xp, trivial threat)
+### (40/20xp, trivial threat)
   - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
     ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
 
@@ -184,13 +188,13 @@ Part | Title            | Level | Max XP
 ### I1 Reflected Enmity (60xp, low threat, but potentially multiple times)
   - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
 
-### I2 Peacock Shrine (80/60xp, moderate threat)
+### I2 Peacock Shrine (80/60xp, moderate/low threat)
   - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
   - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
   ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
   - There is 1 Vraxeris per PC.
 
-### I6 Bedroom (80/60xp, moderate threat)
+### I6 Bedroom (80/60xp, moderate/low threat)
   - For False Delvahines use double weak Level 12 Delvahine (see above).
   - There is 1 Delvahine per PC.
 
@@ -216,7 +220,7 @@ Part | Title            | Level | Max XP
 ### J5 Throne (120/80xp, severe/moderate threat)
   - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
   ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
-  - Replace Variant Ochre Jellies with 4 [Tallow Oozes](https://2e.aonprd.com/Monsters.aspx?ID=533)
+  - Replace Variant Ochre Jellies with 1 [Tallow Ooze](https://2e.aonprd.com/Monsters.aspx?ID=533) per PC
  
 
  ## Part 9: The Halls of Wrath (Party Level 14/15, 290/200 xp)
@@ -224,7 +228,7 @@ Part | Title            | Level | Max XP
  ### K1 Iron Guardian (30/20xp, trivial threat)
   - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
 
-### K3 Barracks (90/60xp, severe/moderate threat)
+### K3 Barracks (90/60xp, moderate/low threat)
   - The total number of warriors and axemen should equal 50% more than the number of PCs. For a party of 4 that means 6 in total split however you wish.
   - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
   ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png) 
