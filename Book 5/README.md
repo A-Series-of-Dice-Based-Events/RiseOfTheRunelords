@@ -5,13 +5,12 @@
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
 - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In some instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are usually removed to save updating this document every time the creature is tweaked.
 - If you find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
 
 ## General GM information
 
-  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy to generate without guidance. Where that is the case, any location and encounter notes will concentrate on the none-creature aspects.
-  - There are encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
+  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy to generate without guidance. 
   - DCs are not converted to 2E, except where they are contained within a creature or hazard statblock, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -38,7 +37,7 @@ Part | Title            | Level | Max XP
 10| Weapons of Power    | 14/15 | 80/60 
   
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
-- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
+- Encounters use the 1E Challenge Rating (CR) as their basis. Bosses and single creatures are usually the same as CR or 1 or 2 higher. Minions with low CRs tend to be raised more to work in 2E.
 
 ## TO DO
   - treasure by level
@@ -58,9 +57,9 @@ Part | Title            | Level | Max XP
   
 ### The Scribbler (60xp, low threat)
   - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.  
-  ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
-  [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
-  ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
+  - ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
+  - [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
+  - ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
 
 ### Shrine (40 or 50xp, trivial threat)
   - [Yerrin-ku](https://2e.aonprd.com/Monsters.aspx?ID=101)
@@ -94,7 +93,7 @@ Part | Title            | Level | Max XP
  - **Creatures:**
    - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.  
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
-   ![Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
+   - [Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
 
 ## Part 4: The Ravenous Crypts (Party Level 14/15, 370/220xp)
 
@@ -104,31 +103,31 @@ Part | Title            | Level | Max XP
    
 ### F1 Crypts of the Builders (60/30xp, low/trivial threat)
   - 6x [Elite Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
-  ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
+  - ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
 
 ### F3 The crypt of Lord Mankray (20/10xp, trivial threat)
   - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
 
 ### F4 Infusion Chamber (70/50xp, low threat)
   - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
-  ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
+  - ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
   
   - Negative Energy Portal
   - ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
 
 ### F7 Laboratory (30/20xp, trivial threat))
   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
-  ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
+  - ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
 
 ### F8 Crypt Guardians (60/30xp, low/trivial threat)
   - 6x [Elite Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
-  ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
+  - ![Thassilonian Mummy PNG](./Statblocks/thassilonian_mummy-1608758804.png)
 
 ### F10 Assembly Room (60/40xp, low/trivial threat)
   - [Azaven PDF](./Statblocks/azaven-1608759104.pdf) by @Primemakes.
-  ![Azaven PNG](./Statblocks/azaven-1608759100.png)
+  - ![Azaven PNG](./Statblocks/azaven-1608759100.png)
   - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
-  ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
+  - ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
 
 ### F11 (30/20xp, trivial threat)
   - Necromantic Deathtrap
@@ -154,9 +153,9 @@ Part | Title            | Level | Max XP
 
 ### G6 Research Center (40/30xp, trivial threat) 
   - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
-  ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
+  - ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
   - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
-  ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
+  - ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
 
 ### G7 Hall of Golden Repose (40/30xp, trivial threat)  
   - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
@@ -166,7 +165,7 @@ Part | Title            | Level | Max XP
 
 ### (40/20xp, trivial threat)
   - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
-    ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
+  - ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
 
 ### H3 (RP encounter)
   - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937) 
@@ -176,7 +175,7 @@ Part | Title            | Level | Max XP
 
 ### H (60/40xp, low/trivial threat)   
   - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
-  ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
+  - ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
 
 ### H (40/30xp, trivial threat) 
@@ -191,7 +190,7 @@ Part | Title            | Level | Max XP
 ### I2 Peacock Shrine (80/60xp, moderate/low threat)
   - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
   - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
-  ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
+  - ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
   - There is 1 Vraxeris per PC.
 
 ### I6 Bedroom (80/60xp, moderate/low threat)
@@ -219,7 +218,7 @@ Part | Title            | Level | Max XP
 
 ### J5 Throne (120/80xp, severe/moderate threat)
   - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
-  ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
+  - ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
   - Replace Variant Ochre Jellies with 1 [Tallow Ooze](https://2e.aonprd.com/Monsters.aspx?ID=533) per PC
  
 
@@ -231,10 +230,10 @@ Part | Title            | Level | Max XP
 ### K3 Barracks (90/60xp, moderate/low threat)
   - The total number of warriors and axemen should equal 50% more than the number of PCs. For a party of 4 that means 6 in total split however you wish.
   - [Warriors of Wrath PDF](./Statblocks/warrior_of_wrath-1608761376.pdf) by @Primemakes.
-  ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png) 
+  - ![Warriors of Wrath PNG](./Statblocks/warrior_of_wrath-1608761373.png) 
 
   - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
-  ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
+  - ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
 
 ### K4 Lab (60/40xp, low/trivial threat)
   - There is one warrior per PC.
@@ -243,14 +242,14 @@ Part | Title            | Level | Max XP
 
 ### K6 Hall (110/80xp, severe/moderate threat)
   - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.
-  ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png) 
+  - ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png) 
   -[Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
 
 
  ## Part 10: Weapons of Power (Party Level 14/15, 80/60 xp)
   - **Creatures:**
     - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
-    ![Karzoug Statue PNG](./Statblocks/karzoug_statue-1608761700.png)
+    - ![Karzoug Statue PNG](./Statblocks/karzoug_statue-1608761700.png)
 
 - [Dominant Weapon](./Statblocks/DominantWeapon.pdf)
 - ![Dominant Weapon PNG](./Statblocks/DominantWeapon.png)
