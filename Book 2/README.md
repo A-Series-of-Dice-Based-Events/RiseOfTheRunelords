@@ -154,11 +154,11 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ### B36 (40xp, trivial threat)
   - 4 (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
-  ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
+  - ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
    
 ### B37 (100xp, moderate threat)
   - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
-  ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
+  - ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
 
   - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
@@ -190,8 +190,8 @@ If they are breezing through, then liberally apply elite templates or add minion
   - Xanesha (L9) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
     - Add Feather Fall to her prepared spells
     - optionally use L10 Lucrecia from book 3 for a more challenging encounter.
+  - Replace the scimitar with [Impaler of Thorns](./Statblocks/ImpalerOfThorns.pdf) (reach 10ft)
+  - ![Impaler of Thorns PNG](./Statblocks/ImpalerOfThorns.png)
   - [Medusa Mask](./Statblocks/MedusaMask.pdf) 
   - ![Medusa Mask PNG](./Statblocks/MedusaMask.png)
-  - [Impaler of Thorns Mask](./Statblocks/ImpalerOfThorns.pdf) 
-  - ![Impaler of Thorns PNG](./Statblocks/ImpalerOfThorns.png)
-# --- End of The Skinsaw Murders 2E Conversion Guide---
+  # --- End of The Skinsaw Murders 2E Conversion Guide---
