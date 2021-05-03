@@ -49,7 +49,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 ## Part 2: The Thing in the Attic (210xp, Party Level 5)
 
 ### A5 (40xp, trivial threat)
-  - For Gortus and Gurnak use the Pathfinder Society rogue 3 pregen with darkvision and a level 2 innate darkness cantrip ability.
+  - For Gortus and Gurnak use [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888) with darkvision and a level 2 innate darkness cantrip ability.
 
 ### A11 (40xp, trivial threat)
   - Pidget Tergelson (L5) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Wererat](https://2e.aonprd.com/Monsters.aspx?ID=410)
