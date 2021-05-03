@@ -171,8 +171,8 @@ If they are breezing through, then liberally apply elite templates or add minion
 ## Part 6: The Seven's Sawmill (300xp, Party Level 7)
 
   - **Creatures:**
-    - 13 (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/Monsters.aspx?ID=927) wearing [Skinsaw Masks](https://2e.aonprd.com/Equipment.aspx?ID=817)
-    - Justice Ironbriar (L9-10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/Monsters.aspx?ID=930)
+    - 13 (L4) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cultist](http://2e.aonprd.com/NPCs.aspx?ID=927) wearing [Skinsaw Masks](https://2e.aonprd.com/Equipment.aspx?ID=817)
+    - Justice Ironbriar (L9-10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/NPCs.aspx?ID=930)
 
 ## Part 7: Shadows of Time (285xp, Party Level 7)
 
