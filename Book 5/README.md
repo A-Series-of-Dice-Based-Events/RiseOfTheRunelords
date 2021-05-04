@@ -30,7 +30,7 @@ Part | Title            | Level | Max XP
 3 | Abjurant Halls      | 14/15 | 50/40 
 4 | Ravenous Crypts     | 14/15 | 370/220
 5 | Vault of Greed      | 14/15 | 260/190 
-6 | Iron Cages of Lust  | 14/15 | 200/140
+6 | Iron Cages of Lust  | 14/15 | 220/140
 7 | Shimmering Veils    | 14/15 | 220/180 
 8 | Festering Maze      | 14/15 | 230/160
 9 | Halls of Wrath      | 14/15 | 290/200 
@@ -161,7 +161,7 @@ Part | Title            | Level | Max XP
   - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
 
 
-## Part 6: The Iron Cages of Lust (Party Level 14/15, 200/140xp)
+## Part 6: The Iron Cages of Lust (Party Level 14/15, 220/140xp)
 
 ### (40/20xp, trivial threat)
   - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
@@ -178,8 +178,9 @@ Part | Title            | Level | Max XP
   - ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
 
-### H (40/30xp, trivial threat) 
-  - 2 [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
+### H (60/40xp, low/trivial threat) 
+  - 1 (Level 15) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Child](https://2e.aonprd.com/Monsters.aspx?ID=367)
+  - Alternately use 2 normal shining children if you want a lower threat due to the now useless incapacitation effect.
 
 
 ## Part 7: The Shimmering Veils (Party Level 14/15, 220/180 xp)
