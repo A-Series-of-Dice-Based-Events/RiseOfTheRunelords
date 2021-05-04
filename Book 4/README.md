@@ -271,9 +271,10 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Forgefiend PDF](./Statblocks/forgefiend-1612040837.pdf)
     ![Forgefiend PNG](./Statblocks/Forgefiend.png)
 
-### C6 (xp 30, Trivial)
+### C6 (xp 40, Trivial)
 - **Creatures:**
-    - [Shining Child](https://2e.aonprd.com/Monsters.aspx?ID=367)
+    - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Shining Child](https://2e.aonprd.com/Monsters.aspx?ID=367)
+    - Note use of elite so that its incapacitation effect works.
 
 ### C7 (no combat xp)
   - **Creatures:** 
