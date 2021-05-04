@@ -434,7 +434,7 @@ The other unique ogres are covered individually below.
   - **Loot:**
     - [Candle of Truth](https://2e.aonprd.com/Equipment.aspx?ID=240) [C8]
     - [Standard Potion of Flying](https://2e.aonprd.com/Equipment.aspx?ID=189) [C8]
-    - [Sihedron Medallion](../Thassilonian%20Magic/Sihedron%20Medallion.pdf)) [P5]
+    - [Sihedron Medallion](../BackgroundsAndReference/ThassilonianMagic/SihedronMedallion.pdf) [P5]
     - Taste of Paradise (+2 Striking Returning dagger) [P10]
     - Gold and Pearl Ring (40 gp), Silver Necklace (25 gp) 
     - Scroll listing Sihedron Sacrifices 
@@ -650,7 +650,7 @@ The other unique ogres are covered individually below.
     - [Greater Antiplague Elixir](https://2e.aonprd.com/Equipment.aspx?ID=81) [C10]
    
   - **Loot: (Barl)** 
-    - [Sihedron Medallion PDF](../Thassilonian%20Magic/Sihedron%20Medallion.pdf) [P5]
+    - [Sihedron Medallion PDF](../BackgroundsAndReference/ThassilonianMagic/SihedronMedallion.pdf) [P5]
     - +2 [Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) Armor [P11]
     - Spellbook (all memorised spells and all Common Core Necromantic spells up to 3rd level) worth 35 gp
     - Black Onyx Gems (60 gp)

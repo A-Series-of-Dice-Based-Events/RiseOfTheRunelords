@@ -492,7 +492,7 @@ There is no spare treasure. If your players miss something early on in the adven
     - If the PCs retreat from Thistletop and Nualia thinks they have a few days grace she will birth a monster to add to the defenses using her [Mark of Lamashtu / Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11). Likely another Yeth hound. She might also do this if captured and left alone.
 
   - **Loot**
-    - [Sihedron Medallion PDF](../ThassilonianMagic/SihedronMedallion.pdf) (P5)
+    - [Sihedron Medallion PDF](../BackgroundsAndReference/ThassilonianMagic/SihedronMedallion.pdf) (P5)
     - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
     - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P4)
     - [Fear Gem Talisman](https://2e.aonprd.com/Equipment.aspx?ID=211) (C4)
