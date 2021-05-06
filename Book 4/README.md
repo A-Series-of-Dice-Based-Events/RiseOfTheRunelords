@@ -11,7 +11,7 @@
 ## General GM information
 
   - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy to generate without guidance. Where that is the case, then location and encounter notes concentrate on the none-creature aspects.
-  - There are many encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite is closer to 3 levels rather than 2.
+  - There are many encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite is often closer to 3 levels rather than 2.
   - DCs are not converted to 2E, except where they are contained within a creature or hazard statblock, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -29,18 +29,17 @@ Target for this book is therefore around 2400 level adjusted XP
 Title | Max XP 
 ------|-------
 Raid on Sandpoint | 500
-Journey to Jorgenfist | 165
-Valley of the Black Tower | 685
+Journey to Jorgenfist | 180
+Valley of the Black Tower | 715
 Jorgenfist | 560
-Library | 450
+Library | 400
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
-- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Low CRs tend to need to be raised more to work in 2E.
+- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Low CR minions  need to be raised more to work in 2E.
 
 
 ## TO DO
-  - too low level creature adjustments, for example incapacitation trait makes the Harpy Monk's captivating song useless
-  - xp
+  - redo Harpy Monk at party level
   - treasure by level
 
 ## Target Allocation of Treasure
@@ -75,7 +74,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     A level 12 version of Teraktinus can be found [here](https://monster.pf2.tools/v/zfzmhMbR-teraktinus). This changes the encounter from moderate to severe for level 10 characters, or from low to moderate for level 11 characters.
   - **Notes:**
     - The six encounters are spread out with ratings from low to moderate only.
-    - The giants tactics make the slightly easier (e.g. the rest run away when one in that group dies).
+    - The giants tactics make the rout slightly easier (e.g. the rest run away when one in that group dies).
     - It is unlikely in 2E that they can defeat the majority of encounters without rest between them. However it may be possible to force a rout.
     - 2E scaling means that the guard and the militia are totally ineffective against level+6/7 creatures.
     - The PCs will have to pick their fights very carefully.
@@ -88,13 +87,14 @@ Level | Total gp | Permanent Items         | Consumables                        
     - If Longtooth was prevented from burning down half the town award bonus 80xp and a hero point
     - For getting useful information from captives award 35xp
 
-## Part 2: Journey to Jorgenfist (party level 11, xp 165)
+## Part 2: Journey to Jorgenfist (party level 11, xp 180)
 
   - Note it is common for PCs to use travel magic to bypass these encounters. If they do then award xp appropriately.
 
-### Ogre Cattle Rustlers (xp 45, trivial threat)
+### Ogre Cattle Rustlers (xp 60, low threat)
  - **Creatures:** 
-   - Ogre fighters as per Fort Rannick
+   - 4 Ogre fighters - see Book 3 Ogre Fighters from Fort Rannick
+   - There is one Ogre Fighter per PC
 
 ### Storval Stairs (xp 60, low threat)
   - Note that this encounter seems to be the one most often bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this encounter to Skulls Crossing in Book 3 if the party have cleared out the ogres and returned later.
@@ -106,7 +106,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     - 2 [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - 3 [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Cave Bears](https://2e.aonprd.com/Monsters.aspx?ID=48)
 
-## Part 3: Valley of the Black Tower (party level 11)
+## Part 3: Valley of the Black Tower (xp 715, XP and threat level is shown for party level 11)
 
   - As the party could approach the encounters in the second half of this book in any order, then be prepared to dynamically adjust the encounters upwards with elite templates or extra creatures to maintain threat levels.  
   - Note the scale on the map is NOT 5ft to the square on the Jorgenfist above ground and below ground maps. Many a GM has fallen foul of that small detail!
@@ -136,11 +136,11 @@ Level | Total gp | Permanent Items         | Consumables                        
   - **Creatures:** 
     - 3x [Harpy Monk PDF](./Statblocks/Harpy%20Monk.pdf)
     ![Harpy Monk PNG](./Statblocks/Harpy%20Monk.png)
-    - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
+    - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter as 1 or possibly 2 harpy monks of party level.
 
-### A7 (xp 15, trivial threat)
+### A7 (xp 60, low threat)
   - **Creatures:** 
-    - 1x per tower: [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    - 1x per each of 4 towers: [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
     
 ### A8 (xp 45, trivial threat)
   - **Creatures:** 
@@ -250,11 +250,11 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 
 ### B14 (xp 40, Trivial)
   - **Creatures:** 
-    - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
+    - 2 [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## Library (XP assumes party level 13, xp 345)
+## Library (XP assumes party level 13, xp 320 plus completion XP)
 
-### C2 (xp 40, Trivial)
+### C2 (xp 45, Trivial)
   - **Hazard:**
     - [Chamber of Reduction](./Statblocks/chamber_of_reduction-1613937614.png)
   - **Creatures:** 
@@ -265,7 +265,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:**
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
 
-### C4 (xp 90, Moderate)
+### C4 (xp 60, low threat)
   - **Creatures:** 
     - [Headless Lord]
     ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
@@ -293,7 +293,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - Alternatively, use these stronger [Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.pdf) statblocks, 2x for a moderate and 3x for a severe encounter. This statblock doesn't contain the sickened condition yet.
     - ![Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.png)
 
-### C9 (xp 80, moderate threat, +105 completion bonus xp and hero point)
+### C9 (xp 80, moderate threat, plus completion bonus xp and hero point)
   - **Creatures:** 
     - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v3.pdf)
     ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
