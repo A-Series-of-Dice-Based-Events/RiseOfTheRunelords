@@ -4,14 +4,14 @@
 
 - This conversion guide covers the items that have changed in 2E. This includes NPCs and monsters, hazards, DCs, XP, level-based treasure, and some tactics.
 - The plot, back story, color text, maps, floor plans, images and most tactics requires the original scenario.
-- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/)].
-- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a consolidated sub directory so that you can use or update them for your own campaign as required. In many instances there are several variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
-- If you find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project, and we welcome and rely on community contributions.
+- Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
+- New creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in a sub-directory so that you can use or update them for your own campaign as required. In some instances there are variants available. Note their unique numerical suffixes assigned by monster builder are removed to save updating this document every time the creature is tweaked.
+- If you have any feedback, find an issue, error, or omission, have a suggestion for improvement, or a better version of something, then comment on the discor server or create a pull request. This is a community project, and we welcome and rely on community contributions.
 
 ## General GM information
 
-  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy enough to generate without guidance. Where that is the case, then location and encounter notes will concentrate on the none-creature aspects.
-  - There are many encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
+  - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy to generate without guidance. Where that is the case, then location and encounter notes concentrate on the none-creature aspects.
+  - There are many encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite is closer to 3 levels rather than 2.
   - DCs are not converted to 2E, except where they are contained within a creature or hazard statblock, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -29,13 +29,13 @@ Target for this book is therefore around 2400 level adjusted XP
 Title | Max XP 
 ------|-------
 Raid on Sandpoint | 500
-Journey to Jorgenfist | 500
-Valley of the Black Tower | 500 (currently 635)
-Jorgenfist | 500 (currently 510)
-Library | 500 (currently 235)
+Journey to Jorgenfist | 165
+Valley of the Black Tower | 685
+Jorgenfist | 560
+Library | 450
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
-- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Relatively low CRs tend to need to be raised more to work in 2E.
+- Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Low CRs tend to need to be raised more to work in 2E.
 
 
 ## TO DO
@@ -56,7 +56,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ## General Encounter Advice
 
-- Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
+- Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note double elite is closer to 3 levels rather than 2.
 - If they are finding it hard going then liberally apply weak templates or remove minions.  
 - If they are breezing through, then liberally apply elite templates or add minions. 
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
@@ -88,17 +88,23 @@ Level | Total gp | Permanent Items         | Consumables                        
     - If Longtooth was prevented from burning down half the town award bonus 80xp and a hero point
     - For getting useful information from captives award 35xp
 
+## Part 2: Journey to Jorgenfist (party level 11, xp 165)
 
-## Part 2: Journey to Jorgenfist (party level 11)
-
-  - Note it is common for PCs to use travel magic to bypass these encounters. If they do award xp appropriately.
+  - Note it is common for PCs to use travel magic to bypass these encounters. If they do then award xp appropriately.
 
 ### Ogre Cattle Rustlers (xp 45, trivial threat)
  - **Creatures:** 
    - Ogre fighters as per Fort Rannick
 
-### Storval Stairs (xp )
+### Storval Stairs (xp 60, low threat)
   - Note that this encounter seems to be the one most often bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this encounter to Skulls Crossing in Book 3 if the party have cleared out the ogres and returned later.
+  - **Creatures:** 
+    - 6 [Hill Giants](https://2e.aonprd.com/Monsters.aspx?ID=220)
+
+### Iron Peak Patrols (xp 60, low threat)
+  - **Creatures:** 
+    - 2 [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    - 3 [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Cave Bears](https://2e.aonprd.com/Monsters.aspx?ID=48)
 
 ## Part 3: Valley of the Black Tower (party level 11)
 
@@ -117,54 +123,54 @@ Level | Total gp | Permanent Items         | Consumables                        
     - [Jorgenfist Infiltration optional subsystem](./Statblocks/Jorgenfist_Infiltration_withSecretTunnel.pdf)
   - Consider giving story XP if the PCs overcome this challenge.
 
-### A3 (xp 60, Low)
+### A3 (xp 60, low threat)
   - **Creatures:** 
     - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
-### A4 (xp 80, Moderate)
+### A4 (xp 80, moderate threat)
   - **Creatures:** 
     - 2x [Deathweb Spiders PDF](./Statblocks/DeathwebSpider.pdf)
     ![Deathweb Spiders PNG](./Statblocks/DeathwebSpider.png)
 
-### A6 (xp 30, Trivial)
+### A6 (xp 30, trivial threat)
   - **Creatures:** 
     - 3x [Harpy Monk PDF](./Statblocks/Harpy%20Monk.pdf)
     ![Harpy Monk PNG](./Statblocks/Harpy%20Monk.png)
     - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter.
 
-### A7 (xp 15, Trivial)
+### A7 (xp 15, trivial threat)
   - **Creatures:** 
     - 1x per tower: [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
     
-### A8 (xp 45, Trivial)
+### A8 (xp 45, trivial threat)
   - **Creatures:** 
     - 1x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - 1x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
     
-### A10 (xp 90, Moderate)
+### A10 (xp 90, moderate threat)
   - **Creatures:** 
     - 3x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
 
-### A11 (xp 40, Trivial)
+### A11 (xp 40, trivial threat)
   - **Creatures:** 
     - [Embers PDF](./Statblocks/Embers.pdf)
     ![Embers PNG](./Statblocks/Embers.png)
     
-### A12 (xp 40, Trivial)
+### A12 (xp 40, trivial threat)
   - **Creatures:** 
     - 2x [Frost giant](https://2e.aonprd.com/Monsters.aspx?ID=222)
 
-### A13 (xp 40, Trivial)
+### A13 (xp 60, low threat)
   - **Creatures:** 
-    - 2x [Roc](https://2e.aonprd.com/Monsters.aspx?ID=352)
+    - 2x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Roc](https://2e.aonprd.com/Monsters.aspx?ID=352)
 
-### A14 (xp 120, Severe)
+### A14 (xp 120, severe threat)
   - **Creatures:** 
     - [The Black Monk PDF](./Statblocks/TheBlackMonk.pdf)
     ![The Black Monk PNG](./Statblocks/TheBlackMonk.png)
 
 
-## Part 4: Under Jorgenfist (party level 12)
+## Part 4: Under Jorgenfist (party level 12, xp 560)
 
 Note: in this part and the next one there are a lot of Trivial encounters. In Pathfinder 1 they would cause attrition to the party, in PF2 the party really doesn't need to spend a lot of resources to overcome each encounter, as lower level creatures are not much of a threat. Don't be afraid to combine these encounters so that they become more challenging.
 
@@ -246,7 +252,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:** 
     - [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## Library (XP assumes party level 13)
+## Library (XP assumes party level 13, xp 345)
 
 ### C2 (xp 40, Trivial)
   - **Hazard:**
@@ -266,7 +272,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     ![Runechill PNG](./Statblocks/runechill-1612041545.png)
     - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
-### C5 (xp 15, Trivial)
+### C5 (xp 15, trivial threat, but usually joins other combats for 2 rounds and then hides)
   - **Creatures:** 
     - [Forgefiend PDF](./Statblocks/forgefiend-1612040837.pdf)
     ![Forgefiend PNG](./Statblocks/Forgefiend.png)
@@ -281,16 +287,17 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Clockwork Librarian PDF](./Statblocks/clockwork_librarian-1611601296.pdf)
     - ![Clockwork Librarian PNG](./Statblocks/clockwork_librarian-1611180129.png)
 
-    
-### C8 (xp 45, Trivial)
+### C8 (xp 60, low threat)
   - **Creatures:** 
-    - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
+    - 4x (Level 10) [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
     - Alternatively, use these stronger [Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.pdf) statblocks, 2x for a moderate and 3x for a severe encounter. This statblock doesn't contain the sickened condition yet.
     - ![Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.png)
 
-### C9 (xp 80, Moderate)
+### C9 (xp 80, moderate threat, +105 completion bonus xp and hero point)
   - **Creatures:** 
     - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v3.pdf)
     ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
+    
+  - Award bonus XP for ending the giant invasion threat 
 
 ## - End of RotR Fortress of the Stone Giants 2E Conversion Guide -
