@@ -78,7 +78,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - [Father Abstalar Zantus (Weak Priest)](https://2e.aonprd.com/NPCs.aspx?ID=896).
   - 4x [Cathedral Acolytes (Acolyte)](https://2e.aonprd.com/NPCs.aspx?ID=893).
   - [Cyrdak Drokkus (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941)
-  - [Ameiko Kaijutsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol and Sandpoint Lore.  
+  - [Ameiko Kaijutsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
   - [Ilsoari Gandethus (Elite Mage for Hire)](https://2e.aonprd.com/NPCs.aspx?ID=922)
   - [Daviren Hosk (Elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
   - [Shelelu Andosana (Weak Hunter)](https://2e.aonprd.com/NPCs.aspx?ID=907)
@@ -185,7 +185,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - Any goblins that fled part 1 join Tsuto here
     - Note that Tsuto is a severe threat and feedback is he can sometimes be too much. If you have an inexperienced, smaller or beat up party, or extra goblins, it is strongly recommended you apply the [weak](http://2e.aonprd.com/Rules.aspx?ID=791) template.
     - [Tsuto PDF](./Statblocks/Tsuto.pdf)
-    ![Tsuto PNG](./Statblocks/Tsuto.png)
+    - ![Tsuto PNG](./Statblocks/Tsuto.png)
 
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
@@ -251,7 +251,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
     - [Koruvus PDF](./Statblocks/Koruvus.pdf)
-    ![Koruvus PNG](./Statblocks/Koruvus.png)
+    - ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
     - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=379) (P2)
@@ -284,7 +284,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
     - [Erylium PDF](./Statblocks/Erylium.pdf)
-    ![Erylium PNG](./Statblocks/Erylium.png)
+    - ![Erylium PNG](./Statblocks/Erylium.png)
 
     - Note that to stay flying Erylium must use at least one fly move action per turn. 
     - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
@@ -319,9 +319,9 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
-    ![Gogmurt PNG](./Statblocks/Gogmurt.png)
+    - ![Gogmurt PNG](./Statblocks/Gogmurt.png)
     - [Tangletooth PDF](./Statblocks/Tangletooth.pdf)
-    ![Tangletooth PNG](./Statblocks/Tangletooth.png)
+    - ![Tangletooth PNG](./Statblocks/Tangletooth.png)
 
   - **Tactics:** Replace the before combat and during combat tactics as follows:
     - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillelagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
@@ -389,7 +389,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - [Chief Ripnugget PDF](./Statblocks/ChiefRipnugget.pdf)  
-    ![Chief Ripnugget PNG](./Statblocks/ChiefRipnugget.png)  
+    - ![Chief Ripnugget PNG](./Statblocks/ChiefRipnugget.png)  
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
@@ -424,7 +424,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Bruthazmus PDF](./Statblocks/Bruthazmus.pdf)  
-    ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
+    - ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
     - **Loot:**
       - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329) (C4)
       - [Climbing Bolt](https://2e.aonprd.com/Equipment.aspx?ID=160) (C4)
@@ -435,7 +435,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
-    ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
+    - ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
     - If his HP drop below half or his shield breaks, Orik can be persuaded to fight with the PCs or to just leave.
   - **Loot:**
@@ -447,7 +447,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - 1x [Tentamort PDF](./Statblocks/Tentamort.pdf)  
-    ![Tentamort PNG](./Statblocks/Tentamort.png)
+    - ![Tentamort PNG](./Statblocks/Tentamort.png)
 
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
@@ -458,7 +458,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
-    ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
+    - ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
 
   - **Tactics** 
     - Lyrie has chosen Skivver's familiar abilities of darkvision and scent to give her warning of any approach
@@ -487,8 +487,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
-    - [Nualia PDF](./Statblocks/Nualia.pdf) 
-    ![Nualia PNG](./Statblocks/Nualia.png) 
+    - [Nualia PDF](./Statblocks/NualiaTobyn.pdf) 
+    - ![Nualia PNG](./Statblocks/NualiaTobyn.png) 
 
   - **Tactics**
     - Before combat: Nualia uses the Sihedron Medallion to cast False Life every day. If forewarned: she casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
