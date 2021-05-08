@@ -230,9 +230,11 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Creatures:**
     - [Vargouille PDF](./Statblocks/Vargouille.pdf)  
 
-    ![Vargouille PNG](./Statblocks/Vargouille.png)
+    - ![Vargouille PNG](./Statblocks/Vargouille.png)
 
-    - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20) with the same trigger conditions.
+    Alternatively replace with Divine Warden of Lamashtu (80xp, moderate threat) with the same trigger conditions:
+    - [Divine Warden of Lamashtu](./Statblocks/DivineWardenofLamashtu.pdf)
+    - ![Divine Warden of Lamashtu PNG](./Statblocks/DivineWardenofLamashtu.png)
 
 ### B6. Ancient Prison (80xp, moderate threat)
 
