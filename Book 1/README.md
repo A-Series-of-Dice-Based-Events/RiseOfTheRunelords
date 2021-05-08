@@ -6,7 +6,7 @@
   - The plot, backstory, color text, floor plans, maps, images and most tactics requires the original scenario.
   - Creatures, hazards, items, poisons, adjustments, etc. that exist in second edition are usually linked to the relevant entry in [Archives of Nethys - second edition](https://2e.aonprd.com/).
   - Unique and missing 2E creatures are built using [Monster Builder](http://monster.pf2.tools/) and their JSON, PDF and PNG files are in the statblocks directory so that you can use or update them for your own campaign as required. In some instances there are several variants available.
-  - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
+  - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then post on the [discord server](https://discord.gg/UQ8UD3H) or create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## General GM information
 
@@ -68,18 +68,21 @@ Treasure was provided for a party of 4. If you have additional party members, in
 
 There is no spare treasure. If your players miss something early on in the adventure, you should include additional items later.
 
-## Friendly NPC Roster (key stats only)
+## Friendly NPC Roster  
 
-  - [Sherriff Belor Hemlock](https://2e.aonprd.com/NPCs.aspx?ID=936) - If required use the Watch Officer from the GMG.
-  - 12x [Town Guard](https://2e.aonprd.com/NPCs.aspx?ID=933) - of which 3-4 are typically on duty at any one time with one on patrol. If required use the Guard from the GMG.
-  - 60x Militia - combat trained weekly and can be activated at a few hours notice. If required use the Guard from the GMG. 
-  - [Father Abstalar Zantus - cleric of Desna] - Cleric 4. If required use a Pathfinder Society pregenerated cleric.
-  - 4x [Cathedral Acolytes](https://2e.aonprd.com/NPCs.aspx?ID=893) using the Acolyte from the GMG.
-  - [Ameiko Kaijutsu - tavern owner] Bard 4. 
-  - [Ilsoari Gandethus - Headmaster] Wizard 4. If required use a Pathfinder Society pregenerated wizard.
-  - [Daviren Hosk - stable owner] Ranger 4.
-  - [Shelelu Andosana - Elven Ranger] Ranger 5
-  - [Brodert Quink - Sage] - Has the skill Thassilon Lore. Speaks Thassilonian and several other languages. 
+If you need any stats for NPCs then the GMG has a [good selection of NPCs](https://2e.aonprd.com/NPCs.aspx?Letter=All): 
+
+  - [Sherriff Belor Hemlock (Watch Officer)](https://2e.aonprd.com/NPCs.aspx?ID=936).
+  - 12x [Town Guard (Guard)](https://2e.aonprd.com/NPCs.aspx?ID=933). 3-4 are typically on duty at any one time with one on patrol.
+  - 60x [Militia (Guard)](https://2e.aonprd.com/NPCs.aspx?ID=933) - combat trained weekly and can be activated at a few hours notice.  
+  - [Father Abstalar Zantus (Weak Priest)](https://2e.aonprd.com/NPCs.aspx?ID=896).
+  - 4x [Cathedral Acolytes (Acolyte)](https://2e.aonprd.com/NPCs.aspx?ID=893).
+  - [Cyrdak Drokkus (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941)
+  - [Ameiko Kaijutsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol and Sandpoint Lore.  
+  - [Ilsoari Gandethus (Elite Mage for Hire)](https://2e.aonprd.com/NPCs.aspx?ID=922)
+  - [Daviren Hosk (Elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
+  - [Shelelu Andosana (Weak Hunter)](https://2e.aonprd.com/NPCs.aspx?ID=907)
+  - [Brodert Quink (Sage)](https://2e.aonprd.com/NPCs.aspx?ID=950) - Add the skill Thassilon Lore. Add Thassilonian to his languages. 
   - townsfolk using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level [NPCs](https://2e.aonprd.com/NPCs.aspx) from the GMG
 
  
@@ -508,7 +511,7 @@ There is no spare treasure. If your players miss something early on in the adven
 ### E7. Collapsed Treasury (80xp, moderate threat)
 
   - **Creatures:**
-    - [Giant Hermit Crab](http://2e.aonprd.com/Rules.aspx?ID=1107) 
+    - [Giant Hermit Crab](http://2e.aonprd.com/Monsters.aspx?ID=1107) 
   - **Loot:**
     - Divide all book treasure values by 20
 
