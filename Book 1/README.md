@@ -345,9 +345,9 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
 ### C9. Rope Bridge (5xp Hazard)
 
-  - Simple hazard, but potentially high damage and possibility of drowning.
-  - DC 18 Stealth to detect, save as per scenario.
-  - 80 foot fall into water = 60ft fall damage = 30HP. As falling into water is much more damaging than in 1E, consider reducing the bridge height.
+  **Hazard:**  
+    - [Rigged Rope Bridge](./Statblocks/RiggedRopeBridge.pdf) 
+    - ![Rigged Rope Bridge PNG](./Statblocks/RiggedRopeBridge.png) 
 
 ### C10. Thistletop (120xp, severe threat)
 
@@ -474,14 +474,9 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
 ### E3. Trapped Hall Level 4 (10xp)
 
-  **Hazard:** 
-    - Stealth DC 23,
-    - Disable: Expert Crafting DC 17 or Trained Thievery DC 19
-    - Reflex DC 17
-    - Success: no Damage
-    - Critical Success: Same as Success but Creature also takes a free Step Action in either direction and avoids being caught.
-    - Failure: 2d8+6 Damage
-    - Critical Failure: 4d8+12 Damage
+  **Hazard:**  
+    - [Slashing Cage Trap](./Statblocks/SlashingCageTrap.pdf) 
+    - ![Slashing Cage Trap PNG](./Statblocks/SlashingCageTrap.png) 
 
 ### E4. Observation Deck (120xp, severe threat)
 
