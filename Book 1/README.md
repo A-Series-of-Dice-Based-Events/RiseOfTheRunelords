@@ -254,7 +254,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
-    - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=379) (P2)
+    - [+1 Longsword](https://2e.aonprd.com/Equipment.aspx?ID=281) (P2)
     - [Moderate Juggernaut Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=94) (C3)
     - [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=179) (C2)
     - [Wolf Fang Talisman](https://2e.aonprd.com/Equipment.aspx?ID=239) (C1)
@@ -388,8 +388,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C19. Throne Room (160xp, extreme threat)
 
   - **Creatures:**
-    - [Chief Ripnugget PDF](./Statblocks/ChiefRipnugget.pdf)  
-    - ![Chief Ripnugget PNG](./Statblocks/ChiefRipnugget.png)  
+    - [Warchief Ripnugget PDF](./Statblocks/WarchiefRipnugget.pdf)  
+    - ![Warchief Ripnugget PNG](./Statblocks/WarchiefRipnugget.png)  
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
