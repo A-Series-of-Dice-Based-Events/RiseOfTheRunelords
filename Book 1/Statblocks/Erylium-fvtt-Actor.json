@@ -1,0 +1,4328 @@
+{
+  "name": "Erylium",
+  "type": "npc",
+  "data": {
+    "abilities": {
+      "str": {
+        "value": 10,
+        "min": 3,
+        "mod": 0
+      },
+      "dex": {
+        "value": 20,
+        "min": 3,
+        "mod": 5
+      },
+      "con": {
+        "value": 12,
+        "min": 3,
+        "mod": 1
+      },
+      "int": {
+        "value": 14,
+        "min": 3,
+        "mod": 2
+      },
+      "wis": {
+        "value": 14,
+        "min": 3,
+        "mod": 2
+      },
+      "cha": {
+        "value": 14,
+        "min": 3,
+        "mod": 2
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "rank": 0,
+        "ability": "con",
+        "item": 0,
+        "value": 0,
+        "saveDetail": "",
+        "name": "fortitude",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": -1,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Constitution",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 0,
+        "base": 0,
+        "breakdown": "Base Modifier -1, Constitution +1"
+      },
+      "reflex": {
+        "rank": 0,
+        "ability": "dex",
+        "item": 0,
+        "value": 0,
+        "saveDetail": "",
+        "name": "reflex",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": -5,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 5,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 0,
+        "base": 0,
+        "breakdown": "Base Modifier -5, Dexterity +5"
+      },
+      "will": {
+        "rank": 0,
+        "ability": "wis",
+        "item": 0,
+        "value": 0,
+        "saveDetail": "",
+        "name": "will",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": -2,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 0,
+        "base": 0,
+        "breakdown": "Base Modifier -2, Wisdom +2"
+      }
+    },
+    "attributes": {
+      "ac": {
+        "min": 0,
+        "value": 22,
+        "dex": 0,
+        "item": 0,
+        "check": 0,
+        "details": "",
+        "name": "ac",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 7,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 5,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "base": 22,
+        "breakdown": "Base Armor Class 10, Base Modifier +7, Dexterity +5"
+      },
+      "allSaves": {
+        "value": ""
+      },
+      "shield": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0
+      },
+      "hp": {
+        "value": 75,
+        "min": 0,
+        "max": 75,
+        "temp": 0,
+        "tempmax": 0,
+        "details": ""
+      },
+      "sp": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "details": ""
+      },
+      "flatbonushp": 0,
+      "levelbonushp": 0,
+      "flatbonussp": 0,
+      "levelbonussp": 0,
+      "bonusLimitBulk": 0,
+      "bonusEncumbranceBulk": 0,
+      "resolve": {
+        "value": 0
+      },
+      "perception": {
+        "rank": 0,
+        "ability": "wis",
+        "item": 0,
+        "value": 11,
+        "name": "perception",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 9,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 11,
+        "base": 11,
+        "breakdown": "Base Modifier +9, Wisdom +2"
+      },
+      "initiative": {
+        "circumstance": 0,
+        "status": 0,
+        "ability": ""
+      },
+      "init": {
+        "bonus": 0,
+        "value": 0
+      },
+      "speed": {
+        "value": 15,
+        "special": "",
+        "otherSpeeds": [
+          {
+            "type": "fly",
+            "label": "Fly",
+            "value": "35",
+            "exceptions": ""
+          }
+        ]
+      },
+      "ancestryhp": 0,
+      "classhp": 0,
+      "classDC": {
+        "rank": 0,
+        "ability": "str",
+        "item": 0,
+        "value": 0
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "CE"
+      },
+      "biography": {
+        "value": "",
+        "public": ""
+      },
+      "class": {
+        "value": ""
+      },
+      "ancestry": {
+        "value": ""
+      },
+      "heritage": {
+        "value": ""
+      },
+      "deity": {
+        "value": "",
+        "image": "systems/pf2e/assets/sheet/deity.png"
+      },
+      "level": {
+        "value": 4,
+        "min": 1
+      },
+      "keyability": {
+        "value": "str"
+      },
+      "source": {
+        "value": ""
+      },
+      "flavourText": "",
+      "nethysUrl": "",
+      "recallKnowledgeText": "",
+      "sidebarText": "",
+      "creatureType": ""
+    },
+    "martial": {
+      "unarmored": {
+        "rank": 0,
+        "value": 0
+      },
+      "light": {
+        "rank": 0,
+        "value": 0
+      },
+      "medium": {
+        "rank": 0,
+        "value": 0
+      },
+      "heavy": {
+        "rank": 0,
+        "value": 0
+      },
+      "simple": {
+        "rank": 0,
+        "value": 0
+      },
+      "martial": {
+        "rank": 0,
+        "value": 0
+      },
+      "advanced": {
+        "rank": 0,
+        "value": 0
+      },
+      "unarmed": {
+        "rank": 0,
+        "value": 0
+      }
+    },
+    "statusEffects": [],
+    "schema": {
+      "version": {
+        "value": ""
+      }
+    },
+    "traits": {
+      "size": {
+        "value": "tiny"
+      },
+      "senses": [
+        {
+          "type": "darkvision",
+          "label": "Darkvision",
+          "value": "",
+          "exceptions": ""
+        }
+      ],
+      "traits": {
+        "value": [
+          "chaotic",
+          "evil",
+          "fiend"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "abyssal",
+          "thassilonian"
+        ],
+        "selected": [],
+        "custom": "Telepathy (Touch)"
+      },
+      "di": {
+        "value": [],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [
+        {
+          "type": "coldiron",
+          "label": "Cold Iron",
+          "value": "7",
+          "exceptions": ""
+        },
+        {
+          "type": "good",
+          "label": "Good",
+          "value": "7",
+          "exceptions": ""
+        }
+      ],
+      "ci": [],
+      "rarity": {
+        "value": "unique"
+      }
+    },
+    "currency": {
+      "pp": {
+        "value": 0
+      },
+      "gp": {
+        "value": 0
+      },
+      "sp": {
+        "value": 0
+      },
+      "cp": {
+        "value": 0
+      }
+    },
+    "spells": {
+      "spell0": {
+        "max": 0
+      },
+      "spell1": {
+        "max": 0
+      },
+      "spell2": {
+        "max": 0
+      },
+      "spell3": {
+        "max": 0
+      },
+      "spell4": {
+        "max": 0
+      },
+      "spell5": {
+        "max": 0
+      },
+      "spell6": {
+        "max": 0
+      },
+      "spell7": {
+        "max": 0
+      },
+      "spell8": {
+        "max": 0
+      },
+      "spell9": {
+        "max": 0
+      },
+      "spell10": {
+        "max": 0
+      },
+      "spell11": {
+        "max": 0
+      }
+    },
+    "items": {
+      "TH8L5QvUBWPNRlKA": {
+        "data": {
+          "spelldc": {
+            "dc": 21,
+            "value": 10
+          }
+        }
+      },
+      "qDAE8l2SAxkhaxGV": {
+        "data": {
+          "spelldc": {
+            "dc": 18,
+            "value": 10
+          }
+        }
+      }
+    },
+    "customModifiers": {},
+    "damageDice": {},
+    "skills": {
+      "acr": {
+        "name": "Acrobatics",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 3,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 5,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 8,
+        "ability": "dex",
+        "expanded": "acrobatics",
+        "label": "Acrobatics",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 8,
+        "breakdown": "Base Modifier +3, Dexterity +5",
+        "itemID": "SSIYDtVuiS6b0bIL",
+        "base": 8
+      },
+      "arc": {
+        "name": "Arcana",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 6,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 8,
+        "ability": "int",
+        "expanded": "arcana",
+        "label": "Arcana",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 8,
+        "breakdown": "Base Modifier +6, Intelligence +2",
+        "itemID": "Cn1ciTOujfOWDmRC",
+        "base": 8
+      },
+      "ath": {
+        "name": "Athletics",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Strength",
+            "modifier": 0,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 0,
+        "ability": "str",
+        "expanded": "athletics",
+        "label": "Athletics",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 0,
+        "breakdown": "Base Modifier +0, Strength +0"
+      },
+      "cra": {
+        "name": "Crafting",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "crafting",
+        "label": "Crafting",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "dec": {
+        "name": "Deception",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 10,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "ability": "cha",
+        "expanded": "deception",
+        "label": "Deception",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 12,
+        "breakdown": "Base Modifier +10, Charisma +2",
+        "itemID": "snhHQMKkAzIwo0Gh",
+        "base": 12
+      },
+      "dip": {
+        "name": "Diplomacy",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 8,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 10,
+        "ability": "cha",
+        "expanded": "diplomacy",
+        "label": "Diplomacy",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 10,
+        "breakdown": "Base Modifier +8, Charisma +2",
+        "itemID": "dMZOhAH8BLzSHQ2k",
+        "base": 10
+      },
+      "itm": {
+        "name": "Intimidation",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 7,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 9,
+        "ability": "cha",
+        "expanded": "intimidation",
+        "label": "Intimidation",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 9,
+        "breakdown": "Base Modifier +7, Charisma +2",
+        "itemID": "yfZECRZLqEf9xj1d",
+        "base": 9
+      },
+      "med": {
+        "name": "Medicine",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "wis",
+        "expanded": "medicine",
+        "label": "Medicine",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Wisdom +2"
+      },
+      "nat": {
+        "name": "Nature",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "wis",
+        "expanded": "nature",
+        "label": "Nature",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Wisdom +2"
+      },
+      "occ": {
+        "name": "Occultism",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "occultism",
+        "label": "Occultism",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "prf": {
+        "name": "Performance",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "cha",
+        "expanded": "performance",
+        "label": "Performance",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Charisma +2"
+      },
+      "rel": {
+        "name": "Religion",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 7,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 9,
+        "ability": "wis",
+        "expanded": "religion",
+        "label": "Religion",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 9,
+        "breakdown": "Base Modifier +7, Wisdom +2",
+        "itemID": "UxZtc6sDBH5TUkAJ",
+        "base": 9
+      },
+      "soc": {
+        "name": "Society",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "society",
+        "label": "Society",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "ste": {
+        "name": "Stealth",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 7,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 5,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "ability": "dex",
+        "expanded": "stealth",
+        "label": "Stealth",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 12,
+        "breakdown": "Base Modifier +7, Dexterity +5",
+        "itemID": "KFKKXseuBaPwc5L1",
+        "base": 12
+      },
+      "sur": {
+        "name": "Survival",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "wis",
+        "expanded": "survival",
+        "label": "Survival",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Wisdom +2"
+      },
+      "thi": {
+        "name": "Thievery",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 5,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 5,
+        "ability": "dex",
+        "expanded": "thievery",
+        "label": "Thievery",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 5,
+        "breakdown": "Base Modifier +0, Dexterity +5"
+      }
+    }
+  },
+  "sort": 200001,
+  "flags": {
+    "exportSource": {
+      "world": "rotrl",
+      "system": "pf2e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.11.5"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/npc.svg",
+  "token": {
+    "flags": {
+      "perfect-vision": {
+        "visionRules": "default",
+        "monoVisionColor": "",
+        "sightLimit": null,
+        "_version": 1
+      }
+    },
+    "name": "Erylium",
+    "displayName": 20,
+    "img": "systems/pf2e/icons/default-icons/npc.svg",
+    "tint": "",
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5,
+      "type": ""
+    },
+    "actorId": "NYwsBBijj9SdFacc",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "randomImg": false,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lightColor": ""
+  },
+  "items": [
+    {
+      "_id": "SSIYDtVuiS6b0bIL",
+      "name": "Acrobatics",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 8
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 100000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "Cn1ciTOujfOWDmRC",
+      "name": "Arcana",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 8
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 200000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "snhHQMKkAzIwo0Gh",
+      "name": "Deception",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 12
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 300000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "dMZOhAH8BLzSHQ2k",
+      "name": "Diplomacy",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 10
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 400000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "yfZECRZLqEf9xj1d",
+      "name": "Intimidation",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 9
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 500000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "UxZtc6sDBH5TUkAJ",
+      "name": "Religion",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 9
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 600000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "KFKKXseuBaPwc5L1",
+      "name": "Stealth",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 12
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 700000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "ml07j326uEcENAYN",
+      "name": "Abyssal Knowledge",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "When a quasit offers Aid for an Arcana or Religion check, it gets the critical success result on any success and gets the critical failure result on any failure.",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "interaction"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 800000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "dfPBLj66F3q21Vei",
+      "name": "Virtue Aversion",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "The quasit's link to a mortal soul gave it birth, but it presents a vulnerability. Once per round, a creature can present an object related to something virtuous or good in the life of the quasit's creator (such as a beloved daughter's doll) as an Interact action to automatically deal the quasit [[/r 2d6 # mental damage]] mental damage.",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "defensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 900000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "FeCvrQJm2oNysGbV",
+      "name": "Change Shape",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>The monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block.</p>\n<ul>\n<li><strong>Bat</strong>: echolocation 40 feet; Speed 15 feet, fly Speed 30 feet; <strong>Melee</strong> fangs +7; <span class=\"hanging-indent\"><strong>Damage</strong> 1d4-1 piercing; <strong>Melee</strong> wing +7 (agile), <strong>Damage</strong> 1d4-1 bludgeoning</span></li>\n<li><strong>Centipede</strong> Speed 10 feet, climb 10 feet; <strong>Melee</strong> mandibles +7 (poison), <strong>Damage</strong> 1 piercing plus 1d4 poison</li>\n<li><strong>Toad</strong> scent (imprecise) 30 feet; Speed 5 feet; <strong>Melee</strong> jaws +7, <strong>Damage</strong> 1 bludgeoning</li>\n<li><strong>Wolf</strong> size Medium; scent (imprecise) 30 feet; Speed 40 feet, climb 10 feet; <strong>Melee</strong> jaws +7, <strong>Damage</strong> 1d10-1 piercing plus Knockdown</li>\n</ul>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "concentrate",
+            "divine",
+            "transmutation",
+            "polymorph"
+          ],
+          "selected": {
+            "concentrate": "Concentrate",
+            "divine": "Divine",
+            "polymorph": "Polymorph",
+            "transmutation": "Transmutation"
+          }
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "rank": "",
+            "skill": ""
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 1100000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/OneAction.png",
+      "effects": []
+    },
+    {
+      "_id": "qcivKw8tfP08x1Fy",
+      "name": "Fly",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p><strong>Requirements</strong> You have a fly Speed</p>\n<hr />\n<p>You move through the air up to your fly Speed. Moving upward (straight up or diagonally) uses the rules for moving through difficult terrain. You can move straight down 10 feet for every 5 feet of movement you spend. If you Fly to the ground, you don't take falling damage. You can use an action to Fly 0 feet to hover in place. If you're airborne at the end of your turn and didn't use a Fly action this round, you fall.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "move",
+            "general"
+          ],
+          "custom": "",
+          "label": "Traits",
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "fly",
+        "actionType": {
+          "value": "action",
+          "label": "Action Type",
+          "type": "String"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": "",
+          "label": "Associated Weapon",
+          "type": "String"
+        },
+        "actions": {
+          "value": "1",
+          "label": "Number of Actions",
+          "type": "String"
+        },
+        "requirements": {
+          "value": "",
+          "label": "Requirements",
+          "type": "String"
+        },
+        "trigger": {
+          "value": "",
+          "label": "Trigger",
+          "type": "String"
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "label": "Skill Req.",
+          "skill": {
+            "rank": "",
+            "skill": "",
+            "type": "Number"
+          },
+          "type": "String"
+        }
+      },
+      "sort": 1200000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.actionspf2e.cS9nfDRGD83bNU1p"
+        }
+      },
+      "img": "systems/pf2e/icons/actions/OneAction.png",
+      "effects": []
+    },
+    {
+      "_id": "aXq6Sh1wi1oZNpQt",
+      "name": "Claw",
+      "type": "melee",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "evil",
+            "finesse",
+            "magical",
+            "poison"
+          ]
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "quantity": {
+          "value": 1
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": 0
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": 0
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "invested": {
+          "value": false
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "0": {
+            "damage": "1d6-1",
+            "damageType": "slashing"
+          },
+          "1": {
+            "damage": "1d4",
+            "damageType": "evil"
+          }
+        },
+        "bonus": {
+          "value": "9",
+          "total": 9
+        },
+        "attackEffects": {
+          "value": [
+            "Quasit Venom"
+          ],
+          "custom": ""
+        },
+        "damage": {
+          "damageType": "slashing",
+          "die": "1d6-1"
+        },
+        "property1": {
+          "critDamage": "",
+          "critDamageType": "",
+          "critDice": 0,
+          "critDie": "",
+          "damageType": "",
+          "dice": 0,
+          "die": "",
+          "value": ""
+        },
+        "property2": {
+          "critDamage": "",
+          "critDamageType": "",
+          "critDice": 0,
+          "critDie": "",
+          "damageType": "",
+          "dice": 0,
+          "die": "",
+          "value": ""
+        },
+        "property3": {
+          "critDamage": "",
+          "critDamageType": "",
+          "critDice": 0,
+          "critDie": "",
+          "damageType": "",
+          "dice": 0,
+          "die": "",
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 100000,
+      "flags": {
+        "pf2e_updatednpcsheet": {}
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "BurQgnnkxCtgHECT",
+      "name": "Abyssal Healing",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Frequency</strong>: once per round; </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Effect</strong>: The quasit restores [[/r 1d6]] HP to itself.</span></p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "concentrate",
+            "divine",
+            "healing",
+            "necromancy"
+          ],
+          "selected": {
+            "concentrate": "Concentrate",
+            "divine": "Divine",
+            "healing": "Healing",
+            "necromancy": "Necromancy"
+          }
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "rank": "",
+            "skill": ""
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 1000000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/OneAction.png",
+      "effects": []
+    },
+    {
+      "_id": "ubfUqtz0LdvxOLZU",
+      "name": "Quasit Venom",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Saving Throw</strong> DC 21 Fortitude; </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Maximum Duration</strong> 6 rounds; </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Stage 1</strong> [[/r 2d6 #poison]] poison (1 round); </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Stage 2</strong> As stage 1; </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Stage 3</strong> [[/r 2d6 #poison]] poison and @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed} 1 (1 round)</span></p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "poison"
+          ],
+          "custom": "",
+          "selected": {
+            "poison": "Poison"
+          }
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "rank": "",
+            "skill": ""
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 1200000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "TH8L5QvUBWPNRlKA",
+      "name": "Innate Divine Spells",
+      "type": "spellcastingEntry",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "ability": {
+          "value": "",
+          "type": "String",
+          "label": "Spellcasting Ability"
+        },
+        "spelldc": {
+          "value": 10,
+          "dc": 21,
+          "item": 0,
+          "mod": 0,
+          "type": "String",
+          "label": "Class DC"
+        },
+        "tradition": {
+          "value": "divine",
+          "type": "String",
+          "label": "Magic Tradition"
+        },
+        "focus": {
+          "points": 1,
+          "pool": 1
+        },
+        "prepared": {
+          "value": "innate",
+          "type": "String",
+          "label": "Spellcasting Type"
+        },
+        "showUnpreparedSpells": {
+          "value": true
+        },
+        "item": {
+          "value": 0
+        },
+        "proficiency": {
+          "value": 0
+        },
+        "displayLevels": {},
+        "slots": {
+          "slot0": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot1": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot2": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot3": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot4": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot5": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot6": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot7": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      "sort": 1300000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "qDAE8l2SAxkhaxGV",
+      "name": "Prepared Occult Spells",
+      "type": "spellcastingEntry",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "ability": {
+          "value": "",
+          "type": "String",
+          "label": "Spellcasting Ability"
+        },
+        "spelldc": {
+          "value": 10,
+          "dc": 18,
+          "item": 0,
+          "mod": 0,
+          "type": "String",
+          "label": "Class DC"
+        },
+        "tradition": {
+          "value": "occult",
+          "type": "String",
+          "label": "Magic Tradition"
+        },
+        "focus": {
+          "points": 1,
+          "pool": 1
+        },
+        "prepared": {
+          "value": "prepared",
+          "type": "String",
+          "label": "Spellcasting Type"
+        },
+        "showUnpreparedSpells": {
+          "value": true
+        },
+        "item": {
+          "value": 0
+        },
+        "proficiency": {
+          "value": 0
+        },
+        "displayLevels": {},
+        "slots": {
+          "slot0": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot1": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot2": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot3": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot4": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot5": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot6": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot7": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      "sort": 1400000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "wkJFvTerUZc26kNv",
+      "name": "Dagger (+1 Returning)",
+      "type": "weapon",
+      "data": {
+        "description": {
+          "value": "<p>This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown. <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"></p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "finesse",
+            "thrown-10",
+            "versatile-s"
+          ],
+          "custom": "",
+          "label": "Weapon Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "dagger",
+        "quantity": {
+          "value": 1,
+          "label": "Quantity",
+          "type": "Number"
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L",
+          "label": "Bulk",
+          "type": "Number"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "2 sp",
+          "label": "Price",
+          "type": "String"
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "level": {
+          "value": 0,
+          "label": "Item Level",
+          "type": "Number"
+        },
+        "invested": {
+          "value": false
+        },
+        "weaponType": {
+          "value": "simple",
+          "label": "Weapon Category",
+          "type": "String"
+        },
+        "group": {
+          "value": "knife",
+          "label": "Weapon Group",
+          "type": "String"
+        },
+        "hands": {
+          "value": "",
+          "label": "Hands",
+          "type": "String"
+        },
+        "bonus": {
+          "value": 0,
+          "label": "Item Bonus",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d4",
+          "damageType": "piercing",
+          "label": "damage",
+          "type": "String"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "10",
+          "label": "Weapon Range",
+          "type": "String"
+        },
+        "reload": {
+          "value": "",
+          "label": "Reload",
+          "type": "String"
+        },
+        "ability": {
+          "value": "str",
+          "label": "Offensive Ability",
+          "type": "String"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": "1"
+        },
+        "strikingRune": {
+          "value": ""
+        },
+        "propertyRune1": {
+          "value": "returning"
+        },
+        "propertyRune2": {
+          "value": ""
+        },
+        "propertyRune3": {
+          "value": ""
+        },
+        "propertyRune4": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "label": "Primary Property",
+          "strikeConditionType": "",
+          "strikeConditionValue": null,
+          "type": "String"
+        }
+      },
+      "sort": 1500000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.rQWaJhI5Bko5x14Z"
+        }
+      },
+      "img": "systems/pf2e/icons/equipment/weapons/dagger.png",
+      "effects": []
+    },
+    {
+      "_id": "30CO2SdIyHsEscZH",
+      "name": "Dagger",
+      "type": "melee",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "finesse",
+            "thrown-10",
+            "versatile-s"
+          ],
+          "custom": ""
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "quantity": {
+          "value": 1
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": 0
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": 0
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "invested": {
+          "value": false
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "6hdf538a6yljyalg83mrta": {
+            "damage": "2d4+4",
+            "damageType": "piercing"
+          }
+        },
+        "bonus": {
+          "value": "15"
+        },
+        "attackEffects": {
+          "value": []
+        },
+        "weaponType": {
+          "value": "melee"
+        }
+      },
+      "sort": 1600000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "BCi3JuhQa38KWCkb",
+      "name": "Dagger (Returning)",
+      "type": "melee",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "finesse",
+            "thrown-10",
+            "versatile-s"
+          ],
+          "custom": ""
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "quantity": {
+          "value": 1
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": 0
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": 0
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "invested": {
+          "value": false
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "b8g9s7bx9afxt0crzal1sc": {
+            "damage": "2d4+4",
+            "damageType": "piercing"
+          }
+        },
+        "bonus": {
+          "value": "15"
+        },
+        "attackEffects": {
+          "value": []
+        },
+        "weaponType": {
+          "value": "ranged"
+        }
+      },
+      "sort": 1700000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "M9ru3fM1X3REfCZR",
+      "name": "Detect Magic",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.</p>\n<p>You detect illusion magic only if that magic's effect has a lower level than the level of your detect magic spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an invisibility potion) typically are detected normally.</p>\n<hr style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\">\n<p><strong>Heightened (3rd)</strong> You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.</p>\n<p><strong>Heightened (4th)</strong> As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "detection",
+            "cantrip",
+            "divination"
+          ],
+          "custom": "",
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "detect-magic",
+        "level": {
+          "value": 0,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "utility",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ],
+          "custom": "",
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "div",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": 30,
+          "areaType": "emanation",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": ""
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "TH8L5QvUBWPNRlKA"
+        },
+        "areasize": {
+          "value": "30-foot emanation"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 1800000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.gpzpAAAJ1Lza2JVl"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/detect-magic.jpg",
+      "effects": []
+    },
+    {
+      "_id": "0MwCRj6ofPh4UWxn",
+      "name": "Fear",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>You plant fear in the target; it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} 1.</p>\n<p><strong>Failure</strong> The target is Frightened 2.</p>\n<p><strong>Critical Failure</strong> The target is Frightened 3 and @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target up to five creatures.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=110",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "emotion",
+            "enchantment",
+            "fear",
+            "mental"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "fear",
+        "level": {
+          "value": 1,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "save",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "enc",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "1 creature",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "30 feet",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "varies",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": "will"
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "TH8L5QvUBWPNRlKA"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 1900000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.4koZzrnMXhhosn0D"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/fear.jpg",
+      "effects": []
+    },
+    {
+      "_id": "AzV662J7UJ1gFC9D",
+      "name": "Invisibility",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>Cloaked in illusion, the target becomes @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}. This makes it @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} to all creatures, though the creatures can attempt to find the target, making it @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} to them instead (page 466). If the target uses a hostile action, the spell ends after that hostile action is completed.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=164",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "illusion"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "invisibility",
+        "level": {
+          "value": 2,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "utility",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "ill",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "material, somatic",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "1 creature",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "touch",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "10 minutes",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": ""
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "TH8L5QvUBWPNRlKA"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2000000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.XXqE1eY3w3z6xJCB"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/invisibility.jpg",
+      "effects": []
+    },
+    {
+      "_id": "hg7UnpSlbVPB67AJ",
+      "name": "Detect Alignment",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>Your eyes glow as you sense aligned auras. Choose chaotic, evil, good, or lawful. You detect auras of that alignment. You receive no information beyond presence or absence. You can choose not to detect creatures or effects you're aware have that alignment.</p>\n<p>Only creatures of 6th level or higher-unless divine spellcasters, undead, or beings from the Outer Sphere-have alignment auras.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> You learn each aura's location and strength.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=65",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "detection",
+            "divination"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "uncommon"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "detect-alignment",
+        "level": {
+          "value": 2,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "utility",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "div",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": 30,
+          "areaType": "emanation",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": ""
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "TH8L5QvUBWPNRlKA"
+        },
+        "areasize": {
+          "value": "30-foot emanation"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2100000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.QnTtGCAvdWRU4spv"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/detect-alignment.jpg",
+      "effects": []
+    },
+    {
+      "_id": "HOXmqcQXr842iuY3",
+      "name": "Read Omens",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>You peek into the future. Choose a particular goal, event, or activity that will occur within 1 week. You learn a cryptic clue or piece of advice that could help with the chosen event, often in the form of a rhyme or omen.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=247",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "divination",
+            "prediction"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "uncommon"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "read-omens",
+        "level": {
+          "value": 4,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "utility",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "div",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "material, somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "10 minutes",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": ""
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "TH8L5QvUBWPNRlKA"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2200000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.pkcOby5prOausy1k"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/read-omens.jpg",
+      "effects": []
+    },
+    {
+      "_id": "z1uE8JWO6z8FAgaP",
+      "name": "Phantom Pain",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent mental damage. The target must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes full initial damage but no @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage}, and the spell ends immediately.</p>\n<p><strong>Failure</strong> The target takes full initial and Persistent Damage, and the target is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} 1. If the target recovers from being Sickened, the Persistent Damage ends and the spell ends.</p>\n<p><strong>Critical Failure</strong> As failure, but the target is Sickened 2.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d4 and the Persistent Damage by 1d4.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=220",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "illusion",
+            "mental",
+            "nonlethal"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "phantom-pain",
+        "level": {
+          "value": 2,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "save",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "ill",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "1 creature",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "30 feet",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "1 minute",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "4d4",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "mental",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "2d4"
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": "will"
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "qDAE8l2SAxkhaxGV"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2300000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.R8bqnYiThB6MYTxD"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/phantom-pain.jpg",
+      "effects": []
+    },
+    {
+      "_id": "TPS9EIC6uxYKtznZ",
+      "name": "Phantom Pain",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent mental damage. The target must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes full initial damage but no @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage}, and the spell ends immediately.</p>\n<p><strong>Failure</strong> The target takes full initial and Persistent Damage, and the target is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} 1. If the target recovers from being Sickened, the Persistent Damage ends and the spell ends.</p>\n<p><strong>Critical Failure</strong> As failure, but the target is Sickened 2.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d4 and the Persistent Damage by 1d4.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=220",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "illusion",
+            "mental",
+            "nonlethal"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "phantom-pain",
+        "level": {
+          "value": 1,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "save",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "ill",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "1 creature",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "30 feet",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "1 minute",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "2d4",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "mental",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "2d4"
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": "will"
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "qDAE8l2SAxkhaxGV"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2400000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.R8bqnYiThB6MYTxD"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/phantom-pain.jpg",
+      "effects": []
+    },
+    {
+      "_id": "HLrtrh16ToZcq67c",
+      "name": "Color Spray",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>Swirling colors affect viewers based on their Will saves.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p>\n<p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned} 1, @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round, and Dazzled for 1 minute.</p>\n<p><strong>Critical Failure</strong> The creature is Stunned for 1 round and Blinded for 1 minute.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=44",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "illusion",
+            "incapacitation",
+            "visual"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "color-spray",
+        "level": {
+          "value": 1,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "save",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "ill",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": 15,
+          "areaType": "cone",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "1 or more rounds (see below)",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": "will"
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "qDAE8l2SAxkhaxGV"
+        },
+        "areasize": {
+          "value": "15-foot cone"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2500000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.UKsIOWmMx4hSpafl"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/color-spray.jpg",
+      "effects": []
+    },
+    {
+      "_id": "c2MRmfFWDfZs3BK1",
+      "name": "Hideous Laughter",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>The target is overtaken with uncontrollable laughter. It must attempt a Will save.</p>\n<p>\n</p><hr /><b>Critical Success</b>  The target is unaffected.<p></p>\n<p>\n<b>Success</b>  The target is plagued with uncontrollable laugher. It can't use reactions.</p>\n<p>\n<b>Failure</b>  The target is @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed} 1 and can't use reactions.</p>\n<p>\n<b>Critical Failure</b>  The target falls @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} and can't use actions or reactions for 1 round. It then suffers the failure effects.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=150",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "emotion",
+            "enchantment",
+            "mental"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "hideous-laughter",
+        "level": {
+          "value": 2,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "save",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "enc",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "1 living creature",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "30 feet",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "sustained",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": "will"
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "qDAE8l2SAxkhaxGV"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2600000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.tlSE7Ly8vi1Dgddv"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/hideous-laughter.jpg",
+      "effects": []
+    },
+    {
+      "_id": "arLCMqpUfytuaff2",
+      "name": "Shield",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.</p>\n<p>While the spell is in effect, you can use the Shield Block reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the magic missile spell.</p>\n<p>Heightening the spell increases the shield's Hardness.</p>\n<p>@Compendium[pf2e.spell-effects.Jemq5UknGdMO7b73]{Spell Effect: Shield}</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The shield has Hardness 10.</p>\n<p><strong>Heightened (5th)</strong> The shield has Hardness 15.</p>\n<p><strong>Heightened (7th)</strong> The shield has Hardness 20.</p>\n<p><strong>Heightened (9th)</strong> The shield has Hardness 25.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=280",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "abjuration",
+            "cantrip",
+            "force"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "shield",
+        "level": {
+          "value": 0,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "utility",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "abj",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "1",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "until the start of your next turn",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": ""
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "qDAE8l2SAxkhaxGV"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2700000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.TVKNbcgTee19PXZR"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/shield.jpg",
+      "effects": []
+    },
+    {
+      "_id": "OQ14snohzgjuIKHC",
+      "name": "Telekinetic Projectile",
+      "type": "spell",
+      "data": {
+        "description": {
+          "value": "<p>You hurl a loose, unattended object that is within range and that has 1 Bulk or less at the target. Make a spell attack attack against the target. If you hit, you deal bludgeoning, piercing, or slashing damage-as appropriate for the object you hurled-equal to 1d6 plus your spellcasting ability modifier. No specific traits or magic properties of the hurled item affect the attack or the damage.</p>\n<p>\n</p><hr /><b>Critical Success</b>  You deal double damage.<p></p>\n<p>\n<b>Success</b>  You deal full damage.</p>\n<p>\n</p><hr /><b>Heightened (+1)</b>  The damage increases by 1d6.<p></p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "https://2e.aonprd.com/Spells.aspx?ID=334",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "attack",
+            "cantrip",
+            "evocation"
+          ],
+          "label": "Spell Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "telekinetic-projectile",
+        "level": {
+          "value": 0,
+          "label": "Spell Level",
+          "type": "Number"
+        },
+        "spellType": {
+          "value": "attack",
+          "label": "Spell Type",
+          "type": "String"
+        },
+        "spellCategory": {
+          "value": ""
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult"
+          ],
+          "label": "Spell Traditions",
+          "type": "String"
+        },
+        "school": {
+          "value": "evo",
+          "label": "Spell School",
+          "type": "String"
+        },
+        "components": {
+          "value": "somatic, verbal",
+          "label": "Spell Components",
+          "type": "String"
+        },
+        "materials": {
+          "value": "",
+          "label": "Materials",
+          "type": "String"
+        },
+        "target": {
+          "value": "1 creature",
+          "label": "Target",
+          "type": "String"
+        },
+        "range": {
+          "value": "30 feet",
+          "label": "Range",
+          "type": "String"
+        },
+        "area": {
+          "value": null,
+          "areaType": "",
+          "label": "Area",
+          "type": "String"
+        },
+        "time": {
+          "value": "2",
+          "label": "Casting Time",
+          "type": "String"
+        },
+        "duration": {
+          "value": "",
+          "label": "Duration",
+          "type": "String"
+        },
+        "damage": {
+          "value": "1d6",
+          "applyMod": true,
+          "label": "Spell Damage",
+          "type": "String"
+        },
+        "damageType": {
+          "value": "",
+          "label": "Damage Type",
+          "type": "String"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d6"
+        },
+        "save": {
+          "basic": "",
+          "label": "Saving Throw",
+          "type": "String",
+          "value": ""
+        },
+        "sustained": {
+          "value": false,
+          "label": "Can be Sustained",
+          "type": "Boolean"
+        },
+        "cost": {
+          "value": "",
+          "label": "Cost",
+          "type": "String"
+        },
+        "ability": {
+          "value": "",
+          "label": "Spellcasting Ability",
+          "type": "String"
+        },
+        "prepared": {
+          "value": "",
+          "label": "Prepared Spell",
+          "type": "String"
+        },
+        "location": {
+          "value": "qDAE8l2SAxkhaxGV"
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "spellCategorie": {
+          "value": "spell"
+        }
+      },
+      "sort": 2800000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.60sgbuMWN0268dB7"
+        }
+      },
+      "img": "systems/pf2e/icons/spells/telekinetic-projectile.jpg",
+      "effects": []
+    },
+    {
+      "_id": "bFTSiieuvP1FfN8v",
+      "name": "Magic Resistance",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>+1 status bonus to Saves versus Magic</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 2900000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": [],
+  "_id": "NYwsBBijj9SdFacc"
+}

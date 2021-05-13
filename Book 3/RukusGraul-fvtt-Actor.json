@@ -1,0 +1,1142 @@
+{
+  "_id": "9wLrYQJO4O0IRWJa",
+  "name": "Rukus Graul",
+  "type": "npc",
+  "data": {
+    "abilities": {
+      "str": {
+        "value": 10,
+        "min": 3,
+        "mod": 6
+      },
+      "dex": {
+        "value": 10,
+        "min": 3,
+        "mod": 4
+      },
+      "con": {
+        "value": 10,
+        "min": 3,
+        "mod": 4
+      },
+      "int": {
+        "value": 10,
+        "min": 3,
+        "mod": 3
+      },
+      "wis": {
+        "value": 10,
+        "min": 3,
+        "mod": 3
+      },
+      "cha": {
+        "value": 10,
+        "min": 3,
+        "mod": 3
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "rank": 0,
+        "ability": "con",
+        "item": 0,
+        "value": 0,
+        "saveDetail": "",
+        "base": 21
+      },
+      "reflex": {
+        "rank": 0,
+        "ability": "dex",
+        "item": 0,
+        "value": 0,
+        "saveDetail": "",
+        "base": 18
+      },
+      "will": {
+        "rank": 0,
+        "ability": "wis",
+        "item": 0,
+        "value": 0,
+        "saveDetail": "",
+        "base": 15
+      }
+    },
+    "attributes": {
+      "ac": {
+        "min": 0,
+        "value": 0,
+        "dex": 0,
+        "item": 0,
+        "check": 0,
+        "details": "",
+        "base": 27
+      },
+      "allSaves": {
+        "value": ""
+      },
+      "shield": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0
+      },
+      "hp": {
+        "value": 190,
+        "min": 0,
+        "max": 190,
+        "temp": 0,
+        "tempmax": 0,
+        "details": ""
+      },
+      "sp": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "details": ""
+      },
+      "flatbonushp": 0,
+      "levelbonushp": 0,
+      "flatbonussp": 0,
+      "levelbonussp": 0,
+      "bonusLimitBulk": 0,
+      "bonusEncumbranceBulk": 0,
+      "resolve": {
+        "value": 0
+      },
+      "perception": {
+        "rank": 0,
+        "ability": "wis",
+        "item": 0,
+        "value": 0
+      },
+      "initiative": {
+        "circumstance": 0,
+        "status": 0,
+        "ability": ""
+      },
+      "init": {
+        "bonus": 0,
+        "value": 0
+      },
+      "speed": {
+        "value": 25,
+        "special": "",
+        "otherSpeeds": []
+      },
+      "ancestryhp": 0,
+      "classhp": 0,
+      "classDC": {
+        "rank": 0,
+        "ability": "str",
+        "item": 0,
+        "value": 0
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "CE"
+      },
+      "biography": {
+        "value": "",
+        "public": ""
+      },
+      "class": {
+        "value": ""
+      },
+      "ancestry": {
+        "value": ""
+      },
+      "heritage": {
+        "value": ""
+      },
+      "deity": {
+        "value": "",
+        "image": "systems/pf2e/assets/sheet/deity.png"
+      },
+      "level": {
+        "value": 9,
+        "min": 1
+      },
+      "keyability": {
+        "value": "str"
+      },
+      "source": {
+        "value": ""
+      },
+      "flavourText": "",
+      "nethysUrl": "",
+      "recallKnowledgeText": "",
+      "sidebarText": "",
+      "creatureType": ""
+    },
+    "martial": {
+      "unarmored": {
+        "rank": 0,
+        "value": 0
+      },
+      "light": {
+        "rank": 0,
+        "value": 0
+      },
+      "medium": {
+        "rank": 0,
+        "value": 0
+      },
+      "heavy": {
+        "rank": 0,
+        "value": 0
+      },
+      "simple": {
+        "rank": 0,
+        "value": 0
+      },
+      "martial": {
+        "rank": 0,
+        "value": 0
+      },
+      "advanced": {
+        "rank": 0,
+        "value": 0
+      },
+      "unarmed": {
+        "rank": 0,
+        "value": 0
+      }
+    },
+    "statusEffects": [],
+    "schema": {
+      "version": {
+        "value": ""
+      }
+    },
+    "traits": {
+      "size": {
+        "value": "med"
+      },
+      "senses": [],
+      "traits": {
+        "value": [
+          "chaotic",
+          "evil",
+          "giant",
+          "humanoid"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [],
+        "selected": [],
+        "custom": ""
+      },
+      "di": {
+        "value": [],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [],
+      "ci": [],
+      "rarity": {
+        "value": "unique"
+      }
+    },
+    "currency": {
+      "pp": {
+        "value": 0
+      },
+      "gp": {
+        "value": 0
+      },
+      "sp": {
+        "value": 0
+      },
+      "cp": {
+        "value": 0
+      }
+    },
+    "spells": {
+      "spell0": {
+        "max": 0
+      },
+      "spell1": {
+        "max": 0
+      },
+      "spell2": {
+        "max": 0
+      },
+      "spell3": {
+        "max": 0
+      },
+      "spell4": {
+        "max": 0
+      },
+      "spell5": {
+        "max": 0
+      },
+      "spell6": {
+        "max": 0
+      },
+      "spell7": {
+        "max": 0
+      },
+      "spell8": {
+        "max": 0
+      },
+      "spell9": {
+        "max": 0
+      },
+      "spell10": {
+        "max": 0
+      },
+      "spell11": {
+        "max": 0
+      }
+    }
+  },
+  "sort": 800000,
+  "flags": {
+    "exportSource": {
+      "world": "rotrl",
+      "system": "pf2e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.11.5.3707"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/npc.svg",
+  "token": {
+    "flags": {},
+    "name": "Rukus Graul",
+    "displayName": 20,
+    "img": "systems/pf2e/icons/default-icons/npc.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "9wLrYQJO4O0IRWJa",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "eANf27BCpYk3trGY",
+      "name": "Attack of Opportunity",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p><strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "attack-of-opportunity",
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "rank": "",
+            "skill": ""
+          }
+        }
+      },
+      "sort": 1800000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.bestiary-ability-glossary-srd.hFtNbo1LKYCoDy2O"
+        }
+      },
+      "img": "systems/pf2e/icons/actions/Reaction.png",
+      "effects": []
+    },
+    {
+      "_id": "YNCHrrzV6jUGq6E4",
+      "name": "Sudden Charge",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You can use Sudden Charge while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "2"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 2300000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/TwoActions.png",
+      "effects": []
+    },
+    {
+      "_id": "3xOyypvfKXM2CiAk",
+      "name": "Intimidating Strike",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>Make a melee Strike. If you hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "2"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 2400000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/TwoActions.png",
+      "effects": []
+    },
+    {
+      "_id": "KannHfrmLxX7CnYQ",
+      "name": "Lunge",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 2500000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/OneAction.png",
+      "effects": []
+    },
+    {
+      "_id": "JAiqGQLKevbNGNAF",
+      "name": "Corrosive Spear (+1 Striking)",
+      "type": "melee",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "thrown-20"
+          ],
+          "custom": ""
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "quantity": {
+          "value": 1
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": 0
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": 0
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "invested": {
+          "value": false
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "fs06883xpceylwqby43l9": {
+            "damage": "2d8+9",
+            "damageType": "piercing"
+          },
+          "hg6o151ckg9ngqn0k00sk": {
+            "damage": "1d6",
+            "damageType": "acid"
+          }
+        },
+        "bonus": {
+          "value": "19"
+        },
+        "attackEffects": {
+          "value": [
+            "Corrosive"
+          ],
+          "custom": ""
+        },
+        "weaponType": {
+          "value": "melee"
+        }
+      },
+      "sort": 2600000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "9h2WTfNJkPz5H595",
+      "name": "Corrosive",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>Acid sizzles across the surface of the weapon.&nbsp;When you hit with the weapon, add 1d6 acid damage to the damage dealt. In addition, on a critical hit, the target&rsquo;s armor (if any) takes 3d6 acid damage (before applying Hardness); if the target has a shield raised, the shield takes this damage instead.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 2700000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "meiQ1JbSHCYJDxUo",
+      "name": "Battle Cry",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p><strong>Trigger:</strong> You roll initiative</p>\n<p><strong>Effect: </strong>Yell a mighty battle cry and Demoralize an observed foe as a free action</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 2800000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/Reaction.png",
+      "effects": []
+    },
+    {
+      "_id": "tOY46VhIcEFyKD7C",
+      "name": "Spear (+1 Corrosive Striking)",
+      "type": "weapon",
+      "data": {
+        "description": {
+          "value": "<p>A long metal shaft ending with a metal spike, a spear can be used one‑handed as a melee weapon and can be thrown.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "thrown-20"
+          ],
+          "custom": "",
+          "label": "Weapon Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "spear",
+        "quantity": {
+          "value": 1,
+          "label": "Quantity",
+          "type": "Number"
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "1",
+          "label": "Bulk",
+          "type": "Number"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "1 sp",
+          "label": "Price",
+          "type": "String"
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "level": {
+          "value": 0,
+          "label": "Item Level",
+          "type": "Number"
+        },
+        "invested": {
+          "value": false
+        },
+        "weaponType": {
+          "value": "simple",
+          "label": "Weapon Category",
+          "type": "String"
+        },
+        "group": {
+          "value": "spear",
+          "label": "Weapon Group",
+          "type": "String"
+        },
+        "hands": {
+          "value": "",
+          "label": "Hands",
+          "type": "String"
+        },
+        "bonus": {
+          "value": 0,
+          "label": "Item Bonus",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d6",
+          "damageType": "piercing",
+          "label": "damage",
+          "type": "String"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "20",
+          "label": "Weapon Range",
+          "type": "String"
+        },
+        "reload": {
+          "value": "",
+          "label": "Reload",
+          "type": "String"
+        },
+        "ability": {
+          "value": "str",
+          "label": "Offensive Ability",
+          "type": "String"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": "1"
+        },
+        "strikingRune": {
+          "value": "striking"
+        },
+        "propertyRune1": {
+          "value": "corrosive"
+        },
+        "propertyRune2": {
+          "value": ""
+        },
+        "propertyRune3": {
+          "value": ""
+        },
+        "propertyRune4": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "label": "Primary Property",
+          "strikeConditionType": "",
+          "strikeConditionValue": null,
+          "type": "String"
+        }
+      },
+      "sort": 2900000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.tOhoGvmCMw4JpWcS"
+        }
+      },
+      "img": "systems/pf2e/icons/equipment/weapons/spear.png",
+      "effects": []
+    },
+    {
+      "_id": "5VcrqdJ458l625sy",
+      "name": "Red Dragon's Breath Potion (Young)",
+      "type": "consumable",
+      "data": {
+        "description": {
+          "value": "<p>This liquid contains blood from a red dragon. For 1 hour after you imbibe the concoction, you can unleash a red dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a 15-foot cone of fire which deals 4d6 fire damage. All creatures in the area must attempt a DC 23 basic Reflex save.</p>\n<p>After you use the breath weapon, you can't do so again for 1d4 rounds.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "evocation",
+            "magical",
+            "potion"
+          ],
+          "custom": "",
+          "rarity": {
+            "value": "common"
+          },
+          "usage": {
+            "value": "held-in-one-hand"
+          }
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "red-dragon-s-breath-potion-young",
+        "quantity": {
+          "value": "1"
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "70 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": "7"
+        },
+        "consumableType": {
+          "value": "potion"
+        },
+        "charges": {
+          "value": "1",
+          "max": "1",
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "4d6",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "invested": {
+          "value": false
+        }
+      },
+      "sort": 3000000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.fkGHYeGVK6O2VW1s"
+        }
+      },
+      "img": "systems/pf2e/icons/equipment/consumables/potions/red-dragons-breath-potion.jpg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

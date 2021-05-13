@@ -1,0 +1,1894 @@
+{
+  "name": "Chief Ripnugget",
+  "type": "npc",
+  "data": {
+    "abilities": {
+      "str": {
+        "value": 18,
+        "min": 3,
+        "mod": 4
+      },
+      "dex": {
+        "value": 16,
+        "min": 3,
+        "mod": 3
+      },
+      "con": {
+        "value": 18,
+        "min": 3,
+        "mod": 4
+      },
+      "int": {
+        "value": 14,
+        "min": 3,
+        "mod": 2
+      },
+      "wis": {
+        "value": 12,
+        "min": 3,
+        "mod": 1
+      },
+      "cha": {
+        "value": 14,
+        "min": 3,
+        "mod": 2
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "rank": 0,
+        "ability": "con",
+        "item": 0,
+        "value": 12,
+        "saveDetail": "",
+        "name": "fortitude",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 8,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Constitution",
+            "modifier": 4,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "base": 12,
+        "breakdown": "Base Modifier +8, Constitution +4"
+      },
+      "reflex": {
+        "rank": 0,
+        "ability": "dex",
+        "item": 0,
+        "value": 12,
+        "saveDetail": "",
+        "name": "reflex",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 9,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 3,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "base": 12,
+        "breakdown": "Base Modifier +9, Dexterity +3"
+      },
+      "will": {
+        "rank": 0,
+        "ability": "wis",
+        "item": 0,
+        "value": 9,
+        "saveDetail": "",
+        "name": "will",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 8,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 9,
+        "base": 9,
+        "breakdown": "Base Modifier +8, Wisdom +1"
+      }
+    },
+    "attributes": {
+      "ac": {
+        "min": 0,
+        "value": 22,
+        "dex": 0,
+        "item": 0,
+        "check": 0,
+        "details": "",
+        "name": "ac",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 9,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 3,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "base": 22,
+        "breakdown": "Base Armor Class 10, Base Modifier +9, Dexterity +3"
+      },
+      "allSaves": {
+        "value": ""
+      },
+      "shield": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0
+      },
+      "hp": {
+        "value": 55,
+        "min": 0,
+        "max": 55,
+        "temp": 0,
+        "tempmax": 0,
+        "details": ""
+      },
+      "sp": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "details": ""
+      },
+      "flatbonushp": 0,
+      "levelbonushp": 0,
+      "flatbonussp": 0,
+      "levelbonussp": 0,
+      "bonusLimitBulk": 0,
+      "bonusEncumbranceBulk": 0,
+      "resolve": {
+        "value": 0
+      },
+      "perception": {
+        "rank": 0,
+        "ability": "wis",
+        "item": 0,
+        "value": 9,
+        "name": "perception",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 8,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 9,
+        "base": 9,
+        "breakdown": "Base Modifier +8, Wisdom +1"
+      },
+      "initiative": {
+        "circumstance": 0,
+        "status": 0,
+        "ability": ""
+      },
+      "init": {
+        "bonus": 0,
+        "value": 0
+      },
+      "speed": {
+        "value": 25,
+        "special": "",
+        "otherSpeeds": []
+      },
+      "ancestryhp": 0,
+      "classhp": 0,
+      "classDC": {
+        "rank": 0,
+        "ability": "str",
+        "item": 0,
+        "value": 0
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "CE"
+      },
+      "biography": {
+        "value": "",
+        "public": ""
+      },
+      "class": {
+        "value": ""
+      },
+      "ancestry": {
+        "value": ""
+      },
+      "heritage": {
+        "value": ""
+      },
+      "deity": {
+        "value": "",
+        "image": "systems/pf2e/assets/sheet/deity.png"
+      },
+      "level": {
+        "value": 1,
+        "min": 1
+      },
+      "keyability": {
+        "value": "str"
+      },
+      "source": {
+        "value": ""
+      },
+      "flavourText": "",
+      "nethysUrl": "",
+      "recallKnowledgeText": "",
+      "sidebarText": "",
+      "creatureType": ""
+    },
+    "martial": {
+      "unarmored": {
+        "rank": 0,
+        "value": 0
+      },
+      "light": {
+        "rank": 0,
+        "value": 0
+      },
+      "medium": {
+        "rank": 0,
+        "value": 0
+      },
+      "heavy": {
+        "rank": 0,
+        "value": 0
+      },
+      "simple": {
+        "rank": 0,
+        "value": 0
+      },
+      "martial": {
+        "rank": 0,
+        "value": 0
+      },
+      "advanced": {
+        "rank": 0,
+        "value": 0
+      },
+      "unarmed": {
+        "rank": 0,
+        "value": 0
+      }
+    },
+    "statusEffects": [],
+    "schema": {
+      "version": {
+        "value": ""
+      }
+    },
+    "traits": {
+      "size": {
+        "value": "sm"
+      },
+      "senses": [
+        {
+          "type": "darkvision",
+          "label": "Darkvision",
+          "value": "",
+          "exceptions": ""
+        }
+      ],
+      "traits": {
+        "value": [
+          "goblin",
+          "humanoid"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [],
+        "selected": [],
+        "custom": ""
+      },
+      "di": {
+        "value": [],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [],
+      "ci": [],
+      "rarity": {
+        "value": "unique"
+      }
+    },
+    "currency": {
+      "pp": {
+        "value": 0
+      },
+      "gp": {
+        "value": 0
+      },
+      "sp": {
+        "value": 0
+      },
+      "cp": {
+        "value": 0
+      }
+    },
+    "spells": {
+      "spell0": {
+        "max": 0
+      },
+      "spell1": {
+        "max": 0
+      },
+      "spell2": {
+        "max": 0
+      },
+      "spell3": {
+        "max": 0
+      },
+      "spell4": {
+        "max": 0
+      },
+      "spell5": {
+        "max": 0
+      },
+      "spell6": {
+        "max": 0
+      },
+      "spell7": {
+        "max": 0
+      },
+      "spell8": {
+        "max": 0
+      },
+      "spell9": {
+        "max": 0
+      },
+      "spell10": {
+        "max": 0
+      },
+      "spell11": {
+        "max": 0
+      }
+    },
+    "customModifiers": {},
+    "damageDice": {},
+    "skills": {
+      "acr": {
+        "name": "Acrobatics",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 7,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 3,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 10,
+        "ability": "dex",
+        "expanded": "acrobatics",
+        "label": "Acrobatics",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 10,
+        "breakdown": "Base Modifier +7, Dexterity +3",
+        "itemID": "Ni4feKugTQZoeqMt",
+        "base": 10
+      },
+      "arc": {
+        "name": "Arcana",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "arcana",
+        "label": "Arcana",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "ath": {
+        "name": "Athletics",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 6,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Strength",
+            "modifier": 4,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 10,
+        "ability": "str",
+        "expanded": "athletics",
+        "label": "Athletics",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 10,
+        "breakdown": "Base Modifier +6, Strength +4",
+        "itemID": "ZnfiKGV0tXTVfE2O",
+        "base": 10
+      },
+      "cra": {
+        "name": "Crafting",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "crafting",
+        "label": "Crafting",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "dec": {
+        "name": "Deception",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "cha",
+        "expanded": "deception",
+        "label": "Deception",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Charisma +2"
+      },
+      "dip": {
+        "name": "Diplomacy",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "cha",
+        "expanded": "diplomacy",
+        "label": "Diplomacy",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Charisma +2"
+      },
+      "itm": {
+        "name": "Intimidation",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 10,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "ability": "cha",
+        "expanded": "intimidation",
+        "label": "Intimidation",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 12,
+        "breakdown": "Base Modifier +10, Charisma +2",
+        "itemID": "LFbRw4CxUMUwO7Hi",
+        "base": 12
+      },
+      "med": {
+        "name": "Medicine",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 1,
+        "ability": "wis",
+        "expanded": "medicine",
+        "label": "Medicine",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 1,
+        "breakdown": "Base Modifier +0, Wisdom +1"
+      },
+      "nat": {
+        "name": "Nature",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 7,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 8,
+        "ability": "wis",
+        "expanded": "nature",
+        "label": "Nature",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 8,
+        "breakdown": "Base Modifier +7, Wisdom +1",
+        "itemID": "iTM4Qk2MIW7IFcrF",
+        "base": 8
+      },
+      "occ": {
+        "name": "Occultism",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "occultism",
+        "label": "Occultism",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "prf": {
+        "name": "Performance",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Charisma",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "cha",
+        "expanded": "performance",
+        "label": "Performance",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Charisma +2"
+      },
+      "rel": {
+        "name": "Religion",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 1,
+        "ability": "wis",
+        "expanded": "religion",
+        "label": "Religion",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 1,
+        "breakdown": "Base Modifier +0, Wisdom +1"
+      },
+      "soc": {
+        "name": "Society",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Intelligence",
+            "modifier": 2,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 2,
+        "ability": "int",
+        "expanded": "society",
+        "label": "Society",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 2,
+        "breakdown": "Base Modifier +0, Intelligence +2"
+      },
+      "ste": {
+        "name": "Stealth",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 9,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 3,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 12,
+        "ability": "dex",
+        "expanded": "stealth",
+        "label": "Stealth",
+        "visible": true,
+        "lore": false,
+        "rank": 1,
+        "value": 12,
+        "breakdown": "Base Modifier +9, Dexterity +3",
+        "itemID": "Qz3GJMbbgWWF5hGO",
+        "base": 12
+      },
+      "sur": {
+        "name": "Survival",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Wisdom",
+            "modifier": 1,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 1,
+        "ability": "wis",
+        "expanded": "survival",
+        "label": "Survival",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 1,
+        "breakdown": "Base Modifier +0, Wisdom +1"
+      },
+      "thi": {
+        "name": "Thievery",
+        "_modifiers": [
+          {
+            "name": "PF2E.BaseModifier",
+            "modifier": 0,
+            "type": "untyped",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          },
+          {
+            "name": "Dexterity",
+            "modifier": 3,
+            "type": "ability",
+            "enabled": true,
+            "ignored": false,
+            "custom": false
+          }
+        ],
+        "totalModifier": 3,
+        "ability": "dex",
+        "expanded": "thievery",
+        "label": "Thievery",
+        "visible": false,
+        "lore": false,
+        "rank": 0,
+        "value": 3,
+        "breakdown": "Base Modifier +0, Dexterity +3"
+      }
+    }
+  },
+  "sort": 400001,
+  "flags": {
+    "exportSource": {
+      "world": "rotrl",
+      "system": "pf2e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.11.5"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/npc.svg",
+  "token": {
+    "flags": {
+      "perfect-vision": {
+        "visionRules": "default",
+        "monoVisionColor": "",
+        "sightLimit": null,
+        "_version": 1
+      }
+    },
+    "name": "Chief Ripnugget",
+    "displayName": 20,
+    "img": "systems/pf2e/icons/default-icons/npc.svg",
+    "tint": "",
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 300,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightColor": "",
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "type": "",
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "fmzxqlZDfP9GyEbu",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "QGX2lU21f21BxOQw",
+      "name": "Goblin Scuttle",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<b>Trigger</b> A goblin ally ends a move action adjacent to the commando. <b>Effect</b> The goblin warrior Steps.",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": "defensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "sort": 600000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "bAnf6IOMlwroUkhd",
+      "name": "Attack of Opportunity",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p><strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "attack-of-opportunity",
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "rank": "",
+            "skill": ""
+          }
+        }
+      },
+      "sort": 700000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.bestiary-ability-glossary-srd.hFtNbo1LKYCoDy2O"
+        }
+      },
+      "img": "systems/pf2e/icons/actions/Reaction.png",
+      "effects": []
+    },
+    {
+      "_id": "ESJcippcrSCNxDwI",
+      "name": "Shortsword (+1 Striking)",
+      "type": "weapon",
+      "data": {
+        "description": {
+          "value": "<p>These blades come in a variety of shapes and styles, but they are typically 2 feet long.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "finesse",
+            "versatile-s"
+          ],
+          "custom": "",
+          "label": "Weapon Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "shortsword",
+        "quantity": {
+          "value": 1,
+          "label": "Quantity",
+          "type": "Number"
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L",
+          "label": "Bulk",
+          "type": "Number"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "9 sp",
+          "label": "Price",
+          "type": "String"
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "level": {
+          "value": 0,
+          "label": "Item Level",
+          "type": "Number"
+        },
+        "invested": {
+          "value": false
+        },
+        "weaponType": {
+          "value": "martial",
+          "label": "Weapon Category",
+          "type": "String"
+        },
+        "group": {
+          "value": "sword",
+          "label": "Weapon Group",
+          "type": "String"
+        },
+        "hands": {
+          "value": "",
+          "label": "Hands",
+          "type": "String"
+        },
+        "bonus": {
+          "value": 0,
+          "label": "Item Bonus",
+          "type": "String"
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d6",
+          "damageType": "piercing",
+          "label": "damage",
+          "type": "String"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "melee",
+          "label": "Weapon Range",
+          "type": "String"
+        },
+        "reload": {
+          "value": "",
+          "label": "Reload",
+          "type": "String"
+        },
+        "ability": {
+          "value": "str",
+          "label": "Offensive Ability",
+          "type": "String"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": "1"
+        },
+        "strikingRune": {
+          "value": "striking"
+        },
+        "propertyRune1": {
+          "value": ""
+        },
+        "propertyRune2": {
+          "value": ""
+        },
+        "propertyRune3": {
+          "value": ""
+        },
+        "propertyRune4": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "label": "Primary Property",
+          "strikeConditionType": "",
+          "strikeConditionValue": null,
+          "type": "String"
+        }
+      },
+      "sort": 800000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.7tKkkF8eZ4iCLJtp"
+        }
+      },
+      "img": "systems/pf2e/icons/equipment/weapons/shortsword.jpg",
+      "effects": []
+    },
+    {
+      "_id": "eR78Q4415O4hdmKX",
+      "name": "Breastplate",
+      "type": "armor",
+      "data": {
+        "description": {
+          "value": "<p>Though referred to as a breastplate, this type of armor consists of several pieces of plate or half‑plate armor (page 276) that protect the torso, chest, neck, and sometimes the hips and lower legs. It strategically grants some of the protection of plate while allowing greater flexibility and speed.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [],
+          "label": "Traits",
+          "rarity": {
+            "value": "common"
+          },
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "predicate": {
+              "not": [
+                "unburdened-iron"
+              ]
+            },
+            "roll-options": [
+              "all"
+            ],
+            "selector": "speed",
+            "type": "untyped",
+            "value": {
+              "brackets": [
+                {
+                  "end": 15,
+                  "value": -5
+                }
+              ],
+              "field": "actor|data.abilities.str.value"
+            }
+          }
+        ],
+        "slug": "breastplate",
+        "quantity": {
+          "value": 1,
+          "label": "Quantity",
+          "type": "Number"
+        },
+        "hp": {
+          "value": null
+        },
+        "maxHp": {
+          "value": null
+        },
+        "hardness": {
+          "value": null
+        },
+        "brokenThreshold": {
+          "value": null
+        },
+        "weight": {
+          "value": "3",
+          "label": "Bulk",
+          "type": "Number"
+        },
+        "equippedBulk": {
+          "value": "2"
+        },
+        "price": {
+          "value": "8 gp",
+          "label": "Price",
+          "type": "String"
+        },
+        "equipped": {
+          "value": false,
+          "label": "Equipped",
+          "type": "Boolean"
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "sm"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "level": {
+          "value": 0,
+          "label": "Item Level",
+          "type": "Number"
+        },
+        "invested": {
+          "value": false
+        },
+        "armor": {
+          "value": 4,
+          "label": "AC Bonus",
+          "type": "Number"
+        },
+        "armorType": {
+          "value": "medium",
+          "label": "Armor Category",
+          "type": "String"
+        },
+        "group": {
+          "value": "plate",
+          "label": "Group",
+          "type": "String"
+        },
+        "strength": {
+          "value": "16",
+          "label": "Required Strength",
+          "type": "String"
+        },
+        "dex": {
+          "value": "1",
+          "label": "Dex Modifier Cap",
+          "type": "String"
+        },
+        "check": {
+          "value": "-2",
+          "label": "Check Penalty",
+          "type": "String"
+        },
+        "speed": {
+          "value": "-5 ft",
+          "label": "Speed Penalty",
+          "type": "String"
+        },
+        "potencyRune": {
+          "value": ""
+        },
+        "resiliencyRune": {
+          "value": ""
+        },
+        "propertyRune1": {
+          "value": ""
+        },
+        "propertyRune2": {
+          "value": ""
+        },
+        "propertyRune3": {
+          "value": ""
+        },
+        "propertyRune4": {
+          "value": ""
+        },
+        "usage": {
+          "value": "wornarmor"
+        },
+        "potency": {
+          "label": "Armor Potency",
+          "type": "String"
+        },
+        "resilient": {
+          "label": "Resilient",
+          "type": "String"
+        }
+      },
+      "sort": 900000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.r0ifJfoz8aqf0mwk"
+        }
+      },
+      "img": "systems/pf2e/icons/equipment/armor/breastplate.jpg",
+      "effects": []
+    },
+    {
+      "_id": "Ni4feKugTQZoeqMt",
+      "name": "Acrobatics",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 10
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 1000000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "ZnfiKGV0tXTVfE2O",
+      "name": "Athletics",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 10
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 1100000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "LFbRw4CxUMUwO7Hi",
+      "name": "Intimidation",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 12
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 1200000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "iTM4Qk2MIW7IFcrF",
+      "name": "Nature",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 8
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 1300000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "Qz3GJMbbgWWF5hGO",
+      "name": "Stealth",
+      "type": "lore",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": []
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "featType": "",
+        "mod": {
+          "value": 12
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        }
+      },
+      "sort": 1400000,
+      "flags": {},
+      "effects": []
+    },
+    {
+      "_id": "fuLB5s63MKYTkpQl",
+      "name": "Shortsword",
+      "type": "melee",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "finesse",
+            "versatile-s"
+          ],
+          "custom": ""
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "quantity": {
+          "value": 1
+        },
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": 0
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": 0
+        },
+        "equipped": {
+          "value": false
+        },
+        "identified": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified"
+        },
+        "invested": {
+          "value": false
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "m0ddac82w18tk5fmavbf": {
+            "damage": "2d6+4",
+            "damageType": "piercing"
+          }
+        },
+        "bonus": {
+          "value": "14"
+        },
+        "attackEffects": {
+          "value": []
+        },
+        "weaponType": {
+          "value": "melee"
+        }
+      },
+      "sort": 1500000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "cGFlJ3yhRKWCqsEZ",
+      "name": "Power Attack",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>Make a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an extra die of weapon damage.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "flourish"
+          ],
+          "custom": ""
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": null,
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "2"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "skill": {
+            "skill": "",
+            "rank": ""
+          }
+        }
+      },
+      "sort": 1600000,
+      "flags": {},
+      "img": "systems/pf2e/icons/actions/TwoActions.png",
+      "effects": []
+    },
+    {
+      "_id": "76sotdo6oI78E6bp",
+      "name": "Command an Animal",
+      "type": "action",
+      "data": {
+        "description": {
+          "value": "<p>You issue an order to an animal. Attempt a Nature check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.</p>\n<p>You automatically fail if the animal is hostile or unfriendly to you. If the animal is helpful to you, increase your degree of success by one step. You might be able to Command an Animal more easily with a feat like @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Ride}.</p>\n<p>Most animals know the Drop Prone, Leap, Seek, Stand, Stride, and Strike basic actions. If an animal knows an activity, such as a horse's Gallop, you can Command the Animal to perform the activity, but you must spend as many actions on Command an Animal as the activity's number of actions. You can also spend multiple actions to Command the Animal to perform that number of basic actions on its next turn; for instance, you could spend 3 actions to Command an Animal to Stride three times or to Stride twice and then Strike.</p>\n<hr />\n<p><strong>Success</strong> The animal does as you command on its next turn.</p>\n<p><strong>Failure</strong> The animal is hesitant or resistant, and it does nothing.</p>\n<p><strong>Critical Failure</strong> The animal misbehaves or misunderstands, and it takes some other action determined by the GM.</p>",
+          "chat": "",
+          "label": "Description",
+          "type": "String",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "",
+          "label": "Source",
+          "type": "String"
+        },
+        "traits": {
+          "value": [
+            "concentrate",
+            "skill",
+            "auditory"
+          ],
+          "custom": "",
+          "label": "Traits",
+          "type": "String"
+        },
+        "rarity": {
+          "value": "common"
+        },
+        "rules": [],
+        "slug": "command-an-animal",
+        "actionType": {
+          "value": "action",
+          "label": "Action Type",
+          "type": "String"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": "",
+          "label": "Associated Weapon",
+          "type": "String"
+        },
+        "actions": {
+          "value": "1",
+          "label": "Number of Actions",
+          "type": "String"
+        },
+        "requirements": {
+          "value": "",
+          "label": "Requirements",
+          "type": "String"
+        },
+        "trigger": {
+          "value": "",
+          "label": "Trigger",
+          "type": "String"
+        },
+        "skill_requirements": {
+          "skill": "",
+          "rank": ""
+        },
+        "skill_requirement": {
+          "label": "Skill Req.",
+          "skill": {
+            "rank": "0",
+            "skill": "nature",
+            "type": "Number"
+          },
+          "type": "String"
+        }
+      },
+      "sort": 1700000,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.actionspf2e.q9nbyIF0PEBqMtYe"
+        }
+      },
+      "img": "systems/pf2e/icons/actions/OneAction.png",
+      "effects": []
+    }
+  ],
+  "effects": [],
+  "_id": "fmzxqlZDfP9GyEbu"
+}
