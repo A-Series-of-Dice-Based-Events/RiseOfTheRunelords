@@ -29,13 +29,14 @@ Target for this book is therefore around 2400 level adjusted XP
 Title | Max XP 
 ------|-------
 Raid on Sandpoint | 500
-Journey to Jorgenfist | 180
-Valley of the Black Tower | 715
+Journey to Jorgenfist | 320+
+Valley of the Black Tower | 830/660
 Jorgenfist | 560
 Library | 400
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Low CR minions  need to be raised more to work in 2E.
+- Isolated encounters are generally higher threat ratings. Encounters that could run together are generally lower threat ratings. 
 
 
 ## TO DO
@@ -56,20 +57,19 @@ Level | Total gp | Permanent Items         | Consumables                        
 ## General Encounter Advice
 
 - Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note double elite is closer to 3 levels rather than 2.
-- If they are finding it hard going then liberally apply weak templates or remove minions.  
-- If they are breezing through, then liberally apply elite templates or add minions. 
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 1: Raid on Sandpoint (xp 385+115 story award, party level 10)
 
-  - if your players go straight to Jorgenfist instead of returning to Sandpoint, then consider moving the raid to after Jorgenfist, where they can discover there is a raiding party on the way to Sandpoint.  
+  - If your party is level 11 before this encounter there is no need to change anything here.
+  - if your group go straight to Jorgenfist instead of returning to Sandpoint, then consider moving the raid to after Jorgenfist, where they can discover there is a raiding party on the way to Sandpoint.  
 
   - **Creatures:** 
     - [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Cave Bears](https://2e.aonprd.com/Monsters.aspx?ID=48)
     - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136). Choose either the frenzy/momentum or the spellcasting option to personal preference.
     - [Teraktinus PDF](./Statblocks/Teraktinus.pdf)  
-    ![Teraktinus PNG](./Statblocks/Teraktinus.png)
+    - ![Teraktinus PNG](./Statblocks/Teraktinus.png)
     
     A level 12 version of Teraktinus can be found [here](https://monster.pf2.tools/v/zfzmhMbR-teraktinus). This changes the encounter from moderate to severe for level 10 characters, or from low to moderate for level 11 characters.
   - **Notes:**
@@ -87,7 +87,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     - If Longtooth was prevented from burning down half the town award bonus 80xp and a hero point
     - For getting useful information from captives award 35xp
 
-## Part 2: Journey to Jorgenfist (party level 11, xp 180)
+## Part 2: Journey to Jorgenfist (party level 11, xp 320)
 
   - Note it is common for PCs to use travel magic to bypass these encounters. If they do then award xp appropriately.
 
@@ -96,79 +96,101 @@ Level | Total gp | Permanent Items         | Consumables                        
    - 4 Ogre fighters - see Book 3 Ogre Fighters from Fort Rannick
    - There is one Ogre Fighter per PC
 
-### Storval Stairs (xp 60, low threat)
+### Storval Stairs (xp 80, moderate threat)
   - Note that this encounter seems to be the one most often bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this encounter to Skulls Crossing in Book 3 if the party have cleared out the ogres and returned later.
   - **Creatures:** 
-    - 6 [Hill Giants](https://2e.aonprd.com/Monsters.aspx?ID=220)
+    - 8 [Hill Giants](https://2e.aonprd.com/Monsters.aspx?ID=220)
 
-### Iron Peak Patrols (xp 60, low threat)
+### Iron Peak Foot Patrol (xp 60, low threat)
   - **Creatures:** 
     - 2 [Stone Giants](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - 3 [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Cave Bears](https://2e.aonprd.com/Monsters.aspx?ID=48)
 
-## Part 3: Valley of the Black Tower (xp 715, XP and threat level is shown for party level 11)
+### Iron Peak Mounted Patrol (xp 60, low threat)
+  - **Creatures:** 
+    - 2x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
+    - 2x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
+
+### Other encounters (xp 60+)
+  - **Creatures:** 
+    - Add isolated encounters to get them ready for Jorgenfist as required
+    - GMs choice - suggestion: Rocs similar to those at A13 or Wyverns as per A3
+
+## Part 3: Valley of the Black Tower (xp 830/660, party level 11/12)
 
   - As the party could approach the encounters in the second half of this book in any order, then be prepared to dynamically adjust the encounters upwards with elite templates or extra creatures to maintain threat levels.  
   - Note the scale on the map is NOT 5ft to the square on the Jorgenfist above ground and below ground maps. Many a GM has fallen foul of that small detail!
   - It is common for PCs to secretly scout using flying, invisibility, etc. and then approach through the rear caves.
 
-### A1 (xp 90, moderate threat)
+### A1 (xp 90/100, moderate threat)
   - **Creatures:** 
-    - [Cinderma](https://2e.aonprd.com/Monsters.aspx?ID=680)
-    - 2x [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
-    ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
+    - [Taiga Giant](https://2e.aonprd.com/Monsters.aspx?ID=680)
+    - 2x [Runeslave Hill Giant](./Statblocks/RuneslaveHillGiant.pdf)  
+    - ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
     
+    - Level 12: Add Elite to the Taiga Giant, and there are 4 Runeslave Hill Giants
+
 ### A2
   - Optional: either let PCs bypass the encounters somehow, or use the Infiltration rules from the Gamemastery Guide. An example Infiltration is given here: 
     - [Jorgenfist Infiltration optional subsystem](./Statblocks/Jorgenfist_Infiltration_withSecretTunnel.pdf)
   - Consider giving story XP if the PCs overcome this challenge.
 
-### A3 (xp 60, low threat)
+### A3 (xp 80/60, moderate/low threat)
   - **Creatures:** 
-    - 3x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
+    - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
 
-### A4 (xp 80, moderate threat)
+### A4 (xp 120, severe threat)
   - **Creatures:** 
-    - 2x [Deathweb Spiders PDF](./Statblocks/DeathwebSpider.pdf)
-    ![Deathweb Spiders PNG](./Statblocks/DeathwebSpider.png)
+    - 3x [Deathweb Spiders](./Statblocks/DeathwebSpider.pdf)
+    - ![Deathweb Spiders PNG](./Statblocks/DeathwebSpider.png)
+    - Level 12: There are 4 Deathweb spiders
+    - As this guards the rear entrance this is meant to be a hard though isolated encounter - also the layout lends itself to area attacks
+
+### A5 (xp 60/40 or 120/80, low or severe threat)
+  - **Creatures:** 
+    - [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Young red dragon](https://2e.aonprd.com/Monsters.aspx?ID=136).
+    - As this is an isolated encounter consider adding a second dragon (brother/sister) or a kobold servant (as per Enga Keckvia)
 
 ### A6 (xp 30, trivial threat)
   - **Creatures:** 
     - 3x [Harpy Monk PDF](./Statblocks/Harpy%20Monk.pdf)
-    ![Harpy Monk PNG](./Statblocks/Harpy%20Monk.png)
-    - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter as 1 or possibly 2 harpy monks of party level.
+    - ![Harpy Monk PNG](./Statblocks/Harpy%20Monk.png)
+    Level 12: Add Elite
+    - Conversion note: as Harpy song has the incapacitation trait, that makes these level-4 encounters even more trivial, consider redoing this encounter as 1 or 2 harpy monks of party level.
+    - These will not join in with other combats but guard the tower - convinced of their own capabilities
 
-### A7 (xp 60, low threat)
+
+### A7 (xp 60/40, low threat)
   - **Creatures:** 
     - 1x per each of 4 towers: [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
     
-### A8 (xp 45, trivial threat)
+### A8 (xp 45/30, trivial threat)
   - **Creatures:** 
     - 1x [Stone giant](https://2e.aonprd.com/Monsters.aspx?ID=221)
     - 1x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
     
-### A10 (xp 90, moderate threat)
+### A10 (xp 90/60, moderate threat)
   - **Creatures:** 
     - 3x [Mammoth](https://2e.aonprd.com/Monsters.aspx?ID=202)
 
-### A11 (xp 40, trivial threat)
+### A11 (xp 40/30, trivial threat)
   - **Creatures:** 
     - [Embers PDF](./Statblocks/Embers.pdf)
-    ![Embers PNG](./Statblocks/Embers.png)
+    - ![Embers PNG](./Statblocks/Embers.png)
     
-### A12 (xp 40, trivial threat)
+### A12 (xp 40/30, trivial threat)
   - **Creatures:** 
     - 2x [Frost giant](https://2e.aonprd.com/Monsters.aspx?ID=222)
+    - These giants will leave well alone and only join in the fight if forced to
 
-### A13 (xp 60, low threat)
+### A13 (xp 60/40, low threat)
   - **Creatures:** 
     - 2x [Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Roc](https://2e.aonprd.com/Monsters.aspx?ID=352)
 
-### A14 (xp 120, severe threat)
+### A14 (xp 120/80, severe threat)
   - **Creatures:** 
     - [The Black Monk PDF](./Statblocks/TheBlackMonk.pdf)
-    ![The Black Monk PNG](./Statblocks/TheBlackMonk.png)
-
+    - ![The Black Monk PNG](./Statblocks/TheBlackMonk.png)
 
 ## Part 4: Under Jorgenfist (party level 12, xp 560)
 
@@ -181,12 +203,12 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 ### B2 (xp 40, but see B6)
   - **Creatures:** 
     - [Conna PDF](./Statblocks/Conna.pdf)
-    ![Conna PNG](./Statblocks/Conna.png)
+    - ![Conna PNG](./Statblocks/Conna.png)
 
 ### B3 (xp 40, Trivial)
   - **Creatures:** 
     - [Galenmir](./Statblocks/Galenmir.pdf)
-    ![Galenmir PNG](./Statblocks/Galenmir.png)
+    - ![Galenmir PNG](./Statblocks/Galenmir.png)
     
 ### B4 (xp 40, Trivial)
   - **Creatures:** 
@@ -199,17 +221,17 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 ### B6 (xp 40, Trivial)
   - **Creatures:** 
     - [Flayed Giant haunt PDF](./Statblocks/flayed_giant-1612708369.pdf)
-    ![Flayed Giant PNG](./Statblocks/flayed_giant-1612708350.png)
+    - ![Flayed Giant PNG](./Statblocks/flayed_giant-1612708350.png)
   - Give the PCs xp for both the haunt (40) and for Conna (40) if they secure an alliance with her.
 
 ### B7a (xp 40, Trivial)
   - **Creatures:** 
     - [Enga PDF](./Statblocks/EngaKeckvia.pdf)
-    ![Enga PNG](./Statblocks/EngaKeckvia.png)
+    - ![Enga PNG](./Statblocks/EngaKeckvia.png)
 
-### B7b (xp 50, trivial)
+### B7b (xp 60, trivial)
   - **Creatures:** 
-    - 5 [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
+    - 6 [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
 
 ### B8 (xp 30, Trivial)
   - **Creatures:** 
@@ -227,7 +249,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 ### B11 (xp 30, Trivial)
   - **Creatures:** 
     - [Lokansir](./Statblocks/Lokansir.pdf)  
-    ![Lokansir PNG](./Statblocks/Lokansir.png) 
+    - ![Lokansir PNG](./Statblocks/Lokansir.png) 
 
 ### B12 (xp 40, Trivial)
   - **Creatures:** 
@@ -236,7 +258,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 ### B13 (xp 60, Low)
   - **Creatures:**
     - [Lamia Warpriest PDF](./Statblocks/LamiaWarpriest.pdf)  
-    ![Lamia Warpriest PNG](./Statblocks/LamiaWarpriest.png)  
+    - ![Lamia Warpriest PNG](./Statblocks/LamiaWarpriest.png)  
   - **Tactics:**
     - The sisters trash talk each other during combat
     - Before combat: If the Lamias have warning and time to prepare they cast True Seeing, Freedom of Movement, Heroism, Air Walk, Protection and Mirror Image as they see fit. 
@@ -259,7 +281,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Chamber of Reduction](./Statblocks/chamber_of_reduction-1613937614.png)
   - **Creatures:** 
     - Elite [Runeslave Hill Giant PDF](./Statblocks/RuneslaveHillGiant.pdf)  
-    ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
+    - ![Runeslave Hill Giant  PNG](./Statblocks/RuneslaveHillGiant.png)
 
 ### C3 (xp 20, Trivial)
   - **Creatures:**
@@ -267,15 +289,15 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 
 ### C4 (xp 60, low threat)
   - **Creatures:** 
-    - [Headless Lord]
-    ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
-    ![Runechill PNG](./Statblocks/runechill-1612041545.png)
+    - [Headless Lord](./Statblocks/HeadlessLord.pdf)
+    - ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
+    - ![Runechill PNG](./Statblocks/runechill-1612041545.png)
     - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
 
 ### C5 (xp 15, trivial threat, but usually joins other combats for 2 rounds and then hides)
   - **Creatures:** 
     - [Forgefiend PDF](./Statblocks/forgefiend-1612040837.pdf)
-    ![Forgefiend PNG](./Statblocks/Forgefiend.png)
+    - ![Forgefiend PNG](./Statblocks/Forgefiend.png)
 
 ### C6 (xp 40, Trivial)
 - **Creatures:**
@@ -296,7 +318,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
 ### C9 (xp 80, moderate threat, plus completion bonus xp and hero point)
   - **Creatures:** 
     - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v3.pdf)
-    ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
+    - ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
     
   - Award bonus XP for ending the giant invasion threat 
 
