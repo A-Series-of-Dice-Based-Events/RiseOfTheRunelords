@@ -2,13 +2,13 @@
 
 ## Foreword
 
-This book provides an alternate for those that want to take the Adventure Path to level 20. The aim is for the PCs to reach level 20 just before the final encounter with Karzoug.  To do this it:
+This book provides an alternate for those that want to take the Adventure Path to level 20. The aim is for the PCs to reach level 20 just before the final encounter with Karzoug. To do this it:
   - Assumes the party reached level 16 at the end of book 5
   - Fleshes out the first part of the adventure "Seeking Xin-Shalast"
-  - Increases XP and adds encounters in other parts of the adventure
+  - Increases XP and adds encounters in other parts of the adventure, particularly in Xin-Shalast
   - Generally applies Elite and Double Elite to creatures in the base book 6. Where those creatures were already double elite add a second creature.
 
-Initially this book will mainly refer to Book 6 Original. 
+Initially this book will mainly refer to the original Book 6. 
 
 ## Conversion Guide for Pathfinder Second Edition (2E)
 
@@ -30,16 +30,17 @@ Initially this book will mainly refer to Book 6 Original.
 
 Part | Title | Level | Max XP 
 -|-|-|-
-1 | Seeking Xin-Shalast  | 16 | 800
-2 | Whispers In The Wind | 17 | 400
-3 | On the World's Roof  | 17 | 160
-4 | Xin-Shalast          | 17 | 440
+1 | Seeking Xin-Shalast  | 16 | 1000
+2 | Whispers In The Wind | 17 | 450
+3 | On the World's Roof  | 17 | 180
+4 | Xin-Shalast          | 18 | 700
 5 | Scaling Mhar Massif  | 18 | 120
-6 | Pinnacle of Avarice  | 18 | 900
-7 | The Eye of Avarice   | 19 | 160
+6 | Pinnacle of Avarice  | 19 | 900
+7 | The Eye of Avarice   | 20 | 160
 
 ## TO DO
-  - Seeking Xin-Shalast encounters
+  - Add Seeking Xin-Shalast encounters
+  - Add Xin-Shalast encounters
   - Adjust Book 6 original encounters
   - treasure by level
 
@@ -53,13 +54,16 @@ This adventure needs to include appropriate treasure for level 16 through 19.
 - Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
-## Part 1: Seeking Xin-Shalast (Party Level 16)
+## Part 1: Seeking Xin-Shalast (Party Level 16, xp 1000)
 
   TO DO
   - Vekker's Base Camp
   - Thematic encounters
 
-## Part 2: Whispers In The Wind (Party Level 17, xp 400)
+## Part 2: Whispers In The Wind (Party Level 17, xp 450)
+
+- Apply double elite to all haunts (all DCs+4)
+- Apply double elite to all creatures (+3 levels)
 
 ### B1 The Tailings (xp 60, Trivial)
   - Level 18 [Double Elite Horror Tree](../Book%206/Statblocks/HorrorTree.pdf)
@@ -76,9 +80,9 @@ This adventure needs to include appropriate treasure for level 16 through 19.
 
 ### B6 Ore Shaft (xp 60, low)
   - [Tipping Stairs](../Book%206/Statblocks/TippingStairs.pdf)
-    - ![Tipping Stairs PNG](../Book%206/Statblocks/TippingStairs.png)
+  - ![Tipping Stairs PNG](../Book%206/Statblocks/TippingStairs.png)
   - Level 18 [Double Elite Haunted Chain](../Book%206/Statblocks/HauntedChain.pdf)
-    - ![Haunted Chain PNG](../Book%206/Statblocks/HauntedChain.png)
+  - ![Haunted Chain PNG](../Book%206/Statblocks/HauntedChain.png)
 
 ### B8 Front Porch (xp 10, trivial)
   - [Partially Eaten Dwarf](../Book%206/Statblocks/PartiallyEatenDwarf.pdf)
@@ -108,13 +112,13 @@ This adventure needs to include appropriate treasure for level 16 through 19.
   - ![Karivek Vekker PNG](../Book%206/Statblocks/KarivekVekker.png)
   - 2 [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
-### Event 4: The Siege (xp 80, moderate)
+### Event 4: The Siege (xp 120, severe)
   - [Double Elite Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
 ### Vekker Cabin Completion Bonus
   - For laying the haunts to rest award a hero point and bonus 40 XP 
 
-## Part 3: On the World's Roof (Party Level 17, xp 160)
+## Part 3: On the World's Roof (Party Level 17, xp 180)
 
 ### C. Queen of The Icemists (XP 80, Moderate, RP Encounter)
   - [Double Elite Svevenka Ice Nymph Queen](../Book%206/Statblocks/svevenka.pdf)
@@ -126,11 +130,11 @@ This adventure needs to include appropriate treasure for level 16 through 19.
   - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
   - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
-## Part 4: Xin-Shalast (Party Level 16, xp 440)
+## Part 4: Xin-Shalast (Party Level 18, xp 700)
 
 ### Resources used throughout
-  - Wardens of Wind are (L14) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giants](https://2e.aonprd.com/Monsters.aspx?ID=224)
-  - Wardens of Thunder are (L14) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225) and raise Chain Lightning to 7th level
+  - Wardens of Wind are (L14) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giants](https://2e.aonprd.com/Monsters.aspx?ID=224) - These are only found in the lower city 
+  - Wardens of Thunder are (L16) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225) and raise Chain Lightning to 8th level
 
 ### Event 5: Emergence of the Spared
 
@@ -170,24 +174,24 @@ This adventure needs to include appropriate treasure for level 16 through 19.
 ### N Hidden Path (XP 30, trivial)
   - Mountain Roper ![Mountain Roper PNG](../Book%206/Statblocks/MountainRoper.png)
 
-### Q Ghlorofaex's Lair (xp 80, moderate)
-  - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
+### Q Ghlorofaex's Lair (xp 60, low)
+  - Ghlorofaex [Elite Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
     - Choose spellcaster or frenzy/momentum according to taste
 
-### Xin-Shalast completion bonus
+### Xin-Shalast completion bonus (xp 80)
   - For navigating through Xin-Shalast and finding their way up award bonus 80XP and a hero point
 
-## Part 5: Scaling Mhar Massif (Party Level 16, xp 120)
+## Part 5: Scaling Mhar Massif (Party Level 18, xp 120)
 
 ### Invaders from Leng (xp 120, severe)
-  - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
+  - 6 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
 
-## Part 6: Pinnacle of Avarice (Party Level 17, xp 900)
+## Part 6: Pinnacle of Avarice (Party Level 19, xp 900)
   - Be wary of running too many encounters together, or of casting too many area affect spells from groups of identical creatures.
   - Use the politics to your advantage here. While all the leaders (Viorian, Khalib, Ceoptra) are loyal to Karzoug, they each want and expect to be next in line to be the future runelord of greed.
 
 ### X1 Entrance Ramp (xp 60, low)
-  - There is one warden of wind for each party member
+  - There is one warden of thunder for each party member
 
 ### X2 Kharzoug (xp 10 x 6, trivial, RP opportunities)
   - The images provide good opportunities for roleplay and for each side to weigh up the capabilities of their opponents. For example they get to understand the power of Karzoug's spells without major risk and possibly his counterspell / reflect spell ability. Karzoug tries to weigh up who is the greatest threat.
@@ -213,45 +217,45 @@ This adventure needs to include appropriate treasure for level 16 through 19.
   - Treasure TODO
 
 ### X6 Cells (xp 60, moderate)
-  - 4 [Lamia Priestess](../Book%206/Statblocks/lamiaPriestess.pdf)
+  - Add Elite to 4 [Lamia Priestess](../Book%206/Statblocks/lamiaPriestess.pdf)
     - ![Lamia Priestess A PNG](../Book%206/Statblocks/lamiaPriestessA.png)
     - ![Lamia Priestess B PNG](../Book%206/Statblocks/lamiaPriestessB.png)
 
-### X7 Den (xp 40, moderate)
-  - 2 [Lamia Kin Hungerer](../Book%206/Statblocks/hungerer.pdf)
+### X7 Den (xp 30, moderate)
+  - Add Elite to 2 [Lamia Kin Hungerer](../Book%206/Statblocks/hungerer.pdf)
     - ![Hungerer PNG](../Book%206/Statblocks/hungerer.png)
 
 ### X8 Prison (xp 30, trivial threat)
-  - [Astradaemon](https://2e.aonprd.com/Monsters.aspx?ID=91)
+  - [Purrodaemon](https://2e.aonprd.com/Monsters.aspx?ID=596)
 
 ### X9 Chambers 
   - Treasure TODO
 
-### X10 Door (xp 30, trivial threat, RP potential)
-  - Ayruzi [Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
+### X10 Door (xp 40, trivial threat, RP potential)
+  - Ayruzi [Double Elite Planetar](https://2e.aonprd.com/Monsters.aspx?ID=544)  
 
 ### X11 Doors (xp 30)
   - [Aklo Doors](../Book%206/Statblocks/AkloDoors.pdf)
     - ![Aklo Doors PNG](../Book%206/Statblocks/AkloDoors.png)
 
 ### X12 The Device (xp 120 + 40 + 40, severe+)
-  - 12 [Pinnacle of Leng](../Book%206/Statblocks/PinnacleOfLeng.pdf)
+  - Add double elite to 8 [Pinnacle of Leng](../Book%206/Statblocks/PinnacleOfLeng.pdf)
     - ![Pinnacle of Leng PNG](../Book%206/Statblocks/PinnacleOfLeng.png)
-  - [The Thing From Beyond Time](../Book%206/Statblocks/TheThingFromBeyondTime.pdf)
+  - Add Elite to [The Thing From Beyond Time](../Book%206/Statblocks/TheThingFromBeyondTime.pdf)
     - ![The Thing From Beyond Time PNG](../Book%206/Statblocks/TheThingFromBeyondTime.png)
     - Remember that the Occluding Field stops Angled Entry from working and causes it extreme discomfort and pain.
 
   - For stopping the completion of the Leng Device award bonus 40 XP and a hero point.
 
 ### X13 Cells (xp 100, moderate)
-  - 4 Wardens of Wind
+  - 4 Wardens of Thunder
   - Warden of Runes [Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
   - image of Karzoug
-  - add another Warden of Wind for each member in the party over 4
+  - add another Warden of Thunder for each member in the party over 4
   - Khalib is likely to join this combat on round 4 or 5 after prepping
 
-### X15 Quarters (xp 60, low if encountered here)
-  - [First Apprentice Khalib](../Book%206/Statblocks/Khalib.pdf)
+### X15 Quarters (xp 40, trivial if encountered here)
+  - Add Elite to [First Apprentice Khalib](../Book%206/Statblocks/Khalib.pdf)
     - ![Khalib PNG 1](../Book%206/Statblocks/Khalib1.png)
     - ![Khalib PNG 2](../Book%206/Statblocks/Khalib2.png)
     - Khalib is likely to join other (less than severe) combats in the Pinnacle rather than be found here
@@ -275,31 +279,25 @@ This adventure needs to include appropriate treasure for level 16 through 19.
 
 ### X17 Chamber of Focus (xp 105, severe)
   - Most High Ceoptra TO DO
-  - 3 Wardens of Wind
-  - add a warden of wind for each party member over 4
+  - 3 Wardens of Thunder
 
-## Part 7: The Eye of Avarice (Party Level 17, xp 160+)
+## Part 7: The Eye of Avarice (Party Level 20, xp 160)
 - This is the epic final battle. Review carefully and balance to your party. Its final makeup should not be over 40XP per PC. Though note with intelligent play the Wardens can change sides.
 
-- Level 18? optionally this can be for level 18 PCs, but you will need to adjust minions accordingly:
-  - Replace the Adult blue dragon with an Ancient blue dragon.
-  - Apply a second elite to the Storm Giant Wardens making them level 16 and increase their chain lightnings to level 8.
-  - Add a single elite to the Rune Giant. 
-  - For additional PCs add a second elite to the Rune Giant (making it level 19) and an Elite to the Ancient Blue Dragon. 
+  - For additional PCs make the dragon Double Elite. 
 
 - The layout of this room needs some consideration and potential adjustment: 
   - Consider adjusting the throne to be on a further raised dais and lower the runewell by 20 ft thereby having the entire room on a slope where Karzoug can see down the centre and has line of sight for his spells without getting up.
   - Consider making all the walkways 15ft wide as the dragon and the 3 gaints are all huge
   - The huge dragon has a 60 foot wingspan. If it is to fly consider having all the gold columns stop level with the adjacent walkways, and 40-60ft of free space above them.
 
-### The Final Battle (xp 190, Extreme+)
-  - [Karzoug the Claimer](../Book%206/Statblocks/Karzoug.pdf)
+### The Final Battle (xp 160, Extreme)
+  - Add Elite to [Karzoug the Claimer](../Book%206/Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](../Book%206/Statblocks/Karzoug1.png)
     - ![Karzoug 2 PNG](../Book%206/Statblocks/Karzoug2.png)
-  - [Fulmina - Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131) - consider using the Frenzy/Momentum version as there are quite enough spellcasters here already
-  - Warden of Runes [Teth - Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - [Fulmina - Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132) - consider using the Frenzy/Momentum version as there are quite enough spellcasters here already
+  - Warden of Runes [Teth - Double Elite Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
   - 2 Wardens of Thunder (Berg and Gil)
-  - If there are more than 4 PCs make the dragon an [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
 
 #### Tactics:
   - The general tactics are that the Dragon is a distraction, the Rune Giant is a bodyguard to allow Karzoug to keep casting, and the Wardens are ranged support.
