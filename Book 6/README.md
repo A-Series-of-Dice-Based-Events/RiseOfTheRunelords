@@ -25,10 +25,10 @@ Part | Title | Level | Max XP
 1 | Seeking Xin-Shalast  | 15 | GM Discretion
 2 | Whispers In The Wind | 15 | 400
 3 | On the World's Roof  | 16 | 160
-4 | Xin-Shalast          | 16 | 440
+4 | Xin-Shalast          | 16 | 430
 5 | Scaling Mhar Massif  | 16 | 120
 6 | Pinnacle of Avarice  | 17 | 900
-7 | The Eye of Avarice   | 17 or 18 | 160-200
+7 | The Eye of Avarice   | 17 or 18 | 160
 
 ## TO DO
   - Most High Ceoptra - 18th level Lamia Oracle
@@ -116,7 +116,7 @@ Part | Title | Level | Max XP
   - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
   - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
 
-## Part 4: Xin-Shalast (Party Level 16, xp 440)
+## Part 4: Xin-Shalast (Party Level 16, xp 430)
 
 ### Resources used throughout
   - Wardens of Wind are (L14) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giants](https://2e.aonprd.com/Monsters.aspx?ID=224)
@@ -147,7 +147,7 @@ Part | Title | Level | Max XP
     - ![The Hidden Beast 2 PNG](./Statblocks/TheHiddenBeast2.png)
   - Add one Vampire Skulk per PC in the party over 4
 
-### K Heptaric Locus (XP 80, moderate)
+### K Heptaric Locus (XP 60, lowe)
   - Gamigin [double elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
     - The Cone of Colds are raised to 8th level
     - Add Chilling Darkness, Finger of Death and Regenerate at 7th level
@@ -282,7 +282,7 @@ Part | Title | Level | Max XP
   - Consider making all the walkways 15ft wide as the dragon and the 3 gaints are all huge
   - The huge dragon has a 60 foot wingspan. If it is to fly consider having all the gold columns stop level with the adjacent walkways, and 40-60ft of free space above them.
 
-### The Final Battle (xp 190, Extreme+)
+### The Final Battle (xp 160, Extreme)
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
     - ![Karzoug 2 PNG](./Statblocks/Karzoug2.png)
