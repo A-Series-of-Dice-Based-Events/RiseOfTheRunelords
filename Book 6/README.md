@@ -32,7 +32,7 @@ Part | Title | Level | Max XP
 
 ## TO DO
   - Most High Ceoptra - 18th level Lamia Oracle
-  - treasure by level
+  - treasure by level - in progress
 
 ## Party Level and Target Allocation of Treasure
 
@@ -113,8 +113,11 @@ Part | Title | Level | Max XP
   - xp is awarded for befriending Svevenka
 
 ### D. Sentinels (XP 120, Severe)
-  - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
-  - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
+  **Creatures**
+    - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+    - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
+  **Treasure**
+    - divide all the book cash values by 2
 
 ## Part 4: Xin-Shalast (Party Level 16, xp 430)
 
@@ -127,7 +130,7 @@ Part | Title | Level | Max XP
 ### E Krak Naratha (XP 120, severe)
   - 12 [Krak Naratha soldiers](./Statblocks/KrakNarathaSoldier.pdf)
   - ![Lamia Kin Kuchrecia PNG](./Statblocks/KrakNarathaSoldier.png)
-  - For Aurochs use the stats for [Woolly Rhinoceros](https://2e.aonprd.com/Monsters.aspx?ID=789). This is an obstacle rather than  a threat.
+  - For Aurochs use the stats for [Woolly Rhinoceros](https://2e.aonprd.com/Monsters.aspx?ID=789). This is an obstacle rather than a threat.
 
 ### F Golden Road
 
@@ -135,27 +138,43 @@ Part | Title | Level | Max XP
   - Gyukak [Onidashi](https://2e.aonprd.com/Monsters.aspx?ID=746)
 
 ### H Abominable Dome (XP 60, low)
-  - 6 Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
-  - Add one Abominable Snowman per PC in the party over 4
+  **Creatures**  
+    - 6 Abominable Snowman ![Abominable Snowman PNG](./Statblocks/AbominableSnowman.png)
+    - Add one Abominable Snowman per PC in the party over 4
+  **Treasure**
+    - Greater armbands of athleticism (lvl 17 permanent)
+    - Divide the cash value of the book items by 2
 
 ### I Lair of the Hidden Beast (xp 80, moderate)
-  - 4 Vampire Skulk 
-  - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
-  - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
-  - [The Hidden Beast](./Statblocks/TheHiddenBeast.pdf)
+  **Creatures**
+    - 4 Vampire Skulk 
+    - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
+    - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
+    - [The Hidden Beast](./Statblocks/TheHiddenBeast.pdf)
     - ![The Hidden Beast 1 PNG](./Statblocks/TheHiddenBeast1.png)
-    - ![The Hidden Beast 2 PNG](./Statblocks/TheHiddenBeast2.png)
-  - Add one Vampire Skulk per PC in the party over 4
+    - ![The Hidden Beast 2 PNG](./Statblocks/TheHiddenBeast2.png)  
+    
+    - Add one Vampire Skulk per PC in the party over 4
+  **Treasure** 
+    - Reward from the skulks:
+      - True staff of healing (lvl 16 permanent)
+      - Scroll of 9th-level heal (lvl 17 consumable)
+      - 2 [Greater Winter wolf elixirs](https://2e.aonprd.com/Equipment.aspx?ID=103) (lvl 16 consumables)
 
 ### K Heptaric Locus (XP 60, lowe)
-  - Gamigin [double elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
-    - The Cone of Colds are raised to 8th level
-    - Add Chilling Darkness, Finger of Death and Regenerate at 7th level
-    - Add Teleport at 6th Level
-    - Add Darkness(x2) at 4th level
+  - **Creatures**
+    - Gamigin [double elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
+      - The Cone of Colds are raised to 8th level
+      - Add Chilling Darkness, Finger of Death and Regenerate at 7th level
+      - Add Teleport at 6th Level
+      - Add Darkness(x2) at 4th level
   
-  - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
-  - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
+    - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
+    - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
+  **Treasure**
+    - Remove the 8000gp of gems and jewellry
+    - Divide the cash value of the coins by 2.
+    - +3 greater striking longspear, with speed, greater frost and keen property runes. (lvl 16 permanent)
 
 ### N Hidden Path (XP 30, trivial)
   - Mountain Roper ![Mountain Roper PNG](./Statblocks/MountainRoper.png)
@@ -163,6 +182,11 @@ Part | Title | Level | Max XP
 ### Q Ghlorofaex's Lair (xp 80, moderate)
   - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
     - Choose spellcaster or frenzy/momentum according to taste
+  **Treasure**
+    - [impenetrable scale mail](https://2e.aonprd.com/Equipment.aspx?ID=154) (lvl 17 permanent)
+    - scroll of 9th-level heal (lv 17 consumable)
+    - 2 [major elixirs of life](https://2e.aonprd.com/Equipment.aspx?ID=91) (lvl 15 consumables)
+    - Divide the cash value of the book items by 2
 
 ### Xin-Shalast completion bonus
   - For navigating through Xin-Shalast and finding their way up award bonus 80XP and a hero point
@@ -170,7 +194,10 @@ Part | Title | Level | Max XP
 ## Part 5: Scaling Mhar Massif (Party Level 16, xp 120)
 
 ### Invaders from Leng (xp 120, severe)
-  - 3 [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
+  **Creatures**
+    - 6 [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Leng Spiders](https://2e.aonprd.com/Monsters.aspx?ID=713)
+  **Treasure**
+  -  Each spider has a [Clear Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) to traverse the death zone (level 7 permanents)
 
 ## Part 6: Pinnacle of Avarice (Party Level 17, xp 900)
   - Be wary of running too many encounters together, or of casting too many area affect spells from groups of identical creatures.
