@@ -31,8 +31,7 @@ Part | Title | Level | Max XP
 7 | The Eye of Avarice   | 17 or 18 | 160
 
 ## TO DO
-  - Most High Ceoptra - 18th level Lamia Oracle
-  - treasure by level - in progress
+  - treasure by level - in progress 
 
 ## Party Level and Target Allocation of Treasure
 
@@ -291,7 +290,8 @@ Part | Title | Level | Max XP
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
 
 ### X17 Chamber of Focus (xp 105, severe)
-  - Most High Ceoptra TO DO
+  - [Most High Ceoptra](./Statblocks/MostHighCeoptra.pdf)
+  - ![Most High Ceoptra PNG](./Statblocks/MostHighCeoptra.png)
   - 3 Wardens of Wind
   - add a warden of wind for each party member over 4
 
