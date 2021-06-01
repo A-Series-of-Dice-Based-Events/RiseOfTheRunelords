@@ -173,7 +173,7 @@ Part | Title | Level | Max XP
   **Treasure**
     - Remove the 8000gp of gems and jewellry
     - Divide the cash value of the coins by 2.
-    - +3 greater striking longspear, with speed, greater frost and keen property runes. (lvl 16 permanent)
+    - +3 greater striking longspear (lvl 16 permanent)
 
 ### N Hidden Path (XP 30, trivial)
   - Mountain Roper ![Mountain Roper PNG](./Statblocks/MountainRoper.png)

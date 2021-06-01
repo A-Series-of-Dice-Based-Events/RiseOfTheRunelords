@@ -130,7 +130,7 @@ If they are breezing through, then liberally apply elite templates or add minion
   - Unfulfilled Glories ![Unfulfilled Glories PNG](./Statblocks/UnfulfilledGlories.png)
 
 ### B24 (40xp, trivial threat)
-  - Iesha Foxglove [Revenant](http://2e.aonprd.com/Monsters.aspx?ID=347)
+  - Iesha Foxglove [Revenant](http://2e.aonprd.com/Monsters.aspx?ID=787)
 
 ## Basement (390xp,Party Level 6)
 
