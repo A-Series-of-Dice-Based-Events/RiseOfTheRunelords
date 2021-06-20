@@ -80,8 +80,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - [Cyrdak Drokkus (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941)
   - [Ameiko Kaijutsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
   - [Ilsoari Gandethus (Elite Mage for Hire)](https://2e.aonprd.com/NPCs.aspx?ID=922)
-  - [Daviren Hosk (Elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
-  - [Shelelu Andosana (Weak Hunter)](https://2e.aonprd.com/NPCs.aspx?ID=907)
+  - [Daviren Hosk (normal/elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
+  - Shelelu Andosana as required from Level 2/3/4 [weak/normal/elite Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) in book 1 to Level 6/7/8 [weak/normal/elite Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907) in book 3
   - [Brodert Quink (Sage)](https://2e.aonprd.com/NPCs.aspx?ID=950) - Add the skill Thassilon Lore. Add Thassilonian to his languages. 
   - townsfolk using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level [NPCs](https://2e.aonprd.com/NPCs.aspx) from the GMG
 
@@ -297,7 +297,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ## Part 4A. Thistletop Approach (500xp, assumed party level 2)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
-  - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements.
+  - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements. Use an appropriate level Shalelu (possibly GMG Tracker or Elite Tracker)
   - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
 ### C4. Refugees Nest (120xp, severe threat, plus 40xp for terrain)
@@ -321,7 +321,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Tactics:** Replace the before combat and during combat tactics as follows:
     - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillelagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
-    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes (though he can move through it if needs must). He follows up with burning hands from the staff if he can do so safely and if he can avoid burning the bushes with it. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind.
+    - During Combat: Gogmurt casts entangle on the first round of combat, taking care to place the spell so that it blocks access to area C9 but doesn’t block his own possible escape routes (though his feats allow him to move through it if needs must). He follows up with burning hands from the staff if he can do so safely and if he can avoid burning the bushes with it. On following rounds, he fights with his Shillelagh in one hand, using electric arc from the other when he needs to make ranged attacks. As soon as he’s brought below half hit points, he retreats by fleeing into the brambles using feather step, heals himself as best he can, and then returns to ambush the PCs from behind.
     - If the opportunity arises Gogmurt uses hydraulic push to push someone into the bunyip hole or off a cliff edge or the bridge.
     - Gogmurt uses his feather step ability to make maximum use of the bushes for cover and for sneaking. Note this feat also allows him to step into an entangle spell.
     
