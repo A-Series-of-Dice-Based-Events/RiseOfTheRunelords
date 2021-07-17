@@ -1,0 +1,153 @@
+{
+  "name": "Heal (2 action)",
+  "type": "spell",
+  "img": "systems/pf2e/icons/spells/heal.webp",
+  "data": {
+    "description": {
+      "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "value": ""
+    },
+    "traits": {
+      "value": [
+        "healing",
+        "necromancy",
+        "positive"
+      ],
+      "rarity": {
+        "value": "common"
+      },
+      "custom": ""
+    },
+    "rules": [],
+    "slug": "heal",
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-03T22:04:00.247-05:00",
+        "version": {
+          "schema": null
+        }
+      }
+    },
+    "level": {
+      "value": 1
+    },
+    "spellType": {
+      "value": "heal"
+    },
+    "category": {
+      "value": "spell"
+    },
+    "traditions": {
+      "value": [
+        "divine",
+        "primal"
+      ],
+      "custom": ""
+    },
+    "school": {
+      "value": "necromancy"
+    },
+    "components": {
+      "material": false,
+      "somatic": true,
+      "verbal": true
+    },
+    "materials": {
+      "value": ""
+    },
+    "target": {
+      "value": "1 willing living creature or 1 undead"
+    },
+    "range": {
+      "value": "varies"
+    },
+    "area": {
+      "value": "",
+      "areaType": ""
+    },
+    "time": {
+      "value": "2"
+    },
+    "duration": {
+      "value": ""
+    },
+    "damage": {
+      "value": "1d8+8",
+      "applyMod": false
+    },
+    "damageType": {
+      "value": "positive"
+    },
+    "scaling": {
+      "mode": "level1",
+      "formula": "1d8+8"
+    },
+    "save": {
+      "value": "",
+      "basic": ""
+    },
+    "sustained": {
+      "value": false
+    },
+    "cost": {
+      "value": ""
+    },
+    "ability": {
+      "value": ""
+    },
+    "prepared": {
+      "value": ""
+    },
+    "location": {
+      "value": "Q533i7fMeN5b55GE"
+    },
+    "hasCounteractCheck": {
+      "value": false
+    },
+    "autoHeightenLevel": {
+      "value": null
+    },
+    "areasize": {
+      "value": "varies"
+    },
+    "primarycheck": {
+      "value": ""
+    },
+    "secondarycasters": {
+      "value": ""
+    },
+    "secondarycheck": {
+      "value": ""
+    },
+    "heightenedLevel": {
+      "value": 5
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+    },
+    "pdfoundry-pf2e": {
+      "source": ""
+    },
+    "enhanced-terrain-layer": {
+      "multiple": 1,
+      "min": 0,
+      "max": 0,
+      "environment": ""
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}

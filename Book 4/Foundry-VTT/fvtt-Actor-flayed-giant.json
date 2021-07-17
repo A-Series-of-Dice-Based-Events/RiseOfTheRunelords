@@ -1,0 +1,275 @@
+{
+  "name": "Flayed Giant",
+  "type": "hazard",
+  "img": "systems/pf2e/icons/default-icons/feat.svg",
+  "data": {
+    "source": {
+      "value": ""
+    },
+    "recallKnowledgeText": "",
+    "creatureType": "",
+    "saves": {
+      "fortitude": {
+        "rank": 0,
+        "saveDetail": "",
+        "value": null
+      },
+      "reflex": {
+        "rank": 0,
+        "saveDetail": "",
+        "value": null
+      },
+      "will": {
+        "rank": 0,
+        "saveDetail": "",
+        "value": null
+      }
+    },
+    "attributes": {
+      "hasHealth": true,
+      "ac": {
+        "value": 10
+      },
+      "hp": {
+        "value": 10,
+        "max": 10,
+        "temp": 0,
+        "details": ""
+      },
+      "hardness": 0,
+      "stealth": {
+        "value": 22,
+        "details": "<p>(expert)</p>"
+      }
+    },
+    "details": {
+      "isComplex": true,
+      "level": 12,
+      "disable": "<p>DC 37 Religion or Occultism (master) to prevent the giant from leaving the painting, DC 38 Diplomacy or Deception (master, three times) to promise the giant vengeance.</p>",
+      "description": "<p>&nbsp;See Haunt description</p>",
+      "reset": "<p>1 day while Mokmurian lives</p>\n<p><strong>Restless </strong>This haunt can not be permanently deactivated until Mokmurian is slain, at which points it is immediately deactivated.</p>\n<p>&nbsp;</p>",
+      "routine": "<p>(1 action a turn) A flayed Stone Giant crushes all creatures (except Conna) within 20 feet of the altar, dealing 3d10+14 bludgeoning damage (DC 32 basic Fortitude save).</p>"
+    },
+    "statusEffects": [],
+    "traits": {
+      "rarity": {
+        "value": "common"
+      },
+      "size": {
+        "value": "med"
+      },
+      "traits": {
+        "value": [
+          "haunt"
+        ],
+        "custom": ""
+      },
+      "di": {
+        "custom": "",
+        "value": [],
+        "selected": {}
+      },
+      "dr": [],
+      "dv": [],
+      "ci": []
+    },
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.328-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    },
+    "customModifiers": {}
+  },
+  "token": {
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "displayName": 30,
+    "displayBars": 50,
+    "name": "Flayed Giant",
+    "height": 1,
+    "width": 1,
+    "disposition": 0,
+    "actorLink": false,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": true,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 0,
+    "lightAngle": 0,
+    "lightAlpha": 0.25,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "img": "systems/pf2e/icons/default-icons/feat.svg"
+  },
+  "items": [
+    {
+      "_id": "BikuHT6vspLgcBC2",
+      "name": "Crush",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>A flayed Stone Giant crushes all creatures within 20 feet of the altar <em data-visibility=\"gm\">(except Conna) </em>dealing <em data-visibility=\"gm\">[[/r 3d10+14 # bludgeoning ]] </em> bludgeoning damage. <span data-pf2-saving-throw=\"fortitude\" data-pf2-dc=\"32\" data-pf2-traits=\"bludgeoning\" data-pf2-label=\"Crush Routine\" data-pf2-show-dc=\"gm\">Basic Fortitude save</span>.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.328-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "6gaw4CXJUxikwuj2",
+      "name": "Gruesome sight",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Reaction.webp",
+      "data": {
+        "description": {
+          "value": "<p><em data-visibility=\"gm\"><strong>Trigger&nbsp;</strong>Any creature not peacefully accompanied by Conna the Wise enters the room<br /><strong>Effect&nbsp;</strong>After [[/gmroll 1d4 ]] rounds, </em>the paintings on the wall animate, showing a gruesome sight. The targets have to make a <span data-pf2-saving-throw=\"will\" data-pf2-dc=\"34\" data-pf2-traits=\"\" data-pf2-label=\"Gruesome Sight, DC 34\" data-pf2-show-dc=\"gm\">Will</span> save<em data-visibility=\"gm\">, after which the Flayed Giant rolls initiative.</em></p>\n<p data-visibility=\"gm\"><strong>Critical Success</strong>&nbsp;The target is unaffected.<br /><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} for 1 round.<br /><strong>Failure&nbsp;</strong>The target is @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed}for 2 rounds.<br /><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} for 4 rounds and @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} for 8 hours.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.328-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": "interaction"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "pf2e": {
+      "editHazard": {
+        "value": false
+      }
+    },
+    "pf2e_updatednpcsheet": {
+      "npcNotes": {
+        "value": ""
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}

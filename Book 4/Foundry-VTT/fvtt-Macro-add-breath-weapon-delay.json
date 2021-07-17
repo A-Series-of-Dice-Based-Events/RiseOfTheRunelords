@@ -1,0 +1,31 @@
+{
+  "name": "Add Breath Weapon Delay",
+  "type": "script",
+  "author": "oiPWLVPNH7xQBULr",
+  "img": "links/Icons/rpg-icons/flatskillsicons/g_32.webp",
+  "scope": "global",
+  "command": "// Toggle an \"Effect\" on a actor for a random duration\n\n/*************\n *  Globals  *\n**************/\nconst effectName = 'Timer: Breath Weapon Delay';\nconst numberOfRounds = Math.floor(Math.random() * 4) + 1;\n\n/************* \n * Functions *\n**************/\nasync function main() {\n\tif (!actor && canvas.tokens.controlled.length != 1) {\n\t\tui.notifications.warn(\"You must have a single actor selected.\");\n\t}\n\n\tlet task = args[0];\n\n\tswitch (task) {\n\t\tcase 'addEffect':\n\t\t\taddEffect(actor);\n\t\t\tbreak;\n\t\tcase 'removeEffect':\n\t\t\tremoveEffect(actor);\n\t\t\tbreak;\n\t\tdefault:\n\t\t\ttoggleShield(actor);\n\t}\n}\n\nfunction toggleShield(actor) {\n\tlet effectItems = actor.items.filter(item => item.type === 'effect' && item.name.includes(effectName));\n\n\tif (effectItems.length > 0) {\n\t\tremoveEffect(actor);\n\t} else {\n\t\taddEffect(actor);\n\t}\n}\n\nasync function removeEffect(actor) {\n\tui.notifications.info(`${actor.name}'s ${effectName} expired.`);\n\n\tlet effectItems = actor.items.filter(item => item.type === 'effect' && item.name.includes(effectName));\n\tfor (let effectItem of effectItems) {\n\t    await actor.deleteOwnedItem(effectItem._id);\n\t}\n}\n\nasync function addEffect(actor) {\n\taddTurnAlert(actor);\n\t\n\tlet effectItem = game.items.getName(effectName).data;\n\teffectItem.data.duration.value = numberOfRounds;\n\n\tui.notifications.info(`${actor.name} now has ${effectName} for ${numberOfRounds} ${effectItem.data.duration.unit}.`);\n\n\tawait actor.createOwnedItem(effectItem);\n}\n\nfunction addTurnAlert(actor) {\n\tif (game.combat === null) {\n\t\treturn;\n\t}\n\n\t// Get the combat tracker id for the targeted token...\n\tlet combatant_target = game.combat.combatants.find(it => it.actor.id == actor.id);\n\n\tif (combatant_target === undefined) {\n\t\tui.notifications.warn(`${actor.data.name} is not in combat! They must be in combat for this macro to work.`);\n\t\treturn;\n\t}\n\n\t// Check if actor has acted yet or not this round and set Alert to this round if they haven't\n\tconst currentTurn = game.combat.turn;\n\tconst combatantTurn = game.combat.turns.findIndex(it => it.actor.id == actor.id);\n\tlet nextRound = (combatantTurn > currentTurn) ? 0 : 1;\n\tnextRound += numberOfRounds\n\n\tconst removeEffect_Alert = {\n\t\tname: `${effectName} expires`,\n\t\tlabel: `${effectName} expires`,\n\t\tturnId: combatant_target._id,\n\t\tround: nextRound,\n\t\t// endOfTurn: true,\n\t\tmacro: \"Add Breath Weapon Delay\",\n\t\targs: ['removeEffect']\n\t}\n\n\tTurnAlert.create(removeEffect_Alert);\n}\n\nmain();",
+  "sort": 0,
+  "flags": {
+    "combat-utility-belt": {
+      "macroTrigger": ""
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    },
+    "macro-marker": {
+      "activeData": {
+        "icon": "icons/svg/mage-shield.svg",
+        "tooltip": "Cast Shield   ",
+        "colour": "#ff0000",
+        "trigger": ""
+      }
+    },
+    "furnace": {
+      "runAsGM": false
+    }
+  }
+}

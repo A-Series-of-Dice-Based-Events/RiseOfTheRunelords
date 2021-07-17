@@ -1,0 +1,75 @@
+{
+  "name": "Insidious Mummy Rot",
+  "type": "effect",
+  "img": "links/Icons/rpg-icons/spellbookpage07/SpellBook07_94.webp",
+  "data": {
+    "description": {
+      "value": "<p><strong>Saving Throw</strong> <span data-pf2-saving-throw=\"fortitude\" data-pf2-traits=\"disease,curse\" data-pf2-label=\"Insidious Mummy Rot DC\" data-pf2-dc=\"26\" data-pf2-show-dc=\"gm\">Fortitude</span></p>\n<p><em data-visibility=\"gm\">This disease and any damage from it can't be healed until this curse is removed. A creature killed by mummy rot turns to dust and can't be resurrected except by a 7th-level @Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]{Resurrect} ritual or similar magic.</em></p>\n<p><em data-visibility=\"gm\"><strong>Stage 1</strong>, carrier with no ill effect (1 minute)</em></p>\n<p><em data-visibility=\"gm\"><strong>Stage 2</strong>, [[/r 4d6 # negative damage]] negative damage and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} (1 day)</em></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "value": ""
+    },
+    "traits": {
+      "value": [],
+      "rarity": {
+        "value": "common"
+      },
+      "custom": ""
+    },
+    "rules": [
+      {
+        "key": "PF2E.RuleElement.FlatModifier",
+        "selector": "hp",
+        "value": -1,
+        "label": "Insidious Mummy Rot"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.259-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "days",
+      "sustained": false,
+      "expiry": "turn-end"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": false
+    },
+    "rarity": {
+      "value": "common"
+    },
+    "usage": {
+      "value": "held-in-one-hand"
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}
