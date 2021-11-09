@@ -3,7 +3,7 @@
 A fan built repository for the conversion guides for those wishing to run and convert RotR to Pathfinder 2E.
 The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds the individual monster/NPC stat blocks which are linked to from the guide.  
 
-* [Campaign Backgrounds](./Backgrounds%20and%20Reference/RotRCampaignBackgrounds.md)  
+* [Campaign Backgrounds](./BackgroundsAndReference/RotRCampaignBackgrounds.md)  
 * [Book 1: Burnt Offerings](./Book%201/README.md) - complete
 * [Book 2: The Skinsaw Murders](./Book%202/README.md) - creatures complete 
 * [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete
@@ -11,7 +11,7 @@ The README.md files for each book are the conversion guides. While the Statblock
 * [Book 5: Sins of the Saviors](./Book%205/README.md) - creatures complete 
 * [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - creatures complete
 * [Book 6: Alternate to level 20](./Book%206%20to%20level%2020/README.md) - framework only
-* [Thassilonian Magic](./Backgrounds%20and%20Reference/ThassilonianMagic/README.md) - choose which option you prefer
+* [Thassilonian Magic](./BackgroundsAndReference/ThassilonianMagic/README.md) - choose which option you prefer
 * [OGL](./OGL.md)
 
 ## Join us
