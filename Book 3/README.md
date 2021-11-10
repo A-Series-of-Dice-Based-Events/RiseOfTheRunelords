@@ -462,8 +462,8 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Black Magga PDF](./Statblocks/BlackMagga.pdf)
 
-    ![Black Magga1](./Statblocks/BlackMagga1.png)
-    ![Black Magga2](./Statblocks/BlackMagga2.png)
+    ![Black Magga1](./Statblocks/BlackMagga1.PNG)
+    ![Black Magga2](./Statblocks/BlackMagga2.PNG)
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
      - XP is awarded for the bravery of engaging with Black Magga and defending the church / driving her off
