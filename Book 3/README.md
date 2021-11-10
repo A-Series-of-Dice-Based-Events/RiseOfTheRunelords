@@ -9,7 +9,6 @@
 - If you find an issue, error or omission, have a suggestion for improvement, or a better version of something, then create a pull request. This is a community project and we welcome and rely on community contributions.
 
 ## TO DO
-  - Update Black Magga to be more imposing with sweeping attacks
   - Possibly update NPC stats to reflect updated equipment? (Hucker, Crowfood, Mammy, Lamatar, Lucrecia, Barl)
 
 ## General GM information
@@ -463,8 +462,8 @@ The other unique ogres are covered individually below.
   - **Creatures:**
     - [Black Magga PDF](./Statblocks/BlackMagga.pdf)
 
-    ![Black Magga](./Statblocks/BlackMagga.png)
-
+    ![Black Magga1](./Statblocks/BlackMagga1.png)
+    ![Black Magga2](./Statblocks/BlackMagga2.png)
   - **Encounter Notes:**    
      - Make a note if any PCs name is spoken in earshot of Black Magga. She will remember this and use Dream Message later to taunt them.
      - XP is awarded for the bravery of engaging with Black Magga and defending the church / driving her off
