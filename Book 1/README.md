@@ -18,7 +18,7 @@
 
 - Level 1: up to the Catacombs of Wrath 
 - Level 2: start Catacombs of Wrath (Pt3.5)
-- Level 3: start Thistletop (Part 4)
+- Level 3: start Thistletop Island (Part 4)
 - Level 4: conclusion of Thistletop (Part 4)
 - Level 5: party should be close to (or just at) level 5 at the end of the book (within 200 XP). 
 
@@ -228,10 +228,10 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### B4. Washing Pool (40xp, trivial threat)
 
   - **Creatures:**
-    - [Vargouille PDF](./Statblocks/Vargouille.pdf)  
+    - [Vargouille PDF](./Statblocks/Vargouille.pdf) (Note there is an official Vargouille in Agents of Edgewatch) 
 
     - ![Vargouille PNG](./Statblocks/Vargouille.png)
-
+    
     Alternatively replace with Divine Warden of Lamashtu (80xp, moderate threat) with the same trigger conditions:
     - [Divine Warden of Lamashtu](./Statblocks/DivineWardenofLamashtu.pdf)
     - ![Divine Warden of Lamashtu PNG](./Statblocks/DivineWardenofLamashtu.png)
