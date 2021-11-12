@@ -1,0 +1,1525 @@
+{
+  "name": "Stone Giant (Iron Peaks)",
+  "type": "npc",
+  "img": "tokens/stone_giant_iron_peaks_.Avatar.webp?1627432039535",
+  "data": {
+    "attributes": {
+      "shield": {
+        "value": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0
+      },
+      "hp": {
+        "value": 109,
+        "temp": 0,
+        "details": "",
+        "max": 190
+      },
+      "perception": {
+        "value": 22,
+        "ability": "wis"
+      },
+      "initiative": {
+        "ability": "perception"
+      },
+      "speed": {
+        "value": "35",
+        "otherSpeeds": []
+      },
+      "ac": {
+        "value": 30,
+        "details": "",
+        "dex": 0,
+        "check": 0,
+        "base": 30
+      },
+      "allSaves": {
+        "value": ""
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "CE"
+      },
+      "level": {
+        "value": 10
+      },
+      "source": {
+        "value": ""
+      },
+      "creatureType": "",
+      "recallKnowledgeText": ""
+    },
+    "traits": {
+      "size": {
+        "value": "lg"
+      },
+      "senses": {
+        "value": "Darkvision"
+      },
+      "traits": {
+        "value": [
+          "earth",
+          "giant",
+          "humanoid"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "jotun"
+        ],
+        "selected": [],
+        "custom": ""
+      },
+      "di": {
+        "value": [],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [],
+      "ci": [],
+      "rarity": {
+        "value": "common"
+      }
+    },
+    "resources": {},
+    "schema": {
+      "version": 0.649,
+      "lastMigration": {
+        "datetime": "2021-08-05T16:43:03.792-05:00",
+        "version": {
+          "schema": 0.646,
+          "foundry": "0.8.8",
+          "system": "2.11.0.7242"
+        }
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": 7,
+        "value": 10
+      },
+      "dex": {
+        "mod": 3,
+        "value": 10
+      },
+      "con": {
+        "mod": 5,
+        "value": 10
+      },
+      "int": {
+        "mod": 0,
+        "value": 10
+      },
+      "wis": {
+        "mod": 2,
+        "value": 10
+      },
+      "cha": {
+        "mod": 1,
+        "value": 10
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "value": 21,
+        "saveDetail": "",
+        "ability": "con"
+      },
+      "reflex": {
+        "value": 19,
+        "saveDetail": "",
+        "ability": "dex"
+      },
+      "will": {
+        "value": 17,
+        "saveDetail": "",
+        "ability": "wis"
+      }
+    },
+    "martial": {
+      "simple": {
+        "value": 0
+      }
+    },
+    "customModifiers": {}
+  },
+  "token": {
+    "width": 2,
+    "height": 2,
+    "name": "Stone Giant",
+    "displayName": 30,
+    "actorLink": true,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": true,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 0,
+    "lightAngle": 0,
+    "lightAlpha": 0.25,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "disposition": -1,
+    "displayBars": 50,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "flags": {
+      "perfect-vision": {
+        "visionRules": "default",
+        "monoVisionColor": "",
+        "sightLimit": null
+      },
+      "splatter": {
+        "bloodColor": ""
+      }
+    },
+    "randomImg": false,
+    "img": "tokens/stone_giant_iron_peaks_.Token.webp?1627432039535",
+    "tint": null,
+    "lightColor": null,
+    "x": null,
+    "y": null,
+    "elevation": null
+  },
+  "items": [
+    {
+      "_id": "okgFmkitsGwpiY6Q",
+      "name": "Acrobatics",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "EGWiy6OyljH03k3f",
+      "name": "Athletics",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "mod": {
+          "value": 25
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "c7jlfcw6RnNoignT",
+      "name": "Intimidation",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "Ip7cwpmBLrgeOvkL",
+      "name": "Nature",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "mod": {
+          "value": 17
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "xVPd0OUwzeeNxQxO",
+      "name": "Stealth",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "In Rocky Terrain",
+            "predicate": {
+              "all": [
+                "terrain:rocky"
+              ]
+            },
+            "selector": "stealth",
+            "value": 4
+          }
+        ],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        },
+        "variants": {
+          "0": {
+            "label": "+22 in rocky terrain",
+            "options": "terrain:rocky"
+          }
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "JWjKKfPwBobhwLMo",
+      "name": "Survival",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "mod": {
+          "value": 19
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "TIe9SaL5qOGXHsHh",
+      "name": "Higher Ground",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Passive.webp",
+      "data": {
+        "description": {
+          "value": "<p>Enemies are flat-footed to you if they&rsquo;re in your natural difficult terrain (rocky) and you are at a higher elevation.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "interaction"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "HCxFnmiTonjxh17X",
+      "name": "Nature's Edge",
+      "type": "feat",
+      "img": "systems/pf2e/icons/features/classes/natures-end.webp",
+      "data": {
+        "description": {
+          "value": "<p>You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to you if they're in natural difficult terrain or in difficult terrain resulting from a snare.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "ranger"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "natures-edge",
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "level": {
+          "value": 9
+        },
+        "featType": {
+          "value": "classfeature"
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "location": ""
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.classfeatures.j2R64kwUgEJ1TudD"
+        }
+      }
+    },
+    {
+      "_id": "ZljxQqIntrXgmyom",
+      "name": "Stone Block",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Reaction.webp",
+      "data": {
+        "description": {
+          "value": "<p><strong>Requirements </strong>Standing next to rocky terrain<br /><strong>Trigger</strong>: The creature is targeted with a ranged Strike or ranged spell. <br /><strong>Effect</strong>: The creature grabs chunks of loose rock and dirt, throwing it in front of the attack gaining a +2 circumstance bonus to his AC and Reflex saves against the triggering attack.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 300000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "TN3vYdb2cwp0lapI",
+      "name": "Fist",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "reach-10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "6ou3koroykh2bbeog749": {
+            "damage": "2d6+10",
+            "damageType": "bludgeoning"
+          }
+        },
+        "bonus": {
+          "value": 23
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "gQ1bBebOmkBK6ZB3",
+      "name": "Sack",
+      "type": "backpack",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/sack.webp",
+      "data": {
+        "description": {
+          "value": "<p>A sack can hold up to 8 Bulk worth of items. A sack containing 2 Bulk or less can be worn on the body, usually tucked into a belt. You can carry a sack with one hand, but must use two hands to transfer items in and out.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "sack",
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "quantity": {
+          "value": 5
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "1 cp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": "sacks"
+        },
+        "bulkCapacity": {
+          "value": "8"
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "level": {
+          "value": 0
+        },
+        "invested": {
+          "value": false
+        },
+        "capacity": {
+          "type": "weight",
+          "value": 0,
+          "weightless": false
+        },
+        "currency": {
+          "cp": 0,
+          "sp": 0,
+          "gp": 0,
+          "pp": 0,
+          "ep": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.DujblC14ytJEZMaz"
+        }
+      }
+    },
+    {
+      "_id": "a6JoADAzPiq0jnGz",
+      "name": "Long Bow",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": null
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "fatal-d12",
+            "range-increment-120",
+            "volley-30"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.Note",
+            "selector": "{item|_id}-damage",
+            "text": "<p class='compact-text'><strong>On a critical hit</strong>, the target has to succeed at a <span data-pf2-check='fortitude' data-pf2-dc='24' data-pf2-traits='evocation,magical,sonic' data-pf2-label='Thundering DC' data-pf2-show-dc='gm'>Fortitude</span> save or be @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} for 1 minute (or 1 hour on a critical failure).</p>",
+            "outcome": [
+              "criticalSuccess"
+            ]
+          }
+        ],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "ranged"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "nzee9qi3pfqidpt6qvrv": {
+            "damage": "2d10+11",
+            "damageType": "piercing"
+          },
+          "4lp7zw1lovr792sr9dv1": {
+            "damage": "1d6",
+            "damageType": "sonic"
+          }
+        },
+        "bonus": {
+          "value": 24
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "DrXglXmGQwnRykOt",
+      "name": "Hunt Prey",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>The creature designates as his prey a single creature that he can see and hear or that he is Tracking. He gains a +2 circumstance bonus to Perception checks when he Seeks his prey and a +2 circumstance bonus to Survival checks when he Tracks his prey. The&nbsp;<span style=\"color: var(--body); font-size: 1em;\">creature</span><span style=\"color: var(--body); font-size: 1em;\"> </span><span style=\"color: var(--body); font-size: 1em;\">also ignores the penalty for making ranged attacks within his second range increment against his prey.</span></p>\n<p>Lastly, the&nbsp;<span style=\"color: var(--body); font-size: 1em;\">creature</span><span style=\"color: var(--body); font-size: 1em;\"> </span><span style=\"color: var(--body); font-size: 1em;\">gains a +2 circumstance bonus to Deception checks, Intimidation checks, and Stealth checks against his prey and to any check to Recall Knowledge about his prey, as well as a +1 circumstance bonus to AC against his prey&rsquo;s attacks. The&nbsp;</span><span style=\"color: var(--body); font-size: 1em;\">creature</span><span style=\"color: var(--body); font-size: 1em;\"> </span><span style=\"color: var(--body); font-size: 1em;\">can have only one prey designated at a time.</span></p>\n<hr />\n<p>@Item[mbwpkVl39CFsFX27]{Hunted Prey: Teraktinus}</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "concentrate"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.ToggleProperty",
+            "label": "Target is your Hunted Prey",
+            "property": "flags.pf2e.rollOptions.all.hunted-prey"
+          },
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "To Seek hunted prey",
+            "predicate": {
+              "all": [
+                "action:seek",
+                "hunted-prey"
+              ]
+            },
+            "roll-options": [
+              "all"
+            ],
+            "selector": "perception",
+            "type": "circumstance",
+            "value": 2
+          },
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "To Track hunted prey",
+            "predicate": {
+              "all": [
+                "action:track",
+                "hunted-prey"
+              ]
+            },
+            "roll-options": [
+              "all"
+            ],
+            "selector": "survival",
+            "type": "circumstance",
+            "value": 2
+          }
+        ],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 900000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "lwqAVuOleea6wOK6",
+      "name": "Targeting Shot",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p><span style=\"color: #191813; font-family: Roboto, sans-serif; font-size: 13px;\">You carefully track your prey's position and defenses, allowing you to follow up around obstacles that block your shot. Make a ranged weapon Strike against your hunted prey. You ignore the target's&nbsp;</span><a class=\"entity-link\" style=\"box-sizing: border-box; user-select: text; cursor: url('ui/cursors/pointer.webp'), pointer; color: #191813; font-family: Roboto, sans-serif; font-size: 13px;\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\">&nbsp;Concealed</a><span style=\"color: #191813; font-family: Roboto, sans-serif; font-size: 13px;\">&nbsp;condition and all cover</span></p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "flourish"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 600000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "3jPSSX2h9cwcmKha",
+      "name": "Bow Swing",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>The creature uses it's heavy bow to makes a single melee (Fist) Strike and compares the attack roll result to the ACs of up to two foes of smaller size within its reach. This counts as two attacks for the creatures multiple attack penalty.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 800000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "44kwaaAGqjPTr5OP",
+      "name": "Composite Longbow",
+      "type": "weapon",
+      "img": "systems/pf2e/icons/equipment/weapons/composite-longbow.webp",
+      "data": {
+        "description": {
+          "value": "<p>This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "deadly-d10",
+            "propulsive",
+            "volley-30"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "composite-longbow",
+        "schema": {
+          "version": 0.649,
+          "lastMigration": {
+            "datetime": "2021-08-05T16:43:03.792-05:00",
+            "version": {
+              "schema": 0.646,
+              "foundry": "0.8.8",
+              "system": "2.11.0.7242"
+            }
+          }
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": "composite-longbow",
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "2"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "20 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": null
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "lg"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Composite Longbow",
+            "img": "systems/pf2e/icons/unidentified_item_icons/weapon.webp",
+            "data": {
+              "description": {
+                "value": "The nature of this composite longbow is unclear."
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "level": {
+          "value": 0
+        },
+        "invested": {
+          "value": null
+        },
+        "weaponType": {
+          "value": "martial"
+        },
+        "group": {
+          "value": "bow"
+        },
+        "hands": {
+          "value": ""
+        },
+        "bonus": {
+          "value": 0
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d8",
+          "damageType": "piercing"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "100"
+        },
+        "reload": {
+          "value": ""
+        },
+        "ability": {
+          "value": "dex"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": 2
+        },
+        "strikingRune": {
+          "value": "striking"
+        },
+        "specific": {
+          "value": false
+        },
+        "propertyRune1": {
+          "value": "thundering"
+        },
+        "propertyRune2": {
+          "value": null
+        },
+        "propertyRune3": {
+          "value": null
+        },
+        "propertyRune4": {
+          "value": null
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "strikeConditionType": "",
+          "strikeConditionValue": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.dUC8Fsa6FZtVikS3"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "cczcpqq59kcrfscx",
+      "name": "Flat-Footed",
+      "type": "condition",
+      "img": "systems/pf2e/icons/conditions/flatFooted.webp",
+      "data": {
+        "description": {
+          "value": "<p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the flat-footed condition only to certain creatures or against certain attacks. Others-especially conditions-can make you universally flat-footed against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is flat-footed.\"</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": "PF2eStatusEffects.setStatus"
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "flat-footed",
+        "schema": {
+          "version": 0.649,
+          "lastMigration": null
+        },
+        "active": true,
+        "removable": true,
+        "references": {
+          "children": [],
+          "overrides": [],
+          "immunityFrom": [],
+          "overriddenBy": []
+        },
+        "hud": {
+          "statusName": "flatFooted",
+          "selectable": true,
+          "img": {
+            "useStatusName": true,
+            "value": "systems/pf2e/icons/conditions-2/flatFooted.webp"
+          }
+        },
+        "duration": {
+          "perpetual": true,
+          "value": 0,
+          "text": ""
+        },
+        "modifiers": [
+          {
+            "group": "ac",
+            "type": "circumstance",
+            "value": -2
+          }
+        ],
+        "base": "Flat-Footed",
+        "group": "",
+        "value": {
+          "isValued": false,
+          "immutable": false,
+          "value": null,
+          "modifiers": []
+        },
+        "sources": {
+          "hud": true,
+          "values": []
+        },
+        "alsoApplies": {
+          "linked": [],
+          "unlinked": []
+        },
+        "overrides": []
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pf2e": {
+          "condition": true
+        },
+        "core": {
+          "sourceId": "Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg"
+        }
+      }
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "pf2e_updatednpcsheet": {},
+    "pf2e": {
+      "rollOptions": {
+        "all": {
+          "target:flatFooted": false,
+          "hunted-prey": false
+        }
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.11.1.7257"
+    }
+  }
+}

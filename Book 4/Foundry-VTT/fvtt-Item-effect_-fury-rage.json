@@ -1,0 +1,302 @@
+{
+  "name": "Effect: Fury Rage",
+  "type": "effect",
+  "img": "systems/pf2e/icons/features/classes/rage.webp",
+  "data": {
+    "description": {
+      "value": "<p style=\"box-sizing: border-box; user-select: text; margin-top: 0.25em; margin-bottom: 0.25em; color: #191813; font-family: Roboto, system, -apple-system, sans-serif; font-size: 13px;\">When Enga rages, he gets <span style=\"font-family: Signika, sans-serif; font-size: 14px;\">-1 AC; Temporary Hit Points +15 and deals 2 additional damage with melee weapons and unarmed attacks.</span></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "value": ""
+    },
+    "traits": {
+      "value": [],
+      "rarity": {
+        "value": "common"
+      },
+      "custom": ""
+    },
+    "rules": [
+      {
+        "key": "PF2E.RuleElement.TempHP",
+        "value": 17
+      },
+      {
+        "key": "PF2E.RuleElement.FlatModifier",
+        "label": "Rage",
+        "selector": "damage",
+        "type": "status",
+        "value": 6
+      },
+      {
+        "key": "PF2E.RuleElement.FlatModifier",
+        "label": "Rage",
+        "selector": "ac",
+        "type": "Status",
+        "value": -1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.259-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "minutes",
+      "sustained": false,
+      "expiry": "turn-end"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": false
+    },
+    "rarity": {
+      "value": "common"
+    },
+    "usage": {
+      "value": "held-in-one-hand"
+    },
+    "quantity": {
+      "value": "1"
+    },
+    "hp": {
+      "value": 0
+    },
+    "maxHp": {
+      "value": 0
+    },
+    "hardness": {
+      "value": 0
+    },
+    "brokenThreshold": {
+      "value": 0
+    },
+    "weight": {
+      "value": "-"
+    },
+    "equippedBulk": {
+      "value": ""
+    },
+    "price": {
+      "value": "0"
+    },
+    "invested": {
+      "value": false
+    },
+    "equipped": {
+      "value": false
+    },
+    "identified": {
+      "value": true
+    },
+    "stackGroup": {
+      "value": ""
+    },
+    "bulkCapacity": {
+      "value": ""
+    },
+    "negateBulk": {
+      "value": "0"
+    },
+    "containerId": {
+      "value": ""
+    },
+    "preciousMaterial": {
+      "value": ""
+    },
+    "preciousMaterialGrade": {
+      "value": ""
+    },
+    "collapsed": {
+      "value": false
+    },
+    "property1": {
+      "value": "",
+      "dice": 0,
+      "die": "",
+      "damageType": "",
+      "critDice": 0,
+      "critDie": "",
+      "critDamage": "",
+      "critDamageType": "",
+      "strikeConditionType": "",
+      "strikeConditionValue": null,
+      "criticalConditionType": "",
+      "criticalConditionValue": null
+    },
+    "property2": {
+      "value": "",
+      "dice": 0,
+      "die": "",
+      "damageType": "",
+      "critDice": 0,
+      "critDie": "",
+      "critDamage": "",
+      "critDamageType": ""
+    },
+    "property3": {
+      "value": "",
+      "dice": 0,
+      "die": "",
+      "damageType": "",
+      "critDice": 0,
+      "critDie": "",
+      "critDamage": "",
+      "critDamageType": ""
+    },
+    "weaponType": {
+      "value": ""
+    },
+    "group": {
+      "value": ""
+    },
+    "hands": {
+      "value": ""
+    },
+    "bonus": {
+      "value": 0
+    },
+    "damage": {
+      "value": "",
+      "dice": 1,
+      "die": "d6",
+      "damageType": "slashing"
+    },
+    "bonusDamage": {
+      "value": 0
+    },
+    "splashDamage": {
+      "value": 0
+    },
+    "range": {
+      "value": ""
+    },
+    "reload": {
+      "value": ""
+    },
+    "ability": {
+      "value": "str"
+    },
+    "MAP": {
+      "value": ""
+    },
+    "potencyRune": {
+      "value": ""
+    },
+    "strikingRune": {
+      "value": ""
+    },
+    "propertyRune1": {
+      "value": ""
+    },
+    "propertyRune2": {
+      "value": ""
+    },
+    "propertyRune3": {
+      "value": ""
+    },
+    "propertyRune4": {
+      "value": ""
+    },
+    "size": {
+      "value": "med"
+    },
+    "identification": {
+      "status": "identified"
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "pdfoundry-pf2e": {
+      "source": ""
+    },
+    "pick-up-stix": {
+      "pick-up-stix": {
+        "owner": {
+          "actorId": "bz64LGwlU6gv5VWS"
+        },
+        "initialState": {
+          "id": "mMAAjARhBV0hn41K",
+          "count": 1,
+          "itemData": {
+            "_id": "mMAAjARhBV0hn41K",
+            "name": "Treat Wounds Immunity",
+            "permission": {
+              "default": 1,
+              "kz2MTX0UeHY7DZys": 3
+            },
+            "type": "effect",
+            "data": {
+              "description": {
+                "value": "<p>You are immune to Treat Wounds</p>",
+                "chat": "",
+                "unidentified": ""
+              },
+              "source": {
+                "value": ""
+              },
+              "traits": {
+                "value": []
+              },
+              "rarity": {
+                "value": "common"
+              },
+              "usage": {
+                "value": "held-in-one-hand"
+              },
+              "rules": [
+                {
+                  "key": "PF2E.RuleElement.FlatModifier",
+                  "label": "Treat Wounds Immunity",
+                  "selector": "hp",
+                  "value": 0,
+                  "predicate": {
+                    "all": [
+                      "treat-wounds"
+                    ]
+                  }
+                }
+              ],
+              "level": {
+                "value": 1
+              }
+            },
+            "sort": 100001,
+            "flags": {},
+            "img": "icons/svg/clockwork.svg",
+            "effects": []
+          }
+        },
+        "itemType": "Item",
+        "isLocked": false
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    },
+    "core": {
+      "sourceId": "Item.mHMeUYqUb7OB5LfQ"
+    }
+  }
+}

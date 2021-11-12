@@ -1,0 +1,2044 @@
+{
+  "name": "Teraktinus",
+  "type": "npc",
+  "img": "tokens/teraktinus.Avatar.webp?1625521090952",
+  "data": {
+    "abilities": {
+      "str": {
+        "value": 10,
+        "mod": 7
+      },
+      "dex": {
+        "value": 10,
+        "mod": 3
+      },
+      "con": {
+        "value": 10,
+        "mod": 5
+      },
+      "int": {
+        "value": 10,
+        "mod": 0
+      },
+      "wis": {
+        "value": 10,
+        "mod": 2
+      },
+      "cha": {
+        "value": 10,
+        "mod": 1
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "ability": "con",
+        "value": 21,
+        "saveDetail": ""
+      },
+      "reflex": {
+        "ability": "dex",
+        "value": 19,
+        "saveDetail": ""
+      },
+      "will": {
+        "ability": "wis",
+        "value": 17,
+        "saveDetail": ""
+      }
+    },
+    "attributes": {
+      "ac": {
+        "value": 30,
+        "dex": 0,
+        "check": 0,
+        "details": "",
+        "base": 30
+      },
+      "allSaves": {
+        "value": ""
+      },
+      "shield": {
+        "value": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0
+      },
+      "hp": {
+        "value": 190,
+        "max": 190,
+        "temp": 0,
+        "details": ""
+      },
+      "perception": {
+        "ability": "wis",
+        "value": 22
+      },
+      "initiative": {
+        "ability": "perception"
+      },
+      "speed": {
+        "value": "35",
+        "otherSpeeds": []
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "CE"
+      },
+      "level": {
+        "value": 10
+      },
+      "source": {
+        "value": ""
+      },
+      "recallKnowledgeText": "",
+      "creatureType": ""
+    },
+    "traits": {
+      "size": {
+        "value": "lg"
+      },
+      "senses": {
+        "value": "Darkvision"
+      },
+      "traits": {
+        "value": [
+          "earth",
+          "giant",
+          "humanoid"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "jotun"
+        ],
+        "selected": [],
+        "custom": ""
+      },
+      "di": {
+        "value": [],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [],
+      "ci": [],
+      "rarity": {
+        "value": "common"
+      }
+    },
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.336-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    },
+    "martial": {
+      "simple": {
+        "value": 0
+      }
+    },
+    "customModifiers": {}
+  },
+  "token": {
+    "width": 2,
+    "height": 2,
+    "name": "Teraktinus",
+    "displayName": 30,
+    "actorLink": true,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": true,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 0,
+    "lightAngle": 0,
+    "lightAlpha": 0.25,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "disposition": 0,
+    "displayBars": 50,
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "flags": {
+      "perfect-vision": {
+        "visionRules": "default",
+        "monoVisionColor": "",
+        "sightLimit": null
+      }
+    },
+    "randomImg": false,
+    "img": "tokens/teraktinus.Token.webp?1625521090952",
+    "tint": null,
+    "lightColor": null,
+    "x": null,
+    "y": null,
+    "elevation": null
+  },
+  "items": [
+    {
+      "_id": "okgFmkitsGwpiY6Q",
+      "name": "Acrobatics",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "EGWiy6OyljH03k3f",
+      "name": "Athletics",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 25
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "c7jlfcw6RnNoignT",
+      "name": "Intimidation",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "Ip7cwpmBLrgeOvkL",
+      "name": "Nature",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 17
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "xVPd0OUwzeeNxQxO",
+      "name": "Stealth",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "In Rocky Terrain",
+            "predicate": {
+              "all": [
+                "terrain:rocky"
+              ]
+            },
+            "selector": "stealth",
+            "value": 4
+          }
+        ],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        },
+        "variants": {
+          "0": {
+            "label": "+22 in rocky terrain",
+            "options": "terrain:rocky"
+          }
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "JWjKKfPwBobhwLMo",
+      "name": "Survival",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 19
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "TIe9SaL5qOGXHsHh",
+      "name": "Nature's Edge",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Passive.webp",
+      "data": {
+        "description": {
+          "value": "<p>Enemies are flat-footed to you if they&rsquo;re in natural difficult terrain or in difficult terrain resulting from a snare.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "interaction"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "HCxFnmiTonjxh17X",
+      "name": "Nature's Edge",
+      "type": "feat",
+      "img": "systems/pf2e/icons/features/classes/natures-end.webp",
+      "data": {
+        "description": {
+          "value": "<p>You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to you if they're in natural difficult terrain or in difficult terrain resulting from a snare.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "ranger"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "natures-edge",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "level": {
+          "value": 9
+        },
+        "featType": {
+          "value": "classfeature"
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "location": ""
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.classfeatures.j2R64kwUgEJ1TudD"
+        }
+      }
+    },
+    {
+      "_id": "ZljxQqIntrXgmyom",
+      "name": "Catch Rock",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Reaction.webp",
+      "data": {
+        "description": {
+          "value": "<p><strong>Requirements </strong>Teraktinus must have a free hand but can Release anything he is holding as part of this reaction. <br /><strong>Trigger</strong>: Teraktinus is targeted with a thrown rock Strike or a rock would fall on him. <br /><strong>Effect</strong>: Teraktinus gains a +4 circumstance bonus to his AC against the triggering attack or to any defense against the falling rock. If the attack misses or he successfully defends against the falling rock, he catches the rock, takes no damage, and is now holding the rock.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 300000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "0kHnZyxU6bYU44EU",
+      "name": "Twin Riposte",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Reaction.webp",
+      "data": {
+        "description": {
+          "value": "<p><strong>Requirements </strong>You are benefiting from Twin Parry. <br /><strong>Trigger </strong>A creature within your reach critically fails a Strike against you. <br /><strong>Effect</strong> A clever parry with one weapon leaves your opponent open to an attack with the other weapon. Make a melee Strike or use a Disarm action against the triggering opponent.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 400000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "TN3vYdb2cwp0lapI",
+      "name": "Pick",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "fatal-d10",
+            "magical",
+            "reach-10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "6ou3koroykh2bbeog749": {
+            "damage": "2d6+15",
+            "damageType": "piercing"
+          }
+        },
+        "bonus": {
+          "value": 24
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "HAq2JGtXh9M6eDkJ",
+      "name": "Pick",
+      "type": "weapon",
+      "img": "systems/pf2e/icons/equipment/weapons/pick.webp",
+      "data": {
+        "description": {
+          "value": "<p>A pick designed solely for combat has a sturdy wooden shaft and a heavy, pointed head to deliver devastating blows.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "fatal-d10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "pick",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": "pick",
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "1"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "7 sp"
+        },
+        "equipped": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "lg"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Pick",
+            "img": "systems/pf2e/icons/unidentified_item_icons/weapon.webp",
+            "data": {
+              "description": {
+                "value": "The nature of this pick is unclear."
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "level": {
+          "value": 0
+        },
+        "invested": {
+          "value": false
+        },
+        "weaponType": {
+          "value": "martial"
+        },
+        "group": {
+          "value": "pick"
+        },
+        "hands": {
+          "value": ""
+        },
+        "bonus": {
+          "value": 0
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d6",
+          "damageType": "piercing"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "melee"
+        },
+        "reload": {
+          "value": ""
+        },
+        "ability": {
+          "value": "str"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": 1
+        },
+        "strikingRune": {
+          "value": "striking"
+        },
+        "specific": {
+          "value": false
+        },
+        "propertyRune1": {
+          "value": null
+        },
+        "propertyRune2": {
+          "value": null
+        },
+        "propertyRune3": {
+          "value": null
+        },
+        "propertyRune4": {
+          "value": null
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "strikeConditionType": "",
+          "strikeConditionValue": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.6I4YJAQUbTAqbpsI"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "dVV1bW4bRqUxWRSN",
+      "name": "Light Pick",
+      "type": "weapon",
+      "img": "systems/pf2e/icons/equipment/weapons/light-pick.webp",
+      "data": {
+        "description": {
+          "value": "<p>A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "fatal-d8"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "light-pick",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": "light-pick",
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "4 sp"
+        },
+        "equipped": {
+          "value": true
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "lg"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Light Pick",
+            "img": "systems/pf2e/icons/unidentified_item_icons/weapon.webp",
+            "data": {
+              "description": {
+                "value": "The nature of this light pick is unclear."
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "level": {
+          "value": 0
+        },
+        "invested": {
+          "value": false
+        },
+        "weaponType": {
+          "value": "martial"
+        },
+        "group": {
+          "value": "pick"
+        },
+        "hands": {
+          "value": ""
+        },
+        "bonus": {
+          "value": 0
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d4",
+          "damageType": "piercing"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "melee"
+        },
+        "reload": {
+          "value": ""
+        },
+        "ability": {
+          "value": "str"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": 1
+        },
+        "strikingRune": {
+          "value": "striking"
+        },
+        "specific": {
+          "value": false
+        },
+        "propertyRune1": {
+          "value": null
+        },
+        "propertyRune2": {
+          "value": null
+        },
+        "propertyRune3": {
+          "value": null
+        },
+        "propertyRune4": {
+          "value": null
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "strikeConditionType": "",
+          "strikeConditionValue": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.RbM4HvPyrZ4YJxRc"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "gQ1bBebOmkBK6ZB3",
+      "name": "Sack",
+      "type": "backpack",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/sack.webp",
+      "data": {
+        "description": {
+          "value": "<p>A sack can hold up to 8 Bulk worth of items. A sack containing 2 Bulk or less can be worn on the body, usually tucked into a belt. You can carry a sack with one hand, but must use two hands to transfer items in and out.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "sack",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "quantity": {
+          "value": 5
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "1 cp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": "sacks"
+        },
+        "bulkCapacity": {
+          "value": "8"
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "level": {
+          "value": 0
+        },
+        "capacity": {
+          "type": "weight",
+          "value": 0,
+          "weightless": false
+        },
+        "currency": {
+          "cp": 0,
+          "sp": 0,
+          "gp": 0,
+          "pp": 0,
+          "ep": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "invested": {
+          "value": false
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.DujblC14ytJEZMaz"
+        }
+      }
+    },
+    {
+      "_id": "WeRTmOp3d5T9wrpJ",
+      "name": "light pick",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "fatal-d8",
+            "magical",
+            "reach-10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "d4uqkinfh3lbikdwwl2z": {
+            "damage": "2d4+15",
+            "damageType": "piercing"
+          }
+        },
+        "bonus": {
+          "value": 24
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "a6JoADAzPiq0jnGz",
+      "name": "Thrown Rock",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "brutal",
+            "range-increment-120"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "ranged"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "nzee9qi3pfqidpt6qvrv": {
+            "damage": "2d6+15",
+            "damageType": "bludgeoning"
+          }
+        },
+        "bonus": {
+          "value": 23
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "DrXglXmGQwnRykOt",
+      "name": "Hunt Prey",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>Teraktinus designates as his prey a single creature that he can see and hear or that he is Tracking. He gains a +2 circumstance bonus to Perception checks when he Seeks his prey and a +2 circumstance bonus to Survival checks when he Tracks his prey. Teraktinus also ignores the penalty for making ranged attacks within his second range increment against his prey.</p>\n<p>Lastly, Teraktinus gains a +2 circumstance bonus to Deception checks, Intimidation checks, and Stealth checks against his prey and to any check to Recall Knowledge about his prey, as well as a +1 circumstance bonus to AC against his prey&rsquo;s attacks. Teraktinus can have only one prey designated at a time.</p>\n<hr />\n<p>@Item[mbwpkVl39CFsFX27]{Hunted Prey: Teraktinus}</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "concentrate"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.ToggleProperty",
+            "label": "Target is your Hunted Prey",
+            "property": "flags.pf2e.rollOptions.all.hunted-prey"
+          },
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "To Seek hunted prey",
+            "predicate": {
+              "all": [
+                "action:seek",
+                "hunted-prey"
+              ]
+            },
+            "roll-options": [
+              "all"
+            ],
+            "selector": "perception",
+            "type": "circumstance",
+            "value": 2
+          },
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "To Track hunted prey",
+            "predicate": {
+              "all": [
+                "action:track",
+                "hunted-prey"
+              ]
+            },
+            "roll-options": [
+              "all"
+            ],
+            "selector": "survival",
+            "type": "circumstance",
+            "value": 2
+          }
+        ],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 200000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "UvAFENlRwoMo0CKS",
+      "name": "Quick Draw",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "interaction"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 500000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "lwqAVuOleea6wOK6",
+      "name": "Twin Takedown",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>Make two Strikes against your hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "flourish"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 600000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "hwtQeKrgfSSrae02",
+      "name": "Twin Parry",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait. You lose this circumstance bonus if you no longer meet this feat&rsquo;s requirement.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 700000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "3jPSSX2h9cwcmKha",
+      "name": "Wide Swing",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>Teraktinus makes a single Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for Teraktinus multiple attack penalty</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 800000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "NBb1t0jbLSW8zYTl",
+      "name": "Sack of Rocks",
+      "type": "consumable",
+      "img": "icons/containers/bags/sack-cloth-stitched-brown.webp",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": "",
+          "usage": {
+            "value": "held-in-one-hand"
+          }
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "5"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "0 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": null
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "Unusual Liquid",
+            "img": "systems/pf2e/icons/unidentified_item_icons/potions.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 0
+        },
+        "consumableType": {
+          "value": "potion"
+        },
+        "charges": {
+          "value": 0,
+          "max": 0,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "pf2e_updatednpcsheet": {},
+    "pf2e": {
+      "rollOptions": {
+        "all": {
+          "target:flatFooted": false,
+          "hunted-prey": false
+        }
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}

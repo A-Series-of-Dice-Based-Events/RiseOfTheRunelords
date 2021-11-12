@@ -1,0 +1,7005 @@
+{
+  "name": "Conna the Wise",
+  "type": "npc",
+  "img": "links/RotRL/Tokens/4.%20Fortress%20of%20the%20Stone%20Giants/Conna%20the%20Wise%20%5BPortrait%5D.webp",
+  "data": {
+    "abilities": {
+      "str": {
+        "value": 10,
+        "mod": 4
+      },
+      "dex": {
+        "value": 10,
+        "mod": 2
+      },
+      "con": {
+        "value": 10,
+        "mod": 3
+      },
+      "int": {
+        "value": 10,
+        "mod": 4
+      },
+      "wis": {
+        "value": 10,
+        "mod": 5
+      },
+      "cha": {
+        "value": 10,
+        "mod": 7
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "ability": "con",
+        "value": 20,
+        "saveDetail": ""
+      },
+      "reflex": {
+        "ability": "dex",
+        "value": 20,
+        "saveDetail": ""
+      },
+      "will": {
+        "ability": "wis",
+        "value": 24,
+        "saveDetail": ""
+      }
+    },
+    "attributes": {
+      "ac": {
+        "value": 30,
+        "dex": 0,
+        "check": 0,
+        "details": "",
+        "base": 30
+      },
+      "allSaves": {
+        "value": ""
+      },
+      "shield": {
+        "value": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0
+      },
+      "hp": {
+        "value": 185,
+        "max": 185,
+        "temp": 0,
+        "details": ""
+      },
+      "perception": {
+        "ability": "wis",
+        "value": 20
+      },
+      "initiative": {
+        "ability": "perception"
+      },
+      "speed": {
+        "value": "45 ft w/longstrider",
+        "otherSpeeds": []
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "N"
+      },
+      "level": {
+        "value": 12
+      },
+      "source": {
+        "value": ""
+      },
+      "recallKnowledgeText": "",
+      "creatureType": ""
+    },
+    "traits": {
+      "size": {
+        "value": "lg"
+      },
+      "senses": {
+        "value": "darkvision"
+      },
+      "traits": {
+        "value": [
+          "earth",
+          "giant",
+          "humanoid"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "draconic",
+          "jotun",
+          "terran"
+        ],
+        "selected": [],
+        "custom": ""
+      },
+      "di": {
+        "value": [],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [],
+      "ci": [],
+      "rarity": {
+        "value": "unique"
+      }
+    },
+    "schema": {
+      "version": 0.642,
+      "lastMigration": null
+    },
+    "martial": {
+      "simple": {
+        "value": 0
+      }
+    },
+    "items": {
+      "1": {
+        "data": {
+          "slots": {
+            "slot1": {
+              "value": 4,
+              "max": 4
+            },
+            "slot2": {
+              "value": 4,
+              "max": 4
+            },
+            "slot3": {
+              "value": 4,
+              "max": 4
+            },
+            "slot4": {
+              "value": 4,
+              "max": 4
+            },
+            "slot5": {
+              "value": 4,
+              "max": 4
+            },
+            "slot6": {
+              "value": 4,
+              "max": 4
+            }
+          }
+        }
+      },
+      "mQYly5hK3Sk43Xj9": {
+        "data": {
+          "focus": {
+            "points": 1,
+            "pool": 1
+          }
+        }
+      }
+    },
+    "customModifiers": {}
+  },
+  "token": {
+    "width": 2,
+    "height": 2,
+    "name": "Conna the Wise",
+    "displayName": 30,
+    "actorLink": true,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": true,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 0,
+    "lightAngle": 0,
+    "lightAlpha": 0.25,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "disposition": 0,
+    "displayBars": 50,
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "flags": {
+      "perfect-vision": {
+        "visionRules": "default",
+        "monoVisionColor": "",
+        "sightLimit": null
+      }
+    },
+    "randomImg": false,
+    "img": "links/RotRL/Tokens/4.%20Fortress%20of%20the%20Stone%20Giants/Conna%20the%20Wise.webp",
+    "tint": null,
+    "lightColor": null,
+    "x": null,
+    "y": null,
+    "elevation": null
+  },
+  "items": [
+    {
+      "_id": "oWoFPNaW2iP17sks",
+      "name": "Acrobatics",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 16
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "qq42uIbZwh9wpUL4",
+      "name": "Athletics",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 20
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "HxMh7779E2fPRm6M",
+      "name": "Deception",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 21
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "Mvb51BMneYVA75D3",
+      "name": "Diplomacy",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 21
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "XWhZSGlBtCWzrif3",
+      "name": "Intimidation",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 25
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "Bg2EeBtODnteUrV4",
+      "name": "Nature",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 23
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "JzW4CtgqJvXVpSc0",
+      "name": "Stealth",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.FlatModifier",
+            "label": "In Rocky Terrain",
+            "predicate": {
+              "all": [
+                "terrain:rocky"
+              ]
+            },
+            "selector": "stealth",
+            "value": 4
+          }
+        ],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 16
+        },
+        "proficient": {
+          "value": 0
+        },
+        "variants": {
+          "0": {
+            "label": "+20 in rocky terrain",
+            "options": "terrain:rocky"
+          }
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "WIFcRkct8qcJP47J",
+      "name": "Giant",
+      "type": "lore",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "mod": {
+          "value": 18
+        },
+        "proficient": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "l7QFvwW61agaIkWp",
+      "name": "Blood Magic",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Passive.webp",
+      "data": {
+        "description": {
+          "value": "<p>Elemental energy surrounds you or a target. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes 1 damage per spell level. The damage is bludgeoning. If the spell already deals that type of damage, combine it with the spell&rsquo;s initial damage before determining weaknesses and resistances.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "8IFDgmvE6vMczyq4",
+      "name": "Sack of Rocks",
+      "type": "consumable",
+      "img": "icons/containers/bags/sack-cloth-stitched-brown.webp",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": "",
+          "usage": {
+            "value": "held-in-one-hand"
+          }
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.337-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "5"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "0 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": null
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "Unusual Liquid",
+            "img": "systems/pf2e/icons/unidentified_item_icons/potions.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 0
+        },
+        "consumableType": {
+          "value": "potion"
+        },
+        "charges": {
+          "value": 0,
+          "max": 0,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "core": {
+          "sourceId": "Item.aChYrIPM6YnsykwK"
+        }
+      }
+    },
+    {
+      "_id": "EDnKgb2eUX9lHid8",
+      "name": "Spear",
+      "type": "weapon",
+      "img": "systems/pf2e/icons/equipment/weapons/spear.webp",
+      "data": {
+        "description": {
+          "value": "<p>A long metal shaft ending with a metal spike, a spear can be used one‑handed as a melee weapon and can be thrown.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "thrown-20"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "spear",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:03:25.425-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": "spear",
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "1"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "1 sp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "lg"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Spear",
+            "img": "systems/pf2e/icons/unidentified_item_icons/weapon.webp",
+            "data": {
+              "description": {
+                "value": "The nature of this spear is unclear."
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "level": {
+          "value": 0
+        },
+        "invested": {
+          "value": false
+        },
+        "weaponType": {
+          "value": "simple"
+        },
+        "group": {
+          "value": "spear"
+        },
+        "hands": {
+          "value": ""
+        },
+        "bonus": {
+          "value": 0
+        },
+        "damage": {
+          "value": "",
+          "dice": 1,
+          "die": "d6",
+          "damageType": "piercing"
+        },
+        "bonusDamage": {
+          "value": 0
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": {
+          "value": "20"
+        },
+        "reload": {
+          "value": ""
+        },
+        "ability": {
+          "value": "str"
+        },
+        "MAP": {
+          "value": ""
+        },
+        "potencyRune": {
+          "value": 1
+        },
+        "strikingRune": {
+          "value": "striking"
+        },
+        "specific": {
+          "value": false
+        },
+        "propertyRune1": {
+          "value": null
+        },
+        "propertyRune2": {
+          "value": null
+        },
+        "propertyRune3": {
+          "value": null
+        },
+        "propertyRune4": {
+          "value": null
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "property1": {
+          "value": "",
+          "dice": null,
+          "die": "",
+          "damageType": "",
+          "critDice": null,
+          "critDie": "",
+          "critDamage": "",
+          "critDamageType": "",
+          "criticalConditionType": "",
+          "criticalConditionValue": null,
+          "strikeConditionType": "",
+          "strikeConditionValue": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.tOhoGvmCMw4JpWcS"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "iaRRmimlnRWhZCrg",
+      "name": "Catch Rock",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Reaction.webp",
+      "data": {
+        "description": {
+          "value": "<p><strong>Requirements</strong> The monster must have a free hand but can @Compendium[pf2e.actionspf2e.wQYmDStjdjn0I26t]{Release} anything it's holding as part of this reaction.</p>\n<p><strong>Trigger</strong> The monster is targeted with a thrown rock Strike or a rock would fall on the monster.</p>\n<p><strong>Effect</strong> The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "catch-rock",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:03:23.130-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": "defensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR"
+        }
+      }
+    },
+    {
+      "_id": "dXUAS2s9Cx9lmM3l",
+      "name": "Spear",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "magical",
+            "reach-10",
+            "thrown-10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "8os01cjo00hcifn29hvy": {
+            "damage": "2d6+12",
+            "damageType": "piercing"
+          }
+        },
+        "bonus": {
+          "value": 21
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "F3rot5Y1AbLslZYh",
+      "name": "Boulder",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "brutal",
+            "range-increment-120"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "weaponType": {
+          "value": "ranged"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "i6yv3pc9tv2eatz6csvi": {
+            "damage": "2d6+12",
+            "damageType": "bludgeoning"
+          }
+        },
+        "bonus": {
+          "value": 21
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "3YHWzw2PJ1eUcwy5",
+      "name": "Fist",
+      "type": "melee",
+      "img": "systems/pf2e/icons/default-icons/melee.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "xk31ntowkwiebukt6s3s": {
+            "damage": "2d6+12",
+            "damageType": "bludgeoning"
+          }
+        },
+        "bonus": {
+          "value": 21
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "W85OwAkzjbPA9i5u",
+      "name": "Reach Spell",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>You can extend the range of your spells. If the next action you use is to @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell} that has a range, increase that spell&rsquo;s range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, you extend its range to 30 feet.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "concentrate",
+            "metamagic",
+            "sorcerer"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "obLpXorCGh1tQEi1",
+      "name": "Widen Spell",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/OneAction.webp",
+      "data": {
+        "description": {
+          "value": "<p>You manipulate the energy of your spell, causing it to affect a wider area. If the next action you use is to @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell} that has an area of a burst, cone, or line and does not have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet long or smaller, and add 10 feet to the length of a larger cone or line.</p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "manipulate",
+            "metamagic",
+            "sorcerer"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "1"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    },
+    {
+      "_id": "mQYly5hK3Sk43Xj9",
+      "name": "Focus Spells",
+      "type": "spellcastingEntry",
+      "img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "ability": {
+          "value": "cha"
+        },
+        "spelldc": {
+          "value": 24,
+          "dc": 32,
+          "mod": 0
+        },
+        "tradition": {
+          "value": "focus"
+        },
+        "focus": {
+          "points": 1,
+          "pool": 1
+        },
+        "prepared": {
+          "value": ""
+        },
+        "showUnpreparedSpells": {
+          "value": true
+        },
+        "proficiency": {
+          "value": 0
+        },
+        "displayLevels": {},
+        "slots": {
+          "slot0": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot1": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot2": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot3": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot4": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot5": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot6": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot7": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        },
+        "signatureSpells": {
+          "value": []
+        },
+        "autoHeightenLevel": {
+          "value": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "swg5BKW9AZArPbN1",
+      "name": "Shape Stone",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/shape-stone.webp",
+      "data": {
+        "description": {
+          "value": "<p>You shape the stone into a rough shape of your choice. The shaping process is too crude to produce intricate parts, fine details, moving pieces, or the like. Any creatures standing atop the stone when you reshape it must each attempt a Reflex save or Acrobatics check.</p>\n<hr />\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature falls @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} atop the stone.</p>\n<p><strong>Critical Failure</strong> The creature falls off the stone (if applicable) and lands Prone.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "earth",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "shape-stone",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.488-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 4
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "cube of stone 10 feet across or smaller"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "reflex",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "mQYly5hK3Sk43Xj9"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.McnPlLFvKtQVXNcG"
+        }
+      }
+    },
+    {
+      "_id": "VRicqvriyDr6SI2a",
+      "name": "Transmute Rock And Mud",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/transmute-rock-and-mud.webp",
+      "data": {
+        "description": {
+          "value": "<p>You warp the structure of earthen material, turning rock into mud or mud into rock. Choose one of these two options when you @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast the Spell}.</p>\n<p>•<strong>Rock to Mud</strong> You transform non-magical, unworked, and unattended stone in the area into an equal volume of mud. If you Cast this Spell on a stone floor, it becomes difficult terrain; if the resulting mud is at least 3 feet deep, it is greater difficult terrain, or the creature can try to @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim} through it (DC 10 Athletics). If the mud is deep enough that a creature can't reach the bottom, the creature must Swim to move through it. If you Cast this Spell on a ceiling, the falling mud deals [[/r 8d6 #bludgeoning]] bludgeoning damage (basic Reflex save) and spreads out, creating difficult terrain in an area 10 feet larger in radius than the original spell's area. Once the rock is transformed into mud, the mud is non-magical and remains until natural conditions cause it to dry out or otherwise disperse.</p>\n<p>•<strong>Mud to Rock</strong> Mud in the area turns into unworked stone. If creatures are in the mud when it is transformed to stone, they must attempt a Reflex saving throw.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature escapes the mud and is atop the stone, unaffected.</p>\n<p><strong>Success</strong> The creature climbs out of the mud as it turns to rock and is @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} atop the stone.</p>\n<p><strong>Failure</strong> The creature is partially stuck in the mud and is @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} for 1 round or until it @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escapes}, whichever comes first.</p>\n<p><strong>Critical Failure</strong> The creature is entirely stuck. It is @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained} for 1 round or until it Escapes, whichever comes first.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> Add an additional 10-foot cube to the area, adjacent to at least one of the other cubes.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "earth",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "transmute-rock-and-mud",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.604-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 5
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": true,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "60 feet"
+        },
+        "area": {
+          "value": ""
+        },
+        "time": {
+          "value": "3"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": false
+        },
+        "location": {
+          "value": "mQYly5hK3Sk43Xj9"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "2 adjacent 10-foot cubes"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 200000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.LzfrBDxxPTiuN7uL"
+        }
+      }
+    },
+    {
+      "_id": "D7Lap12m6SgRThjH",
+      "name": "Stone Tell",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/stone-tell.webp",
+      "data": {
+        "description": {
+          "value": "<p>You can ask questions of and receive answers from natural or worked stone. While stone is not intelligent, you speak with the natural spirits of the stone, which have a personality colored by the type of stone, as well as by the type of structure the stone is part of, for worked stone. A stone's perspective, perception, and knowledge give it a worldview different enough from a human's that it doesn't consider the same details important. Stones can mostly answer questions about creatures that touched them in the past and what is concealed beneath or behind them.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "earth",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "stone-tell",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.548-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 6
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "10 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "mQYly5hK3Sk43Xj9"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 300000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.YIMampGpij4Y30yE"
+        }
+      }
+    },
+    {
+      "_id": "6PtY45DKAYEK8xRZ",
+      "name": "Elemental Toss",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/elemental-toss.webp",
+      "data": {
+        "description": {
+          "value": "<p>With a flick of your wrist, you fling a chunk of your elemental matter at your foe. Make a spell attack roll, dealing 1d8 bludgeoning damage (or fire damage if your element is fire) on a success, and double damage on a critical success. This spell has your element's trait.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "attack",
+            "evocation",
+            "sorcerer"
+          ],
+          "rarity": {
+            "value": "uncommon"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "elemental-toss",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.164-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "attack"
+        },
+        "category": {
+          "value": "focus"
+        },
+        "traditions": {
+          "value": []
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": false
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "1"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "bludgeoning"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "mQYly5hK3Sk43Xj9"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 400000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.0JUOgbbFCapp3HlW"
+        }
+      }
+    },
+    {
+      "_id": "UcTzXoieZ2AMbYL4",
+      "name": "Spontaneous Arcane Spells",
+      "type": "spellcastingEntry",
+      "img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": null
+        },
+        "ability": {
+          "value": "cha"
+        },
+        "spelldc": {
+          "value": 24,
+          "dc": 32,
+          "mod": 0
+        },
+        "tradition": {
+          "value": "arcane"
+        },
+        "focus": {
+          "points": 1,
+          "pool": 1
+        },
+        "prepared": {
+          "value": "spontaneous"
+        },
+        "showUnpreparedSpells": {
+          "value": true
+        },
+        "proficiency": {
+          "value": 0
+        },
+        "displayLevels": {},
+        "slots": {
+          "slot0": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot1": {
+            "prepared": [],
+            "value": 4,
+            "max": 4
+          },
+          "slot2": {
+            "prepared": [],
+            "value": 4,
+            "max": 4
+          },
+          "slot3": {
+            "prepared": [],
+            "value": 4,
+            "max": 4
+          },
+          "slot4": {
+            "prepared": [],
+            "value": 4,
+            "max": 4
+          },
+          "slot5": {
+            "prepared": [],
+            "value": 4,
+            "max": 4
+          },
+          "slot6": {
+            "prepared": [],
+            "value": 4,
+            "max": 4
+          },
+          "slot7": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        },
+        "signatureSpells": {
+          "value": []
+        },
+        "autoHeightenLevel": {
+          "value": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "lKbytOVFu3WhJqDt",
+      "name": "Elemental Form",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/elemental-form.webp",
+      "data": {
+        "description": {
+          "value": "<p>You call upon the power of the planes to transform into a Medium elemental battle form. When you cast this spell, choose air, earth, fire, or water. While in this form, you gain the corresponding trait and the elemental trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.<br /><br />You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 19 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Darkvision.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and your damage bonus is +9. These are Dexterity based (air or fire) or Strength based (earth or water). If your corresponding unarmed attack modifier is higher, you can use it instead.</li>\n<li>Acrobatics (air or fire) or Athletics (earth or water) modifier of +20; ignore this change if your own modifier is higher.</li>\n</ul>\n<p>You also gain specific abilities based on the type of elemental you choose:</p>\n<ul>\n<li><strong>@Compendium[pf2e.spell-effects.DliizYpHcmBG130w]{Air}</strong>\n<ul>\n<li>fly Speed 80 feet, movement doesn't trigger reactions;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> gust, <strong>Damage</strong> 1d4 bludgeoning.</li>\n</ul>\n</li>\n<li><strong>@Compendium[pf2e.spell-effects.8eWLR0WCf5258z8X]{Earth}</strong>\n<ul>\n<li>Speed 20 feet, burrow Speed 20 feet;</li>\n<li><strong>Melee <span class=\"pf2-icon\">1</span></strong> fist, <strong>Damage</strong> 2d10 bludgeoning.</li>\n</ul>\n</li>\n<li><strong>@Compendium[pf2e.spell-effects.phIoucsDa3iplMm2]{Fire}</strong>\n<ul>\n<li>Speed 50 feet; fire resistance 10, weakness 5 to cold and 5 to water;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> tendril , <strong>Damage</strong> 1d8 fire plus 1d4 persistent fire.</li>\n</ul>\n</li>\n<li><strong>@Compendium[pf2e.spell-effects.kxMBdANwCcF841uA]{Water}</strong>\n<ul>\n<li>Speed 20 feet, swim Speed 60 feet; fire resistance 5;</li>\n<li><strong>Melee <span class=\"pf2-icon\">1</span></strong> wave, <strong>Damage</strong> 1d12 bludgeoning, and you can spend an action immediately after a hit to push the target 5 feet with the effects of a successful @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}.</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (6th)</strong> Your battle form is Large and your attacks have 10-foot reach. You must have space to expand or the spell is lost. You instead gain AC = 22 + your level, 15 temporary HP, an attack modifier of +23, a damage bonus of +13, and Acrobatics or Athletics +23.</p>\n<p><strong>Heightened (7th)</strong> Your battle form is Huge and your attacks have 15-foot reach. You must have space to expand or the spell is lost. You instead gain AC = 22 + your level, 20 temporary HP, an attack modifier of +25, a damage bonus of +11, double the number of damage dice (including @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage}), and Acrobatics or Athletics +25.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "polymorph",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "elemental-form",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.162-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 5
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minute"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 6
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 500000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.1K6AYGisvo9gqdhs"
+        }
+      }
+    },
+    {
+      "_id": "ZMJnVA4A7xg4lovO",
+      "name": "Charm",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/charm.webp",
+      "data": {
+        "description": {
+          "value": "<p>To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.</p>\n<p>You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>\n<p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell.</p>\n<p><strong>Failure</strong> The target's attitude becomes @Compendium[pf2e.conditionitems.v66R7FdOf11l94im]{Friendly} toward you. If it was Friendly, it becomes @Compendium[pf2e.conditionitems.v44P3WUcU1j0115l]{Helpful}. It can't use hostile actions against you.</p>\n<p><strong>Critical Failure</strong> The target's attitude becomes Helpful toward you, and it can't use hostile actions against you.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The duration lasts until the next time you make your daily preparations.</p>\n<p><strong>Heightened (8th)</strong> The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "emotion",
+            "enchantment",
+            "incapacitation",
+            "mental"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "charm",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.047-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "enchantment"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 hour"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "will",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 4
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.vLA0q0WOK2YPuJs6"
+        }
+      }
+    },
+    {
+      "_id": "14f8VRFvZPW6jLHs",
+      "name": "Repulsion",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/repulsion.webp",
+      "data": {
+        "description": {
+          "value": "<p>You manifest an aura that prevents creatures from approaching you. When casting the spell, you can make the area any radius you choose, up to 40 feet. A creature must attempt a Will save if it's within the area when you cast the spell or as soon as it enters the area while the spell is in effect. Once a creature has attempted the save, it uses the same result for that casting of repulsion. Any restrictions on a creature's movement apply only if it voluntarily moves toward you. For example, if you move closer to a creature, it doesn't then need to move away.</p>\n<hr /><strong>Critical Success</strong> The creature's movement is not restricted.\n<p><strong>Success</strong> The creature treats each square in the area as difficult terrain when moving closer to you.</p>\n<p><strong>Failure</strong> The creature can't move closer to you within the area.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "abjuration",
+            "aura",
+            "mental"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "repulsion",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.449-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 6
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult"
+          ]
+        },
+        "school": {
+          "value": "abjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "emanation up to 40-feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minute"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "will",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 200000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.yrZA4k2VAqEP8xx7"
+        }
+      }
+    },
+    {
+      "_id": "MDAxTooKbxBAv4DF",
+      "name": "Shocking Grasp",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/shocking-grasp.webp",
+      "data": {
+        "description": {
+          "value": "<p>You shroud your hands in a crackling field of lightning. Make a melee spell attack roll. On a hit, the target takes 2d12 electricity damage. If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your attack roll with shocking grasp, and the target also takes 1d4 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage}.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d12, and the persistent electricity damage increases by 1.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "attack",
+            "electricity",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "shocking-grasp",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.500-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "attack"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "2d12",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "electricity"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d12"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 6
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.r3NeUnsgt9mS03Sn"
+        }
+      }
+    },
+    {
+      "_id": "dnhz0CyGZR0JZ9jn",
+      "name": "Stoneskin",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/stone-skin.webp",
+      "data": {
+        "description": {
+          "value": "<p>The target's skin hardens like stone. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, stoneskin's duration decreases by 1 minute.</p>\n<p>@Item[fVPxSwCp4evWPTNf]{Spell Timer: Stoneskin}</p>\n<hr />\n<p><strong>Heightened (6th)</strong> The resistance increases to 10.</p>\n<p><strong>Heightened (8th)</strong> The resistance increases to 15.</p>\n<p><strong>Heightened (10th)</strong> The resistance increases to 20.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "abjuration",
+            "earth"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "stoneskin",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.550-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 4
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "abjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "20 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 6
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.2BV2yYPfVJ5zirZt"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "TU81SaSmdhjLGe7y",
+      "name": "Dispel Magic",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/dispel-magic.webp",
+      "data": {
+        "description": {
+          "value": "<p>You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "abjuration"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "dispel-magic",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.123-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 2
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "abjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 spell effect or unattended magic item"
+        },
+        "range": {
+          "value": "120 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": true
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 5
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.9HpwDN4MYQJnW0LG"
+        }
+      }
+    },
+    {
+      "_id": "4DHONv9J4Pu4AjP3",
+      "name": "Elemental Form",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/elemental-form.webp",
+      "data": {
+        "description": {
+          "value": "<p>You call upon the power of the planes to transform into a Medium elemental battle form. When you cast this spell, choose air, earth, fire, or water. While in this form, you gain the corresponding trait and the elemental trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.<br /><br />You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 19 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Darkvision.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and your damage bonus is +9. These are Dexterity based (air or fire) or Strength based (earth or water). If your corresponding unarmed attack modifier is higher, you can use it instead.</li>\n<li>Acrobatics (air or fire) or Athletics (earth or water) modifier of +20; ignore this change if your own modifier is higher.</li>\n</ul>\n<p>You also gain specific abilities based on the type of elemental you choose:</p>\n<ul>\n<li><strong>@Compendium[pf2e.spell-effects.DliizYpHcmBG130w]{Air}</strong>\n<ul>\n<li>fly Speed 80 feet, movement doesn't trigger reactions;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> gust, <strong>Damage</strong> 1d4 bludgeoning.</li>\n</ul>\n</li>\n<li><strong>@Compendium[pf2e.spell-effects.8eWLR0WCf5258z8X]{Earth}</strong>\n<ul>\n<li>Speed 20 feet, burrow Speed 20 feet;</li>\n<li><strong>Melee <span class=\"pf2-icon\">1</span></strong> fist, <strong>Damage</strong> 2d10 bludgeoning.</li>\n</ul>\n</li>\n<li><strong>@Compendium[pf2e.spell-effects.phIoucsDa3iplMm2]{Fire}</strong>\n<ul>\n<li>Speed 50 feet; fire resistance 10, weakness 5 to cold and 5 to water;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> tendril , <strong>Damage</strong> 1d8 fire plus 1d4 persistent fire.</li>\n</ul>\n</li>\n<li><strong>@Compendium[pf2e.spell-effects.kxMBdANwCcF841uA]{Water}</strong>\n<ul>\n<li>Speed 20 feet, swim Speed 60 feet; fire resistance 5;</li>\n<li><strong>Melee <span class=\"pf2-icon\">1</span></strong> wave, <strong>Damage</strong> 1d12 bludgeoning, and you can spend an action immediately after a hit to push the target 5 feet with the effects of a successful @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}.</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (6th)</strong> Your battle form is Large and your attacks have 10-foot reach. You must have space to expand or the spell is lost. You instead gain AC = 22 + your level, 15 temporary HP, an attack modifier of +23, a damage bonus of +13, and Acrobatics or Athletics +23.</p>\n<p><strong>Heightened (7th)</strong> Your battle form is Huge and your attacks have 15-foot reach. You must have space to expand or the spell is lost. You instead gain AC = 22 + your level, 20 temporary HP, an attack modifier of +25, a damage bonus of +11, double the number of damage dice (including @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage}), and Acrobatics or Athletics +25.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "polymorph",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "elemental-form",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.162-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 5
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minute"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.1K6AYGisvo9gqdhs"
+        }
+      }
+    },
+    {
+      "_id": "RiRtpaqk6tcSOiet",
+      "name": "Passwall",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/passwall.webp",
+      "data": {
+        "description": {
+          "value": "<p>You create a visible tunnel through the wall in the chosen area, replacing the area with empty space. If the wall is thicker than 10 feet, the tunnel ends 10 feet in. Even a small layer of metal in the wall prevents this spell from functioning. This spell doesn't reduce the integrity of the structure. When the spell ends, anyone inside the tunnel is shunted to the nearest exit.</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The tunnel can be up to 20 feet deep. The areas of the wall that contain your tunnel's entrance appear completely normal (unless viewed with true seeing or a similar effect), despite the tunnel's existence. The tunnel's entrance functions as a solid wall, but you can specify a password or a trigger, allowing creatures to enter the tunnel freely.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "conjuration",
+            "earth"
+          ],
+          "rarity": {
+            "value": "uncommon"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "passwall",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.383-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 5
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "conjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 hour"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.115Xp9E38CJENhNS"
+        }
+      }
+    },
+    {
+      "_id": "P0KWyZJkAojuaQAm",
+      "name": "Wall of Stone",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/wall-of-stone.webp",
+      "data": {
+        "description": {
+          "value": "<p>You shape a wall of solid stone. You create a 1-inch-thick wall of stone up to 120 feet long, and 20 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically, so you can use it to form a bridge or set of stairs, for example. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 14, and 50 Hit Points, and it's immune to critical hits and precision damage. A destroyed section of the wall can be moved through, but the rubble created from it is difficult terrain.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The Hit Points of each section of the wall increase by 15.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "conjuration",
+            "earth"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "wall-of-stone",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.644-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 5
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "conjuration"
+        },
+        "components": {
+          "material": true,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "120 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "3"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.kOa055FIrO9Smnya"
+        }
+      }
+    },
+    {
+      "_id": "WRMnpWyrYMBo1xpv",
+      "name": "Enlarge",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/enlarge.webp",
+      "data": {
+        "description": {
+          "value": "<p>Bolstered by magical power, the target grows to size Large. Its equipment grows with it but returns to natural size if removed. The creature is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1}. Its reach increases by 5 feet (or by 10 feet if it started out Tiny), and it gains a +2 status bonus to melee damage. This spell has no effect on a Large or larger creature.</p>\n<p>@Compendium[pf2e.spell-effects.sPCWrhUHqlbGhYSD]{Spell Effect: Enlarge}</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The creature instead grows to size Huge. The status bonus to melee damage is +4 and the creature's reach increases by 10 feet (or 15 feet if the creature started out Tiny). The spell has no effect on a Huge or larger creature. @Compendium[pf2e.spell-effects.41WThj17MZBXTO2X]{Spell Effect: Enlarge (Heightened 4th)}</p>\n<p><strong>Heightened (6th)</strong> Choose either the 2nd-level or 4th-level version of this spell and apply its effects to 10 willing creatures.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "polymorph",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "enlarge",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.173-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 2
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing creature"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "5 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 4
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.wzctak6BxOW8xvFV"
+        }
+      }
+    },
+    {
+      "_id": "K5YwAI1vMIfqF5He",
+      "name": "Fly",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/fly.webp",
+      "data": {
+        "description": {
+          "value": "<p>The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The duration increases to 1 hour.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "fly",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.209-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 4
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "5 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.A2JfEKe6BZcTG1S8"
+        }
+      }
+    },
+    {
+      "_id": "0TZlQsU3bOTTmUSl",
+      "name": "Freedom of Movement",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/freedom-of-movement.webp",
+      "data": {
+        "description": {
+          "value": "<p>You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escape} an effect that has them @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized}, @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}, or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}, they automatically succeed unless the effect is magical and of a higher level than the freedom of movement spell.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "abjuration"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "freedom-of-movement",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.216-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 4
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "abjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature touched"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "10 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.aqRYNoSvxsVfqglH"
+        }
+      }
+    },
+    {
+      "_id": "SpaJu0zsAZT5kGr3",
+      "name": "Spike Stones",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/spike-stones.webp",
+      "data": {
+        "description": {
+          "value": "<p>Long, sharp spikes of solid rock thrust up from the ground in the area. The area becomes difficult terrain and hazardous terrain. A creature that moves on the ground through the area takes 3 piercing damage for every square of that area it moves into.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 1.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "conjuration",
+            "earth"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "spike-stones",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.530-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 4
+        },
+        "spellType": {
+          "value": "attack"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "conjuration"
+        },
+        "components": {
+          "material": true,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "60 feet"
+        },
+        "area": {
+          "value": 20,
+          "areaType": "burst"
+        },
+        "time": {
+          "value": "3"
+        },
+        "duration": {
+          "value": "1 hour"
+        },
+        "damage": {
+          "value": "3",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "piercing"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": false
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "20-foot burst"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.3xD8DYrr8YDVYGg7"
+        }
+      }
+    },
+    {
+      "_id": "aasO1LVr3WqbFrxv",
+      "name": "Fear",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/fear.webp",
+      "data": {
+        "description": {
+          "value": "<p>You plant fear in the target; it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 3} and @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target up to five creatures.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "emotion",
+            "enchantment",
+            "fear",
+            "mental"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "fear",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.193-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "enchantment"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "varies"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "will",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 3
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.4koZzrnMXhhosn0D"
+        }
+      }
+    },
+    {
+      "_id": "TX2BuOFkiUQHi5HO",
+      "name": "Meld into Stone",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/meld-into-stone.webp",
+      "data": {
+        "description": {
+          "value": "<p>You merge with an adjacent block of stone with enough volume to fit you and your worn and held possessions. You must touch the stone when you Cast the Spell. You can hear, but not see, what's going on outside the stone, and you can cast spells while in the stone as long as they don't require line of effect beyond the stone.</p>\n<p>Significant physical damage to the stone while you are inside it expels you and deals 10d6 damage to you. Passwall expels you without dealing damage and ends meld into stone. You can Dismiss this spell.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "earth",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "meld-into-stone",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.344-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 3
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "10 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.vh1RpbWfqdNC4L3P"
+        }
+      }
+    },
+    {
+      "_id": "31fbqUhzHqD7Dnlv",
+      "name": "Stinking Cloud",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/stinking-cloud.webp",
+      "data": {
+        "description": {
+          "value": "<p>You create a cloud of putrid mist in the area. The cloud functions as @Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Obscuring Mist} except it sickens creatures that end their turns within the cloud. (The @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition is not a poison effect.)</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1} and @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} while in the cloud.</p>\n<p><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2} and @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} until it leaves the cloud.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "conjuration",
+            "poison"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "stinking-cloud",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.547-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 3
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "conjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "120 feet"
+        },
+        "area": {
+          "value": 20,
+          "areaType": "burst"
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minute"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "poison"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "fortitude",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "20-foot burst"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.GKpEcy9WId6NJvtx"
+        }
+      }
+    },
+    {
+      "_id": "jhLXwy1uxpJJaeQU",
+      "name": "Glitterdust",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/glitterdust.webp",
+      "data": {
+        "description": {
+          "value": "<p>Creatures in the area are outlined by glittering dust. Each creature must attempt a Reflex save. If a creature has its invisibility negated by this spell, it is @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} instead of @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}. This applies both if the creature was already Invisible and if it benefits from new invisibility effects before the end of the invisibility negation effect from this spell.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target's invisibility is negated for 2 rounds.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 minute and its invisibility is negated for 1 minute.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round and Dazzled for 10 minutes. Its invisibility is negated for 10 minutes.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "glitterdust",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.228-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 2
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "120 feet"
+        },
+        "area": {
+          "value": 10,
+          "areaType": "burst"
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "reflex",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "10-foot burst"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.0qaqksrGGDj74HXE"
+        }
+      }
+    },
+    {
+      "_id": "E2MNA2PzuRftIhNx",
+      "name": "Longstrider",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/longstrider.webp",
+      "data": {
+        "description": {
+          "value": "<p>You lengthen your stride beyond what should be possible. You gain a +10-foot status bonus to your Speed.</p>\n<p>@Compendium[pf2e.spell-effects.PQHP7Oph3BQX1GhF]{Spell Effect: Longstrider}</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> The duration increases to 8 hours.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "longstrider",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.319-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 hour"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 2
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 1225000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.KcLVELhCUcKXxiKE"
+        }
+      }
+    },
+    {
+      "_id": "CLDoXTfytyy2JnCI",
+      "name": "Obscuring Mist",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/obscuring-mist.webp",
+      "data": {
+        "description": {
+          "value": "<p>You call forth a cloud of mist. All creatures within the mist become @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed}, and all creatures outside the mist become Concealed to creatures within it. You can Dismiss the cloud.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "conjuration",
+            "water"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "obscuring-mist",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.374-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 2
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "conjuration"
+        },
+        "components": {
+          "material": true,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "120 feet"
+        },
+        "area": {
+          "value": 20,
+          "areaType": "burst"
+        },
+        "time": {
+          "value": "3"
+        },
+        "duration": {
+          "value": "1 minute"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "20-foot burst"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.9XHmC2JgTUIQ1CCm"
+        }
+      }
+    },
+    {
+      "_id": "NyYiRpGcXoLAlUAj",
+      "name": "Resist Energy",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/resist-energy.webp",
+      "data": {
+        "description": {
+          "value": "<p>A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or sonic damage. The target and its gear gain resistance 5 against the damage type you chose.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The resistance increases to 10, and you can target up to two creatures.</p>\n<p><strong>Heightened (7th)</strong> The resistance increases to 15, and you can target up to five creatures.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "abjuration"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "resist-energy",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.451-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 2
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "abjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "10 minutes"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.Fr58LDSrbndgld9n"
+        }
+      }
+    },
+    {
+      "_id": "PkDqu2tfN0ofR2KM",
+      "name": "Grease",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/grease.webp",
+      "data": {
+        "description": {
+          "value": "<p>You conjure grease, with effects based on choosing area or target.</p>\n<ul>\n<li><strong>Area</strong> <strong>[4 contiguous 5-foot squares]</strong> All solid ground in the area is covered with grease. Each creature standing on the greasy surface must succeed at a Reflex save or an Acrobatics check against your spell DC or fall @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}. Creatures using an action to move onto the greasy surface during the spell's duration must attempt either a Reflex save or an Acrobatics check to Balance. A creature that Steps or Crawls doesn't have to attempt a check or save.</li>\n<li><strong>Target</strong> <strong>[1 object of Bulk 1 or less]</strong> If you cast the spell on an unattended object, anyone trying to pick up the object must succeed at an Acrobatics check or Reflex save against your spell DC to do so. If you target an attended object, the creature that has the object must attempt an Acrobatics check or Reflex save. On a failure, the holder or wielder takes a -2 circumstance penalty to all checks that involve using the object; on a critical failure, the holder or wielder releases the item. The object lands in an adjacent square of the GM's choice. If you cast this spell on a worn object, the wearer gains a +2 circumstance bonus to Fortitude saves against attempts to grapple them.</li>\n</ul>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "conjuration"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "grease",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.236-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "save"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "conjuration"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 object of Bulk 1 or less"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minute"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "reflex",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "4 contiguous 5-foot squares or Targets 1 object of 1 Bulk or less"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.Wu0xFpewMKRK3HG8"
+        }
+      }
+    },
+    {
+      "_id": "jby8WuVp9dy6mFRT",
+      "name": "Mending",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/mending.webp",
+      "data": {
+        "description": {
+          "value": "<p>You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Broken} condition if this repairs it past the item's Broken Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> You can target a non-magical object of 1 Bulk or less.</p>\n<p><strong>Heightened (3rd)</strong> You can target a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "mending",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.345-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "school": {
+          "value": "transmutation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "non-magical object of light Bulk or less"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "10 minutes"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.dINQzhqGmIsqGMUY"
+        }
+      }
+    },
+    {
+      "_id": "tkHE3fuDDnNWuj68",
+      "name": "Acid Splash",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/acid-splash.webp",
+      "data": {
+        "description": {
+          "value": "<p>You splash a glob of acid that splatters your target and nearby creatures. Make a spell attack. If you hit, you deal 1d6 acid damage plus 1 splash acid damage. On a critical success, the target also takes 1 persistent acid damage.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The initial damage increases to 1d6 + your spellcasting ability modifier, and the @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage} increases to 2.<br /><strong>Heightened (5th)</strong> The initial damage increases to 2d6 + your spellcasting ability modifier, the Persistent Damage increases to 3, and the splash damage increases to 2.<br /><strong>Heightened (7th)</strong> The initial damage increases to 3d6 + your spellcasting ability modifier, the Persistent Damage increases to 4, and the splash damage increases to 3.<br /><strong>Heightened (9th)</strong> The initial damage increases to 4d6 + your spellcasting ability modifier, the Persistent Damage increases to 5, and the splash damage increases to 4.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "attack",
+            "acid",
+            "cantrip",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "acid-splash",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:03:59.967-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "attack"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d6+1",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "acid"
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.gISYsBFby1TiXfBt"
+        }
+      }
+    },
+    {
+      "_id": "PS2raxDyVsybKvMS",
+      "name": "Dancing Lights",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/dancing-lights.webp",
+      "data": {
+        "description": {
+          "value": "<p>You create up to four floating lights, no two of which are more than 10 feet apart. Each sheds light like a torch. When you Sustain the Spell, you can move any number of lights up to 60 feet. Each light must remain within 120 feet of you and within 10 feet of all others, or it winks out.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "light",
+            "cantrip",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "dancing-lights",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.092-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "occult",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "120 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "sustained"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": true
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.kl2q6JvBZwed4B6v"
+        }
+      }
+    },
+    {
+      "_id": "TYiNGHBUqHjX0T7H",
+      "name": "Light",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/light.webp",
+      "data": {
+        "description": {
+          "value": "<p>The object glows, casting bright light in a 20-foot radius (and dim light for the next 20 feet) like a torch. If you cast this spell again on a second object, the light spell on the first object ends.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The object sheds bright light in a 60-foot radius (and dim light for the next 60 feet).</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "light",
+            "cantrip",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "light",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.310-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 object of 1 Bulk or less, either unattended or possessed by you or a willing ally"
+        },
+        "range": {
+          "value": "touch"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "until the next time you make your daily preparations"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.WBmvzNDfpwka3qT4"
+        }
+      }
+    },
+    {
+      "_id": "IXettyQehy4PUrwA",
+      "name": "Prestidigitation",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/prestidigitation.webp",
+      "data": {
+        "description": {
+          "value": "<p>The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the Spell. Each time you Sustain the Spell, you can choose one of four options.</p>\n<ul>\n<li><strong>Cook</strong> Cool, warm, or flavor 1 pound of nonliving material.</li>\n<li><strong>Lift</strong> <strong>Slowly</strong> lift an unattended object of light Bulk or less 1 foot off the ground.</li>\n<li><strong>Make</strong> Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile-it can't be used as a tool, weapon, or spell component.</li>\n<li><strong>Tidy</strong> Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.</li>\n</ul>\n<p>Prestidigitation can't deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you Sustain the Spell.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "cantrip",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "prestidigitation",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.409-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 object (cook, lift, or tidy only)"
+        },
+        "range": {
+          "value": "10 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "sustained"
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": true
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.Qw3fnUlaUbnn7ipC"
+        }
+      }
+    },
+    {
+      "_id": "mCsHoIrZ5lSjLFTJ",
+      "name": "Produce Stone",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/hurtling-stone.webp",
+      "data": {
+        "description": {
+          "value": "<p>A small stone appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach.</p>\n<p>On a success, you deal 1d4 bludgeoning damage plus your spellcasting ability modifier. On a critical success, the target takes double damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 1d4</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "attack",
+            "fire",
+            "cantrip",
+            "evocation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "produce-flame",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.416-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "attack"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "evocation"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 creature"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d4",
+          "applyMod": true
+        },
+        "damageType": {
+          "value": "bludgeoning"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d4"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": ""
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.O9w7r4BKgPogYDDe"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "6y38SpPnrToSd6Eq",
+      "name": "Heal (2 action)",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/heal.webp",
+      "data": {
+        "description": {
+          "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "healing",
+            "necromancy",
+            "positive"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "heal",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.247-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "heal"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "necromancy"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing living creature or 1 undead"
+        },
+        "range": {
+          "value": "varies"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8+8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "positive"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8+8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "varies"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 1
+        }
+      },
+      "effects": [],
+      "folder": "5qvHYoBFXqr9ondT",
+      "sort": 1125000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "eqcSu5IEFMX3eLiQ",
+      "name": "Heal (2 action)",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/heal.webp",
+      "data": {
+        "description": {
+          "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "healing",
+            "necromancy",
+            "positive"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "heal",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.247-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "heal"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "necromancy"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing living creature or 1 undead"
+        },
+        "range": {
+          "value": "varies"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8+8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "positive"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8+8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "varies"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 4
+        }
+      },
+      "effects": [],
+      "folder": "5qvHYoBFXqr9ondT",
+      "sort": 1125000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "HD0Sy1RZTsFQtqXu",
+      "name": "Heal (2 action)",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/heal.webp",
+      "data": {
+        "description": {
+          "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "healing",
+            "necromancy",
+            "positive"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "heal",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.247-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "heal"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "necromancy"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing living creature or 1 undead"
+        },
+        "range": {
+          "value": "varies"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8+8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "positive"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8+8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "varies"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 3
+        }
+      },
+      "effects": [],
+      "folder": "5qvHYoBFXqr9ondT",
+      "sort": 1125000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "vDCDPDC8qgrG0ieQ",
+      "name": "Heal (2 action)",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/heal.webp",
+      "data": {
+        "description": {
+          "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "healing",
+            "necromancy",
+            "positive"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "heal",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.247-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "heal"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "necromancy"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing living creature or 1 undead"
+        },
+        "range": {
+          "value": "varies"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8+8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "positive"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8+8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "varies"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 2
+        }
+      },
+      "effects": [],
+      "folder": "5qvHYoBFXqr9ondT",
+      "sort": 1125000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "UJKrrzYwUArx0MLu",
+      "name": "Heal (2 action)",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/heal.webp",
+      "data": {
+        "description": {
+          "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "healing",
+            "necromancy",
+            "positive"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "heal",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.247-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "heal"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "necromancy"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing living creature or 1 undead"
+        },
+        "range": {
+          "value": "varies"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8+8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "positive"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8+8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "varies"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 5
+        }
+      },
+      "effects": [],
+      "folder": "5qvHYoBFXqr9ondT",
+      "sort": 1125000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "9TXuz5sL4bNOd624",
+      "name": "Heal (2 action)",
+      "type": "spell",
+      "img": "systems/pf2e/icons/spells/heal.webp",
+      "data": {
+        "description": {
+          "value": "<p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<hr />\n<p><span class=\"pf2-icon\"><strong>2 </strong></span>(somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "healing",
+            "necromancy",
+            "positive"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "heal",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:04:00.247-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "heal"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "divine",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "necromancy"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 willing living creature or 1 undead"
+        },
+        "range": {
+          "value": "varies"
+        },
+        "area": {
+          "value": "",
+          "areaType": ""
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "1d8+8",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": "positive"
+        },
+        "scaling": {
+          "mode": "level1",
+          "formula": "1d8+8"
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "UcTzXoieZ2AMbYL4"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "areasize": {
+          "value": "varies"
+        },
+        "primarycheck": {
+          "value": ""
+        },
+        "secondarycasters": {
+          "value": ""
+        },
+        "secondarycheck": {
+          "value": ""
+        },
+        "heightenedLevel": {
+          "value": 6
+        }
+      },
+      "effects": [],
+      "folder": "5qvHYoBFXqr9ondT",
+      "sort": 1125000,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs"
+        },
+        "pdfoundry-pf2e": {
+          "source": ""
+        },
+        "enhanced-terrain-layer": {
+          "multiple": 1,
+          "min": 0,
+          "max": 0,
+          "environment": ""
+        }
+      }
+    },
+    {
+      "_id": "gxBnwD76R8fOFXuG",
+      "name": "Darkvision",
+      "type": "feat",
+      "img": "systems/pf2e/icons/features/ancestry/darkvision.webp",
+      "data": {
+        "description": {
+          "value": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [
+          {
+            "key": "PF2E.RuleElement.Sense",
+            "label": "PF2E.SensesDarkvision",
+            "selector": "darkvision"
+          }
+        ],
+        "slug": "darkvision",
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-03T22:03:22.867-05:00",
+            "version": {
+              "schema": null
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "featType": {
+          "value": "ancestryfeature"
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "location": ""
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.ancestryfeatures.HHVQDp61ehcpdiU8"
+        }
+      }
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "pf2e_updatednpcsheet": {},
+    "pf2e": {
+      "rollOptions": {
+        "all": {
+          "target:flatFooted": false,
+          "polymorph": false
+        }
+      },
+      "token": {},
+      "set-property": {
+        "flags-pf2e-rolloptions-all-polymorph": false
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}

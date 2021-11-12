@@ -1,0 +1,1983 @@
+{
+  "name": "Longtooth",
+  "type": "npc",
+  "img": "links/RotRL/Tokens/4.%20Fortress%20of%20the%20Stone%20Giants/Longtooth%20%5BPortrait%5D.webp",
+  "data": {
+    "abilities": {
+      "str": {
+        "value": 22,
+        "mod": 6,
+        "min": 3
+      },
+      "dex": {
+        "value": 12,
+        "mod": 1,
+        "min": 3
+      },
+      "con": {
+        "value": 18,
+        "mod": 4,
+        "min": 3
+      },
+      "int": {
+        "value": 12,
+        "mod": 1,
+        "min": 3
+      },
+      "wis": {
+        "value": 14,
+        "mod": 2,
+        "min": 3
+      },
+      "cha": {
+        "value": 16,
+        "mod": 3,
+        "min": 3
+      }
+    },
+    "saves": {
+      "fortitude": {
+        "ability": "con",
+        "value": 21,
+        "saveDetail": "",
+        "breakdown": "",
+        "item": 0,
+        "rank": 0
+      },
+      "reflex": {
+        "ability": "dex",
+        "value": 18,
+        "saveDetail": "",
+        "breakdown": "",
+        "item": 0,
+        "rank": 0
+      },
+      "will": {
+        "ability": "wis",
+        "value": 19,
+        "saveDetail": "",
+        "breakdown": "",
+        "item": 0,
+        "rank": 0
+      }
+    },
+    "attributes": {
+      "ac": {
+        "value": 30,
+        "dex": 0,
+        "check": 0,
+        "details": "",
+        "item": 0,
+        "min": 0,
+        "base": 30
+      },
+      "allSaves": {
+        "value": ""
+      },
+      "shield": {
+        "value": 0,
+        "max": 0,
+        "brokenThreshold": 0,
+        "hardness": 0,
+        "ac": 0,
+        "min": 0
+      },
+      "hp": {
+        "value": 230,
+        "max": 210,
+        "temp": 0,
+        "details": "",
+        "min": 0
+      },
+      "perception": {
+        "ability": "wis",
+        "value": 20,
+        "breakdown": "",
+        "item": 0,
+        "rank": 0
+      },
+      "initiative": {
+        "ability": "",
+        "circumstance": 0,
+        "status": 0
+      },
+      "speed": {
+        "value": "40",
+        "otherSpeeds": [
+          {
+            "type": "Fly",
+            "value": "120 feet"
+          }
+        ]
+      },
+      "ancestryhp": 0,
+      "bonusEncumbranceBulk": 0,
+      "bonusLimitBulk": 0,
+      "classDC": {
+        "ability": "str",
+        "breakdown": "",
+        "item": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "classhp": 0,
+      "flatbonushp": 0,
+      "flatbonussp": 0,
+      "init": {
+        "bonus": 0,
+        "value": 0
+      },
+      "levelbonushp": 0,
+      "levelbonussp": 0,
+      "resolve": {
+        "value": 0
+      },
+      "sp": {
+        "details": "",
+        "max": 0,
+        "min": 0,
+        "value": 0
+      }
+    },
+    "details": {
+      "alignment": {
+        "value": "CE"
+      },
+      "level": {
+        "value": 10,
+        "min": 1
+      },
+      "source": {
+        "value": "Bestiary"
+      },
+      "recallKnowledgeText": "Recall Knowledge : DC 27",
+      "creatureType": "Dragon",
+      "ancestry": {
+        "value": "Dragon, Chromatic"
+      },
+      "biography": {
+        "public": "",
+        "value": ""
+      },
+      "class": {
+        "value": ""
+      },
+      "deity": {
+        "image": "systems/pf2e/assets/sheet/deity.webp",
+        "value": ""
+      },
+      "flavorText": "<p style=\"box-sizing: border-box; user-select: text; font-family: Vollkorn, Eczar, Signika, Georgia, serif; font-size: 16.8px; margin: var(--p-space,1em) 0px 0.5em 0px;\"><strong style=\"box-sizing: border-box; user-select: text;\">@JournalEntry[rZjJyTZH1Vl2Orn0]{Round 8: Dragonfire Inferno}</strong></p>\n<p style=\"box-sizing: border-box; user-select: text; font-family: Vollkorn, Eczar, Signika, Georgia, serif; font-size: 16.8px; margin: var(--p-space,1em) 0px 0.5em 0px;\"><strong style=\"box-sizing: border-box; user-select: text;\">ROUND 12&mdash;SANDPOINT CATHEDRAL:</strong>&nbsp;While the northern wings of the cathedral catch fire quickly, the southern section is relatively fireproof. Longtooth alights on the roof of the cathedral for 2 rounds to roar and mock the town before taking to the air again.</p>\n<p style=\"box-sizing: border-box; user-select: text; font-family: Vollkorn, Eczar, Signika, Georgia, serif; font-size: 16.8px; margin: var(--p-space,1em) 0px 0.5em 0px;\"><strong style=\"box-sizing: border-box; user-select: text;\">ROUND 16&mdash;SANDPOINT THEATER:</strong>&nbsp;The bright colors of this building prove too tempting a target; once Longtooth breathes on it, the building catches fire quickly. Cyrdak Drokkus uses his magic and bardic performances to aid attempts to quell the fire, but without assistance, the theater is doomed.</p>\n<p style=\"box-sizing: border-box; user-select: text; font-family: Vollkorn, Eczar, Signika, Georgia, serif; font-size: 16.8px; margin: var(--p-space,1em) 0px 0.5em 0px;\"><strong style=\"box-sizing: border-box; user-select: text;\">ROUND 20&mdash;THE HAGFISH:&nbsp;</strong>Longtooth lands on the beach just west of the Hagf ish and lights both it and the nearby docks (and a ship, the Wistful Widow) on fire, then spends the next 3 rounds catching and eating people trying to escape from the burning buildings.</p>\n<p style=\"box-sizing: border-box; user-select: text; font-family: Vollkorn, Eczar, Signika, Georgia, serif; font-size: 16.8px; margin: var(--p-space,1em) 0px 0.5em 0px;\"><strong style=\"box-sizing: border-box; user-select: text;\">ROUND 24&mdash;SALMON STREET:&nbsp;</strong>Longtooth strafes southern Sandpoint, setting fire to the Sandpoint Mercantile League, Fatman&rsquo;s Feedbag, and all of the buildings surrounding Shark Alley.</p>",
+      "flavourText": "",
+      "heritage": {
+        "value": ""
+      },
+      "keyability": {
+        "value": "str"
+      }
+    },
+    "traits": {
+      "size": {
+        "value": "lg"
+      },
+      "senses": {
+        "value": "darkvision, scent (imprecise) 60 feet, smoke vision"
+      },
+      "traits": {
+        "value": [
+          "dragon",
+          "fire",
+          "elite"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "draconic"
+        ],
+        "selected": [],
+        "custom": ""
+      },
+      "di": {
+        "value": [
+          "fire",
+          "paralyzed",
+          "sleep"
+        ],
+        "custom": ""
+      },
+      "dr": [],
+      "dv": [
+        {
+          "label": "Cold",
+          "type": "cold",
+          "value": "10"
+        }
+      ],
+      "ci": [],
+      "rarity": {
+        "value": "common"
+      }
+    },
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.335-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    },
+    "statusEffects": [],
+    "currency": {
+      "cp": {
+        "value": 0
+      },
+      "gp": {
+        "value": 0
+      },
+      "pp": {
+        "value": 0
+      },
+      "sp": {
+        "value": 0
+      }
+    },
+    "martial": {
+      "advanced": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "heavy": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "light": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "martial": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "medium": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "simple": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "unarmed": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      },
+      "unarmored": {
+        "breakdown": "",
+        "rank": 0,
+        "value": 0
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "armor": 1,
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "arc": {
+        "ability": "int",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "ath": {
+        "ability": "str",
+        "armor": 1,
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "cra": {
+        "ability": "int",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "dec": {
+        "ability": "cha",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "dip": {
+        "ability": "cha",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "itm": {
+        "ability": "cha",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "med": {
+        "ability": "wis",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "nat": {
+        "ability": "wis",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "occ": {
+        "ability": "int",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "prf": {
+        "ability": "cha",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "rel": {
+        "ability": "wis",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "soc": {
+        "ability": "int",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "ste": {
+        "ability": "dex",
+        "armor": 1,
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "sur": {
+        "ability": "wis",
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      },
+      "thi": {
+        "ability": "dex",
+        "armor": 1,
+        "breakdown": "",
+        "item": 0,
+        "mod": 0,
+        "rank": 0,
+        "value": 0
+      }
+    },
+    "spells": {
+      "spell0": {
+        "max": 0
+      },
+      "spell1": {
+        "max": 0
+      },
+      "spell10": {
+        "max": 0
+      },
+      "spell11": {
+        "max": 0
+      },
+      "spell2": {
+        "max": 0
+      },
+      "spell3": {
+        "max": 0
+      },
+      "spell4": {
+        "max": 0
+      },
+      "spell5": {
+        "max": 0
+      },
+      "spell6": {
+        "max": 0
+      },
+      "spell7": {
+        "max": 0
+      },
+      "spell8": {
+        "max": 0
+      },
+      "spell9": {
+        "max": 0
+      }
+    }
+  },
+  "token": {
+    "actorId": "sUGKrcx7kbHkWnwG",
+    "actorLink": true,
+    "alpha": 1,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "brightLight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "dimSight": 0,
+    "displayBars": 50,
+    "displayName": 30,
+    "disposition": -1,
+    "flags": {
+      "perfect-vision": {
+        "visionRules": "default",
+        "monoVisionColor": "",
+        "sightLimit": null
+      }
+    },
+    "height": 2,
+    "img": "links/RotRL/Tokens/4.%20Fortress%20of%20the%20Stone%20Giants/Longtooth.webp",
+    "lightAlpha": 1,
+    "lightAngle": 0,
+    "lightAnimation": {
+      "intensity": 5,
+      "speed": 5
+    },
+    "lockRotation": true,
+    "mirrorX": false,
+    "mirrorY": false,
+    "name": "Young Red Dragon",
+    "randomImg": false,
+    "rotation": 0,
+    "scale": 1,
+    "sightAngle": 0,
+    "tint": null,
+    "vision": true,
+    "width": 2,
+    "lightColor": null,
+    "x": null,
+    "y": null,
+    "elevation": null
+  },
+  "items": [
+    {
+      "_id": "Fv0nY2PFgGBtoZqd",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "ability": {
+          "value": ""
+        },
+        "spelldc": {
+          "value": 17,
+          "dc": "27",
+          "mod": 0,
+          "item": 0
+        },
+        "tradition": {
+          "value": "arcane"
+        },
+        "focus": {
+          "points": 1,
+          "pool": 1
+        },
+        "prepared": {
+          "value": "Innate"
+        },
+        "showUnpreparedSpells": {
+          "value": false
+        },
+        "proficiency": {
+          "value": 0
+        },
+        "displayLevels": {},
+        "slots": {
+          "slot0": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot1": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot2": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot3": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot4": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot5": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot6": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot7": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        },
+        "signatureSpells": {
+          "value": []
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "displayLevel": {},
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Arcane Innate Spells",
+      "permission": {
+        "default": 0
+      },
+      "sort": 100000,
+      "type": "spellcastingEntry"
+    },
+    {
+      "_id": "PwwQOOcbDGcROuL6",
+      "data": {
+        "description": {
+          "value": "<p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.</p>\n<p>You detect illusion magic only if that magic's effect has a lower level than the level of your detect magic spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an invisibility potion) typically are detected normally.</p>\n<hr style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\">\n<p><strong>Heightened</strong> You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.<br style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\"><strong>Heightened</strong> As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "detection",
+            "cantrip",
+            "divination"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "divination"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "30-foot emination"
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "value": 30,
+          "areaType": "emanation"
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "Fv0nY2PFgGBtoZqd"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/spells/detect-magic.webp",
+      "name": "Detect Magic - Cantrips",
+      "permission": {
+        "default": 0
+      },
+      "sort": 200000,
+      "type": "spell"
+    },
+    {
+      "_id": "Zi3Fz2fSsuYn6tP5",
+      "data": {
+        "description": {
+          "value": "<p>You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic.</p>\n<p>If the object is illusory, you detect this only if the effect's level is lower than the level of your read aura spell.</p>\n<hr />\n<p><strong>Heightened</strong> You can target up to 10 objects.<br /><strong>Heightened</strong> You can target any number of objects.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "detection",
+            "cantrip",
+            "divination"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "level": {
+          "value": 1
+        },
+        "spellType": {
+          "value": "utility"
+        },
+        "category": {
+          "value": "spell"
+        },
+        "traditions": {
+          "value": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ],
+          "custom": ""
+        },
+        "school": {
+          "value": "divination"
+        },
+        "components": {
+          "material": false,
+          "somatic": true,
+          "verbal": true
+        },
+        "materials": {
+          "value": ""
+        },
+        "target": {
+          "value": "1 object"
+        },
+        "range": {
+          "value": "30 feet"
+        },
+        "area": {
+          "value": null,
+          "areaType": ""
+        },
+        "time": {
+          "value": "1 Minute"
+        },
+        "duration": {
+          "value": ""
+        },
+        "damage": {
+          "value": "",
+          "applyMod": false
+        },
+        "damageType": {
+          "value": ""
+        },
+        "scaling": {
+          "mode": "none",
+          "formula": ""
+        },
+        "save": {
+          "value": "",
+          "basic": ""
+        },
+        "sustained": {
+          "value": false
+        },
+        "cost": {
+          "value": ""
+        },
+        "ability": {
+          "value": ""
+        },
+        "prepared": {
+          "value": ""
+        },
+        "location": {
+          "value": "Fv0nY2PFgGBtoZqd"
+        },
+        "hasCounteractCheck": {
+          "value": false
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/spells/read-aura.webp",
+      "name": "Read Aura - Cantrips",
+      "permission": {
+        "default": 0
+      },
+      "sort": 300000,
+      "type": "spell"
+    },
+    {
+      "_id": "sGGqzFbYP70AiQpk",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "fire",
+            "reach-10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "i3rrr13xiie2lctb3sh2": {
+            "damage": "2d12+12",
+            "damageType": "piercing"
+          },
+          "fg0l56st3g4sa87bch3k": {
+            "damage": "2d6",
+            "damageType": "fire"
+          }
+        },
+        "bonus": {
+          "value": 23
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Jaws",
+      "permission": {
+        "default": 0
+      },
+      "sort": 400000,
+      "type": "melee"
+    },
+    {
+      "_id": "g6xJoBw3WBMO4VqW",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "7becj3dynotkmox3nhfx": {
+            "damage": "2d10+12",
+            "damageType": "slashing"
+          }
+        },
+        "bonus": {
+          "value": 23
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Claw",
+      "permission": {
+        "default": 0
+      },
+      "sort": 500000,
+      "type": "melee"
+    },
+    {
+      "_id": "Ehvmz1GzuHGjHUz3",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "reach-15"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "asbchegun9ulz2rkmat0": {
+            "damage": "2d12+10",
+            "damageType": "slashing"
+          }
+        },
+        "bonus": {
+          "value": 21
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Tail",
+      "permission": {
+        "default": 0
+      },
+      "sort": 600000,
+      "type": "melee"
+    },
+    {
+      "_id": "VhgpqA8362l8qc64",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "agile",
+            "reach-10"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "weaponType": {
+          "value": "melee"
+        },
+        "attack": {
+          "value": ""
+        },
+        "damageRolls": {
+          "0v20yoyzcoqymu4mdbzu": {
+            "damage": "1d10+10",
+            "damageType": "slashing"
+          }
+        },
+        "bonus": {
+          "value": 21
+        },
+        "attackEffects": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Wing",
+      "permission": {
+        "default": 0
+      },
+      "sort": 700000,
+      "type": "melee"
+    },
+    {
+      "_id": "F2mCARScyPh6sD0k",
+      "data": {
+        "description": {
+          "value": "<p>Smoke doesn't impair a red dragon's vision; it ignores the concealed condition from smoke.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "interaction"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Smoke Vision",
+      "permission": {
+        "default": 0
+      },
+      "sort": 800000,
+      "type": "action"
+    },
+    {
+      "_id": "y1CWoANqqDtCbae7",
+      "data": {
+        "description": {
+          "value": "<p>90 feet, <span data-pf2-saving-throw=\"will\" data-pf2-dc=\"29\" data-pf2-traits=\"emotion,fear,mental\" data-pf2-label=\"Frightful Presence DC\" data-pf2-show-dc=\"gm\">basic Will</span> save <br />A creature that first enters the area must attempt a Will save. Regardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute. <br />@Item[HqPDV5NFVK6XHxuh]{Timer: Frightful Presence Immunity}<br /><br /><strong>Critical Success</strong> The creature is unaffected by the presence.<br /><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.<br /><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}.<br /><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 4}.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "aura",
+            "emotion",
+            "fear",
+            "mental"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "defensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      },
+      "folder": null,
+      "img": "systems/pf2e/icons/actions/Passive.webp",
+      "name": "Frightful Presence",
+      "permission": {
+        "default": 0
+      },
+      "sort": 900000,
+      "type": "action"
+    },
+    {
+      "_id": "zHyUK6tSHP61agvD",
+      "data": {
+        "description": {
+          "value": "<p>Jaws only.<br /><strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using. <strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "reaction"
+        },
+        "actionCategory": {
+          "value": "defensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Attack of Opportunity",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1000000,
+      "type": "action"
+    },
+    {
+      "_id": "Aq3s4Ckr3PMnxD4H",
+      "data": {
+        "description": {
+          "value": "<p>The dragon breathes a blast of flame that deals <span data-pf2-show=\"gm\">[[/r 12d6 # fire damage]]</span> fire damage in a 40-foot cone (<span data-pf2-saving-throw=\"reflex\" data-pf2-dc=\"32\" data-pf2-traits=\"arcane,evocation,fire,damaging-effect\" data-pf2-label=\"Breath Weapon DC\" data-pf2-show-dc=\"gm\">basic Reflex</span> save). It can't use Breath Weapon again for [[/r 1d4 # rounds]] rounds.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "arcane",
+            "evocation",
+            "fire"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": "2"
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      },
+      "folder": null,
+      "img": "systems/pf2e/icons/actions/TwoActions.webp",
+      "name": "Breath Weapon",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1100000,
+      "type": "action"
+    },
+    {
+      "_id": "XGl21E5BQZXRMicO",
+      "data": {
+        "description": {
+          "value": "<p>The dragon makes two claw Strikes and one wing Strike in any order.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "action"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": 2
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Draconic Frenzy",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1200000,
+      "type": "action"
+    },
+    {
+      "_id": "qIqgF3PIeW7W6Fft",
+      "data": {
+        "description": {
+          "value": "<p>The dragon recharges its Breath Weapon whenever it scores a critical hit with a Strike.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "passive"
+        },
+        "actionCategory": {
+          "value": "offensive"
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/mystery-man.svg",
+      "name": "Draconic Momentum",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1300000,
+      "type": "action"
+    },
+    {
+      "_id": "dOnEZtpQYdzuhptP",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.335-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 15
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Acrobatics",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1400000,
+      "type": "lore"
+    },
+    {
+      "_id": "tvcm7feMgiEcPClN",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 17
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Arcana",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1500000,
+      "type": "lore"
+    },
+    {
+      "_id": "euKuPKEC94UkZLQ6",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 22
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Athletics",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1600000,
+      "type": "lore"
+    },
+    {
+      "_id": "jjj9wvfipLA4fBc6",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 19
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Deception",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1700000,
+      "type": "lore"
+    },
+    {
+      "_id": "zamdTJ0ClRp3lkBm",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 19
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Diplomacy",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1800000,
+      "type": "lore"
+    },
+    {
+      "_id": "wiZOHAgFl4YhBi1I",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 21
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Intimidation",
+      "permission": {
+        "default": 0
+      },
+      "sort": 1900000,
+      "type": "lore"
+    },
+    {
+      "_id": "5OWzWz3PBuQeBRpx",
+      "data": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.336-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "mod": {
+          "value": 17
+        },
+        "proficient": {
+          "value": 0
+        },
+        "item": {
+          "value": 0
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "name": "Stealth",
+      "permission": {
+        "default": 0
+      },
+      "sort": 2000000,
+      "type": "lore"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.pf2e.pathfinder-bestiary.sUGKrcx7kbHkWnwG"
+    },
+    "pf2e": {
+      "rollOptions": {
+        "all": {
+          "target:flatFooted": false
+        }
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}

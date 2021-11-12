@@ -1,0 +1,215 @@
+{
+  "name": "Chamber of Reduction",
+  "type": "hazard",
+  "img": "systems/pf2e/icons/spells/shrink.webp",
+  "data": {
+    "source": {
+      "value": ""
+    },
+    "recallKnowledgeText": "",
+    "creatureType": "",
+    "saves": {
+      "fortitude": {
+        "rank": 0,
+        "saveDetail": "",
+        "value": null
+      },
+      "reflex": {
+        "rank": 0,
+        "saveDetail": "",
+        "value": null
+      },
+      "will": {
+        "rank": 0,
+        "saveDetail": "",
+        "value": null
+      }
+    },
+    "attributes": {
+      "hasHealth": true,
+      "ac": {
+        "value": 0
+      },
+      "hp": {
+        "value": 0,
+        "max": 0,
+        "temp": 0,
+        "details": ""
+      },
+      "hardness": 0,
+      "stealth": {
+        "value": 23,
+        "details": "<p>(Expert)</p>"
+      }
+    },
+    "details": {
+      "isComplex": false,
+      "level": 12,
+      "disable": "<p>DC 38 Thievery (Master) to drain the power harmlessly, Dispel Magic (6th level, Counteract DC 36)</p>",
+      "description": "<p><strong>Damaged Floor<br /></strong>The subtle damage to this floor is exaggerated for smaller creatures. Tiny creatures treat the floor as difficult terrain. This applies even if the magical hazard has been disabled.</p>\n<hr />\n<p>Add this effect to non-tiny tokens. @Compendium[pf2e-dragruler.movement-effects.hgsG0yQI60mmy57Q]{Ignore Rubble}</p>",
+      "reset": "",
+      "routine": ""
+    },
+    "statusEffects": [],
+    "traits": {
+      "rarity": {
+        "value": "common"
+      },
+      "size": {
+        "value": "med"
+      },
+      "traits": {
+        "value": [
+          "magical",
+          "transmutation",
+          "custom"
+        ],
+        "custom": "Polymorph"
+      },
+      "di": {
+        "custom": "",
+        "value": [],
+        "selected": {}
+      },
+      "dr": [],
+      "dv": [],
+      "ci": []
+    },
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.325-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    }
+  },
+  "token": {
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "displayName": 30,
+    "displayBars": 50,
+    "name": "Chamber of Reduction",
+    "height": 1,
+    "width": 1,
+    "disposition": 0,
+    "actorLink": false,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": true,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 0,
+    "lightAngle": 0,
+    "lightAlpha": 0.25,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "img": "systems/pf2e/icons/spells/shrink.webp"
+  },
+  "items": [
+    {
+      "_id": "WgQv60nmIGlzWTAB",
+      "name": "Reduction",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/FreeAction.webp",
+      "data": {
+        "description": {
+          "value": "<p><strong>Trigger&nbsp;</strong>Living creature enters the room;&nbsp;<strong>Effect&nbsp;</strong>The creature automatically becomes Tiny in size as though affected by the @Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]{Shrink} spell<em data-visibility=\"gm\">for 5 minutes</em>. Additionally they must make a <span data-pf2-saving-throw=\"fortitude\" data-pf2-dc=\"32\" data-pf2-traits=\"Polymorph, Transmutation\" data-pf2-label=\"Reduction\" data-pf2-show-dc=\"gm\">Fortitude</span> save.</p>\n<hr />\n<section class=\"statblock\">\n<p data-visibility=\"gm\"><strong>Critical success</strong>: no additional effect <br /><strong>Success</strong>: the creature is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1}<br /><strong>Failure</strong>: the creature is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2}<br /><strong>Critical failure:</strong> The creature is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2} and @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} as long as it is sickened.</p>\n</section>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "polymorph",
+            "transmutation"
+          ],
+          "rarity": {
+            "value": "common"
+          },
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.642,
+          "lastMigration": {
+            "datetime": "2021-07-08T14:46:05.325-05:00",
+            "version": {
+              "schema": null,
+              "foundry": "0.8.8",
+              "system": "2.8.1.6593"
+            }
+          }
+        },
+        "actionType": {
+          "value": "free"
+        },
+        "actionCategory": {
+          "value": ""
+        },
+        "weapon": {
+          "value": ""
+        },
+        "actions": {
+          "value": ""
+        },
+        "requirements": {
+          "value": ""
+        },
+        "trigger": {
+          "value": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oiPWLVPNH7xQBULr": 3
+      },
+      "flags": {
+        "pdfoundry-pf2e": {
+          "source": ""
+        }
+      }
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "pf2e": {
+      "editHazard": {
+        "value": false
+      }
+    },
+    "pf2e_updatednpcsheet": {
+      "npcNotes": {
+        "value": ""
+      }
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Afflicted",
+  "type": "effect",
+  "img": "links/Icons/rpg-icons/spellbookpage01/SpellBook01_01.webp",
+  "data": {
+    "description": {
+      "value": "<p>A simple afflictions tracker, add one copy per stage...</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "traits": {
+      "value": [],
+      "rarity": {
+        "value": "common"
+      },
+      "custom": ""
+    },
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.642,
+      "lastMigration": {
+        "datetime": "2021-07-08T14:46:05.260-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "0.8.8",
+          "system": "2.8.1.6593"
+        }
+      }
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "minutes",
+      "sustained": false,
+      "expiry": "turn-end"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "rarity": {
+      "value": "common"
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "0.8.8",
+      "systemVersion": "2.9.1.6656"
+    }
+  }
+}
