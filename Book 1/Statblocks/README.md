@@ -14,11 +14,12 @@ Explain the key thinking and design decisions for each creature in here
 Where multiple options for a single monster exists explain the differences below.
 
 ## General
-  - some builds use the core rulebook, some use a bestiary entry as a starting point and then layer on other abilities using monster builder to stay within GMG recommended ranges  
+  - some builds use the core rulebook, some use a bestiary entry as a starting point and then layer on other abilities using monster builder to stay within GMG recommended ranges
+  - Was updated after GMG and Bestiary 2 replaced soem custom monsters
 
 ## Vargouille
-  - build largely from the playtest bestiary
-  - the option to use a divine guardian of Lamshtu with the same trigger conditions is there if you want a standard creature that fits the theme
+  - build largely from the playtest bestiary. Note there is now an official one in the Agents of Edgewatch AP, but this is not on Nethys
+  - As some folks dont like the Vargouille thematically there is an option presented to use a divine guardian of Lamshtu with the same trigger conditions if you want a standard creature that fits the theme
 
 ## Erylium
   - based off the playtest bestiary entry and upscaled with added occult spells. Likely needs revisiting.
@@ -53,6 +54,3 @@ Where multiple options for a single monster exists explain the differences below
 ## Nualia
   - Nualia is built as a warpriest cleric to match the martial leanings of the 1E build, and using Lamashtu's favored weapon.
   - Note Nualia has Lamashtu's Mark that allows her to birth monsters from her body, which has a specific mechanic in 2E (see [Lamashtu's Major Boon](https://2e.aonprd.com/Deities.aspx?ID=11)), and the assumption is this is how she acquired the Yeth Hounds from Lamashtu, and she can replace them should any be killed, though drained 3 for a 5th level character is no small thing.
-
-## Giant Hermit Crab
-  - this is a reskinned giant crab from bestiary 2
