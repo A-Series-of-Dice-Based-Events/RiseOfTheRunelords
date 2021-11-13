@@ -146,7 +146,8 @@ Part | Title | Level | Max XP
 
 ### I Lair of the Hidden Beast (xp 80, moderate)
   **Creatures**
-    - 4 Vampire Skulk 
+  
+  - 4 Vampire Skulk 
     - ![Vampire Skulk A PNG](./Statblocks/VampireSkulkA.png)
     - ![Vampire Skulk B PNG](./Statblocks/VampireSkulkB.png)
     - [The Hidden Beast](./Statblocks/TheHiddenBeast.pdf)
@@ -154,11 +155,12 @@ Part | Title | Level | Max XP
     - ![The Hidden Beast 2 PNG](./Statblocks/TheHiddenBeast2.png)  
     
     - Add one Vampire Skulk per PC in the party over 4
-  **Treasure** 
+    
+  **Treasure**
     - Reward from the skulks:
-      - True staff of healing (lvl 16 permanent)
-      - Scroll of 9th-level heal (lvl 17 consumable)
-      - 2 [Greater Winter wolf elixirs](https://2e.aonprd.com/Equipment.aspx?ID=103) (lvl 16 consumables)
+    - True staff of healing (lvl 16 permanent)
+    - Scroll of 9th-level heal (lvl 17 consumable)
+    - 2 [Greater Winter wolf elixirs](https://2e.aonprd.com/Equipment.aspx?ID=103) (lvl 16 consumables)
 
 ### K Heptaric Locus (XP 60, lowe)
   - **Creatures**
@@ -170,6 +172,7 @@ Part | Title | Level | Max XP
   
     - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
     - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
+
   **Treasure**
     - Remove the 8000gp of gems and jewellry
     - Divide the cash value of the coins by 2.
@@ -205,10 +208,10 @@ Part | Title | Level | Max XP
 ### X1 Entrance Ramp (xp 60, low)
   - There is one warden of wind for each party member
 
-### X2 Kharzoug (xp 10 x 6, trivial, RP opportunities)
+### X2 Karzoug (xp 10 x 6, trivial, RP opportunities)
   - The images provide good opportunities for roleplay and for each side to weigh up the capabilities of their opponents. For example they get to understand the power of Karzoug's spells without major risk and possibly his counterspell / reflect spell ability. Karzoug tries to weigh up who is the greatest threat.
   - each image destroyed is worth 10 xp
-  - Kharzoug generally only casts through these images if he can help a combat, using spells such as Slow, Wall of Force, Resilient Sphere, Black Tentacles, Earthbind, Aqueous Orb, Telekinetic Maneuver, Grease, Glitterdust (from the staff).
+  - Karzoug generally only casts through these images if he can help a combat, using spells such as Slow, Wall of Force, Resilient Sphere, Black Tentacles, Earthbind, Aqueous Orb, Telekinetic Maneuver, Grease, Glitterdust (from the staff).
   - Karzoug will however try and counter and potentially reflect any spell he sees being cast.
 
   - Destroying the images weakens the link between the eye of avarice and xin-shalast and delays Karzoug's return.
@@ -328,7 +331,7 @@ Part | Title | Level | Max XP
     - The rune giant begins between the runewell and the throne. He casts true seeing and then air walks to stay between the PCs and Karzoug as a wall of giant. 
     - A warden of thunder stands atop each of the balconies at area Y2. Each of them casts chain lightning. 
   - ROUND 2: 
-    - Karzoug casts Meteor Storm and quickened horrid wilting      
+    - Karzoug casts quickened Horrid Wilting and Meteor Storm  
     - The blue dragon hinders using physical attacks and breathes lightning if she can.
     - The rune giant defends as Karzoug's bodyguard.
     - The wardens of thunder cast chain lightning again
