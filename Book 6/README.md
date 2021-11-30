@@ -98,6 +98,7 @@ Part | Title | Level | Max XP
   - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
 ### Event 4: The Siege (xp 60, low)
+  - Note the Wendigo Ride the Wind / Wind Walk ability doesnt make sense as described as Wind Walk is ten minute casting time. Decide how you will play this in advance. Perhaps refer to the numerous paizo.com messageboard threads on this... and see if there is errata.
   - [Wendigo](https://2e.aonprd.com/Monsters.aspx?ID=409)
 
 ### Vekker Cabin Completion Bonus
