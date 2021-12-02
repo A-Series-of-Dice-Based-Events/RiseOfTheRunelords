@@ -78,7 +78,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - [Father Abstalar Zantus (Weak Priest)](https://2e.aonprd.com/NPCs.aspx?ID=896).
   - 4x [Cathedral Acolytes (Acolyte)](https://2e.aonprd.com/NPCs.aspx?ID=893).
   - [Cyrdak Drokkus (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941)
-  - [Ameiko Kaijutsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
+  - [Ameiko Kaiji
+  tsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
   - [Ilsoari Gandethus (Elite Mage for Hire)](https://2e.aonprd.com/NPCs.aspx?ID=922)
   - [Daviren Hosk (normal/elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
   - Shelelu Andosana as required from Level 2/3/4 [weak/normal/elite Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) in book 1 to Level 6/7/8 [weak/normal/elite Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907) in book 3
@@ -91,7 +92,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - Part 1 shouldn't be brutal but rather fun and exciting. 
   - As the players run through Part 1, have Father Zantus or an acolyte come to their aid with healing if any of the PCs get too beat up. This is especially important before encounter 3 (Die Dog. Die!) which is a severe threat encounter. This is also a good intro to Father Zantus (cleric 4) who is protecting the Cathedral and directing his acolytes to help injured townsfolk.
   - Apply the [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) template to creatures in later encounters if you need to reduce the difficulty for inexperienced or unlucky players.
-  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijutsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia. However, avoid taking agency away from the PCs. An unexpected arrow that misses can be an effective distraction and show the chaos that is the goblin attack. 
+  - Also possible is peripheral combat help from the town guard, militia and other key NPCs they may have met at the festival - such as tavern owner Ameiko Kaijitsu, schoolmaster Ilsoari Gandethus, stable owner Daviren Hosk - or just an arrow or crossbow bolt fired from a window or doorway by local militia. However, avoid taking agency away from the PCs. An unexpected arrow that misses can be an effective distraction and show the chaos that is the goblin attack. 
 
 ### Goblin notes
 
@@ -184,8 +185,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
     - Note that Tsuto is a severe threat and feedback is he can sometimes be too much. If you have an inexperienced, smaller or beat up party, or extra goblins, it is strongly recommended you apply the [weak](http://2e.aonprd.com/Rules.aspx?ID=791) template.
-    - [Tsuto PDF](./Statblocks/Tsuto.pdf)
-    - ![Tsuto PNG](./Statblocks/Tsuto.png)
+    - [Tsuto PDF](./Statblocks/TsutoKaijitsu.pdf)
+    - ![Tsuto PNG](./Statblocks/TsutoKaijitsu.png)
 
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
