@@ -78,8 +78,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - [Father Abstalar Zantus (Weak Priest)](https://2e.aonprd.com/NPCs.aspx?ID=896).
   - 4x [Cathedral Acolytes (Acolyte)](https://2e.aonprd.com/NPCs.aspx?ID=893).
   - [Cyrdak Drokkus (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941)
-  - [Ameiko Kaiji
-  tsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
+  - [Ameiko Kaijitsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
   - [Ilsoari Gandethus (Elite Mage for Hire)](https://2e.aonprd.com/NPCs.aspx?ID=922)
   - [Daviren Hosk (normal/elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
   - Shelelu Andosana as required from Level 2/3/4 [weak/normal/elite Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) in book 1 to Level 6/7/8 [weak/normal/elite Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907) in book 3
