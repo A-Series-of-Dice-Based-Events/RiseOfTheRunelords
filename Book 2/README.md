@@ -64,13 +64,17 @@ If they are breezing through, then liberally apply elite templates or add minion
   - or ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
   - ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
-## Part 3: Walking Scarecrows (420xp, Party Level 5)
+## Part 3: Walking Scarecrows (480xp, Party Level 5)
 
-### The Hambley Farm fields (260xp, spread out in mostly trivial encounters)
-  - 13 (L3) Ghoul Scarecrows - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
+  - [Ghoul Scarecrow](./Statblocks/GhoulScarecrow.pdf)
+  - ![Ghoul Scarecrow PNG](./Statblocks/GhoulScarecrow.png)
 
-### A1 Barn (120xp, severe threat, though may split in two)
-  - 6 (L3) Ghoul Scarecrows - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghouls](http://2e.aonprd.com/Monsters.aspx?ID=218)
+### The Hambley Farm fields (320xp, spread out in mostly trivial encounters)
+  - 6 Ghoul Scarecrows 
+  - There are 1.5 Ghoul Scarecrows for each PC
+
+### A1 Barn (120xp, severe threat, though may split up)
+  - 3 Ghoul Scarecrows 
 
 ### A2 Farmhouse (40xp, trivial threat)
   - Rogors Craesby (L5) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ghast](http://2e.aonprd.com/Monsters.aspx?ID=219)
