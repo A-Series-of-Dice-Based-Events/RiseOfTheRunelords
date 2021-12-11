@@ -67,7 +67,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 ## Part 3: Walking Scarecrows (480xp, Party Level 5)
 
   - [Ghoul Scarecrow](./Statblocks/GhoulScarecrow.pdf)
-  - ![Ghoul Scarecrow PNG](./Statblocks/GhoulScarecrow.png)
+  - ![Ghoul Scarecrow PNG](./Statblocks/GhoulScarecrow.PNG)
 
 ### The Hambley Farm fields (320xp, spread out in mostly trivial encounters)
   - 6 Ghoul Scarecrows 
