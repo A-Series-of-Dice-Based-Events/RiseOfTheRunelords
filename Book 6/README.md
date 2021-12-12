@@ -95,7 +95,7 @@ Part | Title | Level | Max XP
 ### Event 3: Hungry Ghost (xp 80, moderate)
   - [Karivek Vekker](./Statblocks/KarivekVekker.pdf)
     - ![Karivek Vekker PNG](./Statblocks/KarivekVekker.png)
-  - [double elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worm](https://2e.aonprd.com/Monsters.aspx?ID=677)
+  - 2 [elite](https://2e.aonprd.com/Rules.aspx?ID=790): [frost worms](https://2e.aonprd.com/Monsters.aspx?ID=677)
 
 ### Event 4: The Siege (xp 60, low)
   - Note the Wendigo Ride the Wind / Wind Walk ability doesnt make sense as described as Wind Walk is ten minute casting time. Decide how you will play this in advance. Perhaps refer to the numerous paizo.com messageboard threads on this... and see if there is errata.
@@ -163,15 +163,11 @@ Part | Title | Level | Max XP
     - Scroll of 9th-level heal (lvl 17 consumable)
     - 2 [Greater Winter wolf elixirs](https://2e.aonprd.com/Equipment.aspx?ID=103) (lvl 16 consumables)
 
-### K Heptaric Locus (XP 60, lowe)
+### K Heptaric Locus (XP 60, low)
   - **Creatures**
-    - Gamigin [double elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
-      - The Cone of Colds are raised to 8th level
-      - Add Chilling Darkness, Finger of Death and Regenerate at 7th level
-      - Add Teleport at 6th Level
-      - Add Darkness(x2) at 4th level
-  
-    - 2 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
+    - Gamigin [elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ice Devil](https://2e.aonprd.com/Monsters.aspx?ID=113)
+ 
+    - 4 Scarlet Walker ![Scarlet Walker PNG](./Statblocks/ScarletWalker.png)
     - Scarlet Walker Spells ![Scarlet Walker Spells PNG](./Statblocks/ScarletWalkerSpells.png)
 
   **Treasure**
