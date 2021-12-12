@@ -64,7 +64,7 @@ If they are breezing through, then liberally apply elite templates or add minion
   - or ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
   - ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
-## Part 3: Walking Scarecrows (420xp, Party Level 5)
+## Part 3: Walking Scarecrows (460xp, Party Level 5)
 
   - [Ghoul Scarecrow](./Statblocks/GhoulScarecrow.pdf)
   - ![Ghoul Scarecrow PNG](./Statblocks/GhoulScarecrow.png)
@@ -75,11 +75,14 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ### A1 Barn (120xp, severe threat, though may split up)
   - 3 Ghoul Scarecrows 
+  - Split them up or remove one Ghoul Scarecrow if your players are having difficulty with the paralysis effect
 
-### A2 Farmhouse (60xp, moderate threat)
+### A2 Farmhouse (100xp, moderate threat)
   - [Rogors Craesby](./Statblocks/RogorsCraesby.pdf)
   - ![Rogors Craesby PNG](./Statblocks/RogorsCraesby.png)
-
+  - 1 Ghoul Scarecrow
+  - add another Ghoul Scarecrow if more than 4 PCs or your party relishes the challenge
+  - note multiple incapacitation effects can quickly overpower
 ## Part 4: Misgivings (80+160+135+120+390=885xp, Party Level 5/6)
 
 ## Ruined Outbuildings (80xp, Party Level 5 or 6)
