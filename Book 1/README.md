@@ -81,7 +81,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - [Ameiko Kaijitsu (Elite Troubador)](https://2e.aonprd.com/NPCs.aspx?ID=941) - replace Theater Lore with Alcohol Lore and Sandpoint Lore.
   - [Ilsoari Gandethus (Elite Mage for Hire)](https://2e.aonprd.com/NPCs.aspx?ID=922)
   - [Daviren Hosk (normal/elite Tracker)](https://2e.aonprd.com/NPCs.aspx?ID=906) - replace Forest Lore with Horse Lore.
-  - Shelelu Andosana as required from Level 2/3/4 [weak/normal/elite Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) in book 1 to Level 6/7/8 [weak/normal/elite Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907) in book 3
+  - Shalelu Andosana as required from Level 2/3/4 [weak/normal/elite Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) in book 1 to Level 6/7/8 [weak/normal/elite Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907) in book 3
   - [Brodert Quink (Sage)](https://2e.aonprd.com/NPCs.aspx?ID=950) - Add the skill Thassilon Lore. Add Thassilonian to his languages. 
   - townsfolk using the downtrodden, laborers, tradespeople, performers, publicans, foresters or other appropriate low level [NPCs](https://2e.aonprd.com/NPCs.aspx) from the GMG
 
@@ -95,7 +95,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
 ### Goblin notes
 
-  - During the festival raid the goblins use the opportunity to loot as much as possible and many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewelry, hats, chickens, butterflies, babies...
+  - During the festival raid the goblins are not at all tactical and are there to cause chaos, set fire to things and loot as much as possible. Many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewelry, hats, chickens, butterflies, babies... 
+  - Play the goblins as easily distracted by these activites.
 
 ### Initial Assault (60xp, low threat)
 
@@ -297,7 +298,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ## Part 4A. Thistletop Approach (500xp, assumed party level 2)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
-  - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements. Use an appropriate level Shalelu (possibly GMG Tracker or Elite Tracker)
+  - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements. Use an appropriate level Shalelu, possibly GMG Weak/Normal/Elite [Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) 
   - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
 ### C4. Refugees Nest (120xp, severe threat, plus 40xp for terrain)

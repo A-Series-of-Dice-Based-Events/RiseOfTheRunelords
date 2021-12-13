@@ -14,7 +14,8 @@
 ## General GM information
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
- 
+  - For Shalelu Andosana it is suggested you use a level 6/7/8 [weak/normal/elite Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907) as appropriate to your group.
+
 ## Party Levelling Milestones
 
 - Level 7: Party should be over half way to 8th level at start of the book 
