@@ -17,7 +17,7 @@
  
 ## Party Levelling Milestones
 
-- Level 11: The PCs should reach 11th level during (or just after) the attack on Sandpoint.
+- Level 11: The PCs should reach 11th level during, or just after, the attack on Sandpoint.
 - Level 12: The PCs should reach 12th level by the time they’re infiltrating the interior of Jorgenfist.
 - Level 13: The PCs should be 13th level as they finish exploring the pit and caverns below Jorgenfist.
 - Level 14: The PCs should be close to (but not quite) 14th level at the conclusion of this chapter.
@@ -31,8 +31,8 @@ Title | Max XP
 Raid on Sandpoint | 500
 Journey to Jorgenfist | 320+
 Valley of the Black Tower | 845/690
-Jorgenfist | 560
-Library | 420
+Jorgenfist | 600
+Library | 440
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Low CR minions  need to be raised more to work in 2E.
@@ -194,7 +194,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     - [The Black Monk PDF](./Statblocks/TheBlackMonk.pdf)
     - ![The Black Monk PNG](./Statblocks/TheBlackMonk.png)
 
-## Part 4: Under Jorgenfist (party level 12, xp 560)
+## Part 4: Under Jorgenfist (party level 12, xp 600)
 
 Note: in this part and the next one there are a lot of Trivial encounters. In Pathfinder 1 they would cause attrition to the party, in PF2 the party really doesn't need to spend a lot of resources to overcome each encounter, as lower level creatures are not much of a threat. Don't be afraid to combine these encounters so that they become more challenging.
 
@@ -231,10 +231,12 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Enga PDF](./Statblocks/EngaKeckvia.pdf)
     - ![Enga PNG](./Statblocks/EngaKeckvia.png)
 
-### B7b (xp 60, trivial)
+### B7b (xp 80/120, moderate/severe)
   - **Creatures:** 
-    - 6 [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Redcaps](https://2e.aonprd.com/Monsters.aspx?ID=349)
-
+    - 4-6 [Redcap Assassin PDF](./Statblocks/RedcapAssassin.pdf)
+    - ![Redcap Assassin PNG](./Statblocks/RedcapAssassin.png)
+    - As this is an isolated encounter the PCs should be able to handle a severe encounter of 6. If not reduce the number of redcaps to 4. 
+    - As they have strike and fade tactics you dont even need to decide how many there are immediately.
 ### B8 (xp 30, Trivial)
   - **Creatures:** 
     - 3x Ogre Fighters as per Fort Rannick
@@ -276,7 +278,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:** 
     - 2 [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## Library (XP assumes party level 13, xp 380 plus completion XP)
+## Library (XP assumes party level 13, xp 400 plus completion XP)
 
 ### C2 (xp 45, Trivial)
   - **Hazard:**
@@ -289,7 +291,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:**
     - [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
 
-### C4 (xp 60, low threat)
+### C4 (xp 80, moderate threat)
   - **Creatures:** 
     - [Headless Lord](./Statblocks/HeadlessLord.pdf)
     - ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
