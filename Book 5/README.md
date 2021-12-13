@@ -179,9 +179,8 @@ Part | Title            | Level | Max XP
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
 
 ### H (60/40xp, low/trivial threat) 
-  - 1 (Level 15) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Child](https://2e.aonprd.com/Monsters.aspx?ID=367)
-  - Alternately use 2 normal shining children if you want a lower threat due to the now useless incapacitation effect.
-
+  - 2 (Level 13) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Childred](https://2e.aonprd.com/Monsters.aspx?ID=367)
+  - Note the incapacitation effect will be one step reduced.
 
 ## Part 7: The Shimmering Veils (Party Level 14/15, 220/180 xp)
 
@@ -195,7 +194,7 @@ Part | Title            | Level | Max XP
   - There is 1 Vraxeris per PC.
 
 ### I6 Bedroom (80/60xp, moderate/low threat)
-  - For False Delvahines use double weak Level 12 Delvahine (see above).
+  - For False Delvahines use double weak Level 12 Delvahine (see above) and remove the 7th level spells.
   - There is 1 Delvahine per PC.
 
 
