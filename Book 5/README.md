@@ -179,7 +179,7 @@ Part | Title            | Level | Max XP
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
 
 ### H (60/40xp, low/trivial threat) 
-  - 2 (Level 13) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Childred](https://2e.aonprd.com/Monsters.aspx?ID=367)
+  - 2 (Level 13) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
   - Note the incapacitation effect will be one step reduced.
 
 ## Part 7: The Shimmering Veils (Party Level 14/15, 220/180 xp)
