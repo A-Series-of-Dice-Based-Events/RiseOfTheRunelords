@@ -56,7 +56,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ## General Encounter Advice
 
-- Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note double elite is closer to 3 levels rather than 2.
+- Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.
 - Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 1: Raid on Sandpoint (xp 385+115 story award, party level 10)
@@ -294,7 +294,8 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Headless Lord](./Statblocks/HeadlessLord.pdf)
     - ![Headless Lord PNG](./Statblocks/HeadlessLord.png)
     - ![Runechill PNG](./Statblocks/runechill-1612041545.png)
-    - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [**Large** Zombie Hulks](https://2e.aonprd.com/Monsters.aspx?ID=426)
+    - 4x [Zombie Iron Hulk](./Statblocks/ZombieIronHulk.pdf)
+    - ![Zombie Iron Hulk PNG](./Statblocks/ZombieIronHulk.png)
 
 ### C5 (xp 15, trivial threat, but usually joins other combats for 2 rounds and then hides)
   - **Creatures:** 
