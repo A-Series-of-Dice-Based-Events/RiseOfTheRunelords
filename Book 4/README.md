@@ -11,7 +11,7 @@
 ## General GM information
 
   - Many encounters in this book use standard creatures, sometimes with an elite template, which are easy to generate without guidance. Where that is the case, then location and encounter notes concentrate on the none-creature aspects.
-  - There are many encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. Note that double elite is often closer to 3 levels rather than 2.
+  - There are many encounters where multiple much lower-level creatures are used in 1E. To ensure these stay relevant in 2E, these should be dynamically adjusted so they are no lower than the 4 levels below the party level. Apply elite templates as required. 
   - DCs are not converted to 2E, except where they are contained within a creature or hazard statblock, or are particularly significant. This is left up to GM discretion.
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify, or leave as you see fit.
  
@@ -30,9 +30,9 @@ Title | Max XP
 ------|-------
 Raid on Sandpoint | 500
 Journey to Jorgenfist | 320+
-Valley of the Black Tower | 830/660
+Valley of the Black Tower | 845/690
 Jorgenfist | 560
-Library | 400
+Library | 420
 
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Creature levels are usually the same as CR or 1 or 2 higher. Low CR minions  need to be raised more to work in 2E.
@@ -116,7 +116,7 @@ Level | Total gp | Permanent Items         | Consumables                        
     - Add isolated encounters to get them ready for Jorgenfist as required
     - GMs choice - suggestion: Rocs similar to those at A13 or Wyverns as per A3
 
-## Part 3: Valley of the Black Tower (xp 830/660, party level 11/12)
+## Part 3: Valley of the Black Tower (xp 845/690, party level 11/12)
 
   - As the party could approach the encounters in the second half of this book in any order, then be prepared to dynamically adjust the encounters upwards with elite templates or extra creatures to maintain threat levels.  
   - Note the scale on the map is NOT 5ft to the square on the Jorgenfist above ground and below ground maps. Many a GM has fallen foul of that small detail!
@@ -135,9 +135,11 @@ Level | Total gp | Permanent Items         | Consumables                        
     - [Jorgenfist Infiltration optional subsystem](./Statblocks/Jorgenfist_Infiltration_withSecretTunnel.pdf)
   - Consider giving story XP if the PCs overcome this challenge.
 
-### A3 (xp 80/60, moderate/low threat)
+### A3 (xp 90, moderate threat)
   - **Creatures:** 
-    - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Wyverns](https://2e.aonprd.com/Monsters.aspx?ID=162)
+    - [Black Wyvern](./Statblocks/BlackWyvern.pdf)  
+    - ![Black Wyvern  PNG](./Statblocks/BlackWyvern.png)
+    - Level 12: Add Elite
 
 ### A4 (xp 120, severe threat)
   - **Creatures:** 
@@ -274,7 +276,7 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
   - **Creatures:** 
     - 2 [Troll Kings](https://2e.aonprd.com/Monsters.aspx?ID=396)
 
-## Library (XP assumes party level 13, xp 320 plus completion XP)
+## Library (XP assumes party level 13, xp 380 plus completion XP)
 
 ### C2 (xp 45, Trivial)
   - **Hazard:**
@@ -309,17 +311,18 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Clockwork Librarian PDF](./Statblocks/clockwork_librarian-1611601296.pdf)
     - ![Clockwork Librarian PNG](./Statblocks/clockwork_librarian-1611180129.png)
 
-### C8 (xp 60, low threat)
+### C8 (xp 80, moderate threat)
   - **Creatures:** 
-    - 4x (Level 10) [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790) [Hounds of Tindalos](https://2e.aonprd.com/Monsters.aspx?ID=702)
-    - Alternatively, use these stronger [Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.pdf) statblocks, 2x for a moderate and 3x for a severe encounter. This statblock doesn't contain the sickened condition yet.
+    - 2x [Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.pdf) 
     - ![Wolf of Tindalos](./Statblocks/wolf_of_tindalos-1614020765.png)
+    - This statblock doesn't contain the sickened condition
+    - Add a third Wolf of Tindalos if you want a severe encounter 
 
-### C9 (xp 80, moderate threat, plus completion bonus xp and hero point)
+### C9 (xp 120 including terrain advantage, moderate to severe threat, plus completion bonus xp and hero point)
   - **Creatures:** 
     - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v3.pdf)
     - ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
     
-  - Award bonus XP for ending the giant invasion threat 
+  - Award bonus 40 XP for ending the giant invasion threat 
 
 ## - End of RotR Fortress of the Stone Giants 2E Conversion Guide -
