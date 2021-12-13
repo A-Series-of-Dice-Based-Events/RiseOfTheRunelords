@@ -273,14 +273,16 @@ To make ogres XP relevant to both level 8 and level 9 parties the following repl
 PF1 Monster  | PF1 CR | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (party level 8/9)
 -------------|--------|------------------|----------------|-----------|----------------------
 Ogre         | 3      | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | +2 Levels   | 5 | 15/10
-Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
+Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | +1 Level | 8 | 40/30
 
 These adjusted creatures are simply referred to as Kreeg Warrior and Kreeg Boss throughout the rest of this book.
 
   [Kreeg Warrior PDF](./Statblocks/KreegWarrior.pdf)  
   ![Kreeg Warrior PNG](./Statblocks/KreegWarrior.png)  
 
-  ![Kreeg Boss PNG](./Statblocks/OgreBossElite.png)  
+  [Kreeg Boss PDF](./Statblocks/KreegBoss.pdf)  
+  ![Kreeg Boss PNG](./Statblocks/KreegBoss.png)  
+
 
 The other unique ogres are covered individually below.
 

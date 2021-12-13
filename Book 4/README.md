@@ -93,8 +93,8 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ### Ogre Cattle Rustlers (xp 60, low threat)
  - **Creatures:** 
-   - 4 Ogre fighters - see Book 3 Ogre Fighters from Fort Rannick
-   - There is one Ogre Fighter per PC
+   - 4 Kreeg Boss (level 8) - see Book 3 Kreeg Boss from Fort Rannick
+   - There is one Kreeg Boss per PC
 
 ### Storval Stairs (xp 80, moderate threat)
   - Note that this encounter seems to be the one most often bypassed. Be prepared to move this encounter somewhere else. Or highlight this location in some other way, as above. Others have moved this encounter to Skulls Crossing in Book 3 if the party have cleared out the ogres and returned later.
@@ -237,9 +237,10 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - ![Redcap Assassin PNG](./Statblocks/RedcapAssassin.png)
     - As this is an isolated encounter the PCs should be able to handle a severe encounter of 6. If not reduce the number of redcaps to 4. 
     - As they have strike and fade tactics you dont even need to decide how many there are immediately.
+
 ### B8 (xp 30, Trivial)
   - **Creatures:** 
-    - 3x Ogre Fighters as per Fort Rannick
+    - 3x Kreeg Boss (level 8) as per Fort Rannick
 
 ### B9 (xp 20, Trivial)
   - **Creatures:** 
