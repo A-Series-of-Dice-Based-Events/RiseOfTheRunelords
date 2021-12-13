@@ -272,34 +272,35 @@ To make ogres XP relevant to both level 8 and level 9 parties the following repl
 
 PF1 Monster  | PF1 CR | PF2 Monster Base | PF2 Adjustment | PF2 Level | XP (party level 8/9)
 -------------|--------|------------------|----------------|-----------|----------------------
-Ogre         | 3      | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | Double [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)   | 5 | 15/10
+Ogre         | 3      | [Ogre Warrior](https://2e.aonprd.com/Monsters.aspx?ID=317)     | +2 Levels   | 5 | 15/10
 Ogre Fighter | 8      | [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319)        | [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)          | 8 | 40/30
 
-These adjusted creatures are simply referred to as Ogre Warrior* and Ogre Boss* throughout the rest of this book.
+These adjusted creatures are simply referred to as Kreeg Warrior and Kreeg Boss throughout the rest of this book.
 
-  ![Ogre Warrior](./Statblocks/OgreWarriorDoubleElite.png)  
+  [Kreeg Warrior PDF](./Statblocks/KreegWarrior.pdf)  
+  ![Kreeg Warrior PNG](./Statblocks/KreegWarrior.png)  
 
-  ![Ogre Boss](./Statblocks/OgreBossElite.png)  
+  ![Kreeg Boss PNG](./Statblocks/OgreBossElite.png)  
 
 The other unique ogres are covered individually below.
 
 ### B2. East Gate (XP 15/10, trivial threat)
   - **Creatures:** 
-    - Ogre Warrior*
+    - Kreeg Warrior
 
 ### B4. Old Guard Post (XP 70, moderate threat)
   - **Creatures:** 
-    - Ogre Boss*
-    - 2x Ogre Warriors*
-    - Adjustment for level 9 - add 2x Ogre Warriors*
+    - Kreeg Boss
+    - 2x Kreeg Warriors
+    - Adjustment for level 9 - add 2x Kreeg Warriors
 
   - **Loot:** +1 Ogre Hook
 
 ### B6. Cookhouse (XP 40, trivial threat)
   
   - **Creatures:**
-    - Ogre Boss*
-    - Adjustment for level 9 - add 1x Ogre Warrior*
+    - Kreg Boss
+    - Adjustment for level 9 - add 1x Kreeg Warrior
 
   - **Loot:** +1 Ogre Hook
 
@@ -310,17 +311,17 @@ The other unique ogres are covered individually below.
 ### B8. South Gate (XP 55/60, low threat)
 
   - **Creatures:** 
-    - Ogre Boss*
-    - Ogre Warrior*
-    - Adjustment for level 9 - add 2x Ogre Warriors*
+    - Kreeg Boss
+    - Kreeg Warrior
+    - Adjustment for level 9 - add 2x Kreeg Warriors*
 
   - **Loot:** +1 Ogre Hook
 
 ### B12. Barracks (XP 120 severe threat)
 
   - **Creatures:**
-    - 8x Sleeping Ogre Warriors*
-    - Adjustment for level 9 - add 4x Ogre Warriors*
+    - 8x Sleeping Kreeg Warriors
+    - Adjustment for level 9 - add 4x Kreeg Warriors
 
 ### B13. Secret Armory (XP20, trivial threat)
 
@@ -339,37 +340,37 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
-    - Ogre Warrior* Thrall under control of Lorgus
+    - Kreeg Warrior Thrall under control of Lorgus
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower-level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
-    - Adjustment for level 9 - add a second Ogre Warrior* Thrall
+    - Adjustment for level 9 - add a second Kreeg Warrior Thrall
 
     - If an alternative encounter if preferred use the [Confounding Betrayal haunt](https://2e.aonprd.com/Hazards.aspx?ID=45) as Lorgus' spirit feels betrayed by the black arrows, suspicion of the betrayal to help end the haunt is in the papers in the commanders quarters 
     
 ### B18. Workroom (XP 40, trivial threat)
 
   - **Creatures:**
-    - Ogre Boss*
-    - Adjustment for level 9 - add 1x Ogre Warrior*
+    - Kreeg Boss
+    - Adjustment for level 9 - add 1x Kreeg Warrior
 
   - **Loot:** +1 Ogre Hook
 
 ### B19. Armory (XP 30, trivial threat)
 
   - **Creatures:**
-    - 2x Ogre Warrior*
-    - Adjustment for level 9 - add 1x Ogre Warrior*
+    - 2x Kreeg Warrior
+    - Adjustment for level 9 - add 1x Kreeg Warrior
     
 ### B23. Library (XP 40/30, trivial threat)
 
-  - **Creatures:** Ogre Boss*
+  - **Creatures:** Kreeg Boss
 
   - **Loot:** +1 Ogre Hook
     
 ### B24. Barracks (XP 60, low threat)
 
   - **Creatures:**
-    - 4x Ogre Warriors*
-    - Adjustment for level 9 - add 2x Ogre Warriors*
+    - 4x Kreeg Warriors
+    - Adjustment for level 9 - add 2x Kreeg Warriors
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
   
@@ -394,18 +395,18 @@ The other unique ogres are covered individually below.
     ![Dorella Kreeg](./Statblocks/DorellaKreeg.png)
 
   - **Encounter Notes:**
-    - Adjustment for level 9 - add 1x Ogre Boss*
+    - Adjustment for level 9 - add 1x Kreeg Boss
     - B29 and B30 are likely to run together and become a severe to extreme threat. If they do then don't add any more reinforcements unless you are sure they can handle them.
 
 - **Loot:** [Boots of Elvenkind](https://2e.aonprd.com/Equipment.aspx?ID=413) [P5], Love letters, nymph hair, silver locket in a jewelry box
 - **Loot:** (Dorella) [Greater Mistform Elixir](https://2e.aonprd.com/Equipment.aspx?ID=96) [C10] 
-- **Loot:** (Ogre Boss) +1 Ogre Hook
+- **Loot:** (Kreeg Boss) +1 Ogre Hook
 
 ### B31. Tribunal (XP 30, trivial threat)
 
   - **Creatures:**
-    - 2x Ogre Warriors*
-    - Adjustment for level 9 - add 1x Ogre Warrior*
+    - 2x Kreeg  Warriors
+    - Adjustment for level 9 - add 1x Kreeg Warrior
 
 ### B32. Map Room
 
@@ -486,8 +487,8 @@ The other unique ogres are covered individually below.
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
 
   - **Creatures:**
-    - 1x Ogre Boss*
-    - 4x Ogre Warriors*
+    - 1x Kreeg Boss
+    - 4x Kreeg Warriors
     
     - **Loot:** +1 Ogre Hook
 
@@ -587,7 +588,7 @@ The other unique ogres are covered individually below.
 ### D1 Entrance (40xp, trivial threat)
 
   - **Creatures:**
-    - 2x Ogre Boss*
+    - 2x Kreeg Boss
   - **Loot:** 2x +1 Ogre Hook
     
 ### D2 Bones of the Behenoth
@@ -599,7 +600,7 @@ The other unique ogres are covered individually below.
 ### D5 Chokepoint (60xp, low threat)
 
   - **Creatures:**
-    - 2x Ogre Boss*
+    - 2x Kreeg Boss
     - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
 
   - **Loot:** 2x +1 Ogre Hook
@@ -607,8 +608,8 @@ The other unique ogres are covered individually below.
 ### D6 The Clanhold (70xp, low threat)
 
   - **Creatures:**
-    - Ogre Boss*
-    - 10x Ogre Warriors*
+    - Kreeg Boss
+    - 10x Kreeg Warriors
 
   - **Loot:** +1 Ogre Hook
 
