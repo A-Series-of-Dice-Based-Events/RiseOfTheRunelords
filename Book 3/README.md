@@ -72,11 +72,12 @@ Note there is no contingency in the treasure. If your players miss something ear
 
 ### General Encounter Advice
 
-Apply (double) [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or (double) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party. Note applying a weak or elite template twice is closer to 3 levels than 2.  
+Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) templates as appropriate, or add/remove minions, to suit the capabilities and size of your party.  
 
 If they are finding it hard going then liberally apply weak templates or remove minions.  
 
 If they are breezing through then liberally apply elite templates or add minions. 
+
 Usually, it is more interesting to have several low to moderate threat creatures in the encounter rather than a single severe one.
 
 ## Part 0: Turtleback ferry (XP 100, Party Level 7)
@@ -168,15 +169,15 @@ Encounters include scaling for level 8 parties.
 ### A8. Mammy's Room (XP 130, severe threat)
 
   - **Creatures:** 
-    - Benk, Hadge, and Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
+    - Benk, Hadge, and (at level 8) Kunkel [Ogrekin Zombie Brutes](https://2e.aonprd.com/Monsters.aspx?ID=425)
     - [Mammy Graul PDF](./Statblocks/MammyGraul.pdf)
 
     ![Mammy Graul PNG](./Statblocks/MammyGraul.png)
 
   - **Encounter Notes:**   
-    - Consider applying the weak template to Mammy if this encounter will be too strong for your PCs
+    - Strongly consider applying the weak template to Mammy if this encounter will be too strong for your PCs
     - Party Level 7: Mammy is a severe level threat by herself and the zombies should be level 2 distractions as above
-    - Party level 8: Raise the zombies to level 4 using the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790)
+    - Party level 8: Add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) to the Zombies.
 
   - **Loot:**
     - Lesser Healing Potion [C3]
@@ -234,10 +235,10 @@ Encounters include scaling for level 8 parties.
 
 ![Ogrekin Fighter](./Statblocks/OgrekinFighter.png)
 
-### A17. Biggin (XP 60, low threat with terrain advantage, +80xp for rescuing the black arrows)
+### A17. Biggin (XP 40, low threat with terrain advantage, +80xp for rescuing the black arrows)
 
   - **Creatures:** 
-    - [Double Elite : +40 HP, +4 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
+    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ogre Spider](https://2e.aonprd.com/Monsters.aspx?ID=814)
 
   - **Captive Black Arrows:**
     - [Jakardros Savark PDF](./Statblocks/Jakardros.pdf)
@@ -438,11 +439,11 @@ The other unique ogres are covered individually below.
     - Gold and Pearl Ring (40 gp), Silver Necklace (25 gp) 
     - Scroll listing Sihedron Sacrifices 
 
-### B37. Lizard Warrens (XP 80, moderate threat)
+### B37. Lizard Warrens (XP 40, low threat)
 
   - **Creatures:** 
-    - 8x [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
-    - Adjustment for level 9 - add 4x Shocker Lizards
+    - 8x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
+    - Adjustment for level 9 - add 8x Shocker Lizards
 
 ### Liberating Fort Rannick (XP 80 story award and hero point)
 
@@ -469,10 +470,10 @@ The other unique ogres are covered individually below.
      - XP is awarded for the bravery of engaging with Black Magga and defending the church / driving her off
      - This improves the attitude of everyone in Turtleback Ferry towards them for any social interaction checks
 
-### C4. Gorger and Chaw’s Lair (XP 50, trivial threat, terrain makes it more challenging)
+### C4. Gorger and Chaw’s Lair (XP 30, trivial Roleplaying opportunity, terrain makes it more challenging)
 
   - **Creatures:**
-    - [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
+    - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ettin](https://2e.aonprd.com/Monsters.aspx?ID=204)
 
   - **Loot:**
     - [Hat of Disguise](https://2e.aonprd.com/Equipment.aspx?ID=442) [P2]
@@ -539,7 +540,7 @@ The other unique ogres are covered individually below.
 ### A Desperate Plea (XP 30 story reward for following Yap or following up concerns over the commander)
 
   - **Creatures:**
-	    - For Faerie Yap use a [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
+	    - For Faerie Yap use an [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lyrakien](https://2e.aonprd.com/Monsters.aspx?ID=34)
 
 	- **Loot:** Yap will provide two doses of Dust of Disappearance [2x C9]. 
 
