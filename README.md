@@ -5,11 +5,11 @@ The README.md files for each book are the conversion guides. While the Statblock
 
 * [Campaign Backgrounds](./BackgroundsAndReference/RotRCampaignBackgrounds.md)  
 * [Book 1: Burnt Offerings](./Book%201/README.md) - complete
-* [Book 2: The Skinsaw Murders](./Book%202/README.md) - creatures complete 
+* [Book 2: The Skinsaw Murders](./Book%202/README.md) - complete (except treasure allocation) 
 * [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete
-* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - creatures complete 
-* [Book 5: Sins of the Saviors](./Book%205/README.md) - creatures complete 
-* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - creatures complete
+* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - complete (except treasure allocation) 
+* [Book 5: Sins of the Saviors](./Book%205/README.md) - complete  (except treasure allocation) 
+* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - complete (except treasure allocation) 
 * [Book 6: Alternate to level 20](./Book%206%20to%20level%2020/README.md) - framework only
 * [Thassilonian Magic](./BackgroundsAndReference/ThassilonianMagic/README.md) - choose which option you prefer
 * [OGL](./OGL.md)
