@@ -134,7 +134,7 @@ Part | Title            | Level | Max XP
   - ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
    
 
-## Part 5: The Vault of Greed (Party Level 14/15, 260/190 xp)
+## Part 5: The Vault of Greed (Party Level 14/15, 240/190 xp)
 
 ### G1 Pilferer's Bane (40/30xp, trivial threat)
   - Crushing Door Trap
@@ -145,8 +145,9 @@ Part | Title            | Level | Max XP
   - ![Morphic Mist PNG](./Statblocks/MorphicMist.png)
   - Wind Dispersion, counteract DC38 with wind generating effect to disperse mist for 1d4 rounds
 
-### G3 Trouble with Mephits (40/20xp, trivial threat)
-  - Replace Water Mephits with 4 (L10) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Qatoids](https://2e.aonprd.com/Monsters.aspx?ID=198)
+### G3 Trouble with Mephits (20xp, zero threat, roleplaying encounter only)
+  - 4 [Water Mephits](https://2e.aonprd.com/Monsters.aspx?ID=195)
+  - Award XP for getting information from the Mephits
 
 ### G4 Fountains (60/40xp, low/trivial threat)
   - 4 [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
@@ -194,7 +195,7 @@ Part | Title            | Level | Max XP
   - There is 1 Vraxeris per PC.
 
 ### I6 Bedroom (80/60xp, moderate/low threat)
-  - For False Delvahines use double weak Level 12 Delvahine (see above) and remove the 7th level spells.
+  - For False Delvahines use double weak Level 12 Delvahine (see above) and remove the 7th level spells and the magical lash.
   - There is 1 Delvahine per PC.
 
 
