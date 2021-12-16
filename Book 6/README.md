@@ -113,10 +113,11 @@ Part | Title | Level | Max XP
   - xp is awarded for befriending Svevenka
 
 ### D. Sentinels (XP 120, Severe)
-  **Creatures**
-    - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
-    - 5x Wardens of Wind (see below) though no Sihedron Ring
-  **Treasure**
+
+  - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+  - 5x Wardens of Wind (see below) though no Sihedron Ring
+
+    **Treasure**
     - divide all the book cash values by 2
 
 ## Part 4: Xin-Shalast (Party Level 16, xp 430)
@@ -302,7 +303,7 @@ Part | Title | Level | Max XP
 - Level 18? optionally this can be for level 18 PCs, but you will need to adjust minions accordingly:
   - Replace the Adult blue dragon with an Ancient blue dragon.
   - Remove the WEAK templates from the Rune Giant
-  - Add ELITE to the Storm Giants and raise their chain lightnings to 7th level 
+  - Add ELITE to the Storm Giants and raise their chain lightnings to 7th level (making them Wardens of Thunder) 
   - For additional PCs add ELITE to the Ancient Blue Dragon and the Rune Giant.
 
 - The layout of this room needs some consideration and potential adjustment: 
@@ -317,7 +318,7 @@ Part | Title | Level | Max XP
   - [Fulmina - Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131) - consider using the Frenzy/Momentum version as there are quite enough spellcasters here already
   - Warden of Runes WEAK [Teth - Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
   - 2 normal Storm Giants/weak wardens (Berg and Gil)
-  - If there are more than 4 PCs remove the WEAK template from the Rune Giant and add ELITE templates to the Storm Giants (making them Wardens of Thunder). For 6 PCs replace the Adult Blue Dragon with an Ancient Blue Dragon.
+  - If there are more than 4 PCs remove the WEAK template from the Rune Giant and add ELITE templates to the Storm Giants and raise their chain lightnings to 7th level (making them Wardens of Thunder). For 6 PCs replace the Adult Blue Dragon with an Ancient Blue Dragon.
 
 #### Tactics:
   - The general tactics are that the Dragon is a distraction, the Rune Giant is a bodyguard to allow Karzoug to keep casting, and the Wardens are ranged support.
