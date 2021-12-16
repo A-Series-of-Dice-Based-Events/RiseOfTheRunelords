@@ -183,11 +183,12 @@ Part | Title | Level | Max XP
 ### Q Ghlorofaex's Lair (xp 80, moderate)
   - Ghlorofaex [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
     - Choose spellcaster or frenzy/momentum according to taste
-  **Treasure**
-    - [impenetrable scale mail](https://2e.aonprd.com/Equipment.aspx?ID=154) (lvl 17 permanent)
-    - scroll of 9th-level heal (lv 17 consumable)
-    - 2 [major elixirs of life](https://2e.aonprd.com/Equipment.aspx?ID=91) (lvl 15 consumables)
-    - Divide the cash value of the book items by 2
+
+    **Treasure**
+      - [impenetrable scale mail](https://2e.aonprd.com/Equipment.aspx?ID=154) (lvl 17 permanent)
+      - scroll of 9th-level heal (lv 17 consumable)
+      - 2 [major elixirs of life](https://2e.aonprd.com/Equipment.aspx?ID=91) (lvl 15 consumables)
+      - Divide the cash value of the book items by 2
 
 ### Xin-Shalast completion bonus
   - For navigating through Xin-Shalast and finding their way up award bonus 80XP and a hero point
