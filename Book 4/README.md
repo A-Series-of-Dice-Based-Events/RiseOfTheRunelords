@@ -327,6 +327,9 @@ Note: in this part and the next one there are a lot of Trivial encounters. In Pa
     - [Mokmurian PDF](./Statblocks/Mokmuarian-github-v3.pdf)
     - ![Mokmurian PNG](./Statblocks/Mokmurian_github_v3.png)
     
+    - [Fog Cutting Lenses PDF](./Statblocks/FogCuttingLenses.pdf)
+    - ![Fog Cutting Lenses PNG](./Statblocks/FogCuttingLenses.png)
+
   - Award bonus 40 XP for ending the giant invasion threat 
 
 ## - End of RotR Fortress of the Stone Giants 2E Conversion Guide -
