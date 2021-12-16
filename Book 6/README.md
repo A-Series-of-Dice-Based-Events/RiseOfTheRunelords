@@ -114,15 +114,16 @@ Part | Title | Level | Max XP
 
 ### D. Sentinels (XP 120, Severe)
   **Creatures**
-    - Bjormundal [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
-    - 4x [Double Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giant](https://2e.aonprd.com/Monsters.aspx?ID=224)
+    - Bjormundal [Elite](https://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225)
+    - 5x Wardens of Wind (see below) though no Sihedron Ring
   **Treasure**
     - divide all the book cash values by 2
 
 ## Part 4: Xin-Shalast (Party Level 16, xp 430)
 
 ### Resources used throughout
-  - Wardens of Wind are (L14) [Double Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cloud Giants](https://2e.aonprd.com/Monsters.aspx?ID=224)
+  - [Warden of Wind](./Statblocks/WardenOfWind.pdf)
+  - ![Warden of Wind PNG](./Statblocks/WardenOfWind.png)
   - Wardens of Thunder are (L14) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Storm Giant](https://2e.aonprd.com/Monsters.aspx?ID=225) and raise Chain Lightning to 7th level
 
 ### Event 5: Emergence of the Spared
@@ -300,23 +301,23 @@ Part | Title | Level | Max XP
 
 - Level 18? optionally this can be for level 18 PCs, but you will need to adjust minions accordingly:
   - Replace the Adult blue dragon with an Ancient blue dragon.
-  - Apply a second elite to the Storm Giant Wardens making them level 16 and increase their chain lightnings to level 8.
-  - Add a single elite to the Rune Giant. 
-  - For additional PCs add a second elite to the Rune Giant (making it level 19) and an Elite to the Ancient Blue Dragon. 
+  - Remove the WEAK templates from the Rune Giant
+  - Add ELITE to the Storm Giants and raise their chain lightnings to 7th level 
+  - For additional PCs add ELITE to the Ancient Blue Dragon and the Rune Giant.
 
 - The layout of this room needs some consideration and potential adjustment: 
   - Consider adjusting the throne to be on a further raised dais and lower the runewell by 20 ft thereby having the entire room on a slope where Karzoug can see down the centre and has line of sight for his spells without getting up.
   - Consider making all the walkways 15ft wide as the dragon and the 3 gaints are all huge
   - The huge dragon has a 60 foot wingspan. If it is to fly consider having all the gold columns stop level with the adjacent walkways, and 40-60ft of free space above them.
 
-### The Final Battle (xp 160, Extreme)
+### The Final Battle (xp 160-170, Extreme)
   - [Karzoug the Claimer](./Statblocks/Karzoug.pdf)
     - ![Karzoug 1 PNG](./Statblocks/Karzoug1.png)
     - ![Karzoug 2 PNG](./Statblocks/Karzoug2.png)
   - [Fulmina - Adult Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=131) - consider using the Frenzy/Momentum version as there are quite enough spellcasters here already
-  - Warden of Runes [Teth - Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
-  - 2 Wardens of Thunder (Berg and Gil)
-  - If there are more than 4 PCs make the dragon an [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132)
+  - Warden of Runes WEAK [Teth - Rune Giant](https://2e.aonprd.com/Monsters.aspx?ID=226)
+  - 2 normal Storm Giants/weak wardens (Berg and Gil)
+  - If there are more than 4 PCs remove the WEAK template from the Rune Giant and add ELITE templates to the Storm Giants (making them Wardens of Thunder). For 6 PCs replace the Adult Blue Dragon with an Ancient Blue Dragon.
 
 #### Tactics:
   - The general tactics are that the Dragon is a distraction, the Rune Giant is a bodyguard to allow Karzoug to keep casting, and the Wardens are ranged support.
