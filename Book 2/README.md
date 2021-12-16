@@ -175,7 +175,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 ### Foxglove Townhouse (90xp, moderate threat)
 
   - **Creatures:** 3x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
-  - Foxglove's housekeeper/cook/sister is also present as best fits your narrative
+  - Foxglove's housekeeper/cook/sister is also present as the third stalker as best fits your narrative
 
 ## Part 6: The Seven's Sawmill (190-320xp, Party Level 7)
 
