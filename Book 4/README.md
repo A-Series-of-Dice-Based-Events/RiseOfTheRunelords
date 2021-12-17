@@ -141,6 +141,10 @@ Level | Total gp | Permanent Items         | Consumables                        
     - ![Black Wyvern  PNG](./Statblocks/BlackWyvern.png)
     - Level 12: Add Elite
 
+  - **Treasure**
+    - [Staff of Heaven and Earth PDF](./Statblocks/StaffofHeavenandEarth.pdf)  
+    - ![Staff of Heaven and Earth PNG](./Statblocks/StaffofHeavenandEarth.png)
+
 ### A4 (xp 120, severe threat)
   - **Creatures:** 
     - 3x [Deathweb Spiders](./Statblocks/DeathwebSpider.pdf)
