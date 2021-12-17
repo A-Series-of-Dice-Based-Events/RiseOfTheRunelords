@@ -142,8 +142,8 @@ Level | Total gp | Permanent Items         | Consumables                        
     - Level 12: Add Elite
 
   - **Treasure**
-    - [Staff of Heaven and Earth PDF](./Statblocks/StaffofHeavenandEarth.pdf)  
-    - ![Staff of Heaven and Earth PNG](./Statblocks/StaffofHeavenandEarth.png)
+    - [Staff of Heaven and Earth PDF](./Statblocks/StaffofHeavenAndEarth.pdf)  
+    - ![Staff of Heaven and Earth PNG](./Statblocks/StaffofHeavenAndEarth.png)
 
 ### A4 (xp 120, severe threat)
   - **Creatures:** 
