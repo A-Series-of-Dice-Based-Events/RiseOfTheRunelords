@@ -249,8 +249,8 @@ Part | Title            | Level | Max XP
 
  ## Part 10: Weapons of Power (Party Level 14/15, 80/60 xp)
   - **Creatures:**
-    - [Karzoug Statue PDF](./Statblocks/karzoug_statue-1608761703.pdf) by @Primemakes.
-    - ![Karzoug Statue PNG](./Statblocks/karzoug_statue-1608761700.png)
+    - [Karzoug Golem PDF](./Statblocks/KarzougGolem.pdf) by @Primemakes.
+    - ![Karzoug Golem PNG](./Statblocks/KarzougGolem.png)
 
 - [Dominant Weapon](./Statblocks/DominantWeapon.pdf)
 - ![Dominant Weapon PNG](./Statblocks/DominantWeapon.png)
