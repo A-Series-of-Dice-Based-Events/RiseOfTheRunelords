@@ -137,7 +137,7 @@ Level | Total gp | Permanent Items         | Consumables                        
 
 ### A3 (xp 90, moderate threat)
   - **Creatures:** 
-    - [Black Wyvern](./Statblocks/BlackWyvern.pdf)  
+    - 3 [Black Wyvern](./Statblocks/BlackWyvern.pdf)  
     - ![Black Wyvern  PNG](./Statblocks/BlackWyvern.png)
     - Level 12: Add Elite
 
