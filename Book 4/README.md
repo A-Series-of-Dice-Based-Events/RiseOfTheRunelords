@@ -135,11 +135,11 @@ Level | Total gp | Permanent Items         | Consumables                        
     - [Jorgenfist Infiltration optional subsystem](./Statblocks/Jorgenfist_Infiltration_withSecretTunnel.pdf)
   - Consider giving story XP if the PCs overcome this challenge.
 
-### A3 (xp 90, moderate threat)
+### A3 (xp 90 including terrain advantage, moderate to sever threat)
   - **Creatures:** 
     - 3 [Black Wyvern](./Statblocks/BlackWyvern.pdf)  
     - ![Black Wyvern  PNG](./Statblocks/BlackWyvern.png)
-    - Level 12: Add Elite
+    - Level 11: Add Weak
 
   - **Treasure**
     - [Staff of Heaven and Earth PDF](./Statblocks/StaffofHeavenAndEarth.pdf)  
