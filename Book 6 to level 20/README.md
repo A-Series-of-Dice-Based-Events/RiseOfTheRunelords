@@ -276,7 +276,7 @@ This adventure needs to include appropriate treasure for level 16 through 19.
 
 ### X16 Reliquary (xp 30, trivial)
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
-  - The Wall of Force counts as a 9-th level spell (AC 10, hardness 30, hit points 120).
+  - The Wall of Force counts as a 9th level spell (AC 10, hardness 30, hit points 120) and a 18th level hazard. It repairs itself at a rate of 5 hit points per round. The rebound energy deals 6d12 force damage, DC 40 basic Reflex. Grant the party XP as for an 18th level hazard when overcoming this hazard.
 
 ### X17 Chamber of Focus (xp 105, severe)
   - Most High Ceoptra TO DO
