@@ -276,6 +276,7 @@ This adventure needs to include appropriate treasure for level 16 through 19.
 
 ### X16 Reliquary (xp 30, trivial)
   - [Shemhazian Demon](https://2e.aonprd.com/Monsters.aspx?ID=102)
+  - The Wall of Force counts as a 9-th level spell (AC 10, hardness 30, hit points 120).
 
 ### X17 Chamber of Focus (xp 105, severe)
   - Most High Ceoptra TO DO
