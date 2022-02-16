@@ -1,0 +1,117 @@
+{
+  "name": "Anathema Archive",
+  "type": "equipment",
+  "img": "Rise%20of%20the%20Runelords/Anathema%20Archive.png",
+  "data": {
+    "description": {
+      "value": "<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\"><span style=\"box-sizing: border-box; user-select: text; font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><strong style=\"box-sizing: border-box; user-select: text;\">Activate</strong> cast a spell; The user opens the Anathema Archive and attempts to draw power from it. The user either casts any arcane spell they know, or attempt to force the Anathema Archive to open to any spell on the arcane spell list of a level no higher than half the user's level rounded-up, by rolling an arcana check against a DC set by the GM; on a failure the Anathema Archive fails to work, on a critical failure that desired spell negatively impacts the user in a manner determined by the GM. The user may cast that spell from the Anathema Archive as if she were casting a spell from a normal scroll, save that the spell is not consumed from the anathema archive upon being cast.</span></p>\n<p style=\"box-sizing: border-box; user-select: text; margin-top: 0.25em; margin-bottom: 0px; color: #191813; font-size: 17.5px;\"><span id=\"docs-internal-guid-fd3b86f5-7fff-12d4-fefd-7d39d523fc03\" style=\"box-sizing: border-box; user-select: text;\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\"><span style=\"box-sizing: border-box; user-select: text; font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><strong style=\"box-sizing: border-box; user-select: text;\">Activate </strong>10 minutes (Envision, Interact); When used for research, the Anathema Archive grants a +4 Item Bonus to any one Recall Knowledge check associated with sinister or frightening ancient topics (subject to the GM's discretion - sample subjects include evil outsiders, Runelords, Thassilon, Leng, evil religions, or undead). If the character is untrained in the skill associated with that topic, they can add their level to the roll.</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\"><span style=\"box-sizing: border-box; user-select: text; font-family: Arial; font-size: 11pt; white-space: pre-wrap;\">Upon activation, the Anathema Archive automatically closes and cannot be opened again by any force for 24 hours.</span></p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "traits": {
+      "value": [
+        "artifact",
+        "divination",
+        "magical"
+      ],
+      "rarity": "unique",
+      "custom": ""
+    },
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.713,
+      "lastMigration": null
+    },
+    "quantity": {
+      "value": 1
+    },
+    "baseItem": null,
+    "hp": {
+      "value": 0
+    },
+    "maxHp": {
+      "value": 0
+    },
+    "hardness": {
+      "value": 0
+    },
+    "brokenThreshold": {
+      "value": 0
+    },
+    "weight": {
+      "value": "L"
+    },
+    "equippedBulk": {
+      "value": ""
+    },
+    "price": {
+      "value": "0 gp"
+    },
+    "equipped": {
+      "value": false
+    },
+    "stackGroup": {
+      "value": ""
+    },
+    "bulkCapacity": {
+      "value": ""
+    },
+    "negateBulk": {
+      "value": "0"
+    },
+    "containerId": {
+      "value": null
+    },
+    "preciousMaterial": {
+      "value": null
+    },
+    "preciousMaterialGrade": {
+      "value": null
+    },
+    "collapsed": {
+      "value": false
+    },
+    "size": {
+      "value": "tiny"
+    },
+    "identification": {
+      "status": "identified",
+      "unidentified": {
+        "name": "An unusually heavy scroll",
+        "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+        "data": {
+          "description": {
+            "value": "<p><span style=\"font-family: Arial; font-size: 14.6667px; white-space: pre-wrap;\">This unusually heavy scroll consists of a rather long sheet of supple, impossible-to-tear parchment wound between two rods. When it is opened, it presents a tangle of Thassilonian runes to the observer. Each time the scroll is unfurled, the runes are in a different order, the contents of the archive shifting according to the user's state of mind and desires each time it is used.</span></p>"
+          }
+        }
+      },
+      "misidentified": {}
+    },
+    "usage": {
+      "value": "held-in-one-hand"
+    },
+    "level": {
+      "value": 20
+    },
+    "invested": {
+      "value": null
+    }
+  },
+  "effects": [],
+  "flags": {
+    "gm-notes": {
+      "notes": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Religion / Occult DC30 </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Activate</strong> cast a spell; The user opens the Anathema Archive and attempts to draw power from it. The user either casts any arcane spell they know, or attempt to force the Anathema Archive to open to any spell on the arcane spell list of a level no higher than half the user's level rounded-up, by rolling an arcana check against a DC set by the GM; on a failure the Anathema Archive fails to work, on a critical failure that desired spell negatively impacts the user in a manner determined by the GM. The user may cast that spell from the Anathema Archive as if she were casting a spell from a normal scroll, save that the spell is not consumed from the anathema archive upon being cast.</span></p>\n<p><strong id=\"docs-internal-guid-fd3b86f5-7fff-12d4-fefd-7d39d523fc03\" style=\"font-weight: normal;\">&nbsp;</strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Activate </strong>10 minutes (Envision, Interact); When used for research, the Anathema Archive grants a +4 Item Bonus to any one Recall Knowledge check associated with sinister or frightening ancient topics (subject to the GM's discretion - sample subjects include evil outsiders, Runelords, Thassilon, Leng, evil religions, or undead). If the character is untrained in the skill associated with that topic, they can add their level to the roll.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Arial; font-size: 11pt; white-space: pre-wrap;\">Upon activation, the Anathema Archive automatically closes and cannot be opened again by any force for 24 hours.</span></p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Religion / Occult DC40 </span></strong></p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Each activation of the Anathema Archive causes the user's mind to become increasingly haunted and unhinged. Upon using the archive the user must make a Will save (DC = 10 + The Character's Level + twice the total number of times the user has used the Anathema Archive). Failure results in the user becoming stupefied 1 or have their stupefied value increase by 1 (stupefied 2 or increased by 2 on a critical failure) and becoming confused for a number of rounds equal to 1 + their stupefied value. This effect has the Mental trait.</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><strong><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Religion / Occult DC50 </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Destruction: The Anathema Archive must be eaten by an angel who has been rendered deaf and blind by an evil source. The angel must not know that it is eating an artifact.</span></p>"
+    },
+    "core": {
+      "sourceId": "Item.MsN8IeWs7dNv3Tgc"
+    },
+    "exportSource": {
+      "world": "rise-of-the-runelords-japan",
+      "system": "pf2e",
+      "coreVersion": "9.245",
+      "systemVersion": "3.2.2.10109"
+    }
+  }
+}

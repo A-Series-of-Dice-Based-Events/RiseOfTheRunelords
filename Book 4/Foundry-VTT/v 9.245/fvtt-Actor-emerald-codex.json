@@ -1,0 +1,1410 @@
+{
+  "name": "Emerald Codex",
+  "type": "loot",
+  "img": "Rise%20of%20the%20Runelords/Emerald%20Codex.png",
+  "data": {
+    "attributes": {},
+    "details": {
+      "description": {
+        "value": ""
+      },
+      "level": {
+        "value": 0
+      }
+    },
+    "traits": {
+      "rarity": "common",
+      "size": {
+        "value": "med"
+      },
+      "traits": {
+        "value": [],
+        "custom": ""
+      },
+      "di": {
+        "custom": "",
+        "value": [],
+        "selected": {}
+      },
+      "dr": [],
+      "dv": [],
+      "ci": []
+    },
+    "lootSheetType": "Loot",
+    "hiddenWhenEmpty": false,
+    "schema": {
+      "version": 0.713,
+      "lastMigration": null
+    }
+  },
+  "token": {
+    "flags": {
+      "pf2e": {
+        "linkToActorSize": false
+      }
+    },
+    "height": 1,
+    "width": 1,
+    "actorLink": true,
+    "disposition": 0,
+    "name": "Emerald Codex",
+    "displayName": 20,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": true,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 360,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "img": "Rise%20of%20the%20Runelords/Emerald%20Codex.png"
+  },
+  "items": [
+    {
+      "_id": "cjESjq7cqmsnyXHx",
+      "name": "Scroll of Restoration (6th-level)",
+      "type": "consumable",
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/spell-scroll.webp",
+      "data": {
+        "description": {
+          "value": "<p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>To Cast a Spell from a scroll, the spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+        },
+        "source": {
+          "value": "Pathfinder Core Rulebook"
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "magical",
+            "scroll"
+          ],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "scroll-of-6th-level-spell",
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "300 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/infernal-contracts.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 11
+        },
+        "consumableType": {
+          "value": "scroll"
+        },
+        "charges": {
+          "value": 1,
+          "max": 1,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.4sGIy77COooxhQuC"
+        }
+      }
+    },
+    {
+      "_id": "HW2gPpEwe8YMmFvN",
+      "name": "Scroll of Divine Wrath (6th-level)",
+      "type": "consumable",
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/spell-scroll.webp",
+      "data": {
+        "description": {
+          "value": "<p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>To Cast a Spell from a scroll, the spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+        },
+        "source": {
+          "value": "Pathfinder Core Rulebook"
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "magical",
+            "scroll"
+          ],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "scroll-of-6th-level-spell",
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "300 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/infernal-contracts.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 11
+        },
+        "consumableType": {
+          "value": "scroll"
+        },
+        "charges": {
+          "value": 1,
+          "max": 1,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 150000,
+      "permission": {
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.4sGIy77COooxhQuC"
+        }
+      }
+    },
+    {
+      "_id": "zAewsmPM0nY3MWyT",
+      "name": "Scroll of (Field of Life)",
+      "type": "consumable",
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/spell-scroll.webp",
+      "data": {
+        "description": {
+          "value": "<p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>To Cast a Spell from a scroll, the spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+        },
+        "source": {
+          "value": "Pathfinder Core Rulebook"
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "magical",
+            "scroll"
+          ],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "scroll-of-6th-level-spell",
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "300 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/infernal-contracts.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 11
+        },
+        "consumableType": {
+          "value": "scroll"
+        },
+        "charges": {
+          "value": 1,
+          "max": 1,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 175000,
+      "permission": {
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.4sGIy77COooxhQuC"
+        }
+      }
+    },
+    {
+      "_id": "ysm82NsDcaTrcslm",
+      "name": "Scroll of Raise Dead (6th Level)",
+      "type": "consumable",
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/spell-scroll.webp",
+      "data": {
+        "description": {
+          "value": "<p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>To Cast a Spell from a scroll, the spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+        },
+        "source": {
+          "value": "Pathfinder Core Rulebook"
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "magical",
+            "scroll"
+          ],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "scroll-of-6th-level-spell",
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "300 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/infernal-contracts.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 11
+        },
+        "consumableType": {
+          "value": "scroll"
+        },
+        "charges": {
+          "value": 1,
+          "max": 1,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 200000,
+      "permission": {
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.4sGIy77COooxhQuC"
+        }
+      }
+    },
+    {
+      "_id": "nNoa21Ktti9kNsWW",
+      "name": "Scroll of Prying Eye (6th-level)",
+      "type": "consumable",
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/spell-scroll.webp",
+      "data": {
+        "description": {
+          "value": "<p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>To Cast a Spell from a scroll, the spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+        },
+        "source": {
+          "value": "Pathfinder Core Rulebook"
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "magical",
+            "scroll"
+          ],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "scroll-of-6th-level-spell",
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "300 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/infernal-contracts.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 11
+        },
+        "consumableType": {
+          "value": "scroll"
+        },
+        "charges": {
+          "value": 1,
+          "max": 1,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 250000,
+      "permission": {
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.4sGIy77COooxhQuC"
+        }
+      }
+    },
+    {
+      "_id": "2FvKhHNYI254DNc1",
+      "name": "Scroll of Charitable Urge (6th-level)",
+      "type": "consumable",
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/spell-scroll.webp",
+      "data": {
+        "description": {
+          "value": "<p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>To Cast a Spell from a scroll, the spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+        },
+        "source": {
+          "value": "Pathfinder Core Rulebook"
+        },
+        "traits": {
+          "value": [
+            "consumable",
+            "magical",
+            "scroll"
+          ],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": "scroll-of-6th-level-spell",
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "300 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": ""
+        },
+        "preciousMaterial": {
+          "value": ""
+        },
+        "preciousMaterialGrade": {
+          "value": ""
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/infernal-contracts.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": null,
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": 0,
+          "per": null,
+          "autoUse": true,
+          "autoDestroy": true
+        },
+        "spell": {
+          "data": null,
+          "heightenedLevel": null
+        },
+        "level": {
+          "value": 11
+        },
+        "consumableType": {
+          "value": "scroll"
+        },
+        "charges": {
+          "value": 1,
+          "max": 1,
+          "_deprecated": true
+        },
+        "consume": {
+          "value": "",
+          "_deprecated": true
+        },
+        "autoUse": {
+          "value": true,
+          "_deprecated": true
+        },
+        "autoDestroy": {
+          "value": true,
+          "_deprecated": true
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 300000,
+      "permission": {
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.pf2e.equipment-srd.4sGIy77COooxhQuC"
+        }
+      }
+    },
+    {
+      "_id": "hFrr5ui0E1egwnDg",
+      "name": "Anathema Archive",
+      "type": "equipment",
+      "img": "Rise%20of%20the%20Runelords/Anathema%20Archive.png",
+      "data": {
+        "description": {
+          "value": "<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\"><span style=\"box-sizing: border-box; user-select: text; font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><strong style=\"box-sizing: border-box; user-select: text;\">Activate</strong> cast a spell; The user opens the Anathema Archive and attempts to draw power from it. The user either casts any arcane spell they know, or attempt to force the Anathema Archive to open to any spell on the arcane spell list of a level no higher than half the user's level rounded-up, by rolling an arcana check against a DC set by the GM; on a failure the Anathema Archive fails to work, on a critical failure that desired spell negatively impacts the user in a manner determined by the GM. The user may cast that spell from the Anathema Archive as if she were casting a spell from a normal scroll, save that the spell is not consumed from the anathema archive upon being cast.</span></p>\n<p style=\"box-sizing: border-box; user-select: text; margin-top: 0.25em; margin-bottom: 0px; color: #191813; font-size: 17.5px;\"><span id=\"docs-internal-guid-fd3b86f5-7fff-12d4-fefd-7d39d523fc03\" style=\"box-sizing: border-box; user-select: text;\">&nbsp;</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\"><span style=\"box-sizing: border-box; user-select: text; font-size: 11pt; font-family: Arial; color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><strong style=\"box-sizing: border-box; user-select: text;\">Activate </strong>10 minutes (Envision, Interact); When used for research, the Anathema Archive grants a +4 Item Bonus to any one Recall Knowledge check associated with sinister or frightening ancient topics (subject to the GM's discretion - sample subjects include evil outsiders, Runelords, Thassilon, Leng, evil religions, or undead). If the character is untrained in the skill associated with that topic, they can add their level to the roll.</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; user-select: text; margin-top: 0pt; margin-bottom: 0pt; color: #191813; font-size: 17.5px; line-height: 1.38;\"><span style=\"box-sizing: border-box; user-select: text; font-family: Arial; font-size: 11pt; white-space: pre-wrap;\">Upon activation, the Anathema Archive automatically closes and cannot be opened again by any force for 24 hours.</span></p>"
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [
+            "artifact",
+            "divination",
+            "magical"
+          ],
+          "rarity": "unique",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "L"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "0 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": null
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "tiny"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "An unusually heavy scroll",
+            "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+            "data": {
+              "description": {
+                "value": "<p><span style=\"font-family: Arial; font-size: 14.6667px; white-space: pre-wrap;\">This unusually heavy scroll consists of a rather long sheet of supple, impossible-to-tear parchment wound between two rods. When it is opened, it presents a tangle of Thassilonian runes to the observer. Each time the scroll is unfurled, the runes are in a different order, the contents of the archive shifting according to the user's state of mind and desires each time it is used.</span></p>"
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "level": {
+          "value": 20
+        },
+        "invested": {
+          "value": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 3,
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "gm-notes": {
+          "notes": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Religion / Occult DC30 </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Activate</strong> cast a spell; The user opens the Anathema Archive and attempts to draw power from it. The user either casts any arcane spell they know, or attempt to force the Anathema Archive to open to any spell on the arcane spell list of a level no higher than half the user's level rounded-up, by rolling an arcana check against a DC set by the GM; on a failure the Anathema Archive fails to work, on a critical failure that desired spell negatively impacts the user in a manner determined by the GM. The user may cast that spell from the Anathema Archive as if she were casting a spell from a normal scroll, save that the spell is not consumed from the anathema archive upon being cast.</span></p>\n<p><strong id=\"docs-internal-guid-fd3b86f5-7fff-12d4-fefd-7d39d523fc03\" style=\"font-weight: normal;\">&nbsp;</strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>Activate </strong>10 minutes (Envision, Interact); When used for research, the Anathema Archive grants a +4 Item Bonus to any one Recall Knowledge check associated with sinister or frightening ancient topics (subject to the GM's discretion - sample subjects include evil outsiders, Runelords, Thassilon, Leng, evil religions, or undead). If the character is untrained in the skill associated with that topic, they can add their level to the roll.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Arial; font-size: 11pt; white-space: pre-wrap;\">Upon activation, the Anathema Archive automatically closes and cannot be opened again by any force for 24 hours.</span></p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Religion / Occult DC40 </span></strong></p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Each activation of the Anathema Archive causes the user's mind to become increasingly haunted and unhinged. Upon using the archive the user must make a Will save (DC = 10 + The Character's Level + twice the total number of times the user has used the Anathema Archive). Failure results in the user becoming stupefied 1 or have their stupefied value increase by 1 (stupefied 2 or increased by 2 on a critical failure) and becoming confused for a number of rounds equal to 1 + their stupefied value. This effect has the Mental trait.</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><strong><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Religion / Occult DC50 </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Destruction: The Anathema Archive must be eaten by an angel who has been rendered deaf and blind by an evil source. The angel must not know that it is eating an artifact.</span></p>"
+        },
+        "core": {
+          "sourceId": "Item.MsN8IeWs7dNv3Tgc"
+        }
+      }
+    },
+    {
+      "_id": "t2CQBu04JszwX8M9",
+      "name": "Record of Heroes Feast Ritual",
+      "type": "equipment",
+      "img": "systems/pf2e/icons/default-icons/equipment.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "-"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "0 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": null
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Recording",
+            "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "level": {
+          "value": 9
+        },
+        "invested": {
+          "value": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.RAiyJicpVe88EiaO"
+        }
+      }
+    },
+    {
+      "_id": "gx59DI1DJ7en70zW",
+      "name": "Record of Resurrection Ritual",
+      "type": "equipment",
+      "img": "systems/pf2e/icons/default-icons/equipment.svg",
+      "data": {
+        "description": {
+          "value": ""
+        },
+        "source": {
+          "value": ""
+        },
+        "traits": {
+          "value": [],
+          "rarity": "common",
+          "custom": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+          "version": 0.713,
+          "lastMigration": null
+        },
+        "quantity": {
+          "value": 1
+        },
+        "baseItem": null,
+        "hp": {
+          "value": 0
+        },
+        "maxHp": {
+          "value": 0
+        },
+        "hardness": {
+          "value": 0
+        },
+        "brokenThreshold": {
+          "value": 0
+        },
+        "weight": {
+          "value": "-"
+        },
+        "equippedBulk": {
+          "value": ""
+        },
+        "price": {
+          "value": "0 gp"
+        },
+        "equipped": {
+          "value": false
+        },
+        "stackGroup": {
+          "value": ""
+        },
+        "bulkCapacity": {
+          "value": ""
+        },
+        "negateBulk": {
+          "value": "0"
+        },
+        "containerId": {
+          "value": null
+        },
+        "preciousMaterial": {
+          "value": null
+        },
+        "preciousMaterialGrade": {
+          "value": null
+        },
+        "collapsed": {
+          "value": false
+        },
+        "size": {
+          "value": "med"
+        },
+        "identification": {
+          "status": "unidentified",
+          "unidentified": {
+            "name": "Unusual Recording",
+            "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          },
+          "misidentified": {}
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "level": {
+          "value": 9
+        },
+        "invested": {
+          "value": null
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "oKFdizacnxOU7XVh": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.Nfa08KqiCd6iO8EB"
+        }
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "rise-of-the-runelords-japan",
+      "system": "pf2e",
+      "coreVersion": "9.245",
+      "systemVersion": "3.2.2.10109"
+    }
+  }
+}
